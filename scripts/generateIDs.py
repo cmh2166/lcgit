@@ -3,13 +3,13 @@ import re
 
 naf_dump = "../identifiers/names.nt"
 naf_output = "../identifiers/names.list"
-uri_re = "http://id.loc.gov/authorities/names/(.+?)"
+uri_re = "http://id.loc.gov/authorities/names/(.+?)>"
 naf_resources = set()
 
 with open(naf_output) as fi:
     for line in fi.readlines():
         if line.strip('\n'):
-            naf_resources.add(line.strip('\n'))
+            naf_resources.add(line.strip('\n').strip('>'))
 
 with open(naf_dump) as fh:
     for line in fh:
