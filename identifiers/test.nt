@@ -1,0 +1,143 @@
+<http://id.loc.gov/authorities/names/n84079379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prince"@en . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiesnamesn84079379 . 
+_:bnode7authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiesnamesn84079379 . 
+_:bnode7authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode8authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementValue> "Prince"@en . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#classification> "ML420.P974" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_LCNAF> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://viaf.org/viaf/sourceID/LC%7Cn+84079379#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/n84079379> . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.w3.org/2000/01/rdf-schema#label> "Prince" . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.w3.org/2000/01/rdf-schema#label> "     Prince   " . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#birthDate> _:bnode25authoritiesnamesn84079379 . 
+_:bnode25authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+_:bnode25authoritiesnamesn84079379 <http://www.w3.org/2000/01/rdf-schema#label> "(edtf) 1958-06-07" . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#deathDate> _:bnode29authoritiesnamesn84079379 . 
+_:bnode29authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+_:bnode29authoritiesnamesn84079379 <http://www.w3.org/2000/01/rdf-schema#label> "(edtf) 2016-04-21" . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#entityDescriptor> <http://id.loc.gov/authorities/demographicTerms/dg2015060261> . 
+<http://id.loc.gov/authorities/demographicTerms/dg2015060261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/demographicTerms/dg2015060261> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jehovah's Witnesses"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#fieldOfActivity> <http://id.loc.gov/authorities/subjects/sh85088865> . 
+<http://id.loc.gov/authorities/subjects/sh85088865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088865> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Popular music"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#fieldOfActivity> <http://id.loc.gov/authorities/subjects/sh95005189> . 
+<http://id.loc.gov/authorities/subjects/sh95005189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95005189> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Funk (Music)"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#fieldOfActivity> <http://id.loc.gov/authorities/subjects/sh85113834> . 
+<http://id.loc.gov/authorities/subjects/sh85113834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113834> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rhythm and blues music"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#fieldOfActivity> <http://id.loc.gov/authorities/subjects/sh85114675> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rock music"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#occupation> <http://id.loc.gov/authorities/subjects/sh85122826> . 
+<http://id.loc.gov/authorities/subjects/sh85122826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Occupation> . 
+<http://id.loc.gov/authorities/subjects/sh85122826> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Singers"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#occupation> <http://id.loc.gov/authorities/subjects/sh85029386> . 
+<http://id.loc.gov/authorities/subjects/sh85029386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Occupation> . 
+<http://id.loc.gov/authorities/subjects/sh85029386> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Composers"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#occupation> <http://id.loc.gov/authorities/subjects/sh94009600> . 
+<http://id.loc.gov/authorities/subjects/sh94009600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Occupation> . 
+<http://id.loc.gov/authorities/subjects/sh94009600> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Instrumentalists"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#occupation> <http://id.loc.gov/authorities/subjects/sh85125387> . 
+<http://id.loc.gov/authorities/subjects/sh85125387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Occupation> . 
+<http://id.loc.gov/authorities/subjects/sh85125387> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sound recording executives and producers"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#gender> <http://id.loc.gov/authorities/demographicTerms/dg2015060003> . 
+<http://id.loc.gov/authorities/demographicTerms/dg2015060003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/demographicTerms/dg2015060003> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Males"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#associatedLanguage> <http://id.loc.gov/vocabulary/languages/eng.rdf> . 
+<http://id.loc.gov/vocabulary/languages/eng.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Language> . 
+<http://id.loc.gov/vocabulary/languages/eng.rdf> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "English"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#birthPlace> <http://id.loc.gov/authorities/names/n79003965> . 
+<http://id.loc.gov/authorities/names/n79003965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79003965> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Minneapolis (Minn.)"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#deathPlace> <http://id.loc.gov/authorities/names/n82274016> . 
+<http://id.loc.gov/authorities/names/n82274016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n82274016> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chanhassen (Minn.)"@en . 
+<http://id.loc.gov/rwo/agents/n84079379> <http://www.loc.gov/mads/rdf/v1#associatedLocale> <http://id.loc.gov/authorities/names/n78095330> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States"@en . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode89authoritiesnamesn84079379 . 
+_:bnode89authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+_:bnode89authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode89authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Artist Formerly Known as Prince"@en . 
+_:bnode89authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode94authoritiesnamesn84079379 . 
+_:bnode94authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode95authoritiesnamesn84079379 . 
+_:bnode94authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode95authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode95authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementValue> "Artist Formerly Known as Prince"@en . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode98authoritiesnamesn84079379 . 
+_:bnode98authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+_:bnode98authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode98authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Nelson, Prince Rogers"@en . 
+_:bnode98authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode103authoritiesnamesn84079379 . 
+_:bnode103authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode104authoritiesnamesn84079379 . 
+_:bnode103authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode104authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode104authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nelson, Prince Rogers"@en . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode107authoritiesnamesn84079379 . 
+_:bnode107authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+_:bnode107authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode107authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#variantLabel> "TAFKAP"@en . 
+_:bnode107authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode112authoritiesnamesn84079379 . 
+_:bnode112authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode113authoritiesnamesn84079379 . 
+_:bnode112authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode113authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode113authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#elementValue> "TAFKAP"@en . 
+<http://id.loc.gov/authorities/names/n84079379> <http://id.loc.gov/vocabulary/identifiers/lccn> "n 84079379" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://id.loc.gov/vocabulary/identifiers/local> "(OCoLC)oca01170893" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode120authoritiesnamesn84079379 . 
+_:bnode120authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode120authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "Ivory, S. Prince, c1985:" . 
+_:bnode120authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP t.p. (Prince) pub. info. (musician and recording star; Prince Rogers Nelson; son of jazz musician, John Nelson, who performed under moniker Prince Rogers)"@en . 
+_:bnode120authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode128authoritiesnamesn84079379 . 
+_:bnode128authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode128authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "Mabery, D.L. Prince, c1985:" . 
+_:bnode128authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP galley (b. June 7, 1958)"@en . 
+_:bnode128authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode136authoritiesnamesn84079379 . 
+_:bnode136authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode136authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "MnHi files" . 
+_:bnode136authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "(changed name to a symbol; was often referred to as The Artist Formerly Known as Prince or TAFKAP; at marriage in Feb. 1996 resumed his former name)"@en . 
+_:bnode136authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode144authoritiesnamesn84079379 . 
+_:bnode144authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode144authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "Rock who's who, 2nd ed., c1996" . 
+_:bnode144authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Prince; b. Prince Roger [sic] Nelson, June 7, 1958, Minneapolis; on his 35th birthday, changed his name to the combined male-female symbol used on his 1992 album)"@en . 
+_:bnode144authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode152authoritiesnamesn84079379 . 
+_:bnode152authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode152authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "Purple reign, 1998:" . 
+_:bnode152authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP t.p. (The Artist Formerly Known as Prince) galley (Prince; in an interview given Oct. 24, 1996, he said that he did not know what sound the symbol should represent)"@en . 
+_:bnode152authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode160authoritiesnamesn84079379 . 
+_:bnode160authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode160authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "New York Times website, April 21, 2016" . 
+_:bnode160authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Prince ... died Thursday at his residence, Paisley Park, in Chanhassen, Minn.)"@en . 
+_:bnode160authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode168authoritiesnamesn84079379 . 
+_:bnode168authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode168authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, May 7, 2016" . 
+_:bnode168authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Prince (musician); Prince Rogers Nelson (June 7, 1958-April 21, 2016) was an American singer, songwriter, multi-instrumentalist, record producer, and actor; born Minneapolis, Minnesota; died Chanhassen, Minnesota; genres: Funk, pop, R&B, rock; Jehovah's Witness)"@en . 
+_:bnode168authoritiesnamesn84079379 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode176authoritiesnamesn84079379 . 
+_:bnode176authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode176authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1984-08-08T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode176authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode176authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode176authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n84079379> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode184authoritiesnamesn84079379 . 
+_:bnode184authoritiesnamesn84079379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode184authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2016-05-09T07:51:09"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode184authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode184authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode184authoritiesnamesn84079379 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
