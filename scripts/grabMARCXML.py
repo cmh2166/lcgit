@@ -1,5 +1,6 @@
 """Using list of identifiers in names.list, grab MARC/XML records + commit."""
 import requests
+import pushToGH
 
 lccn_url = "https://lccn.loc.gov/{0}/marcxml"
 URIs = set()
@@ -18,4 +19,4 @@ for URI in URIs:
         file_out = lccn + ".marcxml.xml"
         with open('data/' + file_out, 'w') as out:
             out.write(resp)
-        
+        pushToGH.commitToGH("marcxml", lccn)
