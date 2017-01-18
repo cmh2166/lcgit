@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00994cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2002089708</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100428074916.0</controlfield>
+  <controlfield tag="008">020405n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002089708</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05731320</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UkOxU</subfield>
+    <subfield code="d">StEdNL</subfield>
+    <subfield code="d">InNd</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PB1648.M367</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">MacÌomhair, Dòmhnall Iain,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Maciver, Donald J. M.,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MacIomhair, Dom̀hnall Iain. Camhanaich, 1982:</subfield>
+    <subfield code="b">t.p. (Dòmhnall Iain MacÌomhair) prelim. p. 5 (born and raised on Lewis; attended Nicholson School in Stornoway, and Aberdeen University where he studied Celtic Languages; currently the head of the Dept. of Gaelic Studies at the Nicholson School)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gaelic language practice, 1980:</subfield>
+    <subfield code="b">t.p. (Donald J.M. Maciver)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, Jan. 9, 2006</subfield>
+    <subfield code="b">(hdg.: Maciver, Donald J. M.; seen from MacIomhair, Dom̀hnall Iain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An tuil, 1999:</subfield>
+    <subfield code="b">p. 804 (Donald John Maciver (Dòmhnall Iain MacÌomhair) 1942-)</subfield>
+  </datafield>
+</record>
