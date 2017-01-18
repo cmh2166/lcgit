@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00708nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2009018423</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090326075235.0</controlfield>
+  <controlfield tag="008">090325n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009018423</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Sevāgrām (India)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Sewagram (India)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Segaon (Maharashtra, India)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Mar. 25, 2009</subfield>
+    <subfield code="b">(Sevāgrām--PPL, 20°40ʹN 78°33ʹE, variant: Sewagram; Mahārāshtra; a PPL Segaon listed in Madhya Pradesh)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Col. gaz. of the world, Mar. 25, 2009</subfield>
+    <subfield code="b">(Sevagram; village, Wardha district, Maharashtra state, W central India; founded by Mahatma Gandhi in 1936; his residence until his death in 1948; until 1940 called Seagon)</subfield>
+  </datafield>
+</record>
