@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00674nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010023536</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100212075408.0</controlfield>
+  <controlfield tag="008">100210n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010023536</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08391410</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxEU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxEU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hemphill, Henry,</subfield>
+    <subfield code="d">1830-1914</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Note on the genus haliotis. In Transactions of the San Diego Society of Natural History, v. 1, no. 2, 1907:</subfield>
+    <subfield code="b">p. 56 (Henry Hemphill)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">In memorium [sic]: Henry Hemphill. In Transactions of the San Diego Society of Natural History, v. 2, no. 1, 1914:</subfield>
+    <subfield code="b">p. 59 (Henry Hemphill, b. 1830 in Wilmington, Delaware; d. 1914 in Oakland, Calif.  Expert on mollusks.)</subfield>
+  </datafield>
+</record>
