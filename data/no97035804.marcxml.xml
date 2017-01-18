@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 97035804 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970613052701.8</controlfield>
+  <controlfield tag="008">970612n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97035804 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04362721 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="b">Senate.</subfield>
+    <subfield code="b">Committee on Labor and Human Resources.</subfield>
+    <subfield code="b">Subcommittee on Employment and Training</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="b">Senate.</subfield>
+    <subfield code="b">Subcommittee on Employment and Training</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Oversight of federal job training programs, hearing ... 1997:</subfield>
+    <subfield code="b">t.p. (Subcommittee on Employment and Training of the Committee on Labor and Human Resources, United States Senate)</subfield>
+  </datafield>
+</record>
