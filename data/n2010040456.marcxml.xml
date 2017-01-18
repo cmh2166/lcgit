@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2010040456</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100623075050.0</controlfield>
+  <controlfield tag="008">091110n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010040456</subfield>
+  </datafield>
+  <datafield tag="016" ind1=" " ind2=" ">
+    <subfield code="a">1020G9577</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaOONL)1020G9577</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaOONL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaOONL</subfield>
+    <subfield code="d">CaOONL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">nlc</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McKay, Kelly</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hudson Bay Region research, 2010:</subfield>
+    <subfield code="b">t.p. (Kelly McKay)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CIP info. (Aboriginal Issues Press) :</subfield>
+    <subfield code="b">(Canadian)</subfield>
+  </datafield>
+</record>
