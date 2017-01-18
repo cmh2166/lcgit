@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01159cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2009046135</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120817083954.0</controlfield>
+  <controlfield tag="008">090325n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009046135</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08057069</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Hugh,</subfield>
+    <subfield code="c">of Saint-Victor,</subfield>
+    <subfield code="d">1096?-1141.</subfield>
+    <subfield code="t">De sacramentis Christianae fidei</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hugh,</subfield>
+    <subfield code="c">of Saint-Victor,</subfield>
+    <subfield code="d">1096?-1141.</subfield>
+    <subfield code="t">Hugo de Sancto Victore de sacramentis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hugh,</subfield>
+    <subfield code="c">of Saint-Victor,</subfield>
+    <subfield code="d">1096?-1141.</subfield>
+    <subfield code="t">Hugonis de S. Victore De sacramentis Christianae fidei libri I-II</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca apostolica vaticana. Manuscript. Vat. lat. 678 [MI] between 1951 and 1959:</subfield>
+    <subfield code="b">fol. 1r (De sacramentis Christianae fidei)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Codices Vaticani Latini. Tomus 1, pars 2  (codices 373-678), 1931:</subfield>
+    <subfield code="b">p. 535 (under 678: Hugonis de S. Victore De sacramentis Christianae fidei)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Patrologia Latina:</subfield>
+    <subfield code="b">v. 176,  columns 173-174 (De sacramentis Christianae fidei; consists of a prologue and 2 books)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hugo de Sancto Victore de sacramentis, 1485.</subfield>
+  </datafield>
+</record>
