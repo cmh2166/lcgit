@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00686nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2006006398</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060314051743.0</controlfield>
+  <controlfield tag="008">060313n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2006006398</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006425428</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Institute for Reference Materials and Measurements.</subfield>
+    <subfield code="b">Food Safety and Quality Unit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Validation of a method for the detection of cocoa butter equivalents in cocoa butter and plain chocolate, 2003 :</subfield>
+    <subfield code="b">t.p. (Institute for Reference Materials and Measurements, Food Safety and Quality Unit)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 13 Mar. 2006</subfield>
+    <subfield code="b">(hdg.: Institute for Reference Materials and Measurements. Food Safety and Quality Unit)</subfield>
+  </datafield>
+</record>
