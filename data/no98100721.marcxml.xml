@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01215cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 98100721 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140606090459.0</controlfield>
+  <controlfield tag="008">980804n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98100721 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04786357</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18810217</subfield>
+    <subfield code="g">19491027</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moquin, Al,</subfield>
+    <subfield code="d">1881-1949</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Moquin, Al,</subfield>
+    <subfield code="d">b. 1881</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Moquin, Albert Lewis,</subfield>
+    <subfield code="d">1881-1949</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moquin, A. Sailing the mighty deep, c1948:</subfield>
+    <subfield code="b">caption (Al. Moquin) list t.p. (Al Moquin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Moquin, Al, 1881- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">COHM, Aug. 3, 1998</subfield>
+    <subfield code="b">(Moquin, Al)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cat. of copyright entries, published music:</subfield>
+    <subfield code="b">July-Dec. 1947--July-Dec. 1948 (Moquin, Al, 1881- ; Moquin, Al; Moquin, Al, 1891- [sic])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Aug. 3, 1998</subfield>
+    <subfield code="b">(hdgs.: Moquin, Al, b. 1881; Moquin, Al; Moquin, Al.; Moquin, Albert; usage: Al Moquin, Al. Moquin, Albert Lewis Moquin, Albert Moquin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Find a Grave www site, June 6, 2014</subfield>
+    <subfield code="b">(Albert Lewis Moquin, born February 17, 1818; died October 27, 1949)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">ASCAP, 1st, 3rd-4th eds.;</subfield>
+    <subfield code="a">Macmillan enc. of music and musicians;</subfield>
+    <subfield code="a">Baker, 8th ed.;</subfield>
+    <subfield code="a">New Grove dict. of Amer. mus.</subfield>
+  </datafield>
+</record>
