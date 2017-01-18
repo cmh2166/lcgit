@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00932nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  95912062 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960309080316.5</controlfield>
+  <controlfield tag="008">951108n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95912062 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">European Commission African Elephant Survey and Conservation Programme</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Commission of the European Communities.</subfield>
+    <subfield code="b">African Elephant Survey and Conservation Programme</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">EC African Elephant Survey and Conservation Project</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">EEC African Elephant Survey and Conservation Programme</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">E.C. African Elephant Survey &amp; Conservation Programme</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">African Elephant Database, February 1992, 1992:</subfield>
+    <subfield code="b">t.p. (European Commission African Elephant Survey and Conservation Programme) p. 1 (EC African Elephant Survey and Conservation Project) p. 4 (EEC African Elephant Survey and Conservation Programme) p. 8 (E.C. African Elephant Survey &amp; Conservation Programme)</subfield>
+  </datafield>
+</record>
