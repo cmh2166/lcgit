@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00912cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  81035124 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141215091042.0</controlfield>
+  <controlfield tag="008">810417n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81035124 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00580783</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Shinshū Daigaku.</subfield>
+    <subfield code="b">Jinbun Gakubu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Shinshū Daigaku.</subfield>
+    <subfield code="b">Faculty of Arts</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Shinshū Daigaku.</subfield>
+    <subfield code="b">Jimbungakubu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Shinshū Daigaku, Matsumoto, Japan.</subfield>
+    <subfield code="b">Jimbungakubu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">信州大学.</subfield>
+    <subfield code="b">人文学部</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Shinshū Daigaku.</subfield>
+    <subfield code="b">Bunri Gakubu</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Shinshū Daigaku</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 15, 2014</subfield>
+    <subfield code="b">(In Apr. 1966, Bunrigakubu was divided into Jimbungakubu, Rigakubu &amp; Kyōyōbu.)</subfield>
+  </datafield>
+</record>
