@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00922nz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2014065656</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141022154354.0</controlfield>
+  <controlfield tag="008">141022n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014065656</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1960</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Åkesson, Hans,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Stockholms läns blåsarsymfoniker</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Stockholm Clarinet Choir</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Conductors (Music)</subfield>
+    <subfield code="a">Clarinetists</subfield>
+    <subfield code="a">Saxophonists</subfield>
+    <subfield code="a">Arrangers (Musicians)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Larsson, M.Q. Wind music [SR] ℗2003:</subfield>
+    <subfield code="b">container (Hans Åkesson, conductor) insert (clarinet and saxophone player as well as conductor; member of the Stockholm Wind Symphony; has conducted the Wind Orchestra of Visby; leader of the Stockholm Clarinet Choir)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hans Åkesson WWW site, Oct. 22, 2014:</subfield>
+    <subfield code="b">(Hans Åkesson (1960); clarinetist, saxophonist, conductor, and arranger)</subfield>
+  </datafield>
+</record>
