@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00903cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  81015977 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090122075530.0</controlfield>
+  <controlfield tag="008">810227n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81015977 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00561849</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Society of St. Teresa of Jesus</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Compañia de Santa Teresa de Jesús</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Sisters of St. Teresa of Jesus</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Societas Sanctae Teresiae a Jesu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Teresian Sisters</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Society of Saint Teresa of Jesus</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ossó y Cervello, E. Escritos de d. Enrique de Ossó y Cervello, 1977 (subj.)</subfield>
+    <subfield code="b">t.p. (Compañia de Santa Teresa de Jesús; founded by d. Enrique de Ossó y Cervello) p. 9 (founded in 1876)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kapsner, O. L. Cath. rel. ord.</subfield>
+    <subfield code="b">(Society of St. Teresa of Jesus, Sisters of St. Teresa of Jesus, Societas Sanctae Teresiae a Jesu, Teresian Sisters)</subfield>
+  </datafield>
+</record>
