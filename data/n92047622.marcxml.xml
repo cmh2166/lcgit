@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00581nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  92047622 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920430140909.7</controlfield>
+  <controlfield tag="008">920430n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92047622 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">McSweeney, Miles Benjamin,</subfield>
+    <subfield code="d">1855-1909</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Clemson University Library for Tillman, B.R. Papers, 1767-1950</subfield>
+    <subfield code="b">(Miles McSweeney, gov. of South Carolina)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWA, 1897-1942</subfield>
+    <subfield code="b">(McSweeney, Miles Benjamin, gov. S.C., 1899-1903; b. Charleston, S.C., Apr. 18, 1855; newspaperman; mem. S.C. legislature; home: Columbia, S.C.; d. 1909)</subfield>
+  </datafield>
+</record>
