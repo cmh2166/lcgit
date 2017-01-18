@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98099987 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020326125032.0</controlfield>
+  <controlfield tag="008">980730n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98099987 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04783324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="c">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">India.</subfield>
+    <subfield code="b">High Court (Himachal Pradesh, India)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Himachal Pradesh (India).</subfield>
+    <subfield code="b">High Court</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Indian law reports: Himachal series, 1986:</subfield>
+    <subfield code="b">t.p. (High Court of Himachal Pradesh)</subfield>
+  </datafield>
+</record>
