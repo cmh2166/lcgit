@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  00084425 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120228074619.0</controlfield>
+  <controlfield tag="008">000224n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00084425 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harris, Tina M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orbe, Mark P. Interracial communication, 2000:</subfield>
+    <subfield code="b">CIP t.p. (Tina M. Harris, Univ. of Georgia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Religion and communication, c2012:</subfield>
+    <subfield code="b">E-Cip t.p. (Tina M. Harris) data view (b. Aug. 9, 1967 ; professor, Dept. of Communication Studies, Univ. of Georgia ; 2011 Religious Communication Association Scholar of the Year )</subfield>
+  </datafield>
+</record>
