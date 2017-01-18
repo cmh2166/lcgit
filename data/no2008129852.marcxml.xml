@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00646nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008129852</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080907080917.0</controlfield>
+  <controlfield tag="008">080902n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008129852</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07870523</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Strickland &amp; Brother</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Strickland and Brother</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harry Seymour, 1860:</subfield>
+    <subfield code="b">label (Strickland &amp; Brother, booksellers, stationers, and binders, no. 529 South 2d St., Philadelphia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files, Sept. 5, 2008</subfield>
+    <subfield code="b">(hdg.: Strickland &amp; Brother; note: bookselling, stationery and book binding firm of George and Stephen Strickland; active at Philadelphia)</subfield>
+  </datafield>
+</record>
