@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00580cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2002012332</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020406033214.0</controlfield>
+  <controlfield tag="008">020329n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002012332</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Churchill &amp; M'Glashan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Churchill and M'Glashan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Abel, A. A vindication of the justice and mercy of God in appointing death for all men, 1814:</subfield>
+    <subfield code="b">t.p. (Churchill &amp; M'Glashan; printer at Albany, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Churchill &amp; M'Glashan; note: printing firm of George Churchill and Daniel M'Glashan)</subfield>
+  </datafield>
+</record>
