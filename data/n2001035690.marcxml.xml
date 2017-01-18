@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00496cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2001035690</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010820131004.0</controlfield>
+  <controlfield tag="008">010818n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001035690</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thomson, Muriel McIntosh,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">McIntosh, Muriel Bernice,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Friedl, Ruth Billingsley. The Billingsley family of Canada, c2000:</subfield>
+    <subfield code="b">t.p. (Muriel McIntosh Thomson, Winnipeg, Manitoba) p. 327 (Muriel Bernice McIntosh; b. July 6, 1922)</subfield>
+  </datafield>
+</record>
