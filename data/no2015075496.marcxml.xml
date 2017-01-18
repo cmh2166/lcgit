@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01832nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2015075496</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150609073605.0</controlfield>
+  <controlfield tag="008">150608n| azannaabn          sa ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015075496</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10186600</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABAU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ABAU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Alabama at Birmingham.</subfield>
+    <subfield code="b">Department of Ophthalmology</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">State universities and colleges--Departments</subfield>
+    <subfield code="a">Medical colleges--Departments</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Birmingham (Ala.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Ophthalmology--Study and teaching (Higher)</subfield>
+    <subfield code="a">Ophthalmology--Research</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">University of Alabama at Birmingham. University of Alabama School of Medicine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ross, D.H. Finding bands in optical coherence tomography images using curve and function fitting, 2014:</subfield>
+    <subfield code="b">title page (Kenneth R. Sloan, chair)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Alabama at Birmingham Department of Ophthalmology WWW home page, June 8, 2015</subfield>
+    <subfield code="b">(UAB School of Medicine ... Department of Ophthalmology) contact us (Department of Ophthalmology, School of Medicine, University of Alabama at Birmingham, 700 S. 18th Street, Suite 601, Birmingham, AL) accessibility (The University of Alabama at Birmingham, School of Medicine ... Department of Ophthalmology)</subfield>
+    <subfield code="u">http://www.uab.edu/medicine/ophthalmology/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Journal of neuroscience, Aug. 11, 2004:</subfield>
+    <subfield code="b">page 7150 (A role of ath5 in inducing neuroD and the photoreceptor pathway / Wenxin Ma ... Department of Ophthalmology, University of Alabama at Birmingham, Birmingham, Alabama)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Investigative ophthalmology &amp; visual science, Aug. 2014:</subfield>
+    <subfield code="b">page 4832 (Quantitative autofluorescence and cell density maps of the human retinal pigment epithelium / Thomas Ach ... University of Alabama at Birmingham, Department of Ophthalmology, Birmingham, Alabama, United States)</subfield>
+  </datafield>
+</record>
