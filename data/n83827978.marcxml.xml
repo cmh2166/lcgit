@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00703cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83827978 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209064346.0</controlfield>
+  <controlfield tag="008">831222n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83827978 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lebedev, I︠A︡. S.</subfield>
+    <subfield code="q">(I︠A︡kov Sergeevich)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">I︠A︡kov Sergeevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Lebedev, I︠A︡kov Sergeevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lebedev, Ya. S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 63-21216: Institut khimicheskoĭ fiziki (Akademii︠a︡ nauk SSSR). Atlas of electron spin resonance spectra, 1963-</subfield>
+    <subfield code="b">(hdg.: Lebedev, I︠A︡kov Sergeevich; usage: Ya. S. Lebedev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC</subfield>
+    <subfield code="b">(hdg.: Lebedev, I︠A︡. S.; usage: I︠A︡. S. Lebedev [in Cyrillic])</subfield>
+  </datafield>
+</record>
