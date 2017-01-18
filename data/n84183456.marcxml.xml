@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84183456 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031210071452.0</controlfield>
+  <controlfield tag="008">841127n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84183456 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01238533</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Freyberg, P. S.</subfield>
+    <subfield code="q">(Peter Stuart)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Freyberg, Peter Stuart</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Freyberg, Peter</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Osborne, R. Learning in science, 1985:</subfield>
+    <subfield code="b">CIP t.p. (Peter Freyberg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11/23/84</subfield>
+    <subfield code="b">(hdg.: Freyberg, Peter Stuart; usage: P.S. Freyberg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ files, Dec. 3, 2003</subfield>
+    <subfield code="b">(hdg.: Freyberg, P. S. (Peter Stuart), 1924-1985)</subfield>
+  </datafield>
+</record>
