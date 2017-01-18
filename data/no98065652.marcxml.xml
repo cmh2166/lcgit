@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98065652 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080906082149.0</controlfield>
+  <controlfield tag="008">980216n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98065652 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04661380</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Musée du Louvre.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">Papyrus E. 11085</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">pLouvre E. 11085</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">P. Louvre E 11085 (Manuscript)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Das Totenbuch des Jah-mes (pLouvre E. 11085) aus der frühen 18. Dynastie, 1995.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Egypte ancienne, catalog des manuscrits hiéroglypiques et hiératiques ..., 1987:</subfield>
+    <subfield code="b">p. 222 (P.Louvre E 11085)</subfield>
+  </datafield>
+</record>
