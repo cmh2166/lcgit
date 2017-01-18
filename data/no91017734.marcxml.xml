@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00352nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 91017734 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910719152445.1</controlfield>
+  <controlfield tag="008">910717n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91017734 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Shiells, James</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A catalogue of evergreen and deciduous trees ... 1773:</subfield>
+    <subfield code="b">t.p. (James Shiells)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">DNB.</subfield>
+  </datafield>
+</record>
