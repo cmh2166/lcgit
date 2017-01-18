@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00921nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96064383 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961207052721.3</controlfield>
+  <controlfield tag="008">961206n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96064383 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04223611 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="c">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">string orchestra,</subfield>
+    <subfield code="n">RV 166,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">string orchestra,</subfield>
+    <subfield code="n">P. 398,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">string orchestra,</subfield>
+    <subfield code="n">F. XI, 3,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">string orchestra,</subfield>
+    <subfield code="n">R. op. 38, no. 10,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vivaldi, A. 7 concerti for woodwind and strings [SR] p1995:</subfield>
+    <subfield code="b">insert (Concerto for strings in B flat major, RV 166)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ryom</subfield>
+    <subfield code="b">(RV 166: Concerto en si bémol majeur (violons I/II, altos et basse continue); R. op. 38 no. 10 = P. 398 = F. XI, 3)</subfield>
+  </datafield>
+</record>
