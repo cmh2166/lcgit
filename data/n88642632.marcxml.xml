@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00496nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88642632 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880609072538.0</controlfield>
+  <controlfield tag="008">880609n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88642632 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gonzales, Dolores G.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Gonzales, Dolores</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-107305: Her Creative writing, 1979</subfield>
+    <subfield code="b">(hdg. on DGW rept.: Gonzales, Dolores G.; usage: Dolores G. Gonzales)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6/9/88</subfield>
+    <subfield code="b">(hdg.: Gonzales, Dolores; usage: Dolores Gonzales)</subfield>
+  </datafield>
+</record>
