@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00812cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2008029766</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160822141603.0</controlfield>
+  <controlfield tag="008">080423n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008029766</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Baxter, Jeannette</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Cambridge (England)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Anglia Ruskin University</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baxter, Jeannette. J.G. Ballard's surrealist imagination, c2008:</subfield>
+    <subfield code="b">ECIP t.p. (Jeannette Baxter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Andrea Levy, 2014:</subfield>
+    <subfield code="b">ECIP t.p. (Jeannette Baxter) data view (teaches modern and contemporary literature at Anglia Ruskin University, Cambridge, UK)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Literature of restitution, 2016:</subfield>
+    <subfield code="b">t.p. (edited by ... Jeannette Baxter) back cover (Jeannette Baxter is Senior Lecturer in Modern and Contemporary Literature at Anglia Ruskin Univ., Cambridge)</subfield>
+  </datafield>
+</record>
