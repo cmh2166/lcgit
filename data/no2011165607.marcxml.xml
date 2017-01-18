@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2011165607</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111027075303.0</controlfield>
+  <controlfield tag="008">111025n| acabbaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011165607</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09016566</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IArlh</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IArlh</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Orchard, Sandra.</subfield>
+    <subfield code="t">Undercover cops</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Undercover cops</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">New York, NY</subfield>
+    <subfield code="b">Love Inspired</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">IArlh</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">IArlh</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">IArlh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Deep cover, c2011:</subfield>
+    <subfield code="b">p. 1 of cover (Undercover cops) p. 215 (letter from author: I can't wait to share more of law enforcement officers' stories in this Undercover Cop series)</subfield>
+  </datafield>
+</record>
