@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009009594</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090124082433.0</controlfield>
+  <controlfield tag="008">090122n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009009594</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07992868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSCT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSCT</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wallis, Marie Coulombe,</subfield>
+    <subfield code="d">1913-2001</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wallis, Wilber B.,</subfield>
+    <subfield code="c">Mrs.,</subfield>
+    <subfield code="d">1913-2001</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The missionary train, c1948:</subfield>
+    <subfield code="b">t.p. (Marie Coulombe Wallis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, viewed Nov. 25, 2008:</subfield>
+    <subfield code="b">(hdg: Wallis, Marie Coulombe, 1913-2001; usage: Marie Coulombe Wallis, Mrs. Wilber B. Wallis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from Presbyterian Church in America Historical Center archivist, Oct. 31, 2008:</subfield>
+    <subfield code="b">(b. 13 October 1913; d. 10 July 2001)</subfield>
+  </datafield>
+</record>
