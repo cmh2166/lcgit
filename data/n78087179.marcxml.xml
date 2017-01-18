@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01016cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  78087179 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910403114807.4</controlfield>
+  <controlfield tag="008">781121n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78087179 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gomberg, Edith Lisansky,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gomberg, Edith S. Lisansky,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lisansky, Edith S.,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gender and disordered ... (a.e.)</subfield>
+    <subfield code="b">t.p. (Edith S. Gomberg, Ph.D.; School of Social Work, Univ. of Mich.) CIP data sheet (b. 1/14/20)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alcohol, science, and society revisited, c1982:</subfield>
+    <subfield code="b">CIP t.p. (Edith Lisansky Gomberg) pub. info. (Edith S. Lisansky Gomberg, formerly Edith S. Lisansky)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schilit, R. Drugs and behavior, c1991:</subfield>
+    <subfield code="b">CIP t.p. (Edith S. Lisansky Gomberg) galleys (prof., Univ. of Michigan; visiting prof., psychology, Rutgers Univ. of Center of Alcohol Studies)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, 3/25/91</subfield>
+    <subfield code="b">(hdg.: Gomberg, Edith Lisansky, 1920- ; usage: Edith S. Lisansky Gomberg, Edith Lisansky Gomberg, Edith S. Gomberg)</subfield>
+  </datafield>
+</record>
