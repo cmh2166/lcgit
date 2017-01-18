@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00913cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2001082066</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050728052855.0</controlfield>
+  <controlfield tag="008">011015n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001082066</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05604762</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Indiana.</subfield>
+    <subfield code="b">Sinking Fund Commissioners</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Indiana.</subfield>
+    <subfield code="b">Board of Commissioners of the Sinking Fund</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="a">Indiana.</subfield>
+    <subfield code="b">Commissioners of the Sinking Fund</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Report of the Sinking Fund Commissioners to the General Assembly, Dec. 16, 1841:</subfield>
+    <subfield code="b">t.p. ([Indiana] Sinking Fund Commissioners)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Indiana. Board of Commissioners of the Sinking Fund. Report of the sinking fund, Dec. 30, 1835: t.p. ([Indiana] Board of Commissioners of the Sinking Fund); Indiana. Commissioners of the Sinking Fund. Report of the Commissioners of the Sinking Fund, Dec. 15th, 1842: t.p. ([Indiana] Commissioners of the Sinking Fund)</subfield>
+  </datafield>
+</record>
