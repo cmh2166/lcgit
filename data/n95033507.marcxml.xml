@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01083cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  95033507 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120216074751.0</controlfield>
+  <controlfield tag="008">950405n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95033507 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03809953</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18950621</subfield>
+    <subfield code="g">1972</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wohl, Samuel,</subfield>
+    <subfield code="d">1895-1972</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Russia</subfield>
+    <subfield code="c">U.S.</subfield>
+    <subfield code="e">Cincinnati, Ohio</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Hebrew Union College</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Rabbis</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">וואהל, סעמועל,</subfield>
+    <subfield code="d">1895־1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">װאהל, סעמועל</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from American Jewish Archives for His Papers, 1915-1973</subfield>
+    <subfield code="b">(Samuel Wohl; rabbi; home: Cincinnati, Ohio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WW Am. Jewry, 1938-1939</subfield>
+    <subfield code="b">(Wohl, Samuel, rabbi; b. Novo-Oushitza, Russia, Jun. 21, 1895; s. Mordecai and Rachel (Dolberg) W.; came to U.S. in 1913; rabbi, 1927, Hebrew Union College, Cincinnati; home: Cincinnati, Ohio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC files</subfield>
+    <subfield code="b">(Wohl, Samuel, 1895-1972)</subfield>
+  </datafield>
+</record>
