@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00517nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2005051060</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050602052403.0</controlfield>
+  <controlfield tag="008">050601n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005051060</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06647435</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Oliveira, Vítor Amaral de.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Amaral de Oliveira, Vítor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Oliveira, Vítor Amaral</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sebástica, 2002:</subfield>
+    <subfield code="b">t.p. (Vitor Amaral de Oliveira Oliveira) cover (Vítor Amaral de Oliveira) spine (Vítor A. de Oliveira)</subfield>
+  </datafield>
+</record>
