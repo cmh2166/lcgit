@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00889cz  a2200241n  4500</leader>
+  <controlfield tag="001">nr 91035632 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218141305.0</controlfield>
+  <controlfield tag="008">910923nc acannaabn          |b aba      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91035632 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03027424</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Qiu, Yufang</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chʻiu, Yü-fang</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">邱昱芳</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">邱豫舫</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Editor of Huang-ho pai hsien]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Huang-ho pai hsien, 1990:</subfield>
+    <subfield code="b">t.p. (Chʻiu Yü-fang)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Editor of Hou Anran shi dai]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hou Anran shi dai, 2003:</subfield>
+    <subfield code="b">t.p. (Qiu Yufang)</subfield>
+  </datafield>
+</record>
