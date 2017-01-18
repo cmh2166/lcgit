@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00674cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  99013837 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100518074852.0</controlfield>
+  <controlfield tag="008">990218n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99013837 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0971400</subfield>
+    <subfield code="e">W0971400</subfield>
+    <subfield code="f">N0172800</subfield>
+    <subfield code="g">N0172800</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04924483</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-mx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Asunción Nochixtlán (Mexico)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nochixtlán (Mexico)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smith, M.E. The Codex López Ruiz, c1998:</subfield>
+    <subfield code="b">p. 67, in map (Nochixtlán)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Geonet, Feb. 18, 1999</subfield>
+    <subfield code="b">(under Mexico: Asunción Nochixtlán; PPL; 17°28ʹ00ʺN 97°14ʹ00ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Mexico</subfield>
+    <subfield code="z">Asunción Nochixtlán</subfield>
+  </datafield>
+</record>
