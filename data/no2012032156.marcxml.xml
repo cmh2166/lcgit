@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00422nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012032156</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120307075307.0</controlfield>
+  <controlfield tag="008">120305n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012032156</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09134239</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt-Mus</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Braun, Timothy</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">music</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Violinist</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maps and legends. 1, 2010, â2010:</subfield>
+    <subfield code="b">container (Timothy Braun, violin)</subfield>
+  </datafield>
+</record>
