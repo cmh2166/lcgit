@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01368cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2005071982</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323090504.0</controlfield>
+  <controlfield tag="008">050720n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005071982</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06698947</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1051,1052]</subfield>
+    <subfield code="g">[1115,1116]</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ibn al-Armanāzī, Ghayth ibn ʻAlī,</subfield>
+    <subfield code="d">1051 or 1052-1115 or 1116</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Armanāzī, Ghayth ibn ʻAlī,</subfield>
+    <subfield code="d">1051 or 1052-1115 or 1116</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ghayth ibn ʻAlī ibn al-Armanāzī,</subfield>
+    <subfield code="d">1051 or 1052-1115 or 1116</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Ibn al-Armanāzī, Ghayth ibn ʻAlī,</subfield>
+    <subfield code="d">1051 or 2-1115 or 16</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ṣūrī, Ghayth ibn ʻAlī,</subfield>
+    <subfield code="d">1051 or 1052-1115 or 1116</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ابن الأرمنازي، غيث بن علي</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Majmūʻ min al-muntakhab al-manthūr fī akhbār al-shuyūkh min tārīkh Dimashq wa-Ṣūr, 2002:</subfield>
+    <subfield code="b">t.p. (Abī al-Faraj Ghayth ibn ʻAlī ibn ʻAbd al-Salām al-Armanāzī al-Ṣūrī "khaṭīb Ṣūr", (443-509 H))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ziriklī</subfield>
+    <subfield code="b">(Ibn al-Armanāzī; Ghayth ibn ʻAlī ibn ʻAbd al-Salām ibn Muḥammad ibn Jaʻfar, Abū al-Faraj ibn Abī al-Ḥasan, al-maʻrūf bi-Ibn al-Armanāzī; 443-509 H/1051-1115 M)</subfield>
+  </datafield>
+</record>
