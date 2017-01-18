@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00496nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 94025114 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940822152825.2</controlfield>
+  <controlfield tag="008">940725n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94025114 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSfA</subfield>
+    <subfield code="c">CSfA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Bortugno, Edward J.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Bortugno, Ed</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Living on the fault, 1988:</subfield>
+    <subfield code="b">p. 4 of cover (Ed Bortugno, staff geologist, Bay Area Regional Earthquake Preparedness Project)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Calaveras fault zone field trip, 1979:</subfield>
+    <subfield code="b">t.p. (Edward J. Bortugno)</subfield>
+  </datafield>
+</record>
