@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00523nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96061051 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961120053426.4</controlfield>
+  <controlfield tag="008">961119n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96061051 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04212122 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">U.S. Commercial Center (Shanghai, China)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">U.S. and Foreign Commercial Service.</subfield>
+    <subfield code="b">U.S. Commercial Center (Shanghai, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Commercial Center, Shanghai, 1996?:</subfield>
+    <subfield code="b">p. 1 (U.S. Department of Commerce; seal: The Commercial Service; China)</subfield>
+  </datafield>
+</record>
