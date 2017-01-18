@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008151008</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101201094851.0</controlfield>
+  <controlfield tag="008">081014n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008151008</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07906794</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IdPI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IdPI</subfield>
+    <subfield code="d">IdPI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mansfield-Blair, Karen M.</subfield>
+    <subfield code="q">(Karen Marie)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blair, Karen M. Mansfield-</subfield>
+    <subfield code="q">(Karen Marie Mansfield-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mansfield-Blair forgivingness scale, 2006:</subfield>
+    <subfield code="b">t.p. (Karen M. Mansfield-Blair; Ph.D., Dept. of Psych., Idaho State Univ., 2006)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">USA People Search, via WWW, Oct. 14, 2008</subfield>
+    <subfield code="b">(Mansfield Blair, Karen Marie; Blair, Karen M.)</subfield>
+  </datafield>
+</record>
