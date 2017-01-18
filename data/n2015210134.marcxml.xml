@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00833nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015210134</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150128141607.0</controlfield>
+  <controlfield tag="008">150128n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015210134</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Salgado Neto, José Bello</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidade Estadual do Maranhão</subfield>
+    <subfield code="a">Universidade Federal do Rio de Janeiro</subfield>
+    <subfield code="a">Universidade Federal de Santa Catarina</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bello Salgado Neto, José</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Neto, José Bello Salgado</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aspectos urbanos de São Luís, 2012:</subfield>
+    <subfield code="b">t.p. (José Bello Salgado Neto) front flap (doctoral degree, urban policy, PROURB-UFRJ; master's degree, business administration, UFSC; master's degree, mechanical engineering, UNICAMP; adjunct professor, Curso de Arquitetura e Urbanismo and Engenharia Civil, Univ. Estadual do Maranhão--UEMA)</subfield>
+  </datafield>
+</record>
