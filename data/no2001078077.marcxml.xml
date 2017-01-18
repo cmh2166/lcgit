@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00972nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2001078077</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011002064248.0</controlfield>
+  <controlfield tag="008">011001n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001078077</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05595089</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NmU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NmU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Berichte (Eidgenössische Anstalt für das Forstliche Versuchswesen)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Berichte (Schweizerische Anstalt für das Forstliche Versuchswesen)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Switzerland.</subfield>
+    <subfield code="b">Eidgenössische Anstalt für das Forstliche Versuchswesen.</subfield>
+    <subfield code="t">Berichte</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Eidgenössische Anstalt für das Forstliche Versuchswesen.</subfield>
+    <subfield code="t">Berichte</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Schweizerische Anstalt für das Forstliche Versuchswesen.</subfield>
+    <subfield code="t">Berichte</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Nr. 322</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Birmensdorf</subfield>
+    <subfield code="b">Eidgenössische Anstalt für das Forstliche Versuchswesen</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NmU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NmU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Trockenstandorte als Habitatinseln für Schmetterlinge und Heuschrecken, 1990</subfield>
+  </datafield>
+</record>
