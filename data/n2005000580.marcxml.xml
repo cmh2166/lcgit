@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004065860</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090521075504.0</controlfield>
+  <controlfield tag="008">040712n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004065860</subfield>
+    <subfield code="z">n 2005000580</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06390824</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViBlbV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViBlbV</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wiedenbeck, Janice K.</subfield>
+    <subfield code="q">(Janice Kathryn),</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wiedenbeck, Jan,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Defining hardwood veneer log quality attributes, 2004:</subfield>
+    <subfield code="b">t.p. (Jan Wiedenbeck) t.p. verso (research scientist, USDA Forest Service, Northeastern Research Station, Princeton, WV)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, July 12, 2004</subfield>
+    <subfield code="b">(hdgs: Wiedenbeck, Jan; Wiedenbeck, Janice K.; Wiedenbeck, Janice Kathryn, 1958- ; usage: Jan Wiedenbeck; Janice K. Wiedenbeck; Wiedenbeck, Janice Kathryn)</subfield>
+  </datafield>
+</record>
