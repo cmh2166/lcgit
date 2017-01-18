@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 94024589 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940823053755.0</controlfield>
+  <controlfield tag="008">940721n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94024589 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrU</subfield>
+    <subfield code="c">OrU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">United Kingdom Climate Change Impacts Review Group</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Climate Change Impacts Review Group</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">CCIRG</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Potential effects of climate change ..., 1991:</subfield>
+    <subfield code="b">t.p. (United Kingdom Climate Change Impacts Review Group) pref. (Climate Change Impacts Review Group; CCIRG)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 7/21/94</subfield>
+    <subfield code="b">(hdg.: United Kingdom Climate Change Impacts Review Group; usage: United Kingdom Climate Change Impacts Review Group)</subfield>
+  </datafield>
+</record>
