@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00507nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2008144521</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081004081314.0</controlfield>
+  <controlfield tag="008">081002n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008144521</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07896347</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MsU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MsU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Eleanor Patrick</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Status of teachers of business subjects in the secondary schools of Kansas, 1953-1954, 1954:</subfield>
+    <subfield code="b">t.p. (Eleanor Patrick Evans) p. 19 (teacher in the Business Education Dept. of Valley Center, Kansas, High School)</subfield>
+  </datafield>
+</record>
