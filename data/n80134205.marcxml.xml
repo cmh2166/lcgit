@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00429cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  80134205 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991208082814.0</controlfield>
+  <controlfield tag="008">801023n| acannaab           |n anc      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80134205 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Tagādlo hārnat ʼÉrtrā.</subfield>
+    <subfield code="b">People's Liberation Forces.</subfield>
+    <subfield code="b">Foreign Mission</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Eritrea, a victim ... 1971:</subfield>
+    <subfield code="b">t.p. (Eritrean Liberation Front, People's Liberation Forces, Foreign Mission)</subfield>
+  </datafield>
+</record>
