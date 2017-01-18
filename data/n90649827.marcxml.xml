@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00734cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  90649827 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901115101737.4</controlfield>
+  <controlfield tag="008">900525n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90649827 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Salisbury, Bert M.</subfield>
+    <subfield code="q">(Bert Marl),</subfield>
+    <subfield code="d">1891-1972</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from N.D. Inst. for Reg. Studies for His Collection of papers, 1935-ca. 1953</subfield>
+    <subfield code="b">(Bert M. Salisbury; b. 1891; secretary, Benson County Holiday Association; Benson County, N.D., auditor; d. 1972)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WW ND, 1954</subfield>
+    <subfield code="b">(Salisbury, Burt Marl; b. 1891; lawyer; res.: Minnewaukan, N.D.; s. of Jesse and Jessie (Chester) S.; m. Avis Eleanor Christy; Benson County, N.D. auditor &amp; county court judge; farmer; active in farmers organizations)</subfield>
+  </datafield>
+</record>
