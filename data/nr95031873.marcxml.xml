@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00942cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 95031873 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090901075035.0</controlfield>
+  <controlfield tag="008">950830n| acannaab|          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95031873 </subfield>
+    <subfield code="z">n  00032238 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">NNU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Avdoulos, Stauros,</subfield>
+    <subfield code="d">1917-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Αβδουλος, Σταυρος,</subfield>
+    <subfield code="d">1917-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giati chathēke hē nikē, 1994:</subfield>
+    <subfield code="b">t.p. (Stauros Avdoulos) p. 273 (b. Sykia, Lakōnia; Greek soldier, resistance fighter, communist, lawyer; turned 23 years old in June 1941)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">To phainomeno Makronēsos, 1998:</subfield>
+    <subfield code="b">t.p. (Staurou Ant. Avdoulou) flap (comes from the village of Sykia in the nome of Lakōnia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nikos Zachariadēs, 2009:</subfield>
+    <subfield code="b">t.p. (Σταυρος Αβδουλος = Stauros Avdoulos) flap (b. Dec. 1917 in the village of Sykia, Lakōnia)</subfield>
+  </datafield>
+</record>
