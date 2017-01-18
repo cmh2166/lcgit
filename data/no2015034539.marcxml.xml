@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015034539</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150414102952.0</controlfield>
+  <controlfield tag="008">150316n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015034539</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10113373</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICrlF</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Galeano, Eduardo,</subfield>
+    <subfield code="d">1940-2015.</subfield>
+    <subfield code="t">Memoria del fuego.</subfield>
+    <subfield code="n">II,</subfield>
+    <subfield code="p">Caras y las mascaras.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Belfrage</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Galeano, Eduardo,</subfield>
+    <subfield code="d">1940-2015.</subfield>
+    <subfield code="t">Caras y las mascaras.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Galeano, Eduardo,</subfield>
+    <subfield code="d">1940-2015.</subfield>
+    <subfield code="t">Memory of fire.</subfield>
+    <subfield code="n">Volume two,</subfield>
+    <subfield code="p">Faces and masks</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Galeano, Eduardo,</subfield>
+    <subfield code="d">1940-2015.</subfield>
+    <subfield code="t">Faces and masks</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Memory of fire. Volume two, Faces and masks [ER], 2014:</subfield>
+    <subfield code="b">title frame (Translated by Cedric Belfrage)</subfield>
+  </datafield>
+</record>
