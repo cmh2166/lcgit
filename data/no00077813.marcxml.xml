@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00711nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00077813 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000926064524.0</controlfield>
+  <controlfield tag="008">000925n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00077813 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05319634</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DSI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DSI</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hynson, Westcott &amp; Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Hynson, Westcott and Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Illustrated catalogue of surgical instruments ... 189-?:</subfield>
+    <subfield code="b">t.p. (HYNSON, WESTCOTT &amp; CO.; Charles &amp; Franklin Sts., Baltimore, MD; wholesale and retail dealers in drugs, medicines, pharmaceuticals, compressed tablets, tablet triturates and physicians supplies of every kind)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 21, 2000</subfield>
+    <subfield code="b">(hdg.: Hynson, Westcott &amp; Co.; usage: Hynson, Westcott &amp; Co.)</subfield>
+  </datafield>
+</record>
