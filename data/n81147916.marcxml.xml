@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01147cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  81147916 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930917175336.5</controlfield>
+  <controlfield tag="008">811226n| acannaab|           a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81147916 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CLU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Fellowship of Makers and Restorers of Historical Instruments (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">FOMRHI</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">F.O.M.R.H.I.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Fellowship of Makers and Researchers of Historical Instruments (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">FOMRHI quarterly, Oct. 1979, surrogate:</subfield>
+    <subfield code="b">p. 2 (Fellowship of Makers and Restorers of Historical Instruments; London) masthead (FOMRHI)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">FOMRHI quarterly, Oct. 1892 [i.e. 1982]:</subfield>
+    <subfield code="b">t.p. (Fellowship of Makers and Researchers of Historical Instruments) p. 2 (the word Restorers was dropped and replaced with Researchers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its List of members as at ..., 30th April 1982:</subfield>
+    <subfield code="b">t.p. (Fellowship of Makers and Restorers of Historical Instruments)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Fellowship of Makers and Researchers of Historical Instruments (Great Britain).  List of members as at ..., 19th April 1983: t.p. (Fellowship of Makers and Researchers of Historical Instruments)</subfield>
+  </datafield>
+</record>
