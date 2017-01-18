@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00597cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2002030581</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090910070215.0</controlfield>
+  <controlfield tag="008">020429n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002030581</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hildebrand, Cornelius,</subfield>
+    <subfield code="d">1833-1920.</subfield>
+    <subfield code="t">Sonntag von annon 1840 auf der Insel Chortitza.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hildebrand, Cornelius,</subfield>
+    <subfield code="d">1833-1920.</subfield>
+    <subfield code="t">Sunday in 1840 on the Island of Chortitza</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zwei Dokumente. English. From Danzig to Russia, 2000:</subfield>
+    <subfield code="b">(includes Einen Sonntag von annon 1840 auf der Insel Chortitza / A Sunday in 1840 on the Island of Chortitza)</subfield>
+  </datafield>
+</record>
