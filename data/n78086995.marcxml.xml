@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00691cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  78086995 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990525092024.2</controlfield>
+  <controlfield tag="008">781120n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78086995 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sanford, Samuel,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Sanford, Sam,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ann Lee ... c1978:</subfield>
+    <subfield code="b">t.p. (Samuel Sanford, Jr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to author, 11/16/78</subfield>
+    <subfield code="b">(Samuel David Sanford, Jr.; b. 3/15/20)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baptist campus ministry at crossroads, c1997:</subfield>
+    <subfield code="b">t.p. (Samuel Sanford, Jr.) p. 159, etc. (Sam Sanford, Jr.; B.S., Louisiana State University, 1943; Southwestern and New Orleans Baptist theological seminaries; M.R.E., 1946; Ed. D., 1967)</subfield>
+  </datafield>
+</record>
