@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00670nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008109450</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080801075738.0</controlfield>
+  <controlfield tag="008">080730n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008109450</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07834833</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schoenberg, Arnold,</subfield>
+    <subfield code="d">1874-1951.</subfield>
+    <subfield code="t">Lieder,</subfield>
+    <subfield code="n">op. 6.</subfield>
+    <subfield code="p">Am Wegrand</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schoenberg, Arnold,</subfield>
+    <subfield code="d">1874-1951.</subfield>
+    <subfield code="t">Am Wegrand</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schoenberg, Arnold,</subfield>
+    <subfield code="d">1874-1951.</subfield>
+    <subfield code="t">By the roadside</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handel, G.F. Radamisto [SR] p2006:</subfield>
+    <subfield code="b">insert (Am Wegrand : op. 6 Nr. 6 / Arnold Schoenberg; By the roadside)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, July 30, 2008</subfield>
+    <subfield code="b">(op. 6, Acht Lieder: [6] Am Wegrand (J.H. Mackay))</subfield>
+  </datafield>
+</record>
