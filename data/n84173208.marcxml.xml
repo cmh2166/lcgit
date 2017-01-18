@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01241cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  84173208 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160401075452.0</controlfield>
+  <controlfield tag="008">841012n| azannaabn          |a anc      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84173208 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01202449</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Jāmiʻat Wahrān.</subfield>
+    <subfield code="b">Centre de recherche et d'information documentaire en sciences sociales et humaines</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Algeria</subfield>
+    <subfield code="e">Oran (Algeria)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Social sciences--Research</subfield>
+    <subfield code="a">Humanities--Research</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">C.R.I.D.S.S.H.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">CRIDSSH</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">M.J.W.ʻU.I.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MJWʻUI</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Jāmiʻat Wahrān.</subfield>
+    <subfield code="b">Markaz Jamʻ al-Wathāʼiq lil-ʻUlūm al-Insānīyah</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Matériaux documentaires ; no 2. Rouina, K. Bibliographie sur le chemin de fer trans-saharien, 1982:</subfield>
+    <subfield code="b">cover (Centre de recherche et d'information documentaire en sciences sociales et humaines; C.R.I.D.S.S.H.; Université d'Oran)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haddad, al-T. Tahar Haddad, 1984:</subfield>
+    <subfield code="b">t.p. (C.R.I.D.S.S.H., Oran) cover (M.J.W.ʻU.I.; CRIDSSH)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Cahiers du C.D.S.H. ;</subfield>
+    <subfield code="a">1980, no 4. Bouali, L. Etat des accords ... 1980: t.p. (Université d'Oran, Centre de documentation des sciences humaines)</subfield>
+  </datafield>
+</record>
