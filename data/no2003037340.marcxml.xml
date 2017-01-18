@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00971cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2003037340</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100526075334.0</controlfield>
+  <controlfield tag="008">030414n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003037340</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0232200</subfield>
+    <subfield code="e">E0232200</subfield>
+    <subfield code="f">N0540600</subfield>
+    <subfield code="g">N0540600</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06025023</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-pl---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Sejny (Poland : Powiat)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Powiat Sejneński (Poland)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Powiat Sejny (Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rocznik augustowsko-suwalski, t. 1 (2001):</subfield>
+    <subfield code="b">pref. (powiatów: augustowskiego, sejneńskiego, and suwalskiego)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Powiat Sejneński Homepage, http://www.powiat.sejny.pl/, 2003-04-15:</subfield>
+    <subfield code="b">(Since 1999 Powiat Sejneński is a part of Województwo Podlaskie and borders Powiat Suwalski in the West and Powiat Augustowski in the South; Powiat Sejny)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 54°06ʹ00ʺN 023°22ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Poland</subfield>
+    <subfield code="z">Sejny (Powiat)</subfield>
+  </datafield>
+</record>
