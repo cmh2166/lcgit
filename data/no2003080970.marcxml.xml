@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00686cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2003080970</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040312033140.0</controlfield>
+  <controlfield tag="008">030813n| acaabaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003080970</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06125541</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC-R</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Uri ka chŏngmal araya hal sirijŭ</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Sŏul-si</subfield>
+    <subfield code="b">Hyŏnamsa</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC-R</subfield>
+    <subfield code="5">InU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+    <subfield code="5">InU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC-R</subfield>
+    <subfield code="5">InU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uri ka chŏngmal araya hal uri Pʻungsokhwa paekkaji, 2001:</subfield>
+    <subfield code="b">ser. t.p. (Uri ka chŏngmal araya hal sirijŭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uri ka chŏngmal araya hal uri nongjangmul paek kaji, 2000:</subfield>
+    <subfield code="b">jkt. (Uri ka chŏngmal araya hal sirijŭ)</subfield>
+  </datafield>
+</record>
