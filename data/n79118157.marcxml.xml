@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00597cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  79118157 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219091752.0</controlfield>
+  <controlfield tag="008">791024n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79118157 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00349836</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brunk, Harry Anthony</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brunk, Harry A.</subfield>
+    <subfield code="q">(Harry Anthony)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His History of Mennonite in Virginia, 1959-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brunk, W.C. The progeny of Christopher Brunk, 1981:</subfield>
+    <subfield code="b">t.p. (Harry A. Brunk)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 19, 2014</subfield>
+    <subfield code="b">(Eastern Mennonite Coll.; b. 6/21/98)</subfield>
+  </datafield>
+</record>
