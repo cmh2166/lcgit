@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00448cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  94062456 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030213131149.0</controlfield>
+  <controlfield tag="008">940629n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94062456 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ2631.R385</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Prevel, Jacques</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">En compagnie d'Antonin Artaud ; suivi de, PoeĚmes, c1994:</subfield>
+    <subfield code="b">t.p. (Jacques Prevel) cover (1915-1951)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 06-29-94</subfield>
+    <subfield code="b">(hdg.: Prevel, Jacques)</subfield>
+  </datafield>
+</record>
