@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00403nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 97026662 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970730052338.2</controlfield>
+  <controlfield tag="008">970729n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97026662 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Galerie Ziegler (Geneva, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Friedrich Vordemberge-Gildewart, 1974:</subfield>
+    <subfield code="b">t.p. (Galerie Ziegler SA; located in Geneva)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Int. dir. of arts, 1997/98</subfield>
+  </datafield>
+</record>
