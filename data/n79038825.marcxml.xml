@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00675cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  79038825 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801080337.0</controlfield>
+  <controlfield tag="008">790508n| aaannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79038825 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00272336</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1879</subfield>
+    <subfield code="g">1964</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Māskarēn̲as, Em. Pi.,</subfield>
+    <subfield code="d">1879-1964</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mascarenhas, M. P.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mirāṇṭa, M. X. Kaviñar Māskarēn̲as, 1967 (subj.)</subfield>
+    <subfield code="b">t.p. (Kaviñar Māskarēn̲as) p. 2 etc. (Em. Pi. Māskarēn̲as; M. P. Mascarenhas, b. 8/31/1879, d. 1/11/1964)</subfield>
+  </datafield>
+</record>
