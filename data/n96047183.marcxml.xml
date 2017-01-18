@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00600cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  96047183 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316092125.0</controlfield>
+  <controlfield tag="008">960514n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96047183 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1891</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lawson, Alfred H.</subfield>
+    <subfield code="q">(Alfred Henry),</subfield>
+    <subfield code="d">1891-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Alfred Henry</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Lawson, Alfred H.</subfield>
+    <subfield code="q">(Alfred Henry),</subfield>
+    <subfield code="d">b. 1891</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Heaton, A.B. Architectural drawings for a house ("residence") for Alfred H. Lawson ... [graphic] 1928.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ww in the nation's cap., 1934-1935</subfield>
+    <subfield code="b">(Lawson, Alfred Henry, b. 4/19/1891)</subfield>
+  </datafield>
+</record>
