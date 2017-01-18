@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00681cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  93013952 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130518074910.0</controlfield>
+  <controlfield tag="008">930213n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93013952 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03317543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19050622</subfield>
+    <subfield code="g">19800613</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mărgineanu, Nicolae</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Amfiteatre și închisori, 1991:</subfield>
+    <subfield code="b">t.p. (Nicolae Mărgineanu) p. 5 (b. 06-25-1905, in Obreja, jud. Alba, Romania) p. 9 (d. 06-13-1980)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 02-13-93</subfield>
+    <subfield code="b">(hdg.: Mărgineanu, Nicolae)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Epurări în Universitatea Clujeană 1944-1958, 2010:</subfield>
+    <subfield code="b">p. 355 (b. June 22, 1905; d. June 13, 1980)</subfield>
+  </datafield>
+</record>
