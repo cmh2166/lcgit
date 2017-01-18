@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99084610 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991123070332.0</controlfield>
+  <controlfield tag="008">991122n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99084610 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05108210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MBU-T</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MBU-T</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Stock, Margaret,</subfield>
+    <subfield code="d">1929-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">People movements in the Punjab ... 1975:</subfield>
+    <subfield code="b">t.p. (Margaret Stock)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 22, 1999:</subfield>
+    <subfield code="b">(hdg.: Stock, Margaret, 1929- ; usage: Margaret Stock)</subfield>
+  </datafield>
+</record>
