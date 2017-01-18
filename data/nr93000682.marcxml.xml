@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00510cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 93000682 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120619074901.0</controlfield>
+  <controlfield tag="008">930107n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93000682 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kämmerling, Karl-Heinz</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brahms, J. Klavierstücke op. 76, c1992:</subfield>
+    <subfield code="b">t.p. (Karl-Heinz Kämmerling)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">German Wikipedia WWW site, June 18, 2012</subfield>
+    <subfield code="b">(Karl-Heinz Kämmerling; b. May 6, 1930, Dessau; d. June 14, 2012, Hannover; German piano teacher)</subfield>
+  </datafield>
+</record>
