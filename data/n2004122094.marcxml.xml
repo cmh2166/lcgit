@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2004122094</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040719044107.0</controlfield>
+  <controlfield tag="008">040719n| acannaabn           n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004122094</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1272936</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">John B. Daniel  (Firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">1896 annual prices current, 1896:</subfield>
+    <subfield code="b">t.p. (John B. Daniel, wholesale druggist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 7/13/04:</subfield>
+    <subfield code="b">(hdg: John B. Daniel Firm; usage: John B. Daniel, wholesale druggist)</subfield>
+  </datafield>
+</record>
