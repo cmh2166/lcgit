@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2002031713</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090405075353.0</controlfield>
+  <controlfield tag="008">020415n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002031713</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05737986</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Becker, Gotthelf Wilhelm Rupert</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliothek der deutschen Literatur, Bibliographie und Register, 1995:</subfield>
+    <subfield code="b">p. (Becker, Gotthelf Wilhelm Rupert, 1759-1823)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 8 April 2002</subfield>
+    <subfield code="b">(hdg.: Becker, Gotthelf Wilhelm Rupert; usage: Gotthelf Wilhelm Rupert Becker)</subfield>
+  </datafield>
+</record>
