@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00836cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2005057344</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080327075207.0</controlfield>
+  <controlfield tag="008">050621n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005057344</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06662435</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vieira, Rosa Maria</subfield>
+    <subfield code="q">(Rosa Maria Teixeira Marques)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vieira, Rosa Maria Teixeira Marques</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Marques Vieira, Rosa Maria Teixeira</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Teixeira Marques Vieira, Rosa Maria</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Marques, Rosa Maria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">O juiz de paz, do Império a nossos dias, c2002:</subfield>
+    <subfield code="b">t.p. (Rosa Maria Vieira) back flap (Rosa Maria Teixeira Marques Vieira; justice of the peace; studied law at Centro de Ensino Unificado de Brasília; worked for Tribunal de Contas da União and Procuradoria Geral da Justiça do Trabalho)</subfield>
+  </datafield>
+</record>
