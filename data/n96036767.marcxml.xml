@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00887cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  96036767 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130913073854.0</controlfield>
+  <controlfield tag="008">960415n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96036767 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04057783</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Nz</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Auckland.</subfield>
+    <subfield code="b">School of Medicine</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Auckland.</subfield>
+    <subfield code="b">Faculty of Medicine and Human Biology.</subfield>
+    <subfield code="b">School of Medicine</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Auckland.</subfield>
+    <subfield code="b">Faculty of Medicine and Health Science.</subfield>
+    <subfield code="b">School of Medicine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The primary prevention of alcohol and ... [1992]</subfield>
+    <subfield code="b">t.p. (School of Medicine, University of Auckland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Auckland. Calendar, 1988</subfield>
+    <subfield code="b">p. 377 (Faculty of Medicine and Human Biology; School of Medicine; University of Auckland); 1998: t.p. (University of Auckland) p. 248 (Faculty of Medicine and Health Science; School of Medicine)</subfield>
+  </datafield>
+</record>
