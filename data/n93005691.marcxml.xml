@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01443cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  93005691 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804083205.0</controlfield>
+  <controlfield tag="008">930122n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93005691 </subfield>
+    <subfield code="z">n 2008210109</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03303320</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">TNJ</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Mining History Congress</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Congreso Internacional de Historia de la Minería</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">IHMC</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Seminar on Mining History</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Internationaler Kongress zur Bergbaugeschichte</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Mining History Congress, International</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sozialgeschichte des Bergbaus im 19. ... 1992:</subfield>
+    <subfield code="b">t.p. (International Mining History Congress, Bochum, Fed. Repub. of Ger., Sept. 3-7, 1989; Internationaler Kongress zur Bergbaugeschichte) pref. (the next congress will be held in 1992/93 in the US)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IV Congreso Internacional de Historia de la Minería, 2001:</subfield>
+    <subfield code="b">disc label (IV Congreso Internacional de Historia de la Minería) insert (IV Congreso de la Historía de la Minería = IV International Mining History Congress, Guanajuato, México, Nov. 10-13, 1998)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">International Seminar on Mining History, 2007:</subfield>
+    <subfield code="b">t.p. (7th International Mining History Congress, 13-15 December 2007, Bhubaneswar, India; International Seminar on Mining History) pref. (IHMC)</subfield>
+  </datafield>
+</record>
