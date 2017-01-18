@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00424nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004085525</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040907051951.0</controlfield>
+  <controlfield tag="008">040906n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004085525</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06436823</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MX-AgUA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MX-AgUA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Serrano Angulo, José</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Angulo, José Serrano</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Iniciación a la estadística bayesiana, 2003:</subfield>
+    <subfield code="b">t.p. (José Serrano Angulo)</subfield>
+  </datafield>
+</record>
