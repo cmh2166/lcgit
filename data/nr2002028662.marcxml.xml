@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00477nz  a2200181n  4500</leader>
+  <controlfield tag="001">nr2002028662</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020803033139.0</controlfield>
+  <controlfield tag="008">020802n| acaaaaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002028662</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Imago vocis</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Padova</subfield>
+    <subfield code="b">Il poligrafico</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moda e comunicazione, 2001:</subfield>
+    <subfield code="b">series t.p. (Imago vocis : arte, immagine, comunicazione)</subfield>
+  </datafield>
+</record>
