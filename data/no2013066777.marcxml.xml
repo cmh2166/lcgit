@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00980nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013066777</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130620073527.0</controlfield>
+  <controlfield tag="008">130619n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013066777</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09500478</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSmH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSmH</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1795</subfield>
+    <subfield code="t">1824</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Robert,</subfield>
+    <subfield code="d">active 1795-1824</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Paisley, Scotland</subfield>
+    <subfield code="e">Glasgow, Scotland</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Bookseller</subfield>
+    <subfield code="a">Publisher</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Smith, R.,</subfield>
+    <subfield code="d">active 1792-1824</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Burns, Robert. Poems chiefly in the Scottish dialect, 1801:</subfield>
+    <subfield code="b">imprint on t.p. (Printed ... for R. Smith, bookseller, near the Cross) imprint on engraved t.p. (Paisley printed for &amp; sold by Robert Smith bookseller)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Scottish book trade index, June 19, 2013</subfield>
+    <subfield code="b">(Smith, Robert; bookseller Paisley, [active] 1795-1824; had a number of books, including chapbooks printed for him in Paisley and Glasgow from 1796 to 1818)</subfield>
+    <subfield code="u">http://www.nls.uk/catalogues/scottish-book-trade-index/small-sommerville</subfield>
+  </datafield>
+</record>
