@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 96014685 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090819152634.0</controlfield>
+  <controlfield tag="008">960321n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96014685 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04039899</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">KU</subfield>
+    <subfield code="d">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Russell, Eleanor</subfield>
+    <subfield code="q">(Eleanor Ann),</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Russell, Eleanor Ann,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Villancicos i canciones, 1995:</subfield>
+    <subfield code="b">t.p. (Eleanor Russell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 3/14/96</subfield>
+    <subfield code="b">(hdg.: Russell, Eleanor Ann, 1931- [thesis] &amp; Russell, Eleanor; usage: Eleanor Russell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Villancicos and other secular polyphonic music of Juan Vasquez, 1970:</subfield>
+    <subfield code="b">(Eleanor Ann Russell)</subfield>
+  </datafield>
+</record>
