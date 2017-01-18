@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00593cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81122820 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011208081542.0</controlfield>
+  <controlfield tag="008">811030n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81122820 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00667762</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG3489.3.A75</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vasilʹev, Aleksandr,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vasilʹev, A. D.</subfield>
+    <subfield code="q">(Aleksandr Dmitrievich),</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vasilʹev, Aleksandr Dmitrievich,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Synovʹi︠a︡, 1978:</subfield>
+    <subfield code="b">t.p. (Aleksandr Vasilʹev) p. 3 (b. 1932) colophon (A. D. Vasilʹev, Aleksandr Dmitrievich Vasilʹev)</subfield>
+  </datafield>
+</record>
