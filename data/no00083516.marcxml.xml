@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00744cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00083516 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081118071702.0</controlfield>
+  <controlfield tag="008">001012n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00083516 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05331860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Joshi, Vandana,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gender and power in the Third Reich, 2003:</subfield>
+    <subfield code="b">CIP t.p. (Vandana Joshi, Techn. Univ., Berlin, Germany) data sheet (b. 6/26/1965) publisher's info. (lives in New Delhi, India)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from B.B.G. Tilak, 2008-11-10,</subfield>
+    <subfield code="b">(Dr. Vandana Joshi...teaches Eurpopean history at Sri Venkateswara, College, Delhi University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from A. Chatterjee, 2008-11-17,</subfield>
+    <subfield code="b">(date of birth of Dr. Vandana Joshi (historian) June 26, 1965)</subfield>
+  </datafield>
+</record>
