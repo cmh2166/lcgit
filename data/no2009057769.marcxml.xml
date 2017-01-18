@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00548nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009057769</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090416075644.0</controlfield>
+  <controlfield tag="008">090414n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009057769</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08077334</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ItFiC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Gorgonzola (Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'Ospedale Serbelloni a Gorgonzola (Milano), c2009.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Apr. 1, 2009:</subfield>
+    <subfield code="b">(Gorgonzola, Italy, PPL 45Â° 32' 00" N 009Â° 24' 00" E)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nuovo diz. comuni e fraz. di comune, 2004:</subfield>
+    <subfield code="b">(Gorgonzola; comune in the prov. of Milan)</subfield>
+  </datafield>
+</record>
