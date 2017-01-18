@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00686nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008048307</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080330075216.0</controlfield>
+  <controlfield tag="008">080328n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008048307</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07719101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Scheidt, Samuel,</subfield>
+    <subfield code="d">1587-1654.</subfield>
+    <subfield code="t">Geistliche Concerte,</subfield>
+    <subfield code="n">2. T.</subfield>
+    <subfield code="p">Benedicamus Domino</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Scheidt, Samuel,</subfield>
+    <subfield code="d">1587-1654.</subfield>
+    <subfield code="t">Benedicamus Domino,</subfield>
+    <subfield code="m">voices (5), continuo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Canadian Brass. A touch of brass, p1980:</subfield>
+    <subfield code="b">container (Benedicamus Domino; from Geistliche Concerte of 1634)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Mar. 28, 2007</subfield>
+    <subfield code="b">(Geistlicher Concerten-- ander Theil. [SSWV] 259. Benedicamus Domino, SSATB, bc)</subfield>
+  </datafield>
+</record>
