@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00905cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  80017692 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131223073606.0</controlfield>
+  <controlfield tag="008">800402n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80017692 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00400106</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1961</subfield>
+    <subfield code="t">1970</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University College, Dar es Salaam</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Tanzania</subfield>
+    <subfield code="e">Dar es Salaam (Tanzania)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Dar es Salaam (Tanzania).</subfield>
+    <subfield code="b">University College</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Dar es Salaam.</subfield>
+    <subfield code="b">University College</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of East Africa.</subfield>
+    <subfield code="b">University College, Dar-es-Salaam</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">Chuo Kikuu cha Dar es Salaam</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">AACR 1 form: University College, Dar es Salaam</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World of learning, 1991:</subfield>
+    <subfield code="b">p. 1288 (founded 1961; university status 1970; Unesco-aided)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">In defence of democracy, 1979: series (University of Dar es Salaam)</subfield>
+  </datafield>
+</record>
