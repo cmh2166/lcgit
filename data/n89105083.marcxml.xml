@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00936cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  89105083 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130306140822.0</controlfield>
+  <controlfield tag="008">911011n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89105083 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03039894</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UkOxU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1956</subfield>
+    <subfield code="g">2009-06</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kumar, Ram Narayan,</subfield>
+    <subfield code="d">1956-2009</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">India</subfield>
+    <subfield code="c">Nepal</subfield>
+    <subfield code="f">Delhi, India</subfield>
+    <subfield code="f">Kathmandu, Nepal</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Journalism</subfield>
+    <subfield code="a">Political science</subfield>
+    <subfield code="a">Human rights</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Journalists</subfield>
+    <subfield code="a">Political activists</subfield>
+    <subfield code="a">Human rights workers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ram Narayan Kumar,</subfield>
+    <subfield code="d">1956-2009</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The Sikh struggle, 1991:</subfield>
+    <subfield code="b">t.p. (Ram Narayan Kumar) jkt. (b. 1956; free-lance journalist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Martyred but not tamed, 2012:</subfield>
+    <subfield code="b">t.p. (Ram Narayan Kumar) p. 332 (1956- June 2009; independent political activist and thinker; based out of Delhi and Kathmandu; led courses in human rights)</subfield>
+  </datafield>
+</record>
