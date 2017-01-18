@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00453nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 00086004 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001021070030.0</controlfield>
+  <controlfield tag="008">001020n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00086004 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05337987</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KOpJCAV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">KOpJCAV</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Davis, Geron</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WOW worship vol. 2, 2000:</subfield>
+    <subfield code="b">container (Geron Davis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All music guide Web site, Sept. 25, 2000:</subfield>
+    <subfield code="b">(Geron Davis; contemporary Christian musician)</subfield>
+  </datafield>
+</record>
