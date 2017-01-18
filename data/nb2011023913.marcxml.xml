@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2011023913</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110910075133.0</controlfield>
+  <controlfield tag="008">110908n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2011023913</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008251426</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Robson, Steve,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Robson, Stephen Arthur,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spending without reform, 2002:</subfield>
+    <subfield code="b">t.p. (Sir Steve Robson) p.2 (managing dir. of the Finance, Regulation and Industry Directorate of HM Treasury until 2001)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who's who, 2011</subfield>
+    <subfield code="b">(Robson, Sir Stephen Arthur (Sir Steve), b. 30 Sept. 1943; MA, PhD (Cambridge), MA (Stanford Univ.))</subfield>
+  </datafield>
+</record>
