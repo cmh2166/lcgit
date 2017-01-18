@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2015024755</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150224073545.0</controlfield>
+  <controlfield tag="008">150223n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015024755</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10095406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">LNT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">LNT</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19180721</subfield>
+    <subfield code="g">19980811</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Marulanda Aarón, Enrique Rafael,</subfield>
+    <subfield code="d">1918-1998</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Fonseca (La Guajira, Colombia)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Aarón, Enrique Rafael Marulanda,</subfield>
+    <subfield code="d">1918-1998</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Marulanda Aarón, Puyalito,</subfield>
+    <subfield code="d">1918-1998</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nieves Orozco, José Celerino. Dos grandes patriarcas, 2008:</subfield>
+    <subfield code="b">page 99 (Enrique Rafael "Puyalito" Marulanda Aarón) page 109 (b. 21 de julio de 1918 in Fonseca, Guajira) page 158 (11 de agosto de 1998)</subfield>
+  </datafield>
+</record>
