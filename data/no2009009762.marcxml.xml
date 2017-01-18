@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01488cz  a2200265n  4500</leader>
+  <controlfield tag="001">no2009009762</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160406075357.0</controlfield>
+  <controlfield tag="008">090122n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009009762</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07993036</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNGA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNGA</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">NNFr</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2008</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Museo d'arte (Lugano, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Art museums</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Lugano (Switzerland)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Lugano (Switzerland).</subfield>
+    <subfield code="b">Museo d'arte</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Museo d'arte della città di Lugano</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Md'A (Lugano, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Museo d'arte moderna (Lugano, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Mergee:</subfield>
+    <subfield code="a">Museo cantonale d'arte (Lugano, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Product of merger:</subfield>
+    <subfield code="a">Museo d'arte della Svizzeria italiana</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Photo20esimo, c2008:</subfield>
+    <subfield code="b">cover (Museo d'arte della città di Lugano)  p. opp. t.p. (Museo d'arte, Città di Lugano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Museo d'arte, Città di Lugano WWW home page, Jan. 22, 2009</subfield>
+    <subfield code="b">(logo: Md'A; Museo d'arte, Città di Lugano; About us: In 1992, Villa Malpensata took the name of Museo d'arte moderna; since 2008, the Villa Malpensata assumed the name Museo d'arte.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Museo d'arte della Svizzera italiana WWW page, April 4, 2016</subfield>
+    <subfield code="b">(The Museo d'arte della Svizzera italiana (MASI Lugano) is the product of the unification of the Museo Cantonale d'Arte and Museo d'Arte, both these public institutions have been active in the city of Lugano for many decades)</subfield>
+  </datafield>
+</record>
