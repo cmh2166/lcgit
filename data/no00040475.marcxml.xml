@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00904nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 00040475 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000608064055.0</controlfield>
+  <controlfield tag="008">000607n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00040475 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05234410</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaNfSM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaNfSM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Panel on the Ecological Integrity of Canada's National Parks</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Panel on the Ecological Integrity of Canada's National Parks</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Commission sur l'intégrité écologique des parcs nationaux du Canada</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Parks Canada.</subfield>
+    <subfield code="b">Panel on the Ecological Integrity of Canada's National Parks</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unimpaired for future generations, 2000:</subfield>
+    <subfield code="b">t.p. (Panel on the Ecological Integrity of Canada's National Parks/Commission su l'intégrité écologique des parcs nationaux du Canada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC Amicus, May 29, 2000:</subfield>
+    <subfield code="b">(hdg.:Panel on the Ecological Integrity of Canada's National Parks)</subfield>
+  </datafield>
+</record>
