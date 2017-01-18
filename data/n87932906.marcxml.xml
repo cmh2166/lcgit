@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00437nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87932906 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870725130733.4</controlfield>
+  <controlfield tag="008">870701n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87932906 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ogden, Warren Greene,</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Abell, S.G. A bibliography of the art of turning ... 1987:</subfield>
+    <subfield code="b">t.p. (Warren Greene Ogden, Jr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6/30/87</subfield>
+    <subfield code="b">(hdg.: Ogden, Warren Greene, 1906- )</subfield>
+  </datafield>
+</record>
