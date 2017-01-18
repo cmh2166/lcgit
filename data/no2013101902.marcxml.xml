@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2013101902</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130920073516.0</controlfield>
+  <controlfield tag="008">130919n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013101902</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09572095</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MeLeBNM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MeLeBNM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Haieff, Alexei,</subfield>
+    <subfield code="d">1914-1994.</subfield>
+    <subfield code="t">In the early hours</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Songs</subfield>
+    <subfield code="a">Song cycles</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">voice</subfield>
+    <subfield code="a">piano</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haieff, Alexei. In the early hours, c1954:</subfield>
+    <subfield code="b">cover (In the early hours : a song cycle) caption (words and music by Alexei Haieff; voice and piano; 1. In the afternoon; 2. Any time; 3. Before dawn; 4. At dusk)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, August 26, 2013</subfield>
+  </datafield>
+</record>
