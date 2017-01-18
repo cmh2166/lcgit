@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00537cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85362378 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010315071338.0</controlfield>
+  <controlfield tag="008">870218nc acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85362378 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01791586</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Xue, Ruzhang.</subfield>
+    <subfield code="t">Zhong lao nian ren yan zheng jiang zuo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Xue, Ruzhang.</subfield>
+    <subfield code="t">Cancer discussion for middle-old age</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">HsuĚeh, Ju-chang.</subfield>
+    <subfield code="t">Chung lao nien jen yen cheng chiang tso</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Chung lao nien jen yen cheng chiang tso, 1986.</subfield>
+  </datafield>
+</record>
