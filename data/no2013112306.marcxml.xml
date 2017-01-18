@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013112306</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131012073552.0</controlfield>
+  <controlfield tag="008">131011n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013112306</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09588972</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MvI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MvI</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19121023</subfield>
+    <subfield code="g">20050822</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Frondel, Judith W.</subfield>
+    <subfield code="q">(Judith Weiss),</subfield>
+    <subfield code="d">1912-2005</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Judith Weiss</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Glossary of uranium- and thorium-bearing minerals, 1967:</subfield>
+    <subfield code="b">t.p.(Judith W. Frondel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Oct. 11, 2013</subfield>
+    <subfield code="b">(hdgs.: Frondel, Judith Weiss; Frondel, Judith Weiss, 1912-; Frondel, Judith W. (Judith Weiss), 1912-; usage: Judith W. Frondel; Judith Weiss Frondel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SSDI, viewed Oct. 11, 2013</subfield>
+    <subfield code="b">(Judith W. Frondel, b. 23 Oct. 1912; d. 22 Aug. 2005)</subfield>
+  </datafield>
+</record>
