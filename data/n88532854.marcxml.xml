@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01381cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  88532854 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060717094801.0</controlfield>
+  <controlfield tag="008">940302n| acaabaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88532854 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03557802</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-ON</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Technical bulletin (Indian Council of Agricultural Research. National Bureau of Soil Survey and Land Use Planning)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Tech. bull. (Indian Council of Agricultural Research. National Bureau of Soil Survey and Land Use Planning)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Indian Council of Agricultural Research.</subfield>
+    <subfield code="b">National Bureau of Soil Survey and Land Use Planning.</subfield>
+    <subfield code="t">Technical bulletin</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Indian Council of Agricultural Research.</subfield>
+    <subfield code="b">National Bureau of Soil Survey and Land Use Planning.</subfield>
+    <subfield code="t">Technical report</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Technical report (Indian Council of Agricultural Research. National Bureau of Soil Survey and Land Use Planning)</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Nagpur</subfield>
+    <subfield code="b">National Bureau of Soil Survey &amp; Land Use Planning, Indian Council of Agricultural Research and Oxford &amp; IBH Pub. Co., New Delhi</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Agro-ecological regions of India, 1992:</subfield>
+    <subfield code="b">t.p. (Technical bulletin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Soil series of Rajasthan, c2002:</subfield>
+    <subfield code="b">t.p. (Tech. bull.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Soil series of Chhattisgarh, c2003:</subfield>
+    <subfield code="b">t.p. (Technical bulletin) cover (Technical report)</subfield>
+  </datafield>
+</record>
