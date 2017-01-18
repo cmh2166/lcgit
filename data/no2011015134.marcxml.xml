@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011015134</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110201075055.0</controlfield>
+  <controlfield tag="008">110128n| acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011015134</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08752899</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Kastsi︠u︡kovitski raën (Belarus)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Касцюковіцкі раëн (Беларус)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pami︠a︡tsʹ, 2000.</subfield>
+  </datafield>
+</record>
