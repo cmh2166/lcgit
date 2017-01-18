@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00344nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  96075719 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960805143853.0</controlfield>
+  <controlfield tag="008">960805n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96075719 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Manicom, Ann</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Knowledge, experience, and ruling relations, c1995:</subfield>
+    <subfield code="b">t.p. (Ann Manicom) Can. CIP (Manicom, Ann)</subfield>
+  </datafield>
+</record>
