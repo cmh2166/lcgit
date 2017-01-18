@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00569nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008044424</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080323080649.0</controlfield>
+  <controlfield tag="008">080321n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008044424</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07711332</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fish, Marc</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Enhancing geotechnical information with ground penetrating radar, 2002:</subfield>
+    <subfield code="b">t.p. (Marc Fish, CPG, geologist, New Hampshire Dept. of Transportation, Bureau of Materials and Research)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Mar. 21, 2008:</subfield>
+    <subfield code="b">(hdgs: Fish, Marc, Fish, Marc F.; usage: Marc Fish, Marc F. Fish)</subfield>
+  </datafield>
+</record>
