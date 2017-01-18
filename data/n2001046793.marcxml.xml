@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00781cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2001046793</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100518075248.0</controlfield>
+  <controlfield tag="008">010501n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001046793</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0382400</subfield>
+    <subfield code="e">E0382400</subfield>
+    <subfield code="f">N0405500</subfield>
+    <subfield code="g">N0405500</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05478576</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-tu---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Giresun (Turkey)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kirason (Turkey)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Giresun Belediyesi (Turkey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sewyōnkʻean, Tʻovmas. Kirason, 1947:</subfield>
+    <subfield code="b">t.p. (Kirason ; on Black Sea coast)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Geonet WWW site, May 1, 2001</subfield>
+    <subfield code="b">(Giresun: PPL; 40°55ʹ00ʺN, 38°24ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giresun Kültür Sempozyumu (30-31 Mayıs 1998) bildirileri, 1998:</subfield>
+    <subfield code="b">t.p. (Giresun Belediyesi)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Turkey</subfield>
+    <subfield code="z">Giresun</subfield>
+  </datafield>
+</record>
