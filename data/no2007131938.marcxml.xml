@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00540nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007131938</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071102075257.0</controlfield>
+  <controlfield tag="008">071031n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007131938</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07568625</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">L'Estra, François de,</subfield>
+    <subfield code="d">1650-1697</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Estra, François de l',</subfield>
+    <subfield code="d">1650-1697</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De l'Estra, François,</subfield>
+    <subfield code="d">1650-1697</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le voyage de François de L'Estra aux Indes orientales (1671-1675), c2007:</subfield>
+    <subfield code="b">p. 4 of cover (François de L'Estra (1650-1697))</subfield>
+  </datafield>
+</record>
