@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00924cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  94074283 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100819074839.0</controlfield>
+  <controlfield tag="008">940804n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94074283 </subfield>
+    <subfield code="z">nb2006003345</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)003065690</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hill, David A.</subfield>
+    <subfield code="q">(David Arnold),</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hill, D. A.</subfield>
+    <subfield code="q">(David Arnold),</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hill, David,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Managing habitats for conservation, 1995:</subfield>
+    <subfield code="b">CIP t.p. (D.A. Hill, Ecoscope Ecological Advisors, Boxworth, Cambridgeshire, UK) galley (Dr.) bk. t.p. (David A. Hill; Ecoscope Applied Ecologists)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 07-25-95</subfield>
+    <subfield code="b">(full name: David Arnold Hill; b. 04-18-58)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handbook of biodiversity methods, 2005:</subfield>
+    <subfield code="b">t.p. (David Hill)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Restoration, reintroduction and translocation, c2005:</subfield>
+    <subfield code="b">t.p. (David Hill, FIEEM ; Institute of Ecology and Environmental Management)</subfield>
+  </datafield>
+</record>
