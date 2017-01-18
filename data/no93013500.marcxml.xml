@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00787nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 93013500 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930514095629.2</controlfield>
+  <controlfield tag="008">930511n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93013500 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Raiņa Literatūras un mākslas vēstures muzejs</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">RLMVM</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">J. Raiņa Literatūras un mākslas vēstures muzejs</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Muzeĭ istorii literatury i iskusstva im. I︠A︡. Raĭnica</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Raiņa Literatūras un mākslas vēstures muzeja raksti, 1 (1992):</subfield>
+    <subfield code="b">p. 36 (RLMVM)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Latvijas padomju enciklopēdija, 1984:</subfield>
+    <subfield code="b">5.2 sējums, p. 607 (J. Raiņa Literatūras un mākslas vēstures muzejs)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Muzeĭ istorii literatury i iskusstva im. I︠A︡. Raĭnica i ego filialy, 1978.</subfield>
+  </datafield>
+</record>
