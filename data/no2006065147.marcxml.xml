@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006065147</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060623071048.0</controlfield>
+  <controlfield tag="008">060622n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006065147</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06976868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sėngėė, D.</subfield>
+    <subfield code="q">(Dashzėvėgiĭn),</subfield>
+    <subfield code="d">1916-1959.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">1964</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sėngėė, D.</subfield>
+    <subfield code="q">(Dashzėvėgiĭn),</subfield>
+    <subfield code="d">1916-1959.</subfield>
+    <subfield code="t">Tu̇u̇vėr zokhiol.</subfield>
+    <subfield code="f">1964</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tu̇u̇vėr zokhiol, 1964-</subfield>
+  </datafield>
+</record>
