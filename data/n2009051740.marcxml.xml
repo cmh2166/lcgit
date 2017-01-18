@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00561cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2009051740</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326105150.0</controlfield>
+  <controlfield tag="008">090814n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009051740</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kaddour, Hédi.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="l">English &amp; French</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Kaddour, Hédi.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="l">English &amp; French.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kaddour, Hédi.</subfield>
+    <subfield code="t">Treason</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaddour, Hédi. Treason, c2010.</subfield>
+  </datafield>
+</record>
