@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00604nz  a2200205n  4500</leader>
+  <controlfield tag="001">n  88514087 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891114143608.4</controlfield>
+  <controlfield tag="008">891107n| acabaaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88514087 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">DD801.W585</subfield>
+    <subfield code="b">C47 1989</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Chronik von Wobbenbüll</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Arbeitsgemeinschaft Wobbenbüller Chronik.</subfield>
+    <subfield code="t">Chronik von Wobbenbüll</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Bd. 1</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Bräist, NF</subfield>
+    <subfield code="b">Verlag Nordfriisk Instituut</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wobbenbüller Bilderbogen, 1989:</subfield>
+    <subfield code="b">t.p. (Chronik von Wobbenbüll)</subfield>
+  </datafield>
+</record>
