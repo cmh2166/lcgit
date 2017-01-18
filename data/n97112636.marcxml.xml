@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00377nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  97112636 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971107115905.0</controlfield>
+  <controlfield tag="008">971107n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97112636 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Molemaker, Harry,</subfield>
+    <subfield code="d">1887-1970</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Dearborn Historical Commission for His Interview, 1967</subfield>
+    <subfield code="b">(Molemaker, Harry, 1887-1970; craftsman)</subfield>
+  </datafield>
+</record>
