@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01003nz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 97033346 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970923051952.6</controlfield>
+  <controlfield tag="008">970918n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97033346 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Fitch, L. W.</subfield>
+    <subfield code="q">(Lucius Wooster),</subfield>
+    <subfield code="d">1820-1908</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Fitch, Lucius Wooster,</subfield>
+    <subfield code="d">1820-1908</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Fitch, Lucius Woolsey,</subfield>
+    <subfield code="d">1820-1908</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Percival, J.G. The poetical works, 1859:</subfield>
+    <subfield code="b">p. 14 (L.W. Fitch)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(Lucius Woolsey, 1820-1908)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yale Univ. Obit. record, 1909</subfield>
+    <subfield code="b">(Lucius Wooster Fitch; grad. 1840; bookseller at New Haven 1849-57; assistant in Yale Univ. Treasurer's Office 1857-81; b. July 25, 1820; d. Sept. 26, 1908)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yale Univ. Cat. of the officers and grads., 1924</subfield>
+    <subfield code="b">(Lucius Wooster Fitch; A.B. 1840; d. 1908)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Fitch, L. W. (Lucius Wooster), 1820-1908; note: son of Rev. Eleazer Thompson Fitch; grandson of Joseph Lucius Wooster; pub. many of his father's sermons)</subfield>
+  </datafield>
+</record>
