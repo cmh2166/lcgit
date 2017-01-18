@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00489cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2001080988</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011010111230.0</controlfield>
+  <controlfield tag="008">011010n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001080988</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Davidson, Edwin L.,</subfield>
+    <subfield code="d">1916-1977</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from NUCMC data from Historical Society of Washington, D.C. for Kohn, Davidson, and Lansburgh family papers, 1875-1977</subfield>
+    <subfield code="b">(Edwin L. Davidson; b. June 6, 1916, New York; d. 1977, Washington, D.C.; businessman)</subfield>
+  </datafield>
+</record>
