@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00759cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  50052885 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891024093006.4</controlfield>
+  <controlfield tag="008">800820n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50052885 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Humboldt State University.</subfield>
+    <subfield code="b">Sea Grant Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Humboldt State University.</subfield>
+    <subfield code="b">Marine Advisory Extension Service.</subfield>
+    <subfield code="b">Sea Grant Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">California.</subfield>
+    <subfield code="b">Humboldt State College, Arcata.</subfield>
+    <subfield code="b">Sea Grant Program.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A Seminar on ... 1971 or 2.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-45605: Allen, G.H. Rearing Pacific salmon in saltwater ponds ... 1975</subfield>
+    <subfield code="b">(hdg. on CU-A rept.: California State University, Humboldt. Sea Grant Program; usage: Marine Advisory Extension Service, Sea Grant Program, Humboldt State University)</subfield>
+  </datafield>
+</record>
