@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00675cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014064797</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141123122733.0</controlfield>
+  <controlfield tag="008">141020n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014064797</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09993430</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18581107</subfield>
+    <subfield code="g">1927-07</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stein, Theodore,</subfield>
+    <subfield code="d">1858-1927</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Indianapolis (Ind.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Song of the Armistice, 1926:</subfield>
+    <subfield code="b">t.p. (Theodore Stein)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Greater Indianapolis: the history, vol. 2 :</subfield>
+    <subfield code="b">(b. Nov. 7, 1858, Indianapolis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RootsWeb WWW site, Oct. 20, 2014</subfield>
+    <subfield code="b">(Theodore Pelletreau Ebert Stein Sr.; b. Nov. 7, 1858, Indianapolis; d. circa July 17, 1927</subfield>
+  </datafield>
+</record>
