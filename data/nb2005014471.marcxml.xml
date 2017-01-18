@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00696cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2005014471</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150901212814.0</controlfield>
+  <controlfield tag="008">050929n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005014471</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006292427</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Universiti Pendidikan Sultan Idris.</subfield>
+    <subfield code="b">Institut Peradaban Melayu</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">University institute</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Tanjong Malim (Perak, Malaysia)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">may</subfield>
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universiti Pendidikan Sultan Idris.</subfield>
+    <subfield code="b">Institute of Malay Civilisation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The genius of Malay civilisation, 2003:</subfield>
+    <subfield code="b">t.p. (Institute of Malay Civilisation, Universiti Pendidikan Sultan Idris) t.p. verso (Institut Peradaban Melayu)</subfield>
+  </datafield>
+</record>
