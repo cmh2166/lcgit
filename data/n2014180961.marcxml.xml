@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00722nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2014180961</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140207044103.0</controlfield>
+  <controlfield tag="008">140207n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014180961</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1601424</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19590316</subfield>
+    <subfield code="t">19590321</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Asian Malaria Conference</subfield>
+    <subfield code="n">(3rd :</subfield>
+    <subfield code="d">1959 :</subfield>
+    <subfield code="c">New Delhi, India)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">New Delhi (India)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Report of the Third Asian Malaria Conference, WHO, 1959:</subfield>
+    <subfield code="b">cover title (Third Asian Malaria Conference, WHO, New Delhi, 16-21 March 1959) p. 3 (Third Asian Malaria Conference for the Western Pacific and South-East Asian Regions, convened by the World Health Organization, met in New Delhi from 16-21 March 1959)</subfield>
+  </datafield>
+</record>
