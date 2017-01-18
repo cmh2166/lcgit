@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00939cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2012190036</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121130074937.0</controlfield>
+  <controlfield tag="008">121128n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012190036</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1552420</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19620418</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wang, Jianbo,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wang, J.</subfield>
+    <subfield code="q">(Jianbo),</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">王剑波,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stereoselective alkene synthesis, c2012:</subfield>
+    <subfield code="b">t.p. (Jianbo Wang) p. 239 (J. Wang; Beijing National Liboratory of Molecular Sciences (BNLMS), Key Laboratory of Bioorganic Chemistry and Molecular Engineering of Ministry of Education, College of Chemistry, Peking Univ., China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Angew. Chem. Int. Ed. 2012, 51 :</subfield>
+    <subfield code="b">p. 9482 (Jianbo Wang; J. Wang; b. Apr. 18, 1962, prof.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beijing Univ. Dept. of Chemistry WWW homepage, Nov. 27, 2012</subfield>
+    <subfield code="b">(王剑波 = Wang Jianbo)</subfield>
+  </datafield>
+</record>
