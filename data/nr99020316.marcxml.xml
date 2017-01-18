@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00598cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 99020316 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070323075300.0</controlfield>
+  <controlfield tag="008">990628n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99020316 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05016799</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rigueiro Herrera, Carlos,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Herrera, Carlos Rigueiro,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rigueiro, Carlos,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La companĚiĚa, 1997:</subfield>
+    <subfield code="b">t.p. (Carlos Rigueiro Herrera) p. 2 of cover (b. Buenos Aires, 1949; resides in Madrid, Spain; lawyer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Matar a Fidel, 2006:</subfield>
+    <subfield code="b">t.p. (Carlos Rigueiro)</subfield>
+  </datafield>
+</record>
