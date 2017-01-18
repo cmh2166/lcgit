@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00688cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2006019848</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816083957.0</controlfield>
+  <controlfield tag="008">060726n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006019848</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Markaz al-Dirāsāt al-Sūdānīyah (Cairo, Egypt).</subfield>
+    <subfield code="b">Nadwah</subfield>
+    <subfield code="d">(2001 :</subfield>
+    <subfield code="c">Cairo, Egypt)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Nadwat Markaz al-Dirāsāt al-Sūdānīyah al-Dawrīyah</subfield>
+    <subfield code="d">(2001 :</subfield>
+    <subfield code="c">Cairo, Egypt)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Marʼah wa-al-ibdāʻ fī al-Sūdān, 2001:</subfield>
+    <subfield code="b">t.p. (Nadwat Markaz al-Dirāsāt al-Sūdānīyah al-Dawrīyah, al-Qāhirah, 2001)</subfield>
+  </datafield>
+</record>
