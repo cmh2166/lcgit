@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00911nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004061809</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040630051815.0</controlfield>
+  <controlfield tag="008">040629n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004061809</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06381223</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Croxton, Frederick C.</subfield>
+    <subfield code="q">(Frederick Cleveland),</subfield>
+    <subfield code="d">1871-1960</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Croxton, Fred C.</subfield>
+    <subfield code="q">(Frederick Cleveland),</subfield>
+    <subfield code="d">1871-1960</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Frederick C. Croxton papers, Hoover Library, 1871-1939:</subfield>
+    <subfield code="b">(member, President's Emergency Committee for Employment (PECE), 1930-1931; Assistant Director, President's Organization of Unemployment Relief (POUR), 1931-1932; administrator of relief funds under the Reconstruction Finance Corporation, 1932-1933)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bio. index, v. 7:</subfield>
+    <subfield code="b">(Frederick Cleveland Croxton; b. 1871; d. 1960; labor mediator)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 29, 2004:</subfield>
+    <subfield code="b">(hdg.: Croxton, Frederick Cleveland, 1871-; usage: Fred C. Croxton)</subfield>
+  </datafield>
+</record>
