@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00524nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  83062002 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">830421n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83062002 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Tracy, Barbara A.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Tracy, B. A.</subfield>
+    <subfield code="q">(Barbara A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Theory and calculation of the nonlinear energy transfer between sea waves in deep water, 1982:</subfield>
+    <subfield code="b">t.p. (Barbara A. Tracy, Hydraulics Lab., U.S. Army Engineer Waterways Experiment Station, Vicksburg, Miss.) p. 1 (B. A. Tracy)</subfield>
+  </datafield>
+</record>
