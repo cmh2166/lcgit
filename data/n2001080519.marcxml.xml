@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00823cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2001080519</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011127132520.0</controlfield>
+  <controlfield tag="008">011127n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001080519</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Codex (Corpus juris civilis).</subfield>
+    <subfield code="p">De revocandis donationibus</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Codex (Corpus juris civilis).</subfield>
+    <subfield code="n">Book 8, title 55</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">De revocandis donationibus (Codex VIII:55)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">De reuocandis donationibus (Codex VIII:55)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tiraqueau, AndreĚ. Andreae Tiraquelli ... Commentarii in l. Si unquam, C. De reuocan. donatio., 1560  :</subfield>
+    <subfield code="b">( C. De reuocan. donatio.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Corpus iuris civilis, v. 2, Codex Iustinianus (ed. P. KruĚger), 1954:</subfield>
+    <subfield code="b">p. 366, caption of title 55 (in some sources 56) of book VIII of the Codex (De revocandis donationibus; contains 10 laws)</subfield>
+  </datafield>
+</record>
