@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00674nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 94034414 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940929190610.0</controlfield>
+  <controlfield tag="008">940929n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94034414 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="c">DJBF</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Kentron Viotechnikēs Anaptyxeōs (Greece)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Small Industry Development Center (Greece)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">KE.V.A.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">KEVA</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Ethnikēs Oikonomias.</subfield>
+    <subfield code="b">Kentron Viotechnikēs Anaptyxeōs</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Statistikē ereuna tēs mikras ... 1971:</subfield>
+    <subfield code="b">t.p. (Hypourgeion Ethnikēs Oikonomias, Kentron Viotechnikēs Anaptyxeōs, KE.V.A.) p. facing t.p. (Small Industry Development Center, KE.V.A.)</subfield>
+  </datafield>
+</record>
