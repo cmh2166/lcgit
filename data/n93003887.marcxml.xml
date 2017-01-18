@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00574nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  93003887 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930114142717.2</controlfield>
+  <controlfield tag="008">930114n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93003887 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Batavian Republic.</subfield>
+    <subfield code="b">Vertegenwoordigend Lighaam</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Batavian Republic.</subfield>
+    <subfield code="b">Vertegenwoordigend Lichaam</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Batavian Republic. Algemeene manier van procedeeren in ciuiele en crimineele zaaken, 1799:</subfield>
+    <subfield code="b">t.p. (Vertegenwoordigend Lighaam des Bataafschen volks)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(Vertegenwoordigend Lichaam des Bataafschen volks)</subfield>
+  </datafield>
+</record>
