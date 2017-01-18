@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00418nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98133891 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990102044741.1</controlfield>
+  <controlfield tag="008">981231n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98133891 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04889378 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSW-Mu</subfield>
+    <subfield code="c">MoSW-Mu</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Schostakowitsch-Gesellschaft</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">SchoG</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schostakowitsch in Deutschland, 1998:</subfield>
+    <subfield code="b">t.p. (Schostakowitsch-Gesellschaft (SchoG) e.V.)</subfield>
+  </datafield>
+</record>
