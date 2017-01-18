@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01152cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  91049148 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130526074936.0</controlfield>
+  <controlfield tag="008">910516n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91049148 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02949650</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Eristʻavi, Giorgi,</subfield>
+    <subfield code="d">1813-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Eristʻavi, Giorgi,</subfield>
+    <subfield code="d">approximately 1811-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Ėristavi, Georgiĭ Davidovich,</subfield>
+    <subfield code="d">1811-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ėristavi, Georgiĭ Davidovich,</subfield>
+    <subfield code="d">1813-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Gluxaričʻi,</subfield>
+    <subfield code="d">1813-1864</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Tʻxzulebani, 1966:</subfield>
+    <subfield code="b">t.p. (Giorgi Eristʻavi) p. 3-6 (b. 1813; d. 1864) colophon (Georgiĭ Ėristavi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Ėristavi, Georgiĭ Davidovich, 1811-1864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kʻartʻuli mcerloba, 1984- :</subfield>
+    <subfield code="b">v. 1, p. 314, etc. (Eristʻavi, Giorgi; pseud.: Gluxaričʻi; 1813-1864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Krat. lit. ėnt︠s︡., 1975:</subfield>
+    <subfield code="b">v. 8 (Ėristavi, Georgiĭ Davidovich; b. 1811, d. 9/9(21)/1864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giorgi Eristʻavi da kʻartʻuli tʻeatri, 2013:</subfield>
+    <subfield code="b">page 4 of cover (Giorgi Davitʻis Eristʻavi: born: 1813, Ożisi, Georgia; d. 1864, Gori, Georgia)</subfield>
+  </datafield>
+</record>
