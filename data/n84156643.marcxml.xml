@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84039779 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990625143729.2</controlfield>
+  <controlfield tag="008">840717n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84039779 </subfield>
+    <subfield code="z">n  79011543 </subfield>
+    <subfield code="z">n  84156643 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ng'ang'a, James Mwangi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ng'ang'a, James M.</subfield>
+    <subfield code="q">(James Mwangi)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ng'ang'a, J. M.</subfield>
+    <subfield code="q">(James Mwangi)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog heading: Ng'ang'a, James M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Education in Kenya since independence, 1983:</subfield>
+    <subfield code="b">t.p. (James Mwangi Ng'ang'a, Librarian, Kenyatta University College)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 7/11/84</subfield>
+    <subfield code="b">(hdg.: Ng'ang'a, James M.; usage: James M. Ng'ang'a, James Mwangi Ng'ang'a)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A list of books, journal articles, and conference papers ... 1997:</subfield>
+    <subfield code="b">t.p. (J.M. Ng'ang'a)</subfield>
+  </datafield>
+</record>
