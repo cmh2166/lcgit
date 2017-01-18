@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516nz  a2200181n  4500</leader>
+  <controlfield tag="001">n  94036391 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940415074133.0</controlfield>
+  <controlfield tag="008">940414n| acaabaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94036391 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Biblioteka Makedonskoe nasledstvo</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Makedonskoe nasledstvo</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Skopje</subfield>
+    <subfield code="b">"Makedonskoe revi︠u︡"</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ilindenskai︠a︡ ėpopei︠a︡, 1978:</subfield>
+    <subfield code="b">ser. t.p. (Biblioteka Makedonskoe nasledstvo)</subfield>
+  </datafield>
+</record>
