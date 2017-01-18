@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  85265707 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080428075131.0</controlfield>
+  <controlfield tag="008">860226n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85265707 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01527198</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Iddings, Caleb Edward,</subfield>
+    <subfield code="d">1827-1904</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Duke Univ. Libr., Durham for Iddings family. Papers, 1869-1912</subfield>
+    <subfield code="b">(Caleb Edward Iddings, 1827-1904; quaker physician, of Sandy Spring, Montgomery County, Md.)</subfield>
+  </datafield>
+</record>
