@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00638nz  a2200181n  4500</leader>
+  <controlfield tag="001">n  86730675 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870123091849.6</controlfield>
+  <controlfield tag="008">861210n| acaabaaa|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86730675 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Smith, Mary P. Wells</subfield>
+    <subfield code="q">(Mary Prudence Wells),</subfield>
+    <subfield code="d">1840-1930.</subfield>
+    <subfield code="t">Old Deerfield series</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Old Deerfield series</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Ashfield, Mass.</subfield>
+    <subfield code="b">Paideia</subfield>
+    <subfield code="d">photo-offset reprint</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="d">photo-offset reprint</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="d">photo-offset reprint</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="d">photo-offset reprint</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Photo-offset reprint/Smith, M.P.W. Boys and girls of seventy-seven, 1987:</subfield>
+    <subfield code="b">CIP t.p.</subfield>
+  </datafield>
+</record>
