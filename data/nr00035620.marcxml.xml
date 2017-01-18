@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00400nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00035620 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001111034035.0</controlfield>
+  <controlfield tag="008">001110n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00035620 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Jean</subfield>
+    <subfield code="q">(Jean Armin)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Armin, Jean</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Juggling with apples, 2000:</subfield>
+    <subfield code="b">t.p. (Jean) p. 56 (Jean Armin; lives in Minehead, Somerset; writer and publisher)</subfield>
+  </datafield>
+</record>
