@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00915nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014167054</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219073611.0</controlfield>
+  <controlfield tag="008">141218n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014167054</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10044645</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1921</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Volfs, L.</subfield>
+    <subfield code="q">(Lazars),</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Volfs, Lazars,</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Вольф, Л. Г.</subfield>
+    <subfield code="q">(Лазарь Григорьевич),</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Volʹf, L. G.</subfield>
+    <subfield code="q">(Lazarʹ Grigorʹevich),</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Steiga, Miermīlis. Gardă la regina briliantelor, 1976:</subfield>
+    <subfield code="b">title page (L. Volfs)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Library of Latvia in VIAF, Dec. 18, 2014</subfield>
+    <subfield code="b">(hdg: Volfs, Lazars, 1921- ; usages: Volfs, L. (Lazars), 1921- ; Volʹf, L. G. (Lazarʹ Grigorʹevich), 1921- = Вольф, Л. Г.‏ ‎(Лазарь Григорьевич),‏ ‎1921-‏ )</subfield>
+  </datafield>
+</record>
