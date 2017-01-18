@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2009042567</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150429073845.0</controlfield>
+  <controlfield tag="008">090319n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009042567</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08050565</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUSA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">SaPrUSA</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jack, R. Lockhart</subfield>
+    <subfield code="q">(Robert Lockhart)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Geologists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Robert Lockhart</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jack, Robert Lockhart</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The building stones of South Australia, 1923:</subfield>
+    <subfield code="b">t.p. (R. Lockhart Jack)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Mar. 19, 2009</subfield>
+    <subfield code="b">(hdg.: Jack, R. Lockhart (Robert Lockhart); usage: R. Lockhart Jack)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Yelta and Paramatta Mines, 1912:</subfield>
+    <subfield code="b">title page (R. Lockhart Jack; Assistant Government Geologist)</subfield>
+  </datafield>
+</record>
