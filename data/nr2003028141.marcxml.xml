@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00475nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2003028141</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030829033131.0</controlfield>
+  <controlfield tag="008">030828n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003028141</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Urban Land Institute.</subfield>
+    <subfield code="b">New York District Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ULI New York District Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ULI New York</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Membership directory, July 2003:</subfield>
+    <subfield code="b">t.p. (ULI New York; ULI New York District Council; ULI-Urban Land Institute)</subfield>
+  </datafield>
+</record>
