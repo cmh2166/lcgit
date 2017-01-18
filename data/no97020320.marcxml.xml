@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00874cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 97020320 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970523053615.2</controlfield>
+  <controlfield tag="008">970331n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97020320 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04307289 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Network of Experts on the Situation of Women in the Labour Market.</subfield>
+    <subfield code="b">Portuguese Group of Experts</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Network of Experts on the Situation of Women in the Labour Market.</subfield>
+    <subfield code="b">Portuguese Expert Group on "Women and Employment"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Portuguese Expert Group on "Women and Employment"</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lopes, M. Changing patterns of work and working-time ... 1994:</subfield>
+    <subfield code="b">t.p. (European Commission Network of Experts on the Situation for Women in the Labour Market, Portuguese Group of Experts)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Occupational segregation in Portugal ... 1992:</subfield>
+    <subfield code="b">t.p. (Portugese Expert Group on "Women and Employment")</subfield>
+  </datafield>
+</record>
