@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01481cz  a2200313n  4500</leader>
+  <controlfield tag="001">n  88079784 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080917080006.0</controlfield>
+  <controlfield tag="008">880303n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88079784 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02217631</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hiyama, Yoshichika,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hiyama, Tansai,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hiyama, Seitoku,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Tansai,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hiyama, Tokuchū,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Banshōken,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Saishūen,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">檜山義愼,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">檜山義慎,</subfield>
+    <subfield code="d">1770-1842</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Kokugun kenchi honchō ōko enkaku zusetsu, 1823:</subfield>
+    <subfield code="b">map recto (Hiyama Yoshichika)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jinbutsu refarensu j.</subfield>
+    <subfield code="b">(Hiyama Tansai)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wagakusha sōran</subfield>
+    <subfield code="b">(Hiyama Yoshichika; d. Tenpō 13.9.16 at 69; other forenames and gō: Tokuchū, Seitoku, Tansai, Banshōken)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kotenseki sōgō mokuroku, auth. index</subfield>
+    <subfield code="b">(Hiyama Yoshichika (Tansai, Hiyama Tansai) [x-ref. from each one])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kokusho jinmei j.</subfield>
+    <subfield code="b">(Hiyama Tansai; b. Meiwa 7, d. Tenpō 13.9.16; other forenames and gō: Yoshichika, Tokuchū, Saishūen, Banshōken)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nihon jinmei j.</subfield>
+    <subfield code="b">(Tansai (Hiyama); other forenames and gō: Yoshichika, Tokuchū, Banshōken; d. Tenpō 13.9.16)</subfield>
+  </datafield>
+</record>
