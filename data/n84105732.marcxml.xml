@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84105732 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940425170828.9</controlfield>
+  <controlfield tag="008">840511n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84105732 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Saint Gall (Switzerland).</subfield>
+    <subfield code="t">Mandat und Ordnung Herren Burgermeister kleiner und grosser Räthen der Statt S. Gallen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Saint Gall (Switzerland).</subfield>
+    <subfield code="t">Mandat und Ordnung Herren Bürgermeister kleiner und grosser Räten der Stadt St. Gallen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Saint Gall (Switzerland).</subfield>
+    <subfield code="t">Grosse Mandat der Stadt St. Gallen von 1611</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Das grosse Mandat der Stadt St. Gallen von 1611, 1983:</subfield>
+    <subfield code="b">p. 53 (on orig. t.p.: Mandat und Ordnung Herren Burgermeister kleiner und grosser Räthen der Statt S. Gallen)</subfield>
+  </datafield>
+</record>
