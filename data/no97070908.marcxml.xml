@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00482nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97070908 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971210053151.5</controlfield>
+  <controlfield tag="008">971209n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97070908 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04549167 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Richarz, Hugo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wehrhafte Wirtschaft, c1938:</subfield>
+    <subfield code="b">t.p. (Hugo Richarz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Richarz, Hugo)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Brockhaus EnzyklopaĚdie, 1972;</subfield>
+    <subfield code="a">KuĚrschners Deutscher Gelehrten-Kalender, 1987</subfield>
+  </datafield>
+</record>
