@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00575cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003054006</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050215052038.0</controlfield>
+  <controlfield tag="008">030602n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003054006</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06064491</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPiU</subfield>
+    <subfield code="d">DLC-OB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Marinho, Mônica Romero Monteiro</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Monteiro Marinho, Mônica Romero</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Romero Monteiro Marinho, Mônica</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Comércio exterior, 2002:</subfield>
+    <subfield code="b">t.p. (Mônica Romero Monteiro Marinho; economist) t.p. verso (Braz. CIP hdg.: Marinho, Mônica Romero) p. 5 (Mônica Romero)</subfield>
+  </datafield>
+</record>
