@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00031720 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001114034010.0</controlfield>
+  <controlfield tag="008">001006n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00031720 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CMalG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CMalG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Malinowski, Bronislaw,</subfield>
+    <subfield code="d">1884-1942.</subfield>
+    <subfield code="t">Sexual life of savages in North-western Melanesia.</subfield>
+    <subfield code="l">French</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Malinowski, Bronislaw,</subfield>
+    <subfield code="d">1884-1942.</subfield>
+    <subfield code="t">Vie sexuelle des sauvages du Nord-Ouest de la Mélanésie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vie sexuelle des sauvages du Nord-Ouest de la Mélanésie, 1930.</subfield>
+  </datafield>
+</record>
