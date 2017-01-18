@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  79087123 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091118074948.0</controlfield>
+  <controlfield tag="008">790807n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79087123 </subfield>
+    <subfield code="z">no2004106618</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00319538</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pelzel, Thomas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pelzel, Thomas Oberlin,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anton Raphael Mengs and neoclassicism, 1979:</subfield>
+    <subfield code="b">t.p. (Thomas Pelzel) CIP pub. info., etc. (Thomas O. Pelzel; assoc. prof. of art hist., Univ. of Calif., Riverside)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anton Raphael Mengs and neoclassicism, 1968:</subfield>
+    <subfield code="b">t.p. (Thomas O. Pelzel) UMI p. (Pelzel, Thomas Oberlin, 1927-)</subfield>
+  </datafield>
+</record>
