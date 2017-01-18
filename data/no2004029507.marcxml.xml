@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00608cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004029507</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120803080622.0</controlfield>
+  <controlfield tag="008">040326n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004029507</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06308406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGU</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ramírez Casillas, Vicente Manuel</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Casillas, Vicente Manuel Ramírez</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ramírez Casillas, Manuel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tierra, diferencia y poder, 2000:</subfield>
+    <subfield code="b">t.p. (Vicente Manuel Ramírez Casillas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Modernización, desarrollo y movimientos sociales en Michoacán, 2006:</subfield>
+    <subfield code="b">t.p. (Manuel Ramírez Casillas)</subfield>
+  </datafield>
+</record>
