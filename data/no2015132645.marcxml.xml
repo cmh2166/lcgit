@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01097nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015132645</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151006073529.0</controlfield>
+  <controlfield tag="008">151005n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015132645</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10286849</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IeDuTC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Dodworth (England)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="b">Villages</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Great Britain</subfield>
+    <subfield code="f">Barnsley (South Yorkshire, England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">St John the Baptist, Dodworth : burials, 2015</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, 5 October 2015 :</subfield>
+    <subfield code="b">(Dodworth is a village in the metropolitan borough of Barnsley in South Yorkshire, England. Dodworth was historically a township in the ancient parish of Silkstone in the West Riding of Yorkshire. It became a separate civil parish in 1866, and an urban district in 1894.[3] The urban district and civil parish were abolished in 1974, when Dodworth was transferred to the Metropolitan Borough of Barnsley in the new county of South Yorkshire. Dodworth is now an unparished area)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 5 October 2015 :</subfield>
+    <subfield code="b">(populated place, Barnsley, United Kingdom)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">England</subfield>
+    <subfield code="z">Dodworth</subfield>
+  </datafield>
+</record>
