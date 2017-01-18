@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00736nz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2012217844</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130712012756.0</controlfield>
+  <controlfield tag="008">130712n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012217844</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK1731.36.M33</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Samāddāra, Kumakuma</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Comilla, Bangladesh</subfield>
+    <subfield code="c">India</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Bengali literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Authors, Bengali</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ben</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Kumakuma Samāddāra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Samaddar, Kumkum</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rāmagaruṛera nishiddha bai, 2013:</subfield>
+    <subfield code="b">t.p. (Kumakuma Samāddāra) t.p. verso (Kumkum Samaddar) jacket (born in Comilla, Bangladesh; post graduate in Physics from Utkal University; Bengali author)</subfield>
+  </datafield>
+</record>
