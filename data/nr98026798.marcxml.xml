@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00360cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 98026798 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140104073745.0</controlfield>
+  <controlfield tag="008">980720n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98026798 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04777047</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Austin, Robert</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">William Sergeant Kendall, c1998:</subfield>
+    <subfield code="b">p. 17 (Robert Austin)</subfield>
+  </datafield>
+</record>
