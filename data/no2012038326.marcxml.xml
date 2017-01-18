@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012038326</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140513073855.0</controlfield>
+  <controlfield tag="008">120315n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012038326</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09145289</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU-JRM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU-JRM</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bousset,</subfield>
+    <subfield code="c">Monsieur de,</subfield>
+    <subfield code="d">1662-1725.</subfield>
+    <subfield code="t">Deus noster refugium</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Motet</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">mixed voices</subfield>
+    <subfield code="a">orchestra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bousset. Les motets, 2011, ÂŠ2011:</subfield>
+    <subfield code="b">p. 3 (Deus noster refugium : psalmus xlv) intro. (grand motet for 4 soloists, chorus, and orchestra ; undated)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Mar. 15, 2012</subfield>
+    <subfield code="b">(grand motet, Deus noster refugium, F-LYm)</subfield>
+  </datafield>
+</record>
