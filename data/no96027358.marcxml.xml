@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00862cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 96027358 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081016082449.0</controlfield>
+  <controlfield tag="008">960528n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96027358 </subfield>
+    <subfield code="z">nr 95013331 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04087365</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGU-L</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leung, Priscilla Mei-fun</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Leung, Mei-fun</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Leung, Priscilla M. F.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Liang, Mei-fen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">梁美芬</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">China law reports, 1991:</subfield>
+    <subfield code="b">t.p. (Priscilla Leung Mei-fun, adjunct assoc. law prof., People's Univ. of China, People's Rep. of China; univ. lecturer, City Univ. of Hong Kong); prel., p. i (Priscilla M.F. Leung)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung-kuo fa chih kai ko, 1994:</subfield>
+    <subfield code="b">t.p. (Liang Mei-fen)</subfield>
+  </datafield>
+</record>
