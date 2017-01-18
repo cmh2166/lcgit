@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00583nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014070867</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141114102823.0</controlfield>
+  <controlfield tag="008">141114n| azannaabn          |n aaa     a</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014070867</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ahsurova, Ozoda</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Tajikistan</subfield>
+    <subfield code="c">Tajikistan</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Academy of SashmaqaĚm</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Singers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tadjikistan [SR] 2013:</subfield>
+    <subfield code="b">container (Ozoda Ashurova, chant) insert (Tajik singer, made her career entirely in Tajikistan; singer of the Academy of SashmaqaĚm)</subfield>
+  </datafield>
+</record>
