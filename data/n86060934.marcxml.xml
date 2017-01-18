@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00447nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  86060934 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19861108062303.0</controlfield>
+  <controlfield tag="008">861001n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86060934 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Grinkevich, N.</subfield>
+    <subfield code="q">(Nikolaĭ)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Grinkevich, Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Stroki, imena, sudʹby, 1983:</subfield>
+    <subfield code="b">t.p. (N. Grinkevich) colophon (Nikolaĭ Nikolaevich Grinkevich) USSR CIP data (Grinkevich, N. N.)</subfield>
+  </datafield>
+</record>
