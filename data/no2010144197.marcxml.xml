@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00803nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2010144197</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100905074950.0</controlfield>
+  <controlfield tag="008">100903n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010144197</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08614173</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dowell, Cassius C.</subfield>
+    <subfield code="q">(Cassius Clay),</subfield>
+    <subfield code="d">1864-1940</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dowell, Mr.</subfield>
+    <subfield code="q">(Cassius Clay),</subfield>
+    <subfield code="d">1864-1940</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dowell, C. C.</subfield>
+    <subfield code="q">(Cassius Clay),</subfield>
+    <subfield code="d">1864-1940</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contested-election case, Britt v. Weaver, 1919:</subfield>
+    <subfield code="b">caption (Mr. Dowell) p. 6 (C.C. Dowell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 2, 2010</subfield>
+    <subfield code="b">(usage: Cassius C. Dowell, Cassius Clay Dowell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bio. dir. of the U.S. Congress WWW site, Sept. 2, 2010</subfield>
+    <subfield code="b">(Dowell, Cassius Clay; Feb. 29, 1864, near Summerset, Iowa, d. Feb. 4, 1940, Washington, D.C.; representative from Iowa)</subfield>
+  </datafield>
+</record>
