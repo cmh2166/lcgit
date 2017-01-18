@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00759nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009206118</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100101075301.0</controlfield>
+  <controlfield tag="008">091230n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009206118</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08348494</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCUCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCUCA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Edward H.</subfield>
+    <subfield code="q">(Edward Hanson),</subfield>
+    <subfield code="d">1889-1961</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Marion and General Greene expeditions to the Davis Strait and Labrador Sea under the direction of the United States Coast Guard, 1928-1931-1933-1934-1935. Scientific results part 2, physical oceanography, 1937:</subfield>
+    <subfield code="b">t.p. (Edward H. Smith)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWWA:</subfield>
+    <subfield code="b">v. 4 1961-1968 (Smtih, Edward Hanson; coast guard officer; b. Vineyard Haven, Mass., Oct. 29, 1889; PhD Harvard 1934; advanced to rear adm. U.S. Coast Guard; d. Oct. 1961)</subfield>
+  </datafield>
+</record>
