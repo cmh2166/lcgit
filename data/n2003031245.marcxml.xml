@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00527nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2003031245</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030128131436.0</controlfield>
+  <controlfield tag="008">030128n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003031245</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taylor, Mary,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  88600947</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-1088: Moriarty, K.M. A Shaker sampler coloring book, c1981</subfield>
+    <subfield code="b">(hdg. on OOxM rept.: Taylor, Mary; usage: Mary Taylor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. copyright file, Jan. 28, 2003</subfield>
+    <subfield code="b">(Taylor, Mary, 1948- )</subfield>
+  </datafield>
+</record>
