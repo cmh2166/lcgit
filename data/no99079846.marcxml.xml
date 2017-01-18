@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00768nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99079846 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991104070352.0</controlfield>
+  <controlfield tag="008">991103n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99079846 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05095187</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hodge, Samuel C.</subfield>
+    <subfield code="q">(Samuel Colgate),</subfield>
+    <subfield code="d">1867-1952</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Souvenir directory of the Fifth Presbyterian Church, Trenton, N.J., 1906:</subfield>
+    <subfield code="b">(Samuel C. Hodge, Pastor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographical catalogue of the Princeton Theological Seminary, 1955 :</subfield>
+    <subfield code="b">p.167 (Hodge, Samuel Colgate; b. Hartford, CT, 4/28/1867; ord. Pby of Lackawanna, 1893; pastorates: Tunkhannock, Pa., 5th Trenton, N.J.; Brainerd Union Ch., Easton, Pa.; 1st, West Chester, Pa.; Mendenhall, Pa.; prof. of Bible, Lincoln U.; d. 6/27/1952)</subfield>
+  </datafield>
+</record>
