@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00600cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87887356 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900606151801.9</controlfield>
+  <controlfield tag="008">880411n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87887356 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Saupe, Dietmar,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Saupe, D.</subfield>
+    <subfield code="q">(Dietmar),</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Science of fractals, c1988:</subfield>
+    <subfield code="b">CIP t.p. (Dietmar Saupe) galley (b. 1954 in Bremen, Ger.; Dr. rer. nat., 1982 at the Univ. of Bremen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bremer Computergraphik-Tage (1988). Visualisierung in Mathematik und Naturwissenschaften, c1989:</subfield>
+    <subfield code="b">t.p. (D. Saupe) t.p. verso (Dietmar Saupe)</subfield>
+  </datafield>
+</record>
