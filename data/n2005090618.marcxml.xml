@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00407cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2005090618</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080808075446.0</controlfield>
+  <controlfield tag="008">051214n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005090618</subfield>
+    <subfield code="z">no2002089001</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, William O.</subfield>
+    <subfield code="q">(William Overton),</subfield>
+    <subfield code="d">1926-</subfield>
+    <subfield code="t">Fancies,</subfield>
+    <subfield code="m">clarinet</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New music for virtuosos, 1998, p1977-1978:</subfield>
+    <subfield code="b">container (Fancies for clarinet alone)</subfield>
+  </datafield>
+</record>
