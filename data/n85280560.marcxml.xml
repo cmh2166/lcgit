@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01052cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85280560 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020726132902.0</controlfield>
+  <controlfield tag="008">861128n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85280560 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01757124</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nazareth, J. L.</subfield>
+    <subfield code="q">(John Lawrence)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nazareth, John Lawrence</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nazareth, Larry</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Computer solution of linear programs, 1987:</subfield>
+    <subfield code="b">CIP t.p. (J.L. Nazareth) bk. t.p. (J.L. Nazareth) t.p. verso (copr. John Lawrence Nazareth)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BFGS with update skipping and varying memory, 1996:</subfield>
+    <subfield code="b">t.p. (Larry Nazareth) p. 1 (Dept. of Pure and Applied Mathematics, Washington State University, Pullman, WA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wash. State Univ., Dept. of Pure and Applied Mathematics Home page, Nov. 3, 2000:</subfield>
+    <subfield code="b">under people (J.L. Nazareth, with hot-link: Larry Nazareth and vitae hot-link: John Lawrence Nazareth; professor; Ph. D. Berkeley, 1973)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Differentiable optimization and equation solving, 2003:</subfield>
+    <subfield code="b">CIP t.p. (John Lawrence Nazareth)</subfield>
+  </datafield>
+</record>
