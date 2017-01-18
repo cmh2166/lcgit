@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00542cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 95015216 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020406071952.0</controlfield>
+  <controlfield tag="008">950329n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95015216 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03803169</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">GU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3525.U84</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arden, Mary,</subfield>
+    <subfield code="d">1902?-1931</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Murry, Violet Middleton,</subfield>
+    <subfield code="d">1902?-1931</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Luck, and other stories, 1972:</subfield>
+    <subfield code="b">t.p. (Mary Arden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 3/29/95</subfield>
+    <subfield code="b">(hdg.: Murry, Violet Middleton, 1902?-1931; usage: Mary Arden)</subfield>
+  </datafield>
+</record>
