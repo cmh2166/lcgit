@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00525nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2001037618</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010918033118.0</controlfield>
+  <controlfield tag="008">010914n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001037618</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaQMCCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaQMCCA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lustig, Alvin,</subfield>
+    <subfield code="d">1915-1955</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The collected writings of Alvin Lustig, 1958:</subfield>
+    <subfield code="b">p. 87, etc. (b. Denver, Colo., Feb. 8, 1915; 1935, studied very briefly with Frank Lloyd Wright; freelance designer with emphasis on architectural, furniture and fabric design; d. Dec. 4, 1955, New York)</subfield>
+  </datafield>
+</record>
