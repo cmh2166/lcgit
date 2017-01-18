@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00573cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85332778 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070106074842.0</controlfield>
+  <controlfield tag="008">851209nc acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85332778 </subfield>
+    <subfield code="z">n 2006094415</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01511377</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Liang, Yuchun,</subfield>
+    <subfield code="d">1906-1932.</subfield>
+    <subfield code="t">Essays.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Liang, Yuchun,</subfield>
+    <subfield code="d">1906-1932.</subfield>
+    <subfield code="t">Liang Yuchun san wen xuan ji</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Liang, Yuchun,</subfield>
+    <subfield code="d">1906-1932.</subfield>
+    <subfield code="t">Liang Yuchun juan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Liang Yü-chʻun san wen hsüan chi, 1983.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Liang Yuchun juan, 2001</subfield>
+  </datafield>
+</record>
