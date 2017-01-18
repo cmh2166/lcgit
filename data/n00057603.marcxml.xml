@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  00057603 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320075044.0</controlfield>
+  <controlfield tag="008">001226n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00057603 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1770</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Bible.</subfield>
+    <subfield code="p">New Testament.</subfield>
+    <subfield code="l">Greek.</subfield>
+    <subfield code="f">1770</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">grc</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Bible.</subfield>
+    <subfield code="p">N.T.</subfield>
+    <subfield code="l">Greek.</subfield>
+    <subfield code="f">1770</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bible. N.T. Greek. 1770. Hē Kainē Diathēkē, 1770</subfield>
+    <subfield code="b">(language not given)</subfield>
+  </datafield>
+</record>
