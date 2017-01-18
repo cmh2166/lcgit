@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00772cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88144382 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080303080714.0</controlfield>
+  <controlfield tag="008">880225n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88144382 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02212858</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Labro, Charles,</subfield>
+    <subfield code="d">1810-1882</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Labro, Ch.</subfield>
+    <subfield code="q">(Charles),</subfield>
+    <subfield code="d">1810-1882</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Labro, C.</subfield>
+    <subfield code="q">(Charles),</subfield>
+    <subfield code="d">1810-1882</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Labro, Nicolas-Charles,</subfield>
+    <subfield code="d">1810-1882</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Caprice pour la contre-basse avec accompagnement de piano, 18--:</subfield>
+    <subfield code="b">t.p. (Charles Labro) caption (Ch. Labro)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His 30 grande eĚtudes pour la contre-basse, 1860?:</subfield>
+    <subfield code="b">t.p. (C. Labro)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Planyavsky, A. Geschichte des Kontrabasses, 1984:</subfield>
+    <subfield code="b">p. 820 (Labro, Nicolas-Charles; b. 1810, d. 1882)</subfield>
+  </datafield>
+</record>
