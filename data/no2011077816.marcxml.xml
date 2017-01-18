@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00497nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011077816</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110520075613.0</controlfield>
+  <controlfield tag="008">110518n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011077816</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08859561</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SG-SiILA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SG-SiILA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dong, Jiquan,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">董吉泉,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dong Jiquan guo hua xuan, 1997 :</subfield>
+    <subfield code="b">t.p. (董吉泉 = Dong Jiquan) biog. (b. 1942, Lanzhou, [China])</subfield>
+  </datafield>
+</record>
