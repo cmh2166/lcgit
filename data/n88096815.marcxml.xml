@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00531cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88096815 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891017054040.8</controlfield>
+  <controlfield tag="008">890907n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88096815 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Howard, A. J.</subfield>
+    <subfield code="q">(Anthony John)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Howard, Anthony John</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haemophilus influenzae, antimicrobials and the host response, 1988:</subfield>
+    <subfield code="b">t.p. (A.J. Howard) vi, etc. (Dept. of Med. Microbiology, Gwynedd Hospital, Bangor, North Wales)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">British Register, 1988</subfield>
+    <subfield code="b">(Howard, Anthony John)</subfield>
+  </datafield>
+</record>
