@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00745nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013101253</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130919073510.0</controlfield>
+  <controlfield tag="008">130918n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013101253</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09570598</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PaPiCLS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PaPiCLS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cyzyk, Skizz</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Baltimore (Md.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Screenwriters</subfield>
+    <subfield code="a">Motion picture producers and directors</subfield>
+    <subfield code="a">Punk rock musicians</subfield>
+    <subfield code="a">Disc jockeys</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Freaks in love, c2012:</subfield>
+    <subfield code="b">title frame (written &amp; directed by Skizz Cyzyk)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Freaks in love WWW site, September 18, 2013:</subfield>
+    <subfield code="b">filmmakers (Skizz Cyzyk; Baltimore-based writer, musician, former radio disc jockey, and filmmaker; veteran of various Baltimore punk bands)</subfield>
+  </datafield>
+</record>
