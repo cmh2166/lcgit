@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00738cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  94104258 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110222104215.0</controlfield>
+  <controlfield tag="008">941028n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94104258 </subfield>
+    <subfield code="z">n  88246271 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03708970</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">AzPhBJB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Kenneth Milton,</subfield>
+    <subfield code="d">1875-1968</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, Kenneth M.</subfield>
+    <subfield code="q">(Kenneth Milton),</subfield>
+    <subfield code="d">1875-1968</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chapman, K. M.</subfield>
+    <subfield code="q">(Kenneth Milton),</subfield>
+    <subfield code="d">1875-1968</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pueblo pottery designs, 1995:</subfield>
+    <subfield code="b">CIP t.p. (Kenneth M. Chapman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10-28-94</subfield>
+    <subfield code="b">(hdg.: Chapman, Kenneth Milton, 1875-1968)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hewett, Edgar L. Pajarito Plateau and its ancient people, 1953:</subfield>
+    <subfield code="b">t.p. (Kenneth M. Chapman) p. 98 (K.M. Chapman)</subfield>
+  </datafield>
+</record>
