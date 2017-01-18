@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00824nz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2007183201</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070818075002.0</controlfield>
+  <controlfield tag="008">070817n| acaaaaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007183201</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1456-4351</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1380584</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Reports of the Department of Mathematical Information Technology (Jyväskylän yliopisto).</subfield>
+    <subfield code="n">Series A,</subfield>
+    <subfield code="p">Collections</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jyväskylän yliopisto.</subfield>
+    <subfield code="t">Reports of the Department of Mathematical Information Technology.</subfield>
+    <subfield code="n">Series A,</subfield>
+    <subfield code="p">Collections</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">No. A 3/2005</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Advanced methods for processing bioelectrical signals, 2005:</subfield>
+    <subfield code="b">t.p. (Reports of the Department of Mathematical Information Technology, Series A, Collections)</subfield>
+  </datafield>
+</record>
