@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00525nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014033813</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140611114146.0</controlfield>
+  <controlfield tag="008">140611n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014033813</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vizzutti, Allen.</subfield>
+    <subfield code="t">Andante and capriccio,</subfield>
+    <subfield code="m">trumpet, organ;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vizzutti, Allen.</subfield>
+    <subfield code="t">Andante and capriccio,</subfield>
+    <subfield code="m">trumpet, string orchestra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gervais, T. Thierry Gervais [SR] 2012:</subfield>
+    <subfield code="b">insert (Andante et capriccio (acc. arr. for string orchestra))</subfield>
+  </datafield>
+</record>
