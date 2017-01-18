@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00573cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85292526 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080413075031.0</controlfield>
+  <controlfield tag="008">870626n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85292526 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01884965</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Funakoshi, Gichin,</subfield>
+    <subfield code="d">1870-1956</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Karate-doĚ nyuĚmon, 1987:</subfield>
+    <subfield code="b">CIP t.p. (Gichin Funakoshi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jinbutsu refarensu j.</subfield>
+    <subfield code="b">(Funakoshi Gichin; b. 1870; d. 1956)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NDL choshamei, 1979</subfield>
+    <subfield code="b">(Funakoshi Gichin; b. 1868; his census registration: b. Meiji 3 [1870] in Okinawa-ken)</subfield>
+  </datafield>
+</record>
