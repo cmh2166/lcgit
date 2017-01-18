@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00618cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011085069</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110622075357.0</controlfield>
+  <controlfield tag="008">110601n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011085069</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08873813</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MX-SlUA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MX-SlUA</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Salazar Rangel, Cuauhtemoc</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rangel, Cuauhtemoc Salazar</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Estadística simplificada, 1973:</subfield>
+    <subfield code="b">verso t.p. (traducción por Ing. Cuauhtemoc Salazar Rangel, Catedrático de la Escuela Nacional Preparatoria, UNAM, México; Jefe del Depto. de Estadística de la Dirección Gral. de Distrito de Riego , S.R.H. México)</subfield>
+  </datafield>
+</record>
