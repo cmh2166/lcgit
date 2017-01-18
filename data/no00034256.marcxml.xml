@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00500cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00034256 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031101071332.0</controlfield>
+  <controlfield tag="008">000512n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00034256 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05218207</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OOxM-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hakola, Riikka</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hakola, Rilkka</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Universitas Helsingiensis 350, p1991:</subfield>
+    <subfield code="b">container (Riikka Hakola, soprano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coates, G. Cette blanche agonie [SR] p2002:</subfield>
+    <subfield code="b">container (Rilkka Hakola, soprano)</subfield>
+  </datafield>
+</record>
