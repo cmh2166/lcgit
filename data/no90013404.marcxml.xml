@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00377nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 90013404 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900721065418.8</controlfield>
+  <controlfield tag="008">900702n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90013404 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU</subfield>
+    <subfield code="c">GU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Weinreb Architectural Gallery</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Print catalogue ; 5. Clayton, P.A. David Roberts' Egypt, c1986:</subfield>
+    <subfield code="b">t.p. (Weinreb Architectural Gallery; London)</subfield>
+  </datafield>
+</record>
