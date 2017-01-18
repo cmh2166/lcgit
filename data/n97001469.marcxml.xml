@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  97001469 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050323111838.0</controlfield>
+  <controlfield tag="008">970107n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97001469 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04242366</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Virkel de Sandler, Ana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Sandler, Ana Virkel</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sandler, Ana Virkel de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Virkel, Ana E.</subfield>
+    <subfield code="q">(Ana Ester)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Trelew, 1994:</subfield>
+    <subfield code="b">t.p. (Ana Virkel de Sandler) p. 5 (Lic. Ana Ester Virkel de Sandler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">EspanĚol de la Patagonia, 2004:</subfield>
+    <subfield code="b">t.p. (Ana E. Virkel)</subfield>
+  </datafield>
+</record>
