@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00546cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2005087070</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050922105902.0</controlfield>
+  <controlfield tag="008">050920n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005087070</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06736405</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Marks, Marilla</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Memoirs of the life of David Marks, minister of the gospel, 1846:</subfield>
+    <subfield code="b">t.p. (Marilla Marks)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Sept. 19, 2005</subfield>
+    <subfield code="b">(hdgs.: Marks, Marilla; Marks, Marilla Turner; Marks, Marilla (Turner); Marks, Marilla (Turner), Mrs.; usage: Marilla Marks)</subfield>
+  </datafield>
+</record>
