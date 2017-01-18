@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2010034804</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100602074855.0</controlfield>
+  <controlfield tag="008">100601n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010034804</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kokka Kōmuin Rinri Shinsakai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">国家公務員倫理審查会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kōmuin rinri no kakuritsu ni mukete, 2009:</subfield>
+    <subfield code="b">t.p. (国家公務員倫理審查会 = Kokka Kōmuin Rinri Shinsakai) pref. (est. Dec. 3, 1999)</subfield>
+  </datafield>
+</record>
