@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00867cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  82231076 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120808081706.0</controlfield>
+  <controlfield tag="008">831222n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82231076 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00883914</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Vsesoi︠u︡znoe soveshchanie po geokhimii ugleroda</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Geokhimii ugleroda, Vsesoi︠u︡znoe soveshchanie po</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Soveshchanie po geokhimii ugleroda, Vsesoi︠u︡znoe</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Vsesoi︠u︡znoe soveshchanie po geokhimii ugleroda, 1981:</subfield>
+    <subfield code="b">t.p. (Vsesoi︠u︡znoe soveshchanie po geokhimii ugleroda; held 12/14-16/81 in Moscow)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its (2nd : 1986 : Moscow, R.S.F.S.R.). Vtoroe Vsesoi︠u︡znoe soveshchanie po geokhimii ugleroda, 1986.</subfield>
+  </datafield>
+</record>
