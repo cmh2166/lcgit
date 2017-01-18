@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01022cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  95014354 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130803073919.0</controlfield>
+  <controlfield tag="008">950213n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95014354 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03772511</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1941</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tsesis, Vladimir</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Moldova</subfield>
+    <subfield code="e">U.S.</subfield>
+    <subfield code="s">1974</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Pediatricians</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Цесис, В. А.</subfield>
+    <subfield code="q">(Владимир Абрамович)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">T︠S︡esis, V. A.</subfield>
+    <subfield code="q">(Vladimir Abramovich)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Children, parents, lollipops, c1995:</subfield>
+    <subfield code="b">CIP t.p. (Vladimir A. Tsesis) bk. t.p. (Vladimir Tsesis, M.D.) spine (Vladimir A. Tsesis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Putʹ k vere, 2012:</subfield>
+    <subfield code="b">t.p. (Владимир Цесис = Vladimir T︠S︡esis) t.p. verso (T︠S︡esis V. A.)  p. 4 of cover (Vladimir Abramovich T︠S︡esis; born in 1941 in Moldavia; pediatrician, since 1974 lives in the US)</subfield>
+  </datafield>
+</record>
