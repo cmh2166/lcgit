@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00542nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011100086</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110630075151.0</controlfield>
+  <controlfield tag="008">110628n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011100086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08900248</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wood, B. A.</subfield>
+    <subfield code="q">(Brent A.),</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wood, Brent,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nature and extent of commercial fishing effort ... 2011:</subfield>
+    <subfield code="b">t.p. (B.A. Wood)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NIWA WWW site, June 22, 2011</subfield>
+    <subfield code="b">(Brent Wood)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ files, June 22, 2011</subfield>
+    <subfield code="b">(hdg: Wood, B. A., 1958-)</subfield>
+  </datafield>
+</record>
