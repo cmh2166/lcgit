@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00679cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 97016000 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081024081814.0</controlfield>
+  <controlfield tag="008">970430n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97016000 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04331266</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Umemura, Kiyohiro,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">梅村淸弘,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">梅村清弘,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kantoku no jōken, 1987:</subfield>
+    <subfield code="b">t.p. (Umemura Kiyohiro) colophon (prof., Chūkyō Daigaku)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zenkoku daigaku shokuin, shiritsu, 1993:</subfield>
+    <subfield code="b">p. 1369 (b. Shōwa 12)</subfield>
+  </datafield>
+</record>
