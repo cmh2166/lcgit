@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00617cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010057582</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141205073916.0</controlfield>
+  <controlfield tag="008">100407n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010057582</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08451797</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CoU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fauq, Muḥammaduddīn,</subfield>
+    <subfield code="d">1887-1945.</subfield>
+    <subfield code="t">Mukammal tārīk̲h̲-i Kashmīr.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fauq, Muḥammaduddīn,</subfield>
+    <subfield code="d">1887-1945.</subfield>
+    <subfield code="t">Complete history of Kashmir</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Fauq, Muḥammaduddīn,</subfield>
+    <subfield code="d">b. 1887.</subfield>
+    <subfield code="t">Mukammal tārīk̲h̲-i Kashmīr.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A complete history of Kashmir, 2009.</subfield>
+  </datafield>
+</record>
