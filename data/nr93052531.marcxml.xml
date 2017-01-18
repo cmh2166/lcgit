@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00453nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 93052531 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940104053836.0</controlfield>
+  <controlfield tag="008">931223n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93052531 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPL</subfield>
+    <subfield code="c">PPL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hopkins, Arthur F.</subfield>
+    <subfield code="q">(Arthur Francis),</subfield>
+    <subfield code="d">1794-1865</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Hopkins, Arthur Francis,</subfield>
+    <subfield code="d">1794-1865</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Speech of Hon. Arthur F. Hopkins ... 1850</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 12/23/93</subfield>
+    <subfield code="b">(hdg.: Hopkins, Arthur Francis, 1794-1865)</subfield>
+  </datafield>
+</record>
