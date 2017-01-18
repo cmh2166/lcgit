@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97077297 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971220062046.9</controlfield>
+  <controlfield tag="008">971219n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97077297 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04561889 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Richter, Jer. Benj.</subfield>
+    <subfield code="q">(Jeremias Benjamin),</subfield>
+    <subfield code="d">1762-1807</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Richter, Jeremias Benjamin,</subfield>
+    <subfield code="d">1762-1807</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chemisches HandwoĚrterbuch nach den neuesten Entdeckungen, 1802-1805:</subfield>
+    <subfield code="b">v. 5, t.p. (Jer. Benj. Richter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Richter, Jeremias Benjamin, 1762-1807)</subfield>
+  </datafield>
+</record>
