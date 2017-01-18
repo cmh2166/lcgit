@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010114011</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100717130911.0</controlfield>
+  <controlfield tag="008">100715n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010114011</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08559385</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abdul-Rahman, Abdul Rahim</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Abdul Rahim Abdul-Rahman</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rahman, Abdul Rahim Abdul-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Accountability verstehen, 2003:</subfield>
+    <subfield code="b">t.p. (Abdul Rahim Abdul-Rahman, Dept. of Accounting, Kulliyyah of Economics and Management Sciences, International Islamic University Malaysia) p. 21 (Abdul Rahman, A.R.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RePEc database, July 15, 2010</subfield>
+    <subfield code="b">(Abdul Rahman, Abdul Rahim )</subfield>
+  </datafield>
+</record>
