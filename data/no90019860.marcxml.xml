@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00454nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 90019860 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900920132403.9</controlfield>
+  <controlfield tag="008">900919n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90019860 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Joint Resolution Designating July 2, 1990 as "National Literacy Day"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Public Law 101-327</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Joint Resolution Designating July 2, 1990, as "National Literacy Day," 1990.</subfield>
+  </datafield>
+</record>
