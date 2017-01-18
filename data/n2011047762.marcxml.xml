@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00677nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2011047762</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110716143133.0</controlfield>
+  <controlfield tag="008">110715n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011047762</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dan, Norihiko,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tuan, Jiyan,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">團紀彥,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shi gou zhu ing, 2010:</subfield>
+    <subfield code="b">colophon (團紀彥 = Tuan Jiyan; Dan Norihiko [Jpn. reading])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Norihiko Dan and Associates WWW site (English), July 15, 2011:</subfield>
+    <subfield code="b">(團紀彥 = Dan Norihiko; architect / urban designer; b. 1956 in Kanagawa-ken; M.A. in architecture, Yale Univ., 1984)</subfield>
+  </datafield>
+</record>
