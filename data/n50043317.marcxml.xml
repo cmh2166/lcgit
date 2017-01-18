@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00696cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  50043317 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090802074819.0</controlfield>
+  <controlfield tag="008">800801n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50043317 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00078487</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCUCA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brandon, Henry,</subfield>
+    <subfield code="d">1916-1993</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brandon, Henry O.,</subfield>
+    <subfield code="d">1916-1993</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His As we are, 1961.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">President vs. Congress--does the separation of powers still work? c1981:</subfield>
+    <subfield code="b">t.p. (Henry O. Brandon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWWA:</subfield>
+    <subfield code="b">v. 11 1993-1996 (Brandon, Henry Oscar; writer, consultant; b. Mar. 9, 1916; Chief Am. corr. Sunday Times of London 1949-1983; internat. cons. Washington, 1982-1993; d. Apr. 20, 1993)</subfield>
+  </datafield>
+</record>
