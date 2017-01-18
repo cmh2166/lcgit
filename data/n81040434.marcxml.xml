@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00447nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  81040434 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">810506n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81040434 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Stroudsburg Fur Dressing Corp.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dealer's and trapper's listing book, 1980-81 (a.e.)</subfield>
+    <subfield code="b">spine (Stroudsburg Fur Dressing Corp.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to publisher, 3/31/81</subfield>
+    <subfield code="b">(Stroudsburg Fur Dressing Corporation)</subfield>
+  </datafield>
+</record>
