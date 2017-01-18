@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01247cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  85064108 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100516080615.0</controlfield>
+  <controlfield tag="008">851031n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85064108 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E1700900</subfield>
+    <subfield code="e">E1700900</subfield>
+    <subfield code="f">S0450200</subfield>
+    <subfield code="g">S0450200</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01491958</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">Nz</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">u-nz---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Naseby (N.Z.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Naseby Borough (N.Z.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Borough of Naseby (N.Z.)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="a">Central Otago District (N.Z.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Zealand. Dept. of Lands and Survey. Street map of Oamaru, Weston, Palmerston, Waimate, Naseby, Ranfurly, Waikouaiti ... 1983.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN 9/24/85</subfield>
+    <subfield code="b">(Naseby, borough, 45°02ʹS, 170°09ʹE; variant: Naseby Borough)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Statement of statistics relating to the Borough of Naseby as at 31st March, 1976</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Local government reorganisation, 1989:</subfield>
+    <subfield code="b">p. 154 (Central Otago District) p. 162 (Local authorities and districts to be abolished [include] Naseby Borough)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Discover New Zealand, 1994:</subfield>
+    <subfield code="b">p. 490 (Naseby, situated ... [in] Central Otago District)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(civil; 45°02ʹ00ʺS 170°09ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">New Zealand</subfield>
+    <subfield code="z">Naseby</subfield>
+  </datafield>
+</record>
