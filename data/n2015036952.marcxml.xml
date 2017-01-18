@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00797nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2015036952</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150610170827.0</controlfield>
+  <controlfield tag="008">150610n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015036952</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Svali︠a︡vsʹkyĭ raĭon (Ukraine)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Svali︠a︡va (Ukraine : Raion)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Svalyavskiy rayon (Ukraine)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Svalyavsʹkyy rayon (Ukraine)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNVP "Kartohrafii︠a︡" (Organization : Ukraine). Svali︠a︡va, masshtab 1:12 000, 2011:</subfield>
+    <subfield code="b">map recto (Svali︠a︡vsʹkyĭ raĭon, Zakarpatsʹka oblastʹ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet search, 10 June 2015</subfield>
+    <subfield code="b">(Svalyavsʹkyy Rayon [approved], Zakarpatsʹka Oblastʹ, Ukraine, second-order administrative division (ADM2), 48°34ʹ51ʺN 23°03ʹ50ʺE; variant: Svalyavskiy Rayon)</subfield>
+  </datafield>
+</record>
