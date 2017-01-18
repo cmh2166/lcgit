@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2009117440</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090804075142.0</controlfield>
+  <controlfield tag="008">090730n| acaaaaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009117440</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08189097</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IArlh</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IArlh</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Classic musicals from the dream factory</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Vol. 3</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Burbank, CA</subfield>
+    <subfield code="b">Warner Home Video</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">IArlh</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">IArlh</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">IArlh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hit the deck, 2008:</subfield>
+    <subfield code="b">box (Classic musicals from the dream factory.  Vol. 3)</subfield>
+  </datafield>
+</record>
