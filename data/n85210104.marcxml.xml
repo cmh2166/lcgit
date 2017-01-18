@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01220nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85210104 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860508072203.4</controlfield>
+  <controlfield tag="008">860326n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85210104 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">National Newark Banking Company (N.J.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Newark Banking Company (N.J.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">National Newark &amp; Essex Banking Company (N.J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from New Jersey His. Soc. for Banking and insurance collection, 1804-1956</subfield>
+    <subfield code="b">(National Newark Banking Company; established 1804 as Newark Banking and Insurance Company; became Newark Banking Company in 1859; National Newark Banking Company in 1865; and National Newark and Essex Banking Company in 1917)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moody's Bank &amp; Finance Manual, 1969:</subfield>
+    <subfield code="b">p. 249 (National Newark Banking Company; founded as Newark Banking &amp; Insurance Company; became Newark Banking Company in 1859, National Newark Banking Company, 1865; absorbed Essex County Bank in 1917 and became National Newark &amp; Essex Banking Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: National Newark &amp; Essex Banking Company, Newark, N.J.; result of merger of National Newark Banking Company, Newark City National Bank, and Essex County National Bank)</subfield>
+  </datafield>
+</record>
