@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01235cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 98089494 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081008080950.0</controlfield>
+  <controlfield tag="008">980604n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98089494 </subfield>
+    <subfield code="z">no 98078412 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04743558</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Moskovskai︠a︡ mezhbankovskai︠a︡ vali︠u︡tnai︠a︡ birzha</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Moscow Interbank Currency Exchange</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MMVB</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MICEX</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Московская межбанковская валютная биржа</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Can not determine relation to the Moskovskai︠a︡ birzha</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Instituty rynka t︠s︡ennykh bumag v Rossii, 1997:</subfield>
+    <subfield code="b">t.p. (Moskovskai︠a︡ mezhbankovskai︠a︡ vali︠u︡tnai︠a︡ birzha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vremi︠a︡ i birzhi Rossii, 1998:</subfield>
+    <subfield code="b">credits (MMVB) container (Moskovskai︠a︡ mezhbankovskai︠a︡ vali︠u︡tnai︠a︡ birzha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Google, May 12, 2008</subfield>
+    <subfield code="b">("Russian Stock Exchange was called MMBV ... Now it's called MICEX"--not really true.  MICEX became its derivative acronym, à la FTSE or DAX)</subfield>
+  </datafield>
+</record>
