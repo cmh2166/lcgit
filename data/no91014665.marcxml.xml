@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01705cz  a2200265n  4500</leader>
+  <controlfield tag="001">no 92011536 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100717130737.0</controlfield>
+  <controlfield tag="008">920430n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92011536 </subfield>
+    <subfield code="z">no 91014665 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03171795</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="c">InU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TxU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ensemble d'archets Eugène Ysaÿe</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ensemble Eugène Ysaÿe</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Orchestre de chambre de Wallonie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Eugène Ysäye String Ensemble</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Solistes de Bruxelles</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Orchestre royal de chambre de Wallonie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Konzerte für Fagott und Orchester [SR] 1972:</subfield>
+    <subfield code="b">labels (Ensemble d'archets Eugène Ysaÿe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bach, J.S. Concerto en la mineur pour violon et orchestre, 198-?:</subfield>
+    <subfield code="b">label (Ensemble d'archets Eugène Ysaÿe) container (Orchestre de chambre de Wallonie = Ensemble Eugène Ysaÿe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove: s.v. Bobesco, Lola</subfield>
+    <subfield code="b">(Ensemble d'archets Eugène Ysaÿe, originally named Les solistes de Bruxelles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uy, P. Choral pour la paix [SR] 1996?:</subfield>
+    <subfield code="b">container (Orchestre royal de chambre de Wallonie) insert (string ensemble to which other instruments are added as necessary; founded 1958 by Lola Bobesco)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Croes, Hendrik-Jacques de. Concerto septimo pour violon solo, orchestre à cordes et clavecin [SR] p1973:</subfield>
+    <subfield code="b">label (Ensemble d'archets Eugène Ysaÿe) insert (Eugène Ysäye String Ensemble; also appears under the name of Chamber Orchestra of Wallonia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Int. ww in mus., 10th ed.:</subfield>
+    <subfield code="b">p. 1133 (Ensemble d'archets Eugène Ysaÿe)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Int. ww in mus., 13th ed.: p. 1225 (Orchestre royal de chambre de Wallonie et de la Communauté française)</subfield>
+  </datafield>
+</record>
