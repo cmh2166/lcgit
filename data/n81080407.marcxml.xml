@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00479nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81080407 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">810731n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81080407 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Verein "Kind-Familie-Umwelt" (Vienna, Austria)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Kind-Familie-Umwelt, Verein (Vienna, Austria)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kind und Umwelt, 1980 (a.e.)</subfield>
+    <subfield code="b">3rd prelim. p. (Verein "Kind-Familie-Umwelt")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adressb. Wien, 1977</subfield>
+    <subfield code="b">(Kind-Familie-Umwelt)</subfield>
+  </datafield>
+</record>
