@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01302cz  a2200253n  4500</leader>
+  <controlfield tag="001">no2004072024</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150403075550.0</controlfield>
+  <controlfield tag="008">040728n| azannaabn           a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004072024</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06404098</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">RPB</subfield>
+    <subfield code="d">CU-S</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19771026</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Prado, Fabrício Pereira</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">fpprado@wm.edu</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Rio de la Plata (Argentina and Uruguay)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">College of William and Mary</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pereira Prado, Fabrício</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A colônia do Sacramento, 2002:</subfield>
+    <subfield code="b">t.p. (Fabrício Pereira Prado)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Prado, Fabricio. Edge of empire, 2015:</subfield>
+    <subfield code="b">ECIP t.p. (Fabricio Prado) data view (Prado, Fabricio Pereira ; birthdate Oct. 26, 1977)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">College of William and Mary website, March 31, 2015:</subfield>
+    <subfield code="b">faculty page (Fabricio Prado; His book manuscript analyzes trans-imperial networks of interaction among Spanish, Portuguese and British subjects in Rio de la Plata. Currently, Fabrício is researching the social and commercial networks linking New England to Rio de la Plata in the last decades of colonial rule in Latin America; fpprado@wm.edu)</subfield>
+    <subfield code="u">http://www.wm.edu/as/globalstudies/latinamerican/faculty/prado.php</subfield>
+  </datafield>
+</record>
