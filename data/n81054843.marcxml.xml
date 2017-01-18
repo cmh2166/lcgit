@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00677cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  81054843 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080413074827.0</controlfield>
+  <controlfield tag="008">810609n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81054843 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00600326</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MH</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3553.A5475</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cantor, Jay</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="a">Plessis,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The space between, c1981:</subfield>
+    <subfield code="b">t.p. (Jay Cantor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Great Neck, 2002:</subfield>
+    <subfield code="b">CIP t.p. (Jay Cantor) data sheet (b. Aug. 1948)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Niche, c2007:</subfield>
+    <subfield code="b">t.p. (Plessis) p. 4 of cover (Jay Cantor (Plessis) is the author of ... Great neck, and ... The space between; professor of English at Tufts University)</subfield>
+  </datafield>
+</record>
