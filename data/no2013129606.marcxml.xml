@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00806nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013129606</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131120073539.0</controlfield>
+  <controlfield tag="008">131119n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013129606</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09619008</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OAkU-AV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OAkU-AV</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1926</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Baron, Brunon,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Poland</subfield>
+    <subfield code="e">Doncaster (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">England</subfield>
+    <subfield code="s">1945-01</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Guitar--Performance</subfield>
+    <subfield code="a">Guitar--Instruction and study</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Guitarists</subfield>
+    <subfield code="a">Music teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baron, Brunon. 7 solos for first year students, ÂŠ1968:</subfield>
+    <subfield code="b">title page (Brunon Baron) page 8 (born in Tozew [i.e. Tczew?], Poland in 1926; came to England in January 1945; he lives in Doncaster (Yorks.); guitar teacher, mostly for school children)</subfield>
+  </datafield>
+</record>
