@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00490nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 94010805 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940413173822.7</controlfield>
+  <controlfield tag="008">940404n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94010805 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSC-Hi</subfield>
+    <subfield code="c">PSC-Hi</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hanbury, Daniel Bell,</subfield>
+    <subfield code="d">1794-1882</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hanbury-Aggs family papers, 1718-1914</subfield>
+    <subfield code="b">(Daniel Bell Hanbury)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PSC-Hi files</subfield>
+    <subfield code="b">(Daniel Bell Hanbury; b. 1794 son of Capel &amp; Charlotte Bell Hanbury; m. 1824 Rachel Christy; d. 1882; Quaker pharmacologist)</subfield>
+  </datafield>
+</record>
