@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00520cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82102178 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130308081110.0</controlfield>
+  <controlfield tag="008">820803n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82102178 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">John Paul</subfield>
+    <subfield code="b">II,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">1920-2005.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">John Paul</subfield>
+    <subfield code="b">II,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">1920-2005.</subfield>
+    <subfield code="t">Collected poems</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">John Paul</subfield>
+    <subfield code="b">II,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">1920-2005.</subfield>
+    <subfield code="t">Place within</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Collected poems, 1982.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The place within, c1994.</subfield>
+  </datafield>
+</record>
