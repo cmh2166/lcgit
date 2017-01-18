@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01114cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  42023836 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041112080412.0</controlfield>
+  <controlfield tag="008">830401n| acaaaaaa           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  42023836 </subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">0348-291X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Studies in education and psychology (Högskolan för lärarutbildning i Stockholm. Institutionen för pedagogik)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Högskolan för lärarutbildning i Stockholm.</subfield>
+    <subfield code="b">Institutionen för pedagogik.</subfield>
+    <subfield code="t">Studies in education and psychology</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Studies in education and psychology (Stockholm)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">8</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Stockholm</subfield>
+    <subfield code="b">Almqvist &amp; Wiksell International</subfield>
+    <subfield code="d">23-</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Lund</subfield>
+    <subfield code="b">LiberLäromedel/Gleerup</subfield>
+    <subfield code="d">1-22</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adult education for social change. 1980.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Health and sex education of schoolchildren with intellectual handicaps, 1991:</subfield>
+    <subfield code="b">t.p. (Almqvist &amp; Wiksell International) t.p. verso (Stockholm) ser. t.p. (Studies in education and psychology; Stockholm Institute of Education, Department of Educational Research)</subfield>
+  </datafield>
+</record>
