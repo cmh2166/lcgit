@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00776cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 95032520 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961101152701.0</controlfield>
+  <controlfield tag="008">950707n| acannaab|          |a anc     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95032520 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03871072 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="c">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">NGO Anti-Narcotics Coordinating Center (Thailand)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">NGO-ANCC</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Saphā Sangkhomsongkhrǫ hǣng Prathēt Thai.</subfield>
+    <subfield code="b">NGO Anti-Narcotics Coordinating Center</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Newsletter (NGO Anti-Narcotics Coordinating Center (Thailand)), Jan.-Feb.-Mar. 1993:</subfield>
+    <subfield code="b">t.p. (NGO Anti-Narcotics Coordinating Center ... Bangkok; NGO-ANCC)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Directory, ASEAN NGOs community resources ... 1994?:</subfield>
+    <subfield code="b">t.p. (NGO Anti-Narcotics Coordinating Center, National Council on Social Welfare of Thailand)</subfield>
+  </datafield>
+</record>
