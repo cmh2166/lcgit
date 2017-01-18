@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01231cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  82248274 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080827075704.0</controlfield>
+  <controlfield tag="008">840307n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82248274 </subfield>
+    <subfield code="z">n  83137505 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01062948</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kurimoto, Tanshū,</subfield>
+    <subfield code="d">1756-1834</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kurimoto, Masayoshi,</subfield>
+    <subfield code="d">1756-1834</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kurimoto, Zuisenʼin,</subfield>
+    <subfield code="d">1756-1834</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kurimoto, Zuiken,</subfield>
+    <subfield code="d">1756-1834</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">栗本丹洲,</subfield>
+    <subfield code="d">1756-1834</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">栗本瑞仙院,</subfield>
+    <subfield code="d">1756-1834</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Senchūfu, 1982:</subfield>
+    <subfield code="b">half t.p. (Kurimoto Tanshū) p. 5, 2nd gr. (real name: Kurimoto Masayoshi; assumed name: Tanshū; 1821, became ch. physician, and called Zuisenʼin; b. 7/27/Hōreki 6; d. 3/25/Tenpō 5)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kokusho sōmokuroku, author index</subfield>
+    <subfield code="b">(Kurimoto Tanshū (Shōzō[?], Zuiken, Zuisenʼin))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nihon rekishi d.j., 1973</subfield>
+    <subfield code="b">(Kurimoto Zuisenʼin, 1756-1834)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dai jinmei j.</subfield>
+    <subfield code="b">(Kurimoto Zuisenʼin, 1756-1834)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kappa suiko kōryaku, 1830?:</subfield>
+    <subfield code="b">(caption t.p. (Kurimoto Zuiken)</subfield>
+  </datafield>
+</record>
