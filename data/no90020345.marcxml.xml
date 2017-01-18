@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00616cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 90020345 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960918095630.0</controlfield>
+  <controlfield tag="008">900925n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90020345 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">OĚsterreichische Nationalbibliothek.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">Lat. 3168</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Cod. Vindob. lat. 3168</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Codice Vindobonense lat. 3168</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cappelletto, R. La "lectura Plauti" del Pontano, 1988:</subfield>
+    <subfield code="b">t.p. (...del cod. Vindob. lat. 3168) p. 7 (questo Plauto Vindobonense autografo del Pontano .... Codice di Vienna) p. 19 (il codice Wien, Oesterr. Naitonalbibl., lat. 3168)</subfield>
+  </datafield>
+</record>
