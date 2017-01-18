@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00722cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  97097919 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060307052230.0</controlfield>
+  <controlfield tag="008">970925n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97097919 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04454550</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Korb (Rem-Murr-Kreis, Germany)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Korb, Ger. (Landkreis Waiblingen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Städte-Verlag. Ortsplan Korb, 1983?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 9-25-97</subfield>
+    <subfield code="b">(hdg.: Korb, Ger. (Landkreis Waiblingen))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Müllers, 1968</subfield>
+    <subfield code="b">(Korb Kr. Waiblingen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Müllers, 24. Aufl.</subfield>
+    <subfield code="b">(Korb, Kr. Rem-Murr-Kreis, Bad Württ.; 5 listed, 3 in Bad Württ.)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Germany</subfield>
+    <subfield code="z">Korb (Rem-Murr-Kreis)</subfield>
+  </datafield>
+</record>
