@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01409cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  93801354 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312091622.0</controlfield>
+  <controlfield tag="008">930505n| azannaab           |a ana     b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93801354 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Virginia Commonwealth University.</subfield>
+    <subfield code="b">Geriatric Education Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Geriatric Education Center (Richmond, Va.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Virginia Commonwealth University.</subfield>
+    <subfield code="b">Department of Gerontology.</subfield>
+    <subfield code="b">Geriatric Education Center</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Virginia Commonwealth University.</subfield>
+    <subfield code="b">Department of Gerontology</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Challenge of Alzheimer's disease [VR] c1990:</subfield>
+    <subfield code="b">credit frame (Geriatric Education Center, Richmond, Va.; Geriatric Education Center, Virginia Commonwealth University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Model gerontology career development program ... 1987:</subfield>
+    <subfield code="b">t.p. (Virginia Center on Aging, Department of Gerontology; Virginia Commonwealth University) cover (Virginia Center on Aging; Geriatric Education Center) p. 1 (the Virginia Center on Aging and the Department of Gerontology)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Geriatric Education Center, 4/20/94</subfield>
+    <subfield code="b">(Geriatric Education Center is subord. to Dept. of Gerontology; Va. Center on Aging is a University unit also, but not administratively related to Geriatric Education Center, although both are in same building; Geriatric Education Center also known as Virginia Geriatric Education Center)</subfield>
+  </datafield>
+</record>
