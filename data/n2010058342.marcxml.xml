@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00564cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2010058342</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100904075005.0</controlfield>
+  <controlfield tag="008">100903n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010058342</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, Addie,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name authority record n 2003032382</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The little book of big excuses, 2007:</subfield>
+    <subfield code="b">ECIP t.p. (Addie Johnson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Johnson, Addie. Lemons to lemonade, 2010:</subfield>
+    <subfield code="b">t.p. (Addie Johnson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to publisher, Sept. 3, 2010:</subfield>
+    <subfield code="b">(b. Aug. 13, 1976)</subfield>
+  </datafield>
+</record>
