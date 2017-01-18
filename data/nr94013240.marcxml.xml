@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00717cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 94013240 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070802075345.0</controlfield>
+  <controlfield tag="008">940420n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94013240 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DeGH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DeGH</subfield>
+    <subfield code="d">DeGH</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mullestein, W. E.</subfield>
+    <subfield code="q">(William Ernest),</subfield>
+    <subfield code="d">1911-2005</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mullestein, William Ernest,</subfield>
+    <subfield code="d">1911-2005</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lukens Steel Company. Executive officer files, 1903-1979</subfield>
+    <subfield code="b">(W.E. Mullestein; William Ernest Mullestein; steel industry exec.; b. Aug. 22, 1911 at St. Gallen, Switz.; joined Lukens Steel Co., 1944; pres., 1969-74; chairman, 1974-78)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Philadelphia inquirer, April 23, 2005:</subfield>
+    <subfield code="b">p. B6 (William E. "Whitey" Mullestein; d. April 20, 2005 at West Chester, Pa.)</subfield>
+  </datafield>
+</record>
