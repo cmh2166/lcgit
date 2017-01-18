@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00782nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2004062939</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040702051826.0</controlfield>
+  <controlfield tag="008">040701n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004062939</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06383449</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Publications of the Institute of Industrial Relations, University of California</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of California, Berkeley.</subfield>
+    <subfield code="b">Institute of Industrial Relations.</subfield>
+    <subfield code="t">Publications of the Institute of Industrial Relations, University of California</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Berkeley</subfield>
+    <subfield code="b">University of California Press</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arbitration of wages, 1954:</subfield>
+    <subfield code="b">t.p. (Publications of the Institute of Industrial Relations, University of California)</subfield>
+  </datafield>
+</record>
