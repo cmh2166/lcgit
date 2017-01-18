@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00376nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2015068337</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150523073534.0</controlfield>
+  <controlfield tag="008">150522n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015068337</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10173278</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Preti, Mattia,</subfield>
+    <subfield code="d">1613-1699.</subfield>
+    <subfield code="t">Paintings.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Caravaggio e Mattia Preti a Taverna, 2015.</subfield>
+  </datafield>
+</record>
