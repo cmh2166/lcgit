@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00685nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 98043080 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981203051505.6</controlfield>
+  <controlfield tag="008">981201n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98043080 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Santini, Giovan Battista,</subfield>
+    <subfield code="d">1882-1956</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Santini, Giovanni Battista,</subfield>
+    <subfield code="d">1882-1956</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giovan Battista Santina, 1998:</subfield>
+    <subfield code="b">p. 211 (b. Castiglione Garfagnana, 1882; d. Castiglione Garfagnana, Sept. 1956; painter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vollmer, 1953-1962:</subfield>
+    <subfield code="b">v. 4, p. 158 (Santini, Giovanni Battista; b. Castiglione Garfagnana, Apr. 8, 1882; Italian painter)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">BeĚneĚzit, 1976;</subfield>
+    <subfield code="a">Bolaffi, 1972-1976;</subfield>
+    <subfield code="a">Dict. of art, 1996;</subfield>
+    <subfield code="a">Thieme-Becker, 1907</subfield>
+  </datafield>
+</record>
