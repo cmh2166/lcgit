@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00653nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012111225</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120819075216.0</controlfield>
+  <controlfield tag="008">120817n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012111225</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09279816</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bergasa Perdomo, Óscar,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Perdomo, Óscar Bergasa,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bergasa, Óscar,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Desarrollo y subdesarrollo en la economía canaria, 1969:</subfield>
+    <subfield code="b">t.p. (Óscar Bergasa)  back cover (Óscar Bergasa Perdomo; b. 1941)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 17, 2012</subfield>
+    <subfield code="b">(hdg.: Bergasa Perdomo, Óscar, 1941- ; usage: Óscar Bergasa Perdomo; Oscar Bergasa)</subfield>
+  </datafield>
+</record>
