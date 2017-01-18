@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00495nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010161059</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101006075359.0</controlfield>
+  <controlfield tag="008">101004n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010161059</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08645158</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NRU-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NRU-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chung, Boram,</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung, B. Boram Chung, piano [SR], 2006:</subfield>
+    <subfield code="b">label (Boram Chung, piano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Eastman School of Music Registrar's Office, Aug. 3, 2010</subfield>
+    <subfield code="b">(Chung, Boram;  b. July 18, 1975)</subfield>
+  </datafield>
+</record>
