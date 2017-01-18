@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00897cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  82049757 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081015073535.0</controlfield>
+  <controlfield tag="008">820412n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82049757 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00746702</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NNU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL991.415.U18</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kim, U-jin,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Susan,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kim, Susan,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">金佑鎭,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">金祐鎭,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">金祐鎮,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김 우진,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김우진,</subfield>
+    <subfield code="d">1897-1926</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Kim U-jin chakpʻumjip, 1979:</subfield>
+    <subfield code="b">t.p. (Kim U-jin) p. 179, etc. (b. 9-1897; d. 8-4-26)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Susan Kim U-jin yŏnʼgu, 2004:</subfield>
+    <subfield code="b">t.p. (Susan Kim U-jin)</subfield>
+  </datafield>
+</record>
