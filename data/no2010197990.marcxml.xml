@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00596nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010197990</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101209075553.0</controlfield>
+  <controlfield tag="008">101207n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010197990</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08707657</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InIU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InIU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Armstrong, Richard Harding</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Armstrong, R. H.</subfield>
+    <subfield code="q">(Richard Harding)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Florida chancery jurisprudence, 1927:</subfield>
+    <subfield code="b">t.p. (Richard Harding Armstrong, LL.B.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 7, 2010</subfield>
+    <subfield code="b">(hdg.: Armstrong, Richard Harding; Armstrong, R. H. (Richard Harding); usage: Richard Harding Armstrong, R.H. Armstrong)</subfield>
+  </datafield>
+</record>
