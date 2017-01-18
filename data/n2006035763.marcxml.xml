@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2006035763</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060506113059.0</controlfield>
+  <controlfield tag="008">060506n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006035763</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Saint-Donat (Parish : Montréal, Québec)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Paroisse Saint-Donat (Montréal, Québec)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">St-Donat (Parish : Montréal, Québec)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gallien, Léda. Mariages 1956-2003 et sépultures 1954-2003 de la Paroisse Saint-Donat de Montréal, 2004.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LAC, 2006-05-06</subfield>
+    <subfield code="b">(Saint-Donat (Parish : Montréal, Québec))</subfield>
+  </datafield>
+</record>
