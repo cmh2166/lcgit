@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00469nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90613296 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900221142254.4</controlfield>
+  <controlfield tag="008">900221n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90613296 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Heyne, Werner</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heyne, W.</subfield>
+    <subfield code="q">(Werner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-32253: Leitungsorganisation in Tierproduktionsbetrieben, 1978</subfield>
+    <subfield code="b">(usage on DNAL rept.: W. Heyne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 02-21-90</subfield>
+    <subfield code="b">(hdg.: Heyne, Werner; usage: Werner Heyne)</subfield>
+  </datafield>
+</record>
