@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00633cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2009021911</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140207111238.0</controlfield>
+  <controlfield tag="008">090901n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009021911</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007556178</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roth, Eugen,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Roth, Eugen,</subfield>
+    <subfield code="c">Dr.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">EinhundertfuĚnfzig Jahre Verlag Gerhard Stalling, 1789-1939, 1939:</subfield>
+    <subfield code="b">t.p. (Dr. Eugen Roth)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Innere Gewissheit und absolutes Wissen, c2011:</subfield>
+    <subfield code="b">t.p. (Eugen Rth) verso t.p. (Dr., MaĚnnedorf) p. 337 (many works listed)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB in VIAF, Feb. 4, 2014</subfield>
+    <subfield code="b">(Roth, Eugen, b. 1941)</subfield>
+  </datafield>
+</record>
