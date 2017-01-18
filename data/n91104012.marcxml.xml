@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00997cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  91104012 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071221074848.0</controlfield>
+  <controlfield tag="008">911011n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91104012 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03039324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Nz</subfield>
+    <subfield code="d">TnLvILS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fulton, Jennifer,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Beecham, Rose,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Knight, Jennifer,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Lennox, Grace,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author entered under other names, search also under:</subfield>
+    <subfield code="b">Beecham, Rose, 1958-</subfield>
+    <subfield code="b">Knight, Jennifer, 1958-</subfield>
+    <subfield code="b">Lennox, Grace, 1958-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Passion Bay, 1992:</subfield>
+    <subfield code="b">CIP t.p. (Jennifer Fulton) data sheet (b. 9-17-58)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from author, Mar. 25, 2004</subfield>
+    <subfield code="b">(uses Jennifer Fulton for lesbian romance and short stories, Rose Beecham for lesbian mysteries, and from 2006 will be publishing historical novels under the pseudonym Jennifer Knight)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Chance, 2006:</subfield>
+    <subfield code="b">t.p. (Jennifer Fulton writing as Grace Lennox)</subfield>
+  </datafield>
+</record>
