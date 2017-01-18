@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01312cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2010025530</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100427074913.0</controlfield>
+  <controlfield tag="008">100426n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010025530</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Albert Brenner Glickman Family Library (University of Southern Maine)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Glickman Family Library (University of Southern Maine)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Southern Maine.</subfield>
+    <subfield code="b">Albert Brenner Glickman Family Library</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Southern Maine.</subfield>
+    <subfield code="b">Library</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">USM Libraries</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Hist. Soc. for Jean Byers Sampson Center for Diversity in Maine printed material collection, ca. 1996-2001</subfield>
+    <subfield code="b">(Jean Byers Sampson Center for Diversity in Maine located in the Special Collections of the University of Southern Maine Library; collects material documenting the ongoing histories of diverse communities; current collections represent the African American, Jewish, and Lesbian, Gay, Bisexual, and Transgendered communities; hdg.: University of Southern Maine. Library)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. of Southern Maine WWW, Apr. 26, 2010</subfield>
+    <subfield code="b">(Oct. 1997: Portland Campus Library [no publs. in LC database] dedicated as the Albert Brenner Glickman Family Library; commonly known as Glickman Family Library; home page of Library: USM Libraries)</subfield>
+  </datafield>
+</record>
