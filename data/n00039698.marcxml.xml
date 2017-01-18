@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  00039698 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120524074628.0</controlfield>
+  <controlfield tag="008">000818n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00039698 </subfield>
+    <subfield code="z">no 00087879 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Marine Corps.</subfield>
+    <subfield code="b">Marine Division, 5th</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Marine Corps.</subfield>
+    <subfield code="b">Marine Division, Fifth</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Marine Corps.</subfield>
+    <subfield code="b">Division, 5th</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stone, Alfred R. A marine remembers Iwo Jima, 2000:</subfield>
+    <subfield code="b">CIP t.p. (Dog Company, 2nd Battalion, 27th Marines, Fifth Marine Division)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Action report, Iwo Jimo Operation, 19 February- 26 March, 1945, 1945:</subfield>
+    <subfield code="b">t.p. (United States Marine Corps, Division, 5th)</subfield>
+  </datafield>
+</record>
