@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2002030155</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020817033125.0</controlfield>
+  <controlfield tag="008">020814n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002030155</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fels, Wilhelm</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schliebler, C. W.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spinoza, der grosse Philosoph, 1829:</subfield>
+    <subfield code="b">t.p. (Wilhelm Fels)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Aug. 13, 2002</subfield>
+    <subfield code="b">(hdg.: Schliebler, C. W.; usage: Wilhelm Fels)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NIC files, Aug. 13, 2002</subfield>
+    <subfield code="b">(hdg.: Fels, Wilhelm)</subfield>
+  </datafield>
+</record>
