@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 96043260 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810090416.0</controlfield>
+  <controlfield tag="008">961203n| acannaab           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96043260 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">OrLoB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Harbor Porpoise Age Determination Workshop</subfield>
+    <subfield code="d">(1990 :</subfield>
+    <subfield code="c">Oslo, Norway)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biology of the Phocoenids, 1995:</subfield>
+    <subfield code="b">p. 477 (Harbor Porpoise Age Determination Workshop, Oslo, 21-23 May 1990) viii (hosted by the Norwegian Institute for Nature Research)</subfield>
+  </datafield>
+</record>
