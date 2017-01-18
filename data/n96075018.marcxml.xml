@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00397nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  96075018 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960802092640.9</controlfield>
+  <controlfield tag="008">960802n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96075018 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gordon, Kenneth,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data prepared by the British Library</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MIDAS guide to fire service discipline.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AL</subfield>
+    <subfield code="b">(Apr. 25, Kenneth George)</subfield>
+  </datafield>
+</record>
