@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00728cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008011588</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151211073825.0</controlfield>
+  <controlfield tag="008">080124n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008011588</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07638127</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NBuU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NBuU-L</subfield>
+    <subfield code="d">DGU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meenan, Helen</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Kingston University (London, England)</subfield>
+    <subfield code="s">1998</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lawyers</subfield>
+    <subfield code="a">Law teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Equality law in an enlarged European Union, 2007:</subfield>
+    <subfield code="b">t.p. (Helen Meenan) p. xiii (Jean Monnet Chair in European Law at Kingston University since 1998, read law at University College Dublin (BCL) and European business law at University of Amsterdam (LL.M.); solicitor of the Irish courts)</subfield>
+  </datafield>
+</record>
