@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01049cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2010123362</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110514075125.0</controlfield>
+  <controlfield tag="008">100730n| acannaabn           a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010123362</subfield>
+    <subfield code="z">no2010010802</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08576780</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PaPhCHF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PaPhCHF</subfield>
+    <subfield code="d">OkU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tilicheev, M. D.</subfield>
+    <subfield code="q">(Mstislav Dimitrievich),</subfield>
+    <subfield code="d">1897-1957</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tilicheev, Mstislav Dimitrievich,</subfield>
+    <subfield code="d">1897-1957</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tilicheyev, M. D.,</subfield>
+    <subfield code="d">1897-1957</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chemistry and technology of cracking, 1932:</subfield>
+    <subfield code="b">t.p. (M.D. Tilicheyev, formerly chief chemist, Crackign Division, Petroleum Research Inst. of Grozneft)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 5, 2010</subfield>
+    <subfield code="b">(hdg: Tilicheev, Mstislav Dimitrievich,  b. 1897)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 11, 2011</subfield>
+    <subfield code="b">(usage: M.D. Tilicheyev [in rom.]; M.D. Tilicheev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Natl. Library of Russia online card catalogue, May 11, 2011:</subfield>
+    <subfield code="b">(hdg.: Тиличеев, Мстислав Димитриевич, 1897-1957; usage: М.Д. Тиличеев)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Krėking v zhidkoĭ faze, 1928:</subfield>
+    <subfield code="b">t.p. (M.D. Tilicheev)</subfield>
+  </datafield>
+</record>
