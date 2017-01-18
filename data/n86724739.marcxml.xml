@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00591nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86724739 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19881007155110.6</controlfield>
+  <controlfield tag="008">880916n| acaabaaa|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86724739 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Visual information exchange bulletin</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army.</subfield>
+    <subfield code="b">Corps of Engineers.</subfield>
+    <subfield code="b">Directorate of Information Management.</subfield>
+    <subfield code="t">Visual information exchange bulletin</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Washington, D.C.</subfield>
+    <subfield code="b">US Army Corps of Engineers Directorate of Information Management</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">DGPO</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vi standards, May 87:</subfield>
+    <subfield code="b">t.p.</subfield>
+  </datafield>
+</record>
