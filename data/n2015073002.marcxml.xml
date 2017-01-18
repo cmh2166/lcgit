@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00663nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2015073002</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151218092335.0</controlfield>
+  <controlfield tag="008">151218n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015073002</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">St. Francis of Assisi Parish (New Britain, Conn.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Saint Francis of Assisi Parish (New Britain, Conn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">St. Francis of Assisi Parish, 1991:</subfield>
+    <subfield code="b">t.p. (St. Francis of Assisi Parish)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catholic directory website, Dec. 18, 2015:</subfield>
+    <subfield code="b">(St. Francis of Assisi. Address: 1755 Stanley St., New Britain, CT 06053)</subfield>
+    <subfield code="u">http://www.thecatholicdirectory.com/directory.cfm?fuseaction=display_site_info&amp;siteid=51433</subfield>
+  </datafield>
+</record>
