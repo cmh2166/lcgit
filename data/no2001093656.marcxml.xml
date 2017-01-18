@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00964cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001093656</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140725073842.0</controlfield>
+  <controlfield tag="008">011127n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001093656</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05633850</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-OB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-OB</subfield>
+    <subfield code="d">ItFiC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meneghetti, Gino Amleto,</subfield>
+    <subfield code="d">1878-1976</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meneghetti, Amleto Gino,</subfield>
+    <subfield code="d">1878-1976</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Menechetti Gino, Amleto,</subfield>
+    <subfield code="d">1878-1976</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Menichetti, Amleto,</subfield>
+    <subfield code="d">1878-1976</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">O lendário Meneghetti, 2000:</subfield>
+    <subfield code="b">p. 251 (Gino Amleto Meneghetti; b. in Pisa, Italy, July 01, 1878) p. 256 (Amleto Gino Meneghetti; d. May 23, 1976 in São Paulo [Brazil]) p. 257 (Amleto Menechetti Gino) front flap (Amleto Meneghetti, 1978-1976)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brazil A/Z 1988:</subfield>
+    <subfield code="b">(Meneghetti, Gino Amleto; Pisa, Itália, 1878 - São Paulo, SP, 1976)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Il buon ladro, 2014:</subfield>
+    <subfield code="b">p. 11 (Amleto Menichetti) p. 15 (Menichetti Amleto Giotto  Foresto Labindo; b. July 1st, 1888)</subfield>
+  </datafield>
+</record>
