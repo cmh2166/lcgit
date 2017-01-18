@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00938cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2007092388</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326111816.0</controlfield>
+  <controlfield tag="008">070719n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007092388</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07491800</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNPM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNPM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1767,1768]</subfield>
+    <subfield code="g">1831</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Walker, Edward,</subfield>
+    <subfield code="d">1767 or 1768-1831</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Walker, Edward,</subfield>
+    <subfield code="d">1767 or 8-1831</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A supplement to the History of British birds, 1821:</subfield>
+    <subfield code="b">t.p. (Edward Walker)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thomas Bewick, a bibliography raisonneĚ, 1953:</subfield>
+    <subfield code="b">p. 131 (Edward Walker; d. June 1831; printer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Local records, or, Historical register of remarkable events, which have ocurred in Northumberland and Durham, Newcastle upon Tyne, and Berwick upon Tweed, 1833 (accessed via Google Books, July 25, 2007):</subfield>
+    <subfield code="b">p. 303 (Edward Walker; d. Edinburgh, June 23, 1831; aged 63 years; printer and proprietor of the Newcastle courant)</subfield>
+  </datafield>
+</record>
