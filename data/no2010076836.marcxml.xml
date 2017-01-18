@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00429nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010076836</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100509075138.0</controlfield>
+  <controlfield tag="008">100507n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010076836</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08487689</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caplan, Alison,</subfield>
+    <subfield code="d">1964-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La numancia, c2010:</subfield>
+    <subfield code="b">t.p. (Alison Caplan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Apr. 10, 2010</subfield>
+    <subfield code="b">(hdg.: Caplan, Alison, 1964-; usage: Alison Caplan)</subfield>
+  </datafield>
+</record>
