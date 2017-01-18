@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00794cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  78015892 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060315145353.0</controlfield>
+  <controlfield tag="008">780331n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78015892 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schurch, Maylan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schurch, Maylan Henry</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schurch, Mayland</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Mark, legion, and the little red schoolhouse, 1978:</subfield>
+    <subfield code="b">t.p. (Maylan Schurch)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schurch, Mayland. Pilgrimage, 1979:</subfield>
+    <subfield code="b">t.p. (Maylan Schurch) CIP data sheet (b. 06/27/1950)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Review and Herald website, Mar. 15, 2006</subfield>
+    <subfield code="b">(Mayland [sic] Schurch; Maylan Schurch; pastor in Belleview, Wa.; lists works)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC copyright database, Mar. 15, 2006</subfield>
+    <subfield code="b">(hdgs: Schurch, Mayland, 1950-; Schurch, Mayland, 1950-; Schurch Maylan Henry, 1950-)</subfield>
+  </datafield>
+</record>
