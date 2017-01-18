@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00370nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 94024777 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940725071625.1</controlfield>
+  <controlfield tag="008">940722n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94024777 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="c">DJBF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gardiner, Karen</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A survey of income inequality ... 1993:</subfield>
+    <subfield code="b">t.p. (Karen Gardiner) p. i (research officer, Welfare State Prog., STICERD)</subfield>
+  </datafield>
+</record>
