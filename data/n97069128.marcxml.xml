@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00843cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  97069128 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081010080159.0</controlfield>
+  <controlfield tag="008">970709n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97069128 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04382394</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dobret︠s︡ov, N. N.</subfield>
+    <subfield code="q">(Nikolaĭ Nikolaevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dobret︠s︡ov, Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Добрецов, Н. Н.</subfield>
+    <subfield code="q">(Николай Николаевич)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mineralogii︠a︡ drevneĭ keramiki Baraby, 1995:</subfield>
+    <subfield code="b">t.p. (N.N. Dobret︠s︡ov) colophon (Dobret︠s︡ov, Nikolaĭ Nikolaevich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Iz rossiĭskoĭ glubinki--v nauku, 2003:</subfield>
+    <subfield code="b">TOC (Nikolaĭ Nikolaevich Dobret︠s︡ov, 1881-1943)</subfield>
+  </datafield>
+</record>
