@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00943cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  91074713 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120607074739.0</controlfield>
+  <controlfield tag="008">910726n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91074713 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03059513</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DeGH</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Paley, Babe Mortimer</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cushing, Babe</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cushing, Barbara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Paley, Barbara Cushing Mortimer</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Paley, William S.,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grafton, D. The sisters, 1992:</subfield>
+    <subfield code="b">CIP t.p. (Babe Mortimer Paley) galley (Babe Cushing; 1st marriage to Stanley Mortimer; 2nd to William S. Paley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed via www., May 4, 2012 :</subfield>
+    <subfield code="b">(Barbara Cushing Mortimer Paley; commonly known by nickname "Babe"; b. Barbara Cushing, July 5, 1915, at Boston; d. July 6, 1978, at New York City; socialite; married Stanley Grafton Mortimer, 1940; divorced; married William S. Paley, founder of the Columbia Broadcasting System, 1947)</subfield>
+  </datafield>
+</record>
