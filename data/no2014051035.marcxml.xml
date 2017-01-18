@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00504nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014051035</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140418073542.0</controlfield>
+  <controlfield tag="008">140417n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014051035</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09736820</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Saltykov, Mikhail Evgrafovich,</subfield>
+    <subfield code="d">1826-1889.</subfield>
+    <subfield code="t">Istoriiď¸ aď¸Ą odnogo goroda.</subfield>
+    <subfield code="l">Polish</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Saltykov, Mikhail Evgrafovich,</subfield>
+    <subfield code="d">1826-1889.</subfield>
+    <subfield code="t">Dzieje pewnego miasta</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Saltykov, Mikhail Evgrafovich. Dzieje pewnego miasta, 1953.</subfield>
+  </datafield>
+</record>
