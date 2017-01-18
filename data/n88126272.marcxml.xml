@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00699cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88126272 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090220081241.0</controlfield>
+  <controlfield tag="008">890905n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88126272 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02592615</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Université de Paris X: Nanterre.</subfield>
+    <subfield code="b">Centre Droit et cultures</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Centre Droit et cultures de l'Université Paris X Nanterre</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Université Paris Ouest Nanterre La Défense.</subfield>
+    <subfield code="b">Centre Droit et cultures</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Droit et cultures,1988:</subfield>
+    <subfield code="b">t.p. (Centre Droit et cultures de l'Université Paris X Nanterre); 56 (2008): t.p. (Centre Droit et cultures de l'Université Paris Ouest Nanterre La Défense)</subfield>
+  </datafield>
+</record>
