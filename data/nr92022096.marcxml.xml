@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00671nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 92022096 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920625054917.5</controlfield>
+  <controlfield tag="008">920616n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92022096 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPC</subfield>
+    <subfield code="c">PPC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Schless, Robert A.</subfield>
+    <subfield code="q">(Robert Avrom),</subfield>
+    <subfield code="d">1894-1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Schless, Robt. Avrom</subfield>
+    <subfield code="q">(Robert Avrom),</subfield>
+    <subfield code="d">1894-1972</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coll. of Phys. of Phila. Office of the Secretary. Failed fellowship applications, 1900-1937</subfield>
+    <subfield code="b">(Robert A. Schless)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AMD, 1921:</subfield>
+    <subfield code="b">p. 1339 (Schless, Robt. Avrom; Philadelphia, Pa., physician; b. 1894; M.D. Jefferson Med. Coll., 1916)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">JAMA, 1972:</subfield>
+    <subfield code="b">v. 222, p. 1664 (Schless, Robert A.; d. 6/12/1972)</subfield>
+  </datafield>
+</record>
