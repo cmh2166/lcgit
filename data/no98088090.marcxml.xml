@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00506nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98088090 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980529052651.4</controlfield>
+  <controlfield tag="008">980528n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98088090 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04738781 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InIU-L</subfield>
+    <subfield code="c">InIU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Amer, Francis J.</subfield>
+    <subfield code="q">(Francis Joseph),</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Restatement of the law of contracts, 1933:</subfield>
+    <subfield code="b">t.p. (Francis J. Amer, of the Cleveland bar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 27, 1998</subfield>
+    <subfield code="b">(hdg.: Amer, Francis Joseph, 1908- ; usage: Francis J. Amer)</subfield>
+  </datafield>
+</record>
