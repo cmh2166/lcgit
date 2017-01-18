@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00497cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2010052781</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130529074928.0</controlfield>
+  <controlfield tag="008">100330n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010052781</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08443225</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">SaPrNL</subfield>
+    <subfield code="d">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2009</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stewart, Dianne.</subfield>
+    <subfield code="t">Dove.</subfield>
+    <subfield code="l">Zulu</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">zul</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Stewart, Dianne.</subfield>
+    <subfield code="t">Ijuba</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ijuba, 2009</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">Stewart, Dianne,</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="t">Dove.</subfield>
+    <subfield code="l">Zulu</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
