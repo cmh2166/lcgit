@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 00005641 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000303033725.0</controlfield>
+  <controlfield tag="008">000218n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00005641 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">BiologyLabs on-line</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Biology labs on-line</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lab manual for BiologyLabs On-Line, c2000:</subfield>
+    <subfield code="b">t.p. (BiologyLabs On-Line) p. 2 of cover (Biology Labs On-Line)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BiologyLabs On-Line WWW pages, Feb. 16, 2000</subfield>
+    <subfield code="b">(BiologyLabs On-Line; "series of interactive, inquiry-based biology simulations and exercises designed for college and AP high school biology majors"; web-based)</subfield>
+  </datafield>
+</record>
