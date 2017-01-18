@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00623cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004123020</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121013001941.0</controlfield>
+  <controlfield tag="008">041221n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004123020</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06522357</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fragoso, Margarida Ambrósio Pessoa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pessoa Fragoso, Margarida Ambrósio</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her O emblema da cidade de Lisboa, c2002:</subfield>
+    <subfield code="b">t.p. (Margarida Ambrósio Pessoa Fragoso) cover p. 4 (Mestre em Comunicação Educacional Multimédia pela Universidade Aberta)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Design gráfico em Portugal, 2012:</subfield>
+    <subfield code="b">t.p. (Margarida Fragoso)</subfield>
+  </datafield>
+</record>
