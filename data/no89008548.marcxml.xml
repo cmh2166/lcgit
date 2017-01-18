@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695nz  a2200205n  4500</leader>
+  <controlfield tag="001">no 89008548 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890623054728.2</controlfield>
+  <controlfield tag="008">890621n| acaaaaaa|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89008548 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">WMLC L 83/6573</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Boletín técnico (El Salvador. Departamento de Recursos Hidráulicos)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">El Salvador.</subfield>
+    <subfield code="b">Departamento de Recursos Hidráulicos.</subfield>
+    <subfield code="t">Boletín técnico</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">San Salvador, El Salvador, C.A.</subfield>
+    <subfield code="b">Ministerio de Agricultura y Ganadería</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">n</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">n</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Estudios hidrológicos, 1964:</subfield>
+    <subfield code="b">t.p. (Boletín técnico) [not anal. in LC]</subfield>
+  </datafield>
+</record>
