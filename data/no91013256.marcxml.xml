@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01341cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 91013256 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090708075325.0</controlfield>
+  <controlfield tag="008">910523n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91013256 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03028458</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">National Forum on Education Statistics (U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">National Forum on Education Statistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">National Center for Education Statistics.</subfield>
+    <subfield code="b">National Forum on Education Statistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Cooperative Education Statistics System (U.S.).</subfield>
+    <subfield code="b">National Forum on Education Statistics</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Forum on Education Statistics (U.S.). National Education Statistics Committee. A guide to improving the national ... 1990:</subfield>
+    <subfield code="b">t.p. (National Forum on Education Statistics)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Recommendations of the Crime, Violence, and Discipline Reporting Task Force, 1996:</subfield>
+    <subfield code="b">t.p. (National Forum on Education Statistics under the National Center for Education Statistics, U.S. Department of Education)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Every school day counts, 2009:</subfield>
+    <subfield code="b">t.p. (National Forum on Education Statistics) t.p. verso (The National Center for Education Statistics established the National Cooperative Education Statistics System; the National Forum on Education Statistics is an entity of the National Cooperative Education Statistics System)</subfield>
+  </datafield>
+</record>
