@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00418nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 90081713 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990127094307.1</controlfield>
+  <controlfield tag="008">900531n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 90081713 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Walton, Tony,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Walton, Anthony Stephen,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social sciences, 1982:</subfield>
+    <subfield code="b">t.p. (Tony Walton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd.</subfield>
+    <subfield code="b">(Anthony Stephen Walton, born 22 Feb. 1949)</subfield>
+  </datafield>
+</record>
