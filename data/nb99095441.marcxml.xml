@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00535cz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 99095441 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991214050830.0</controlfield>
+  <controlfield tag="008">991203n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99095441 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lewis, Helen,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lewis, Margaret Helen,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Time to decide, 1999:</subfield>
+    <subfield code="b">t.p. (Helen Lewis) BL AL sent 26 Nov. 1999</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 3 Dec. 1999</subfield>
+    <subfield code="b">(Margaret Helen Lewis, born 17 June 1943; also author of Improving the health of children and young people in public care)</subfield>
+  </datafield>
+</record>
