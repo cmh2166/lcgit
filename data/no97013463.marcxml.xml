@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00580nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97013463 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970304053224.9</controlfield>
+  <controlfield tag="008">970303n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97013463 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04283765 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Rutledge, Henry M.</subfield>
+    <subfield code="q">(Henry Middleton),</subfield>
+    <subfield code="d">1775-1844</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Rutledge, Henry Middleton,</subfield>
+    <subfield code="d">1775-1844</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An oration delivered in St. Philip's Church ... 1804:</subfield>
+    <subfield code="b">t.p. (Henry M. Rutledge)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">S.C. hist. and geneal. mag., Jan. 1930</subfield>
+    <subfield code="b">p. 24 (Henry Middleton Rutledge; b. April 5, 1775; d. Jan. 20, 1844)</subfield>
+  </datafield>
+</record>
