@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00569nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2014048209</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140412073541.0</controlfield>
+  <controlfield tag="008">140410n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014048209</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09731319</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Croker, Glenys</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">National Institute of Water and Atmospheric Research (N.Z.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Waihou catchment ecological monitoring 2011, via WWW, viewed on April 9, 2014:</subfield>
+    <subfield code="b">PDF title page verso (Glenys Croker (National Institute of Water &amp; Atmospheric Research Ltd.))</subfield>
+  </datafield>
+</record>
