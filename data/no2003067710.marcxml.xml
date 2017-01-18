@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00651cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2003067710</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322094334.0</controlfield>
+  <controlfield tag="008">030709n| azannaabn          |a aac     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003067710</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06095236</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DSI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DSI</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1932~</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ault, Lois,</subfield>
+    <subfield code="d">approximately 1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Ault, Lois,</subfield>
+    <subfield code="d">ca. 1932-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smithsonian Amer. Art Mus./Nat. Portrait Gallery Library vertical file</subfield>
+    <subfield code="b">(from 1947 periodical clipping: Lois Ault; prize winner in the Ingersoll Art Award Contest; 15 years old; lives in Colorado Springs, Colo.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Who was who in Amer. art, 1999.</subfield>
+  </datafield>
+</record>
