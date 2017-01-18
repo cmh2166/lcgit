@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99013179 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001203152351.0</controlfield>
+  <controlfield tag="008">990217n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99013179 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04923211</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arregui Zamorano, Ma. Teresa</subfield>
+    <subfield code="q">(María Teresa)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zamorano, Ma. Teresa Arregui</subfield>
+    <subfield code="q">(María Teresa Arregui)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arregui Zamorano, María Teresa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Estructuras y técnicas narrativas en el cuento literario de la Generación del 98, 1998:</subfield>
+    <subfield code="b">t.p. (Ma. Teresa Arregui Zamorano)</subfield>
+  </datafield>
+</record>
