@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  83146664 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130726075800.0</controlfield>
+  <controlfield tag="008">830808n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83146664 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00975353</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-ON</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19381111</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK2098.26.A386</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kāliyā, Ravīndra,</subfield>
+    <subfield code="d">1938-</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">hin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ravīndra Kāliyā,</subfield>
+    <subfield code="d">1938-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kalia, Ravindra,</subfield>
+    <subfield code="d">1938-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Kālā rajisṭara, 1972.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who's who of Indian writers, 1999</subfield>
+    <subfield code="b">v. 2 (entry: Kalia, Ravindra; Nov. 11, 1938)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ilekṭrônika mīḍiyā kī cunautiyām̐, 2010:</subfield>
+    <subfield code="b">t.p. (Ravīndra Kāliyā)</subfield>
+  </datafield>
+</record>
