@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01013cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr2001039622</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815083401.0</controlfield>
+  <controlfield tag="008">010928n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001039622</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ihsanudin,</subfield>
+    <subfield code="c">R. Ng.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ihsanoeddin bin Aloewi,</subfield>
+    <subfield code="c">Mas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ihsanoeddin,</subfield>
+    <subfield code="c">Mas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ihsanoedin bin Moehammad Alwi,</subfield>
+    <subfield code="c">Kjai Mas Ngabehi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ihsanoedin bin Moh. Alwi,</subfield>
+    <subfield code="c">R. Ng.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ihsanoedin,</subfield>
+    <subfield code="c">M. Ng.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kitabu'sh-shabri wa'sj-sjukri, 1975?:</subfield>
+    <subfield code="b">t.p. (R. Ng. Ihsanudin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KitaboeĘťn nijjati waĘťl ichlashi wash shidqi, 1930?:</subfield>
+    <subfield code="b">t.p. (M. Ng. Ihsanoedin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NIC files</subfield>
+    <subfield code="b">(hdg.: Ihsanoeddin, Mas; usage: Mas Ihsanoeddin; Kjai Mas Ngabehi Ihsanoedin bin Moehammad Alwi; Kyai M. Ihsanoeddin; Mas Ngabehi Ihsanoeddin; Mas Ihsanoeddin bin Aloewi; R. Ng. Ihsanoedin bin Moh. Alwi; Kjai Mas Ihsanoeddin)</subfield>
+  </datafield>
+</record>
