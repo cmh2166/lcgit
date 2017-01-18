@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00707cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014027867</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140615122648.0</controlfield>
+  <controlfield tag="008">140516n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014027867</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09859500</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Wissenschaftliche Tagung des Dachverbandes Agrarforschung (DAF)</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Thünen-Institut)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Dachverband Agrarforschung (DAF), Wissenschaftliche Tagung</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Thünen-Institut)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klimawandel und Extremwetterereignisse: ein Problem für die Landwirtschaft?, 2013:</subfield>
+    <subfield code="b">p. following t.p. (Wissenschaftliche Tagung des Dachverbandes Agrarforschung (DAF ; 7. u. 8. Nov. 2012 im Thünen Institut, Braunschweig)</subfield>
+  </datafield>
+</record>
