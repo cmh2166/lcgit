@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01000cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  81127285 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120623074657.0</controlfield>
+  <controlfield tag="008">811211n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81127285 </subfield>
+    <subfield code="z">n  82246717 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00672189</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CoU</subfield>
+    <subfield code="d">NhD</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1904</subfield>
+    <subfield code="g">19901007</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arévalo, Juan José,</subfield>
+    <subfield code="d">1904-1990</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Arévalo, Juan José,</subfield>
+    <subfield code="c">Pres. Guatemala,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arévalo Bermejo, Juan José,</subfield>
+    <subfield code="d">1904-1990</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bermejo, Juan José Arévalo,</subfield>
+    <subfield code="d">1904-1990</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="a">Guatemala.</subfield>
+    <subfield code="b">President (1945-1951 : Arévalo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His La pedagogía de la personalidad ... 1937.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographical dictionary of Latin American and Caribbean political leaders, 1980</subfield>
+    <subfield code="b">(Arévalo Bermejo, Juan Jośe, 1904-; doctorate, U. of La Plata, 1934)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Juan José Arévalo Bermejo, un político de América, c2000:</subfield>
+    <subfield code="b">p. 38 (d. 7 oct. 1990, ciudad de Guatemala de la Asunción)</subfield>
+  </datafield>
+</record>
