@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00714nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009047739</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090329185929.0</controlfield>
+  <controlfield tag="008">090327n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009047739</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08059100</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WlAbNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WlAbNL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Penmaenmawr and Welsh Granite Company Limited</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Welsh Granite Co Ltd</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jones, G., Trefor,  2006:</subfield>
+    <subfield code="b">p. 9 (Welsh Granite Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Archives Network Wales WWW site, 30 Jan 2009</subfield>
+    <subfield code="b">(Penmaenmawr and Welsh Granite Company Limited; Company ... was formed in 1911 by the merger of three major granite quarries based in Caernarfonshire)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Archives WWW site, 30 Jan, 2009</subfield>
+    <subfield code="b">(Welsh Granite Co Ltd)</subfield>
+  </datafield>
+</record>
