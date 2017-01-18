@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00752cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  84198019 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160628075236.0</controlfield>
+  <controlfield tag="008">850122n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84198019 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01255874</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1814-04-23</subfield>
+    <subfield code="g">1874-10-30</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lankester, Edwin,</subfield>
+    <subfield code="d">1814-1874</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: Lankester, Edwin, 1814-1874; usage: Edwin Lankester)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford DNB, July 3, 2007</subfield>
+    <subfield code="b">(Lankester, Edwin; b. Apr. 23, 1814, Melton, England; d. Oct. 30, 1874, Margate, England; public health reformer and natural historian; studied from 1834 at the University of London until he qualified as MRCS and licentiate of the Society of Apothecaries in 1837)</subfield>
+  </datafield>
+</record>
