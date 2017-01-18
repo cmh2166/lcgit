@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98112033 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981001054404.2</controlfield>
+  <controlfield tag="008">980930n| acannaab|          |n aad     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98112033 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04826381 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Robins, V. M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN75-322040: Music and language with young children, c1975</subfield>
+    <subfield code="b">(hdg.: Robins, V. M.; usage: V.M. Robins)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Sept. 30, 1998</subfield>
+    <subfield code="b">(hdg.: Robins, V. M.)</subfield>
+  </datafield>
+</record>
