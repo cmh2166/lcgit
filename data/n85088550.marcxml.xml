@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00449nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85088550 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850511115929.1</controlfield>
+  <controlfield tag="008">850411n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85088550 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Isack, J.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Isack, I.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A famous victory obtained by Sir William Brewerton, 1645:</subfield>
+    <subfield code="b">signed (I. Isack)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM</subfield>
+    <subfield code="b">(Isack, J.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">DNB;</subfield>
+    <subfield code="a">Alumni Oxon.;</subfield>
+    <subfield code="a">Alumni Cantab., pt. I.</subfield>
+  </datafield>
+</record>
