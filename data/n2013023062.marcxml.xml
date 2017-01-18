@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00596nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2013023062</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130425072325.0</controlfield>
+  <controlfield tag="008">130424n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013023062</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wang, Xueying</subfield>
+    <subfield code="c">(Journalist)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">汪雪英</subfield>
+    <subfield code="c">(Journalist)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ta men de fen dou, 2011:</subfield>
+    <subfield code="b">t.p. (汪雪英 = Wang Xueying)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baidu.com, April 24, 2013:</subfield>
+    <subfield code="b">(汪雪英, female, native of Yongxin, Jiangxi; writer, poet, editor, journalist)</subfield>
+    <subfield code="u">http://baike.baidu.com/view/3931256.htm</subfield>
+  </datafield>
+</record>
