@@ -1,10 +1,6 @@
 """Take incremental changes and push them to GitHub."""
 import sh
-from config import settings
-
-gh_user = settings["github"]["user"]
-gh_password = settings["github"]["password"]
-gh_repo = settings["github"]["repo"]
+gh_repo = "/Users/Christina/Projects/lcgit"
 git = sh.git.bake(_cwd=gh_repo)
 
 
