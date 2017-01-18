@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00818cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 93002520 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080831081637.0</controlfield>
+  <controlfield tag="008">930122n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93002520 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03305895</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roṭhblum, Yaʻaḳov Ḳopel</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Roṭblum, Y. Ḳopel</subfield>
+    <subfield code="q">(Yaʻaḳov Ḳopel)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ראטהבלום, יעקב קאפיל</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Sefer Sheʼerit Yaʻaḳov, 1991 or 1992:</subfield>
+    <subfield code="b">original t.p., v. 1 (Yaʻaḳov Ḳopel Roṭhblum) haḳdamah (beha-manoaḥ Pinḥas Zelig, zal, a.b.d.p.ḳ. Proshḳa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fridberg, Ḥ.B. Bet ʻeḳed sefarim, 1954:</subfield>
+    <subfield code="b">(ha-R. Y. Ḳopel Roṭblum)</subfield>
+  </datafield>
+</record>
