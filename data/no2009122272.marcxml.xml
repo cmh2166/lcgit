@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00580nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009122272</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090809081648.0</controlfield>
+  <controlfield tag="008">090806n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009122272</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08196989</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Porirua (N.Z.).</subfield>
+    <subfield code="b">Settlement Support Porirua</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Porirua (N.Z.).</subfield>
+    <subfield code="b">City Council.</subfield>
+    <subfield code="b">Settlement Support Porirua</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Settlement Support Porirua</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">SSNZ Porirua</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Are you new to New Zealand?, 2009:</subfield>
+    <subfield code="b">t.p. (Settlement Support Porirua) colophon (SSNZ Porirua, Porirua City Council)</subfield>
+  </datafield>
+</record>
