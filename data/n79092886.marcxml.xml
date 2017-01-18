@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00883cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  79092886 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090228080139.0</controlfield>
+  <controlfield tag="008">790823n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79092886 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00325162</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Akademie der Pädagogischen Wissenschaften der DDR.</subfield>
+    <subfield code="b">Arbeitsstelle Westdeutsche Pädagogik</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Akademie der Pädagogischen Wissenschaften der Deutschen Demokratischen Republik.</subfield>
+    <subfield code="b">Arbeitsstelle Westdeutsche Pädagogik.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Studienmaterialien zur Schulpolitik und Pädagogik in der BRD ; Nr. 1 (ser. x-ref.)</subfield>
+    <subfield code="b">Fischer, J. Inhalt und Funktionen des DDR-Bildes in der politischen Bildung in den Schulen der BRD unter den Bedingungen des wachsenden Einflusses des realen Sozialismus, 1974: p. 1 (Akademie der Pädagogischen Wissenschaften der DDR, Arbeitsstelle Westdeutsche Pädagogik)</subfield>
+  </datafield>
+</record>
