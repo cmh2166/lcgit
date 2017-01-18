@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00417nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2007077114</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071026075037.0</controlfield>
+  <controlfield tag="008">071025n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007077114</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kudjoi-Paasio, Marika</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Paasio, Marika Kudjoi-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lahden julistebiennale (14th : 2003 : Julistemuseo). Lahti Poster Biennial 2003, 2003:</subfield>
+    <subfield code="b">t.p. (Marika Kudjoi-Paasio)</subfield>
+  </datafield>
+</record>
