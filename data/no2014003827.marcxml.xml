@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00970nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014003827</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140114073508.0</controlfield>
+  <controlfield tag="008">140113n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014003827</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09654791</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1618</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caccini, Francesca,</subfield>
+    <subfield code="d">1587-approximately 1640.</subfield>
+    <subfield code="t">Musiche.</subfield>
+    <subfield code="p">Dov'io credea le mie speranze havere</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Songs</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">voice</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">continuo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Caccini, Francesca,</subfield>
+    <subfield code="d">1587-approximately 1640.</subfield>
+    <subfield code="t">Aria sopra la romanesca "Dov' io credea"</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Caccini, Francesca,</subfield>
+    <subfield code="d">1587-approximately 1640.</subfield>
+    <subfield code="t">Dov'io credea le mie speranze havere</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Matthews, Ingrid. Canzoni di sonar, p2001:</subfield>
+    <subfield code="b">container (Aria sopra la romanesca "Dov' io credea"; here performed by violin and harpsichord)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nuovo Vogel</subfield>
+    <subfield code="b">(Il primo libro delle musiche a una, e due voci, 1618: Dov'io credea le mie speranze havere; romanesca [song for voice and continuo])</subfield>
+  </datafield>
+</record>
