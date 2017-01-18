@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00574nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97051684 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970905052753.8</controlfield>
+  <controlfield tag="008">970904n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97051684 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04421209 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Martin, R. H.</subfield>
+    <subfield code="q">(Renwick Harper),</subfield>
+    <subfield code="d">1872-1958</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Martin, Renwick Harper,</subfield>
+    <subfield code="d">1872-1958</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Six studies on The Day, 1934:</subfield>
+    <subfield code="b">t.p. (R. H. Martin, D.D.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 11, 1997</subfield>
+    <subfield code="b">(hdg.: Martin, R. H. (Renwick Harper), 1872-1958; Martin, R. H. ; usage: R.H. Martin; Renwick Harper Martin)</subfield>
+  </datafield>
+</record>
