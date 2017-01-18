@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91026347 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920813133617.9</controlfield>
+  <controlfield tag="008">910315n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91026347 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Comissão de Reforma do Sistema Educativo (Portugal)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Portugal.</subfield>
+    <subfield code="b">Comissão de Reforma do Sistema Educativo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Portugal.</subfield>
+    <subfield code="b">Ministério da Educação e Cultura.</subfield>
+    <subfield code="b">Comissão de Reforma do Sistema Educativo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Novas tecnologias no ensino e na educação, 1988:</subfield>
+    <subfield code="b">t.p. (Comissão de Reforma do Sistema Educativo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Da escola curricular à escola cultural, 1987:</subfield>
+    <subfield code="b">Portuguese CIP (Portugal. Ministério da Educação e Cultura. Comissão de Reforma do Sistema Educativo)</subfield>
+  </datafield>
+</record>
