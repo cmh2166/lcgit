@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716nz  a2200181n  4500</leader>
+  <controlfield tag="001">nr2002015446</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020423033131.0</controlfield>
+  <controlfield tag="008">020419n| acabbaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002015446</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-N</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-N</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abū Fāris, Muḥammad ʻAbd al-Qādir.</subfield>
+    <subfield code="t">Fī ẓilāl al-sīrah al-Nabawīyah</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Fī ẓilāl al-sīrah al-Nabawīyah</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">ʻAmmān, al-Urdun</subfield>
+    <subfield code="b">Dār al-Furqān lil-Nashr wa-al-Tawzīʻ</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">CtY-N</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CtY-N</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">CtY-N</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Abū Fāris, M.ʻA. al-Q. al-Ṣirāʻ maʻa al-Yahūd, 1989- :</subfield>
+    <subfield code="b">v. 1, t.p. (Fī ẓilāl al-sīrah al-Nabawīyah / Muḥammad ʻAbd al-Qādir Abū Fāris)</subfield>
+  </datafield>
+</record>
