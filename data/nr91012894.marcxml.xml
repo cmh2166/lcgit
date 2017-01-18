@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00684cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 91012894 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081109081534.0</controlfield>
+  <controlfield tag="008">910416n| acannaabn          |b aac      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91012894 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02932522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Matsuda, Kamezō,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">松田亀三,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Mantetsu Chishitsu Chōsajo shiki, 1990:</subfield>
+    <subfield code="b">t.p. (Matsuda Kamezō) colophon (b. 3/08; grad. Tōkyō Daigaku Rigakubu Chishitsu Gakka)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">NDL choshamei, 1979, 85;</subfield>
+    <subfield code="a">Chosakuken daichō, 1985.</subfield>
+  </datafield>
+</record>
