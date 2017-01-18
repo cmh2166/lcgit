@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00492cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85163752 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040427082541.0</controlfield>
+  <controlfield tag="008">851016n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85163752 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Haig, Robert</subfield>
+    <subfield code="q">(Robert Bruce)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Newton, M. Lower Town Ottawa, 1981:</subfield>
+    <subfield code="b">v. 2, t.p. (Robert Haig)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 2/80</subfield>
+    <subfield code="b">(AACR2: Haig, Robert; full name, Robert Bruce Haig)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amicus, April 27, 2004</subfield>
+    <subfield code="b">(Haig, Robert; Robert Bruce Haig; b. 1918)</subfield>
+  </datafield>
+</record>
