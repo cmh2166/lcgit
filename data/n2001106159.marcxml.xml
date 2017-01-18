@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00892cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  85121268 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071016074902.0</controlfield>
+  <controlfield tag="008">850909n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85121268 </subfield>
+    <subfield code="z">n 2001106159</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01432474</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meseldzic de Pereyra, Zivana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Pereyra, Zivana Meseldzic</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pereyra, Zivana Meseldzic de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meseldzic vda. de Pereyra, Zivana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meseldzic, Zivana</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Yugoslavos en el Perú, 1985:</subfield>
+    <subfield code="b">t.p. (Zivana Meseldzic de Pereyra)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pieles y cueros del Perú republicano, 2000-:</subfield>
+    <subfield code="b">v. 3, t.p. (Zivana Meseldzic) p. 143 (bibliography lists 4 other works she wrote on this same subject)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oftalmología popular andina y otras, 2006:</subfield>
+    <subfield code="b">(Zivana Meseldzic Pavlicek) cover (Zivana Meseldzic vda. de Pereyra; b. 1922 in Bosnia)</subfield>
+  </datafield>
+</record>
