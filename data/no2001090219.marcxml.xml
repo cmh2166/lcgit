@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00815cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001090219</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320090435.0</controlfield>
+  <controlfield tag="008">011112n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001090219</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05624892</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MBU-T</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MBU-T</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1871</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Toke, Leslie A. St. L.</subfield>
+    <subfield code="q">(Leslie Alexander St. Lawrence),</subfield>
+    <subfield code="d">1871-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Leslie Alexander St. Lawrence</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Toke, L. A.,</subfield>
+    <subfield code="d">1871-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Toke, Leslie A. St. L.</subfield>
+    <subfield code="q">(Leslie Alexander St. Lawrence),</subfield>
+    <subfield code="d">b. 1871</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bosworth psalter: an account of a manuscript formerly belonging to O. Turville-Petre ... 1908:</subfield>
+    <subfield code="b">t.p (Leslie A. St. L. Toke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 12, 2001:</subfield>
+    <subfield code="b">(hdg.: Toke, Leslie Alexander St. Lawrence, 1871- ; usage: Leslie A. St. L. Toke; Leslie A. Toke; L.A. Toke)</subfield>
+  </datafield>
+</record>
