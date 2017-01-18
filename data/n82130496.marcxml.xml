@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82130496 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010712095217.0</controlfield>
+  <controlfield tag="008">821204n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82130496 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bersheda, I︠E︡. R.</subfield>
+    <subfield code="q">(I︠E︡vhen Romanovych)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bersheda, I︠E︡vhen Romanovych</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Bersheda, E. R.</subfield>
+    <subfield code="q">(Evgeniĭ Romanovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Bersheda, Evgeniĭ Romanovich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Sokrashchenie srokov stroitelʹstva, 1977.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bersheda, I︠E︡. R. Spivrobitnyt︠s︡tvo Ukraïny i Rosiĭsʹkoï Federat︠s︡iï v investyt︠s︡iĭniĭ sferi ta ekonomichna bezpeka Ukraïny : monohrafii︠a︡, 1999:</subfield>
+    <subfield code="b">t.p. (Bersheda I︠E︡.R.) colophon (Bersheda I︠E︡vhen Romanovych)</subfield>
+  </datafield>
+</record>
