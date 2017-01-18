@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00436nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008109244</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080731075947.0</controlfield>
+  <controlfield tag="008">080729n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008109244</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07834079</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rendón Cobián, Marcela Victoria</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cobián, Marcela Victoria Rendón</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Organización y cultura, 2007:</subfield>
+    <subfield code="b">t.p. (Marcela Victoria Rendón Cobián)</subfield>
+  </datafield>
+</record>
