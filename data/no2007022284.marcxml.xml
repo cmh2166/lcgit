@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00553nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2007022284</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070301075343.0</controlfield>
+  <controlfield tag="008">070227n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007022284</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07339992</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViRU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViRU-L</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">American Bar Association.</subfield>
+    <subfield code="b">Commission on Immigration</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A legal guide for ICE detainees, c2006:</subfield>
+    <subfield code="b">t.p. (American Bar Association, Commission on Immigration)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">American Bar Association website 2/27/2007</subfield>
+    <subfield code="b">(hdg.: American Bar Association Commission on immigration)</subfield>
+  </datafield>
+</record>
