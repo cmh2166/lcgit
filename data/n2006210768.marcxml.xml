@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2006210768</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060630082711.0</controlfield>
+  <controlfield tag="008">060511n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006210768</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Embrapa Informática Agropecuária</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Brazil.</subfield>
+    <subfield code="b">Ministério da Agricultura, Pecuária e do Abastecimento.</subfield>
+    <subfield code="b">Embrapa Informática Agropecuária</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pequenas indústrias rurais de cana-de-açúcar, 2003:</subfield>
+    <subfield code="b">t.p. (Empresa Brasileira de Pesquisa Agropecuária, Embrapa Informática Agropecuária, Ministério da Agricultura, Pecuária e Abastecimento)</subfield>
+  </datafield>
+</record>
