@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00724cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  79042971 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100513074703.0</controlfield>
+  <controlfield tag="008">790515n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79042971 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bouchex, Raymond,</subfield>
+    <subfield code="d">1927-2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Des évêques disent la foi de l'Église, 1978 (a.e.)</subfield>
+    <subfield code="b">t.p. (Raymond Bouchex, évêque auxiliaire d'Aix-en-Provence)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ann. pontif., 1978:</subfield>
+    <subfield code="b">p. 703 (Raymond Bouchex, b. Lugrin, dioc. of Annecy, 1/25/27; Auxil. Bp. of Aix)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">German Wikipedia WWW site, May 12, 2010</subfield>
+    <subfield code="b">(under Raymond Bouchex: Raymond Joseph Louis Bouchex; b. Jan. 25, 1927, Lugrin, Haute-Savoie; d. May 9, 2010, Avignon; Archbishop of Avignon, 1978-2002)</subfield>
+  </datafield>
+</record>
