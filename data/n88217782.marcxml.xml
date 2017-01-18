@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01126cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  88217782 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121201074808.0</controlfield>
+  <controlfield tag="008">900212n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88217782 </subfield>
+    <subfield code="z">no2011124823</subfield>
+    <subfield code="z">no2011026937</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clevenger, Anthony P.</subfield>
+    <subfield code="q">(Anthony Paul)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Wildlife crossings</subfield>
+    <subfield code="a">Bears</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Western Transportation Institute</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Anthony Paul</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clevenger, Anthony Paul</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Clevenger, Tony</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El oso en León, 1988?:</subfield>
+    <subfield code="b">t.p. (Anthony P. Clevenger) flap (Anthony Paul Clevenger)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handbook for design and evaluation of wildlife crossing structures in North America, 2010:</subfield>
+    <subfield code="b">t.p. (Tony Clevenger, Western Transportation Institute)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tony Clevenger WWW site, Nov. 30, 2012</subfield>
+    <subfield code="b">(Tony Clevenger; A.P. Clevenger; publications include Handbook for design and evaluation of wildlife crossing structures in North America (2011) and Ecología del oso pardo en España (1991), with F.J. Purroy [joint author of  El oso en León])</subfield>
+  </datafield>
+</record>
