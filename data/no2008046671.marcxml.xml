@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00690cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008046671</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120817083129.0</controlfield>
+  <controlfield tag="008">080321n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008046671</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07716252</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OkS</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on "Modelling Water and Nutrient Dynamics in Soil-Crop Systems"</subfield>
+    <subfield code="d">(2004 :</subfield>
+    <subfield code="c">MuĚncheberg, Germany)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Modelling water and nutrient dynamics in soil-crop systems, 2007:</subfield>
+    <subfield code="b">t.p. (Workshop on "Modelling Water and Nutrient Dynamics in Soil-Crop Systems," held on 14-16 June 2004 in MuĚncheberg, Germany)</subfield>
+  </datafield>
+</record>
