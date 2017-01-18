@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00473cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88043229 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000706064349.0</controlfield>
+  <controlfield tag="008">891207n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88043229 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02649601</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hall-Arber, Madeleine</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arber, Madeleine Hall-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Women fish traders ... c1988:</subfield>
+    <subfield code="b">t.p. (Madeleine Hall-Arber) pub. cit. on leaf 3 before t.p. (Hall-Arber, Madeleine Irene)</subfield>
+  </datafield>
+</record>
