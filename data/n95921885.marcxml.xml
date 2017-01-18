@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00879cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  95921885 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801082646.0</controlfield>
+  <controlfield tag="008">950922n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95921885 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Jornadas Rioplatenses de Derecho del Trabajo</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Jornadas Rioplatenses de Derecho del Trabajo y de la Seguridad Social</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Costos laborales en el MERCOSUR, 1993:</subfield>
+    <subfield code="b">t.p. (VII Jornadas Rioplatenses de Derecho del Trabajo, Balneario SoliĚs, Mayo 1993)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Jornadas Rioplatenses de Derecho del Trabajo y de la Seguridad Social (11th : 2000 : Colonia del Sacramento, Uruguay). XI Jornadas Rioplatenses de Derecho del Trabajo y de la Seguridad Social, 2000: t.p. (2-3 de junio de 2000, Colonia del Sacramento)</subfield>
+  </datafield>
+</record>
