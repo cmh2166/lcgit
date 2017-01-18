@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00988nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2009205942</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100101075234.0</controlfield>
+  <controlfield tag="008">091230n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009205942</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08348318</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNGA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNGA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vermeer, Johannes,</subfield>
+    <subfield code="d">1632-1675.</subfield>
+    <subfield code="t">Little street</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vermeer, Johannes,</subfield>
+    <subfield code="d">1632-1675.</subfield>
+    <subfield code="t">Straatje</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vermeer, Johannes,</subfield>
+    <subfield code="d">1632-1675.</subfield>
+    <subfield code="t">Street</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vermeer, Johannes,</subfield>
+    <subfield code="d">1632-1675.</subfield>
+    <subfield code="t">Street in Delft</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Waar schilderde Vermeer zijn Straatje?, c2009:</subfield>
+    <subfield code="b">p. 39 (Little Street)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Grove dictionary of art online, Dec. 28, 2009</subfield>
+    <subfield code="b">([under Vermeer]: Little Street (c. 1658-60; Amsterdam, Rijksmus.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vermeer &amp; the art of painting, c1995:</subfield>
+    <subfield code="b">p. 49 (The Little Street; c. 1658, oil on canvas; Rijksmuseum, Amsterdam)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vermeer of Delft : complete edition of the paintings, c1978:</subfield>
+    <subfield code="b">p. 43 (The Street) p. 89 (A Street in Delft; 1658-60; Amsterdam, Rijksmuseum)</subfield>
+  </datafield>
+</record>
