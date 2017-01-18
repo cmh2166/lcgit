@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85363358 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080501075339.0</controlfield>
+  <controlfield tag="008">860220n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85363358 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01521091</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sears, Barnas,</subfield>
+    <subfield code="d">1802-1880</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">State Library of Massachusetts. Whether the books, records, and other documents ... 1852:</subfield>
+    <subfield code="b">p. 2 (Barnas Sears, librarian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L/NLT files</subfield>
+    <subfield code="b">(hdg.: Sears, Barnas, 1802-1880)</subfield>
+  </datafield>
+</record>
