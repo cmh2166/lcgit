@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00423nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2012073195</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120529103058.0</controlfield>
+  <controlfield tag="008">120525n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012073195</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09209627</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IlMchBWI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IlMchBWI</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Skybox Press</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Dodgers, from coast to coast, c2012:</subfield>
+    <subfield code="b">t.p. (Skybox Press, San Diego) t.p. verso (an imprint of Luxury Custom Publishing)</subfield>
+  </datafield>
+</record>
