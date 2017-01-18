@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00546nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2002034421</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021003033109.0</controlfield>
+  <controlfield tag="008">020917n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002034421</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ9278.I54</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pinto, José de Sousa,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sousa Pinto, José de,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Sousa Pinto, José,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A seis dias da Monarquia, c2001:</subfield>
+    <subfield code="b">t.p. (José de Sousa Pinto) back cover flap (b. 1951 in Setúbal [Portugal]; political administrator turned novelist)</subfield>
+  </datafield>
+</record>
