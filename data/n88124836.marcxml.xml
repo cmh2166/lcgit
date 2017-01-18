@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00834cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  88124836 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120809083100.0</controlfield>
+  <controlfield tag="008">880921n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88124836 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1788</subfield>
+    <subfield code="g">1858</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chapsal,</subfield>
+    <subfield code="c">M.</subfield>
+    <subfield code="q">(Charles Pierre),</subfield>
+    <subfield code="d">1788-1858</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Charles Pierre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Chapsal, Charles Pierre,</subfield>
+    <subfield code="d">1788-1858</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Şapsal,</subfield>
+    <subfield code="c">M.,</subfield>
+    <subfield code="d">1788-1858</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Noël, F. Nouvelle grammaire français, 1874:</subfield>
+    <subfield code="b">t.p. (M. Chapsal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Chapsal, Charles Pierre, 1788-1858; usage: M. Chapsal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Mebadi-yi tatbikat-ı Fransevı̂, 1883</subfield>
+    <subfield code="b">t.p. (M. Şapsal) added t.p. (M. Chapsal [in rom.])</subfield>
+  </datafield>
+</record>
