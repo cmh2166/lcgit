@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01089cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  86025849 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100516081402.0</controlfield>
+  <controlfield tag="008">870522n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86025849 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0083100</subfield>
+    <subfield code="e">E0083100</subfield>
+    <subfield code="f">N0515900</subfield>
+    <subfield code="g">N0515900</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01860807</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Brackwede (Bielefeld, Germany)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bielefeld (Germany).</subfield>
+    <subfield code="b">Brackwede</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Leo Baeck Inst. for Pinkus family. Papers, 1696-1976</subfield>
+    <subfield code="b">(Brackwede)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Webster's Geo. Dict., 1969</subfield>
+    <subfield code="b">(Brackwede; commune, W. Germany, in North Rhine-Westphalia state, 36 m. E. of Münster and just S. of Bielefeld; mgf. metal goods, glass, leather; cattle market)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN, 5-12-87</subfield>
+    <subfield code="b">(Brackwede, W. Ger.; sec. popl. 51°59ʹN, 8°31ʹE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dt. Bundesadressb., 1986/87</subfield>
+    <subfield code="b">(Brackwede, Stadtt. von Bielefeld)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 51°59ʹ00ʺN 008°31ʹ00ʺE)</subfield>
+  </datafield>
+</record>
