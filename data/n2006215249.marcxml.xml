@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00771cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2006215249</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816081012.0</controlfield>
+  <controlfield tag="008">060921n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006215249</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Seminar to Commemorate the World Food Day</subfield>
+    <subfield code="d">(1996 :</subfield>
+    <subfield code="c">Hector Kobbekaduwa Agrarian Research and Training Institute)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seminar to Commemorate the World Food Day (1996 : Hector Kobbekaduwa Agrarian Research and Training Institute). Fighting hunger and malnutrition, 1998:</subfield>
+    <subfield code="b">t.p. (Seminar to Commemorate the World Food Day, held at the Hector Kobbekaduwa Agrarian Research and Training Institute, Colombo, on 15th October 1996)</subfield>
+  </datafield>
+</record>
