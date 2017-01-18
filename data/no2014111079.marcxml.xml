@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00511nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2014111079</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140822073527.0</controlfield>
+  <controlfield tag="008">140821n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014111079</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09941468</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1752?</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reutter, Georg,</subfield>
+    <subfield code="d">1708-1772.</subfield>
+    <subfield code="t">Wenceslaum Sanctissimum</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Motets</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reutter, Georg. Portus felicitatis, 2013:</subfield>
+    <subfield code="b">insert (Mottetto de Sancto Wenceslau : Wenceslaum Sanctissimum : 1752?)</subfield>
+  </datafield>
+</record>
