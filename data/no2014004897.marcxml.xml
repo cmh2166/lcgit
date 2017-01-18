@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00361nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2014004897</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140115073540.0</controlfield>
+  <controlfield tag="008">140114n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014004897</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09656262</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Byers, C. Floyd</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Building and loan associations, 1927:</subfield>
+    <subfield code="b">title page (C. Floyd Byers)</subfield>
+  </datafield>
+</record>
