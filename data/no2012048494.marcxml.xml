@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00433nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2012048494</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120406075213.0</controlfield>
+  <controlfield tag="008">120404n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012048494</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09163054</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hargrove, Henry Lee</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">King Alfred's Old English version of St. Augustine's Soliloquies, 1902:</subfield>
+    <subfield code="b">t.p. (Henry Lee Hargrove, Ph.D., Prof. of English, Baylor Univ.)</subfield>
+  </datafield>
+</record>
