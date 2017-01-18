@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00570nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010206221</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101222075222.0</controlfield>
+  <controlfield tag="008">101220n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010206221</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08721421</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chen, Shangren,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">陈上仁,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo gao deng xue xiao cheng ben xing wei yan jiu, 2008:</subfield>
+    <subfield code="b">t.p. (陈上仁 = Chen Shangren) cover flap (b. 1963; 厦门大学教育学博士; 江西省赣南师范学院教授)</subfield>
+  </datafield>
+</record>
