@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00783cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 99072093 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319175539.0</controlfield>
+  <controlfield tag="008">991001n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99072093 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05074829</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">O</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">O</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1887</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harrison, J. Houston</subfield>
+    <subfield code="q">(John Houston),</subfield>
+    <subfield code="d">1887-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">John Houston</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Harrison, J. Houston</subfield>
+    <subfield code="q">(John Houston),</subfield>
+    <subfield code="d">b. 1887</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harrison, John Houston,</subfield>
+    <subfield code="d">1887-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Settlers by the long grey trail, 1998:</subfield>
+    <subfield code="b">t.p. (J. Houston Harrison) p. 604-605 (John Houston Harrison (1887); entered the service of the Southern Railway Co. in mechanical engineering)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 10/1/98</subfield>
+    <subfield code="b">(hdg.: Harrison, John Houston, 1887-    ; usage: J. Houston Harrison)</subfield>
+  </datafield>
+</record>
