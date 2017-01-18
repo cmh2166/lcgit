@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00849nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 99020098 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990701051241.3</controlfield>
+  <controlfield tag="008">990625n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99020098 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Way, Lewis,</subfield>
+    <subfield code="d">1772-1840</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Basilicus,</subfield>
+    <subfield code="d">1772-1840</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Thoughts on the scriptural expectations of the Christian church, 1840:</subfield>
+    <subfield code="b">t.p. (Basilicus)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cushing, W. Initials and pseudonyms, 1963:</subfield>
+    <subfield code="b">p. 585 (Way, Rev. Lewis; used pseud. Basilicus; English clergyman of Stanstead, Sussex)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB</subfield>
+    <subfield code="b">(Lewis Way; father of Albert Way in whose entry he appears; grad. Merton College, Oxford, 1796; called to the bar, Inner Temple, 1797; later entered the church; b. 11 Feb. 1772; d. 26 Jan. 1840)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Way, Lewis, 1772-1840; usage: Lewis Way; Basilicus)</subfield>
+  </datafield>
+</record>
