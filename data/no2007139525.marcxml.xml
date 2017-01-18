@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01169cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2007139525</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090207082054.0</controlfield>
+  <controlfield tag="008">071107n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007139525</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07582041</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+    <subfield code="d">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Patrimoine musical français.</subfield>
+    <subfield code="p">Collection musique de chambre</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Centre de musique baroque de Versailles.</subfield>
+    <subfield code="t">Patrimoine musical français.</subfield>
+    <subfield code="p">Collection musique de chambre</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Patrimoine musical français.</subfield>
+    <subfield code="p">Musique de chambre</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Collection musique de chambre</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Musique de chambre (Versailles, France)</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Versailles</subfield>
+    <subfield code="b">Éditions du Centre de Musique Baroque de Versailles</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">6e suite des pièces en trio, c2006:</subfield>
+    <subfield code="b">t.p. (Collection musique de chambre) cover (Patrimoine musical français. Musique de chambre) publisher's list (Patrimoine musical français. Collection musique de chambre)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Centre de musique baroque homepage, viewed 11/13/07:</subfield>
+    <subfield code="b">Éditions-Partition (Patrimoine musical français. Collection musique de chambre)</subfield>
+  </datafield>
+</record>
