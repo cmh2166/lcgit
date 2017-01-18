@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00882cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  82141064 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141215100140.0</controlfield>
+  <controlfield tag="008">830120n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82141064 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Krŭstev, Krŭsti︠u︡ N.</subfield>
+    <subfield code="q">(Krŭsti︠u︡ Nenov)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Krŭsti︠u︡ Nenov</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Krastev, Krastiou</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Krŭstev, Krŭsti︠u︡</subfield>
+    <subfield code="q">(Krŭsti︠u︡ Nenov)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Krŭstev, Krŭsti︠u︡ N.</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="a">Krŭstev, Krŭstʹo</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with Krŭstev, Krŭsti︠u︡, st.n.s.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Vi︠a︡rvashtite--vi︠a︡ra, kolebanie, neverie, 1974.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aktualni problemi na ateistichnata deĭnost, 1982:</subfield>
+    <subfield code="b">verso t.p. (st.n.s. Krŭsti︠u︡ Krŭstev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 15, 2014</subfield>
+    <subfield code="b">(kandidat na filosofskite nauki)</subfield>
+  </datafield>
+</record>
