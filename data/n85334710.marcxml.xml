@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85334710 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130927073842.0</controlfield>
+  <controlfield tag="008">851205n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85334710 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01455368</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19430716</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Churchland, Patricia Smith</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Churchland, P.</subfield>
+    <subfield code="q">(Patricia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Neurophilosophy, c1986:</subfield>
+    <subfield code="b">CIP t.p. (Patricia Smith Churchland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neurophilosophy and Alzheimer's disease, c1992:</subfield>
+    <subfield code="b">CIP t.p. (P. Churchland) t.p. verso (Patricia S. Churchland; Dept. of Philosophy, Univ. of Calif., USA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Computer and the brain, 2000:</subfield>
+    <subfield code="b">CIP t.p. (Patricia S. Churchland) data sheet (b. July 16, 1943)</subfield>
+  </datafield>
+</record>
