@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00776cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  89119064 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060225071332.0</controlfield>
+  <controlfield tag="008">910208n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89119064 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02892610</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-pa</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">North Fayette (Pa. : Township)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">North Fayette Township (Pa.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog heading: North Fayette Township, Pa.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spectrum Map Publishing. Map-guide, Pittsburgh's airport area, 1989:</subfield>
+    <subfield code="b">map recto (North Fayette Twp.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database 2-6-91</subfield>
+    <subfield code="b">(hdg.: North Fayette Township, Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rand McNally comm. atlas, 1990:</subfield>
+    <subfield code="b">(North Fayette, Township of, in Allegheny Co.)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="z">North Fayette (Township)</subfield>
+  </datafield>
+</record>
