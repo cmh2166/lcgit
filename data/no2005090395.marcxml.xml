@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01415nz  a2200265n  4500</leader>
+  <controlfield tag="001">no2005090395</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050929060957.0</controlfield>
+  <controlfield tag="008">050921n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005090395</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06744930</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+  </datafield>
+  <datafield tag="086" ind1=" " ind2=" ">
+    <subfield code="a">AES 1.3:R 36</subfield>
+    <subfield code="2">azdocs</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Report (University of Arizona. Agricultural Experiment Station)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Arizona.</subfield>
+    <subfield code="b">Agricultural Experiment Station.</subfield>
+    <subfield code="t">Report</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Mimeographed report (University of Arizona. Agricultural Experiment Station)</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Research report (University of Arizona. Agricultural Experiment Station)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 80</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tucson, Ariz.</subfield>
+    <subfield code="b">Agricultural Experiment Station, University of Arizona</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Crown gall, 1952:</subfield>
+    <subfield code="b">t.p. (Report / Agricultural Experiment Station, University of Arizona)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">The vitamin C values of vegetables after institutional preparation for consumption by the Army and Navy training groups at the University of Arizona, 1944: t.p. (Mimeographed report / University of Arizona. Agricultural Experiment Station);</subfield>
+    <subfield code="a">Occupational opportunities and training needs for agricultural employment in selected areas of Arizona, 1972: t.p. (Research report / Agricultural Experiment Station, University of Arizona)</subfield>
+  </datafield>
+</record>
