@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00831cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  94104797 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131104141952.0</controlfield>
+  <controlfield tag="008">941031n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94104797 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19390112</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Golden, William Lee</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Brewton (Ala.)</subfield>
+    <subfield code="e">Hendersonville (Tenn.)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Country music</subfield>
+    <subfield code="a">Gospel music</subfield>
+    <subfield code="a">Art</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Oak Ridge Boys</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Country musicians</subfield>
+    <subfield code="a">Gospel musicians</subfield>
+    <subfield code="a">Singers</subfield>
+    <subfield code="a">Painters</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">American vagabond [SR] p1986:</subfield>
+    <subfield code="b">label (William Lee Golden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Nov. 4, 2013</subfield>
+    <subfield code="b">(William Lee Golden; b. Jan. 12, 1939 in Brewton, Ala.; American country music singer; baritone singer in the Oak Ridge Boys; genres: country, gospel, pop; also a painter; currently lives in Hendersonville, Tenn.)</subfield>
+  </datafield>
+</record>
