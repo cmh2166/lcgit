@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00677cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2010015377</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121122075214.0</controlfield>
+  <controlfield tag="008">100128n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010015377</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08376607</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP-G</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP-G</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1897</subfield>
+    <subfield code="g">1982</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Aoki, Shigeru,</subfield>
+    <subfield code="d">1897-1982</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Japan</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">jpn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">青木茂,</subfield>
+    <subfield code="d">1897-1982</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yamamura Bochō, Aoki Shigeru shū, 1977:</subfield>
+    <subfield code="b">t.p. (青木茂 = Aoki Shigeru) p. 460 (b. 1897)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NDL OPAC, Dec., 14, 2009</subfield>
+    <subfield code="b">(青木茂 = Aoki Shigeru; r; 1897-1982)</subfield>
+  </datafield>
+</record>
