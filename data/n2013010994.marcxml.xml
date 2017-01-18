@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00522nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2013010994</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130302075029.0</controlfield>
+  <controlfield tag="008">130301n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013010994</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vickers, Melissa Clark</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clark Vickers, Melissa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The 10th step and beyond, mother support for breastfeeding, 2012:</subfield>
+    <subfield code="b">t.p. (Melissa Clark Vickers; MEd, IBCLC) p. 257 (lives in Tennessee)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC copyright database, March 1, 2013</subfield>
+    <subfield code="b">(hdg.: Vickers, Melissa)</subfield>
+  </datafield>
+</record>
