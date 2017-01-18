@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00746cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012069578</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120604074728.0</controlfield>
+  <controlfield tag="008">120518n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012069578</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09202692</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Institute for Operations Research and the Management Sciences.</subfield>
+    <subfield code="b">Applied Probability Society</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">INFORMS, Applied Probability Society</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stochastic systems, Vol. 1, issue 1 (2011)</subfield>
+    <subfield code="b">journal home page (INFORMS, Applied Probability Society)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Applied Probablility Society website, viewed May 18, 2012 :</subfield>
+    <subfield code="b">homepage (The Applied Probability Society is a subdivision of the Institute for Operations Research and the Management Sciences (INFORMS))</subfield>
+  </datafield>
+</record>
