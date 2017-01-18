@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00512nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2004013901</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040506033118.0</controlfield>
+  <controlfield tag="008">040505n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004013901</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-BR</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-BR</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ancient Order of United Workmen.</subfield>
+    <subfield code="b">Grand Lodge of Kansas</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancient Order United Workmen, constitution of Grand Lodge of Kansas, 1895:</subfield>
+    <subfield code="b">cover (Grand Lodge of the Ancient Order of United Workmen of the State of Kansas) p. 5 (Grand Lodge, A.O.U.W. of the State of Kansas)</subfield>
+  </datafield>
+</record>
