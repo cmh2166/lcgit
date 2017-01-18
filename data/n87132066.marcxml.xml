@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00566cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87132066 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19951228065212.8</controlfield>
+  <controlfield tag="008">870930n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87132066 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Western Regional Environmental Education Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">WREEC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-100388: Environmental education, 1975</subfield>
+    <subfield code="b">(usage on N rept.: Western Regional Environmental Education Council)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Project WET, c1995:</subfield>
+    <subfield code="b">t.p. (Western Regional Environmental Education Council, 4014 Chatham Lane, Houston, Tex.) p. ii (WREEC)</subfield>
+  </datafield>
+</record>
