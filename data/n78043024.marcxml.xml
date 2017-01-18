@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00932cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  78043024 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100512075253.0</controlfield>
+  <controlfield tag="008">780717n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78043024 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0164600</subfield>
+    <subfield code="e">E0164600</subfield>
+    <subfield code="f">N0502100</subfield>
+    <subfield code="g">N0502100</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00178951</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-pl---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Trzebieszowice (Poland)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Trzebieszowice, Poland</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Conference on Probability Theory on Vector Spaces, Trzebieszowice, Poland, 1977. Probability theory ... 1978 (used in hdg.)</subfield>
+    <subfield code="b">t.p. (Trzebieszowice, Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spis miejsc. PRL, 1968</subfield>
+    <subfield code="b">(Trzebieszowice)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN gaz. Poland</subfield>
+    <subfield code="b">(Trzebieszowice, popl. 50 21"N-16 46"E)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN per phone 6/2/78</subfield>
+    <subfield code="b">(confirmed info. from above sources)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 50°21ʹ00ʺN 016°46ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Poland</subfield>
+    <subfield code="z">Trzebieszowice</subfield>
+  </datafield>
+</record>
