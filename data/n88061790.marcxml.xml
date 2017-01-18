@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00694cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88061790 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080906080744.0</controlfield>
+  <controlfield tag="008">890324n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88061790 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02487357</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abe, Junkichi,</subfield>
+    <subfield code="d">1915-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">安倍淳吉,</subfield>
+    <subfield code="d">1915-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">安部淳吉,</subfield>
+    <subfield code="d">1915-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gendai shinrigaku no rironteki tenkai, 1988:</subfield>
+    <subfield code="b">t.p. (Abe Junkichi) p. 222 (prof., Tōkyō Kokusai Daigaku Daigakuin; Litt. D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NDL choshamei, 1979</subfield>
+    <subfield code="b">(Abe Junkichi; b. 1915)</subfield>
+  </datafield>
+</record>
