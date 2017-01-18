@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00581cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  82209866 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090101075603.0</controlfield>
+  <controlfield tag="008">830822n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82209866 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00869484</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Solari, Allison Jarvis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Solari, A. J.</subfield>
+    <subfield code="q">(Allison Jarvis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Taliaferro, N. L. Geologic map of the Copperopolis quadrangle, California, 1948 (a.e.)</subfield>
+    <subfield code="b">map recto (A.J. Solari)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's The tertiary formations of the Copperopolis quadrangle, 1936:</subfield>
+    <subfield code="b">t.p. (Allison Jarvis Solari)</subfield>
+  </datafield>
+</record>
