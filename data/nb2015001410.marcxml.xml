@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01180nz  a2200229n  4500</leader>
+  <controlfield tag="001">nb2015001410</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150122050907.0</controlfield>
+  <controlfield tag="008">150121n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2015001410</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009236502</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dubuisson, Séverine</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">France</subfield>
+    <subfield code="f">Paris (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">College teaching</subfield>
+    <subfield code="a">Computer science</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Université Pierre et Marie Curie. Laboratoire de Paris 6</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tracking with particle filter for high-dimensional observation and state spaces, 2015:</subfield>
+    <subfield code="b">t.p. (Séverine Dubiosson) back cover (Séverine Dubuisson, she is an Assistant Professor, Institute for Intelligent Systems and Robotics, Pierre and Marie Curie University, Paris, France; research interests are tracking in video sequences and management of large state spaces)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Laboratoire d'Informatique de Paris 6 website, viewd 21 January 2015:</subfield>
+    <subfield code="b">guest page (Séverine Dubuison, she is a lecturer at the Laboratoire de Paris 6, Universié Pierre et Marie Curie since 2002; lists publications)</subfield>
+  </datafield>
+</record>
