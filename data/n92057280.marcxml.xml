@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01097cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  92057280 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010814033150.0</controlfield>
+  <controlfield tag="008">920527n| acaaaaaa           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92057280 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CtY-N</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Etudes et documents (Madrasah al-Qawmīyah lil-Idārah (Tunisia). Markaz al-Buḥūth wa-al-Dirāsāt al-Idārīyah)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Madrasah al-Qawmīyah lil-Idārah (Tunisia).</subfield>
+    <subfield code="b">Markaz al-Buḥūth wa-al-Dirāsāt al-Idārīyah.</subfield>
+    <subfield code="t">Etudes et documents</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Dirāsāt wa-wathāʼiq (Madrasah al-Qawmīyah lil-Idārah (Tunisia). Markaz al-Buḥūth wa-al-Dirāsāt al-Idārīyah)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no 14</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tunis</subfield>
+    <subfield code="b">Ecole national d'administration de Tunis, Centre de recherches et d'études administratives</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jamaa, F. Les marchés de travaux publics, 1990:</subfield>
+    <subfield code="b">cover (Etudes et documents)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Nizāʻ ḥawla sharʻīyat amr al-intizāʻ wa-ḥaqq al-istirjāʻ, 1986:</subfield>
+    <subfield code="b">cover (Dirāsāt wa-wathāʼiq)</subfield>
+  </datafield>
+</record>
