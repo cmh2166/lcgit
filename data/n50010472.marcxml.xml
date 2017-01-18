@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00430cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  50010472 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081119074803.0</controlfield>
+  <controlfield tag="008">800404n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50010472 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)000132251</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stewart, Michael,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Keynes and after, 1967:</subfield>
+    <subfield code="b">t.p. (Michael Stewart)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 20 Oct. 1988</subfield>
+    <subfield code="b">(Michael James Stewart, born 6 Feb. 1933)</subfield>
+  </datafield>
+</record>
