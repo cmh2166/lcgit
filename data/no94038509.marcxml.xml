@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00563cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 94038509 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001027070541.0</controlfield>
+  <controlfield tag="008">941029n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94038509 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03730168</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bindel-Kögel, Gabriele,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kögel, Gabriele Bindel-,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bindel, Gabriele,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Frühe Mutterschaft - eine Provokation, 1993:</subfield>
+    <subfield code="b">t.p. (Gabriele Bindel-Kögel) verso t.p. (Dipl.-Päd.) p. 202 (Bindel, Gabriele) p. 213 (Dr. phil.; b. 1954)</subfield>
+  </datafield>
+</record>
