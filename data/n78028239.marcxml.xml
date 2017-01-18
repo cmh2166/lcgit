@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00793cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  78028239 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100512075223.0</controlfield>
+  <controlfield tag="008">780523n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78028239 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0054127</subfield>
+    <subfield code="e">W0054127</subfield>
+    <subfield code="f">N0543532</subfield>
+    <subfield code="g">N0543532</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00164528</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-uk-ni</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Newtownards (Northern Ireland)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Newtownards, Northern Ireland</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ards Historical Society. Glimpses ... 1977 (subj.)</subfield>
+    <subfield code="b">t.p. (Newtownards) p. 8 (in County Down)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GB 78-03858</subfield>
+    <subfield code="b">(body of entry: Newtownards)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bartholomew, 1966</subfield>
+    <subfield code="b">(Newtownards)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 54°35ʹ32ʺN 005°41ʹ27ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Northern Ireland</subfield>
+    <subfield code="z">Newtownards</subfield>
+  </datafield>
+</record>
