@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00976cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 00016914 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519080428.0</controlfield>
+  <controlfield tag="008">000518n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00016914 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05224295</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rapp, Wilhelm Ludwig von,</subfield>
+    <subfield code="d">1794-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rapp, Wilhelm,</subfield>
+    <subfield code="d">1794-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Von Rapp, Wilhelm Ludwig,</subfield>
+    <subfield code="d">1794-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rapp, Wilhelm von,</subfield>
+    <subfield code="d">1794-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rapp, Guilielmo Ludov.,</subfield>
+    <subfield code="d">1794-1868</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ueber die Polypen im Allgemeinen, 1829:</subfield>
+    <subfield code="b">t.p. (Wilh. Rapp)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 5/16/00</subfield>
+    <subfield code="b">(hdgs.: Rapp, Wilhelm Ludwig von, 1794-1868; Rapp, Wilhelm Ludwig; Rapp, Wilhelm Ludwig, 1794-1868; Rapp, Wilhelm von; Rapp, Wilhelm von, 1794-1868; Rapp, Wilhelm; usage: Wilhelm Ludwig Rapp; W. v. Rapp; Wilh. Rapp; Prof. Rapp; Wilhelm von Rapp; W. L. von Rapp; Wilhelm Rapp)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seps tridactylus, 1825:</subfield>
+    <subfield code="b">t.p. (Guilielmo Ludov. Rapp, Med. Doct. ejusque Professore)</subfield>
+  </datafield>
+</record>
