@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 97044083 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971212052625.7</controlfield>
+  <controlfield tag="008">971211n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97044083 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC-Mu</subfield>
+    <subfield code="c">NIC-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Busbetzky, Ludwig.</subfield>
+    <subfield code="t">Laudate Dominum omnes gentes</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Buxtehude, Dietrich,</subfield>
+    <subfield code="d">1637-1707.</subfield>
+    <subfield code="t">Laudate Dominum omnes gentes</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Buxtehude, Dietrich,</subfield>
+    <subfield code="d">1637-1707.</subfield>
+    <subfield code="t">Lobsinget Gott dem Herrn</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Buxtehude, D. Laudate Dominum, 1937:</subfield>
+    <subfield code="b">t.p. (Laudate Dominum = Lobsinget Gott dem Herrn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KarstaĚdt</subfield>
+    <subfield code="b">(BuxWV Anhang 10. Laudate Dominum omnes gentes; S., 2 vln., vlne. bc. The composer is Lovies Busbetzky)</subfield>
+  </datafield>
+</record>
