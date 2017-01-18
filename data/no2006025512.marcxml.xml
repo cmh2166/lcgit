@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01263cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2006025512</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120915075121.0</controlfield>
+  <controlfield tag="008">060308n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006025512</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06879643</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1983~</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bach, P. D. Q.,</subfield>
+    <subfield code="d">1742-1807.</subfield>
+    <subfield code="t">Capriccio "La pucelle de New Orleans"</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Musical work</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">flutes (2)</subfield>
+    <subfield code="a">oboes (2)</subfield>
+    <subfield code="a">clarinet</subfield>
+    <subfield code="a">bassoons (2)</subfield>
+    <subfield code="a">trumpet</subfield>
+    <subfield code="a">trombone</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Schickele, Peter.</subfield>
+    <subfield code="t">Capriccio "La pucelle de New Orleans"</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bach, P. D. Q.,</subfield>
+    <subfield code="d">1742-1807.</subfield>
+    <subfield code="t">Pucelle de New Orleans</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bach, P. D. Q.,</subfield>
+    <subfield code="d">1742-1807.</subfield>
+    <subfield code="t">Maid of New Orleans</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schickele, P. 1712 overture &amp; other musical assaults [SR] p1989:</subfield>
+    <subfield code="b">label (Capriccio La pucelle de New Orleans) container (Capriccio La pucelle de New Orleans = The maid of New Orleans : S. under 18)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 85752380</subfield>
+    <subfield code="b">(Capriccio "La pucelle de New Orleans" = ("The maid of New Orleans"))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Capriccio "La pucelle de New Orleans", 1983?:</subfield>
+    <subfield code="b">title page (("The maid of New Orleans") : for 2 flutes, 2 oboes, Bâ­ clarinet, 2 bassoons, Bâ­ trumpet, and trombone, S. under 18 [by] P.D.Q. Bach ; edited with abandon by Prof. P. Schickele)</subfield>
+  </datafield>
+</record>
