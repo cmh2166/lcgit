@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 00026937 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000823033751.0</controlfield>
+  <controlfield tag="008">000822n| acabbaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00026937 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">21-seiki no Nihonjin e</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Nijūisseiki no Nihonjin e</subfield>
+  </datafield>
+  <datafield tag="640" ind1="1" ind2=" ">
+    <subfield code="a">Complete in 7 v.</subfield>
+    <subfield code="z">Yanagita Kunio, colophon verso</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tōkyō</subfield>
+    <subfield code="b">Shōbunsha</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yanagita Kunio, 1999:</subfield>
+    <subfield code="b">t.p. (21-seiki no Nihonjin e)</subfield>
+  </datafield>
+</record>
