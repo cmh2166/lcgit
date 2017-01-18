@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00995nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2014168953</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141224073521.0</controlfield>
+  <controlfield tag="008">141223n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014168953</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10047656</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NcU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19490131</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thompson, Alan,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Chapel Hill (N.C.)</subfield>
+    <subfield code="e">Georgetown (S.C.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Novelists</subfield>
+    <subfield code="a">Lawyers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  93075102</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gods and lesser men, 2014:</subfield>
+    <subfield code="b">title page (Alan Thompson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amazon.com, Dec. 22, 2014</subfield>
+    <subfield code="b">(Alan Thompson; b. January 31, 1949, Danville, Ky.; lawyer who has written on construction law; grew up in Chapel Hill, N.C., and now lives in Georgetown, S.C.)</subfield>
+    <subfield code="u">http://www.amazon.com/Alan-Thompson/e/B005AU1D3I/ref=dp_byline_cont_book_1</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A hollow cup, c2011:</subfield>
+    <subfield code="b">t.p. (Alan Thompson) dustjacket (writer living in Georgetown, S.C.)</subfield>
+  </datafield>
+</record>
