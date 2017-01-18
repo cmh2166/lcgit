@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01003cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  50068733 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090205075626.0</controlfield>
+  <controlfield tag="008">801203n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50068733 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00102825</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Herbert, Henry William,</subfield>
+    <subfield code="d">1807-1858</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Dinks,</subfield>
+    <subfield code="d">1807-1858</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Forester, Frank,</subfield>
+    <subfield code="d">1807-1858</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author written under pseudonyms, search also under:</subfield>
+    <subfield code="b">Forester, Frank, 1807-1858 and Dinks, 1807-1858</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The dog, 1873?:</subfield>
+    <subfield code="b">t.p. (Dinks)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from NJ Hist. Soc. for Literary papers, 1826-1900</subfield>
+    <subfield code="b">(letters written by Henry William Herbert; 1807-1858; whose pseudonym was Frank Forester; b. in Engl., came to US(NYC) in 1831; in 1845 moved to retreat on Passaic R. near Newark where did much of his writing; remembered for work on field sports)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC files</subfield>
+    <subfield code="b">(Herbert, Henry William, 1807-1858; also wrote under pseud.: Dinks)</subfield>
+  </datafield>
+</record>
