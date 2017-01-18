@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00756cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  78097115 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141211125632.0</controlfield>
+  <controlfield tag="008">781220n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78097115 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Raff, Joachim,</subfield>
+    <subfield code="d">1822-1882.</subfield>
+    <subfield code="t">Quintets,</subfield>
+    <subfield code="m">piano, violins (2), viola, cello,</subfield>
+    <subfield code="n">op. 107,</subfield>
+    <subfield code="r">A minor</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">violin</subfield>
+    <subfield code="n">2</subfield>
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">5</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">A minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Raff, Joachim,</subfield>
+    <subfield code="d">1822-1882.</subfield>
+    <subfield code="t">Grand quintuor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Raff, Joachim,</subfield>
+    <subfield code="d">1822-1882.</subfield>
+    <subfield code="t">Quintet,</subfield>
+    <subfield code="m">piano &amp; strings,</subfield>
+    <subfield code="n">op. 107,</subfield>
+    <subfield code="r">A minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Raff, Joachim,</subfield>
+    <subfield code="d">1822-1882.</subfield>
+    <subfield code="t">Quintets,</subfield>
+    <subfield code="m">piano, strings,</subfield>
+    <subfield code="n">op. 107,</subfield>
+    <subfield code="r">A minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Grand quintuor [SR] 1977:</subfield>
+    <subfield code="b">labels (Grand quintuor, op. 107, A minor)</subfield>
+  </datafield>
+</record>
