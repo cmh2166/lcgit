@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01028cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85174300 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315093656.0</controlfield>
+  <controlfield tag="008">861118n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85174300 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Höffler, Konrad,</subfield>
+    <subfield code="d">1647-approximately 1705.</subfield>
+    <subfield code="t">Primitiae chelicae</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Höffler, Konrad,</subfield>
+    <subfield code="d">1647-approximately 1705.</subfield>
+    <subfield code="t">Musicalische Erstlinge</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Höffler, Konrad,</subfield>
+    <subfield code="d">1647-ca. 1705.</subfield>
+    <subfield code="t">Primitiae chelicae</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schwamberger, M. Deutsche Gambenkunst des Hochbarock [SR] between 1980 and 1985:</subfield>
+    <subfield code="b">container (Primitiae chelicae : oder Musicalische Erstlinge. In 12. durch unterschiedliche Tone eingetheilte Suiten Va. di Gamba solo samt ihrer Basi, nach der ietzt florirenden Instrumental-Arth einger)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Primitiae chelicae; 12 gamba suites; all in different major and minor keys, follow the then usual order of movements allemande-courante-sarabande-gigue; nos. 4-6 are each preceded by a prelude, and no. 11 begins with a sonata and fugue)</subfield>
+  </datafield>
+</record>
