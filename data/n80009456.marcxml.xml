@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00804cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80009456 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020802135806.0</controlfield>
+  <controlfield tag="008">800212n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80009456 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00392001</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">FMU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Smith, Lloyd H.,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Smith, Lloyd Holly,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Review and self-assessment in internal medicine, 1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (Lloyd H. Smith, Jr., M.D.; prof. &amp; chr., Dept. of Med., Univ. of Calif., School of Med.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. phys. ref. list., 1975:</subfield>
+    <subfield code="b">(Smith Jr., Lloyd H., b. 1924)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 24, 1999</subfield>
+    <subfield code="b">(hdg.: Smith, Lloyd H., 1924-; Smith, Lloyd Holly, 1924-; usage: Lloyd H. Smith, Jr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. of Miami catalog, June 24, 1999</subfield>
+    <subfield code="b">(hdg.: Smith, Lloyd H. (Lloyd Holly), 1924-)</subfield>
+  </datafield>
+</record>
