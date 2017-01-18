@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 95025221 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020411053644.0</controlfield>
+  <controlfield tag="008">950712n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95025221 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03875652</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">GU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR9199.3.L66</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lowther, Pat,</subfield>
+    <subfield code="d">1935-1975</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Lowther, Patricia Louise,</subfield>
+    <subfield code="d">1935-1975</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A stone diary, 1977:</subfield>
+    <subfield code="b">t.p. (Pat Lowther)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 7-11-95</subfield>
+    <subfield code="b">(hdg.: Lowther, Patricia Louise, 1935-1975; usage: Pat Lowther)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 7-11-95</subfield>
+    <subfield code="b">(NLC hdg.: Lowther, Pat, 1935-1975)</subfield>
+  </datafield>
+</record>
