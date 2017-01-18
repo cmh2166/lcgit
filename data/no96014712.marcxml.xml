@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00693nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96014712 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960322070030.5</controlfield>
+  <controlfield tag="008">960321n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96014712 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04039926 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Milhaud, Darius,</subfield>
+    <subfield code="d">1892-1974.</subfield>
+    <subfield code="t">Duo concertant</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Milhaud, Darius,</subfield>
+    <subfield code="d">1892-1974.</subfield>
+    <subfield code="t">Duets,</subfield>
+    <subfield code="m">clarinet, piano,</subfield>
+    <subfield code="n">op. 351</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Milhaud, Darius,</subfield>
+    <subfield code="d">1892-1974.</subfield>
+    <subfield code="t">Duo concertante</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brahms, J. Clarinet sonata, op. 120 [SR] p1995:</subfield>
+    <subfield code="b">label (Duo concertant)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 1-24-96</subfield>
+    <subfield code="b">(hdg.: Milhaud, Darius, 1892-1974. Duo concertant)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Duo concertante, op. 351, cl, pf, 1956)</subfield>
+  </datafield>
+</record>
