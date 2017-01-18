@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00765nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014182344</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140319044104.0</controlfield>
+  <controlfield tag="008">140319n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014182344</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1606136</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1858</subfield>
+    <subfield code="g">1940</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jitta, N. M. Josephus</subfield>
+    <subfield code="q">(Nicolaas Marinus Josephus),</subfield>
+    <subfield code="d">1858-1940</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Nicolaas Marinus Josephus</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Organisation of the public health services in the kingdom of the Netherlands, 1924?:</subfield>
+    <subfield code="b">t.p. (N.M. Josephus Jitta, PreĚsident of the Health Council)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC files, March 10, 2014</subfield>
+    <subfield code="b">(hdg.: Jitta, N. M. Josephus, 1858- ; usage: N.M. Josephus Jitta)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIAF Cluster, March 10, 2014</subfield>
+    <subfield code="b">(hdg.: Jitta, Nicolaas Marinus Josephus, 1858-1940)</subfield>
+  </datafield>
+</record>
