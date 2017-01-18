@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00547nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2001008127</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010314033119.0</controlfield>
+  <controlfield tag="008">010309n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001008127</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">al-Qadreh, Abbas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Qadreh, Abbas al-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the First Workshop on Insulin-Dependent Diabetes Mellitus in Children and Adolescents, 1999:</subfield>
+    <subfield code="b">t.p. (guest editor, Abbas al-Qadreh) p. 1 (A. al-Qadreh; Univ. of Athens, Faculty of Nursing, "P &amp; A Kyrakou" Children's Hospital, Athens, Greece)</subfield>
+  </datafield>
+</record>
