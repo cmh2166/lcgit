@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  95040447 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950922133348.1</controlfield>
+  <controlfield tag="008">950425n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95040447 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Antifonario della cattedrale di Volterra</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading represents the antiphonary in its codicological aspects (material, script, type of notation, binding, etc., incl. decoration)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'antifonario della cattedrale di Volterra, c1993:</subfield>
+    <subfield code="b">p. 10 (antiphonary in 2 v., now housed in the Museo d'arte sacra, Volterra)</subfield>
+  </datafield>
+</record>
