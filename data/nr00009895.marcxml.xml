@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00528nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00009895 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000324033743.0</controlfield>
+  <controlfield tag="008">000323n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00009895 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Friends of the Union (Baltimore, Md.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings and speeches at a public meeting of the Friends of the Union, in the city of Baltimore, 1861</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 3/22/00</subfield>
+    <subfield code="b">(hdgs.: Friends of the Union (Baltimore, Md.); Friends of the Union (Baltimore); Friends of the Union, Baltimore)</subfield>
+  </datafield>
+</record>
