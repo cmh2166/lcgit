@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00400nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006078715</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060729071039.0</controlfield>
+  <controlfield tag="008">060725n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006078715</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07008258</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barbon, Ferdy Hermes</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hermes Barbon, Ferdy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I segni dei mercanti a Venezia, c2005:</subfield>
+    <subfield code="b">t.p. (Ferdy Hermes Barbon)</subfield>
+  </datafield>
+</record>
