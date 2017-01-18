@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00882cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  86804491 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804082409.0</controlfield>
+  <controlfield tag="008">860129n| acannaab           |a and      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86804491 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Regional Conference on Reclamation of Surface-Mined Land for Outdoor Recreation</subfield>
+    <subfield code="d">(1973 :</subfield>
+    <subfield code="c">Kent State University)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Reclamation of Surface-Mined Land for Outdoor Recreation, Regional</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-7497: Its Proceedings of Regional Conference ... 1973</subfield>
+    <subfield code="b">(hdg. on DI rept.: Regional Conference on Reclamation of Surface-Mined Land for Outdoor Recreation (1973 : Kent State University); usage: Regional Conference on Reclamation of Surface-Mined Land for Outdoor Recreation, May 22-23, 1973, Kent State University)</subfield>
+  </datafield>
+</record>
