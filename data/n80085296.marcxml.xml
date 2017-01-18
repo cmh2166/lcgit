@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00873cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80085296 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141105073726.0</controlfield>
+  <controlfield tag="008">800710n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80085296 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00466497</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Physical Society (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Optical Society (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">Institute of Physics and the Physical Society</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Physical Society of London</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Science abstracts. Section A, Physics, Dec. 25, 1940,</subfield>
+    <subfield code="b">t.p. (Physical Society; London)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Science abstracts, 1898: Vol. t.p. (Physical Society of London)</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">Physical Society absorbed Optical Society in 1933. In 1960 Physical Society merged with the Institute of Physics to form Institute of Physics and Physical Society.</subfield>
+  </datafield>
+</record>
