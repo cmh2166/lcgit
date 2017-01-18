@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00584cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2007031814</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120702104714.0</controlfield>
+  <controlfield tag="008">070504n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007031814</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07402428</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martinez-Ruiz, Barbaro</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ruiz, Barbaro Martinez-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Barringer, T. J. Art and emancipation in Jamaica, 2007:</subfield>
+    <subfield code="b">CIP t.p. (Barbaro Martinez-Ruiz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kongo graphic writing and other narratives of the sign, 2013:</subfield>
+    <subfield code="b">ECIP t.p. (BaĚrbaro MartiĚnez-Ruiz) ECIP data sheet (b. Dec. 4, 1967)</subfield>
+  </datafield>
+</record>
