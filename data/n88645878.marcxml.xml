@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01087cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88645878 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210080141.0</controlfield>
+  <controlfield tag="008">880624n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88645878 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Chinese University of Hong Kong.</subfield>
+    <subfield code="b">Centre for Contemporary Asian Studies</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">CCAS</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Chinese University of Hong Kong.</subfield>
+    <subfield code="b">Tang tai Ya-chou yen chiu chung hsin</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Hsiang-kang Chung wen ta hsüeh tang tai Ya-chou yen chiu chung hsin</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Chinese University of Hong Kong</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-77450: Potter, P.B. The economic contract law of the People's Republic of China ... c1983</subfield>
+    <subfield code="b">(hdg. on MH-EA rept.: Centre for Contemporary Asian Studies)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung-kuo ching chi tʻe chʻü, 1988:</subfield>
+    <subfield code="b">t.p. (Hsiang-kang Chung wen ta hsüeh tang tai Ya-chou yen chiu chung hsin; Centre for Contemporary Asian Studies, the Chinese University of Hong Kong)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chinese banking in Asia's market economies, 1989:</subfield>
+    <subfield code="b">t.p. (CCAS, the Chinese University of Hong Kong)</subfield>
+  </datafield>
+</record>
