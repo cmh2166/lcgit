@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  90715026 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000713064511.0</controlfield>
+  <controlfield tag="008">901115n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90715026 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02850151</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Six, Abigail Lee</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lee, Abigail E.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lee Six, Abigail</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Juan Goytisolo, 1990:</subfield>
+    <subfield code="b">t.p. (Abigail Lee Six) p. 221 (listed in bibliography under: Lee, Abigail E. (1988-1989); Lee Six, Abigail (1990)) jkt. (lecturer, Hispanic stud., Queen Mary and Westfield Coll., Univ. of London)</subfield>
+  </datafield>
+</record>
