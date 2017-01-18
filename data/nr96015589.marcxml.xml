@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00417nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 96015589 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960425053503.4</controlfield>
+  <controlfield tag="008">960423n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96015589 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Butcher, Vernon A.</subfield>
+    <subfield code="q">(Vernon Arthur),</subfield>
+    <subfield code="d">1900-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The cigar, 1949:</subfield>
+    <subfield code="b">t.p. (Vernon A. Butcher)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Butcher, Vernon Arthur, 1900-; usage: Vernon A. Arthur)</subfield>
+  </datafield>
+</record>
