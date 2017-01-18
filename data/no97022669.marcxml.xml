@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00526nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97022669 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970411052534.7</controlfield>
+  <controlfield tag="008">970410n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97022669 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04315226 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NbU</subfield>
+    <subfield code="c">NbU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Rasby, Rick,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Rasby, Richard Joseph,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Feeding the beef cow herd, 1997:</subfield>
+    <subfield code="b">title screen (Rick Rasby)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 13, 1997</subfield>
+    <subfield code="b">(hdgs.: Rasby, Rick, Rasby, Richard Joseph, 1956-; usage: Rick Rasby, Richard Joseph Rasby)</subfield>
+  </datafield>
+</record>
