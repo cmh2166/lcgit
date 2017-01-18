@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  91039768 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130308095728.0</controlfield>
+  <controlfield tag="008">910423n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91039768 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1463</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Nikolaos,</subfield>
+    <subfield code="c">Saint,</subfield>
+    <subfield code="d">-1463</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="c">Saint</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Nicholas,</subfield>
+    <subfield code="c">Saint,</subfield>
+    <subfield code="d">-1463</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Nikolaos,</subfield>
+    <subfield code="c">Saint,</subfield>
+    <subfield code="d">d. 1463</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cavarnos, C. Saints Raphael, Nicholas, and Irene of Lesvos, 1990:</subfield>
+    <subfield code="b">prelim. p. (Nikolaos) t.p. (d. 1463)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Holweck;</subfield>
+    <subfield code="a">Dict. of Saints</subfield>
+  </datafield>
+</record>
