@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00479cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  92008247 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080603102603.0</controlfield>
+  <controlfield tag="008">920125n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92008247 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL248.I777</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Işık, Haydar,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Dersimli Memik Ağa, 1990:</subfield>
+    <subfield code="b">t.p. (Haydar Işık) p. 4 of cover (b. Dersim, [Eastern Turkey] in 1937; teacher; grad. of Ege Üniv. Eczacılık Yüksek Okulu; lives in Germany)</subfield>
+  </datafield>
+</record>
