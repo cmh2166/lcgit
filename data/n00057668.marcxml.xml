@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00864cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  00057668 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320075048.0</controlfield>
+  <controlfield tag="008">001229n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00057668 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">16</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Corduba, Francesco,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Corduba, Francesco,</subfield>
+    <subfield code="d">17th cent.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rossi, G.G. Nuoua racolta di fontane che si vedano nel alma citta di Roma, Tiuoli e Frascati, ca. 1650</subfield>
+    <subfield code="b">(some plates signed F. Corduba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bénézit, Emmanuel. Dictionnaire critique et documentaire des peintres</subfield>
+    <subfield code="b">(Corduba, Francesco, etcher, 17th c.; illustrated many Roman garden fountains)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thieme &amp; Becker. Allgemeines Lexikon der bildenden Künstler</subfield>
+    <subfield code="b">(painter and etcher from Bitonto; etched 23 plates for G.G. Rosso (i.e. Rossi), Raccolta di fontane di Roma, 1618)</subfield>
+  </datafield>
+</record>
