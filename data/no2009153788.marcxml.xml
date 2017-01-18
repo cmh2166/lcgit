@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00488nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2009153788</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090930075404.0</controlfield>
+  <controlfield tag="008">090928n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009153788</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08253871</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiFliG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiFliG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Simpson, F. M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A rapid approximate method of determining axial-flow turbine disk and blade temperatures, 1967:</subfield>
+    <subfield code="b">cover (F.M. Simpson, Engineer, Gas Power Section, Ingersoll-Rand Company, Phillipsburg, N. J.)</subfield>
+  </datafield>
+</record>
