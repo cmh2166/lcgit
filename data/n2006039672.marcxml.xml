@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00807cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2006039672</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060530135248.0</controlfield>
+  <controlfield tag="008">910822n| acannaabn          la ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006039672</subfield>
+  </datafield>
+  <datafield tag="016" ind1=" " ind2=" ">
+    <subfield code="a">0061H1673E</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaOONL)0061H1673E</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaOONL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaOONL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">nlc</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Grantham (Ont. : Township)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Niagara-on-the-Lake (Ont.)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">St. Catharines (Ont.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Turney family burial ground.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gaz. of Can.: Ont.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC auth. database, May 18, 2006</subfield>
+    <subfield code="b">(Ceased to exist on January 1, 1961.  Absorbed by City of St. Catharines and Township of Niagara (now part of Town of Niagara-on-the Lake))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ont. municipal direct. 1990.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="5">
+    <subfield code="a">Grantham (Ont. : Canton)</subfield>
+    <subfield code="0">(CaOONL)0061H1673F</subfield>
+  </datafield>
+</record>
