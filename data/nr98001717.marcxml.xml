@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 98001717 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980121051939.7</controlfield>
+  <controlfield tag="008">980116n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98001717 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Pallante, Giovanni,</subfield>
+    <subfield code="d">1705-1783</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Memoria per la riforma del Regno, c1996:</subfield>
+    <subfield code="b">t.p. (Giovanni Pallante) p. 11, etc. (b. June 24, 1705 in Bagnoli Irpino, Italy; d. 1783)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Gr. diz. encic. UTET, 4. ed.;</subfield>
+    <subfield code="a">Encic. ital.;</subfield>
+    <subfield code="a">NUC pre-56.</subfield>
+  </datafield>
+</record>
