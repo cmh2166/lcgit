@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 92026892 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920730054444.1</controlfield>
+  <controlfield tag="008">920729n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92026892 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPRF</subfield>
+    <subfield code="c">PU-Ar</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Franklin, Deborah Read Rogers,</subfield>
+    <subfield code="d">1708-1774</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Rogers, Deborah Read,</subfield>
+    <subfield code="d">1708-1774</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Read, Deborah,</subfield>
+    <subfield code="d">1708-1774</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Bond, 1765 Mar. 10</subfield>
+    <subfield code="b">(Deborah Franklin; wife of Benjamin Franklin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN database, 7/28/92</subfield>
+    <subfield code="b">(hdg.: Franklin, Deborah Read Rogers, 1708-1774)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Van Doren, C. Benjamin Franklin, 1938:</subfield>
+    <subfield code="b">p. 71 (Deborah Read m. in 1726 to Rogers; separated when she found he was married) p. 93 (became Benjamin Franklin's common-law wife, 1730)</subfield>
+  </datafield>
+</record>
