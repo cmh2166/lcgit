@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01022cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2014071654</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218233528.0</controlfield>
+  <controlfield tag="008">141118n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014071654</subfield>
+    <subfield code="z">n  85009777 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10019188</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Coleman, Rick</subfield>
+    <subfield code="c">(Auditor)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Utah</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Auditors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Richard D.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Coleman, Richard</subfield>
+    <subfield code="c">(Auditor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A performance audit of the Utah Insurance Department, 2013:</subfield>
+    <subfield code="b">t.p. (Rick Coleman, audit manager, Utah)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A performance audit of the Utah Transit Authority, 2014:</subfield>
+    <subfield code="b">title page (Richard Coleman, audit manager)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  83068163.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A performance audit of the Utah State Library, 1984:</subfield>
+    <subfield code="b">title page (Richard D. Coleman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, December 3, 2014</subfield>
+    <subfield code="b">(access points: Coleman, Rick (Auditor); Coleman, Richard; Coleman, Richard D; usage: Rick Coleman; Richard Coleman; Richard D. Coleman)</subfield>
+  </datafield>
+</record>
