@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01086cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  86804524 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120802081929.0</controlfield>
+  <controlfield tag="008">860129n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86804524 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01484810</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Summer Conference on Argumentation</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Argumentation, Summer</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">SCA/AFA Summer Argumentation Conference</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">SCA/AFA Conference on Argumentation</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-7815: Its (2nd : 1981 : Alta, Utah). Dimensions of argument, 1981</subfield>
+    <subfield code="b">(hdg. on TxCM rept.: Summer Conference on Argumentation (2nd : 1981 : Alta, Utah); usage: Summer Conference on Argumentation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its (2nd : 1981 : Alta, Utah). Dimensions of argument, 1981:</subfield>
+    <subfield code="b">t.p. (Second Summer Conference on Argumentation) pref. (Second SCA/AFA Summer Argumentation Conference)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">SCA/AFA Conference on Argumentation (4th : 1985 : Alta, Utah). Argument and social practice, 1985.</subfield>
+  </datafield>
+</record>
