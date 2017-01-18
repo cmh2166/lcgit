@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00510nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011169276</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111103075409.0</controlfield>
+  <controlfield tag="008">111101n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011169276</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09022942</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NRU-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NRU-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moritz, Alison,</subfield>
+    <subfield code="d">1985-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Venus &amp; Adonis [SR], 2011:</subfield>
+    <subfield code="b">notes (Alison Moritz, stage director)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Electronic communication from Eastman School of Music Registrar's Office, Nov. 1, 2011</subfield>
+    <subfield code="b">(Moritz, Alison; b. May 14, 1985)</subfield>
+  </datafield>
+</record>
