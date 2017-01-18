@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00609cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2006055862</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323081908.0</controlfield>
+  <controlfield tag="008">060719n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006055862</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1570</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Borja, Felipe de,</subfield>
+    <subfield code="d">active 1570</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Borja, Felipe de,</subfield>
+    <subfield code="d">fl. 1570</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Borja, Felipe,</subfield>
+    <subfield code="d">active 1570</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SuaĚrez, Diego. Historia del maestre uĚltimo que fue de Montesa de su hermano don Felipe de Borja, 2005:</subfield>
+    <subfield code="b">t.p. (Felipe de Borja)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Jul 19, 2006:</subfield>
+    <subfield code="b">(hdg.: Borja, Felipe de, fl. 1570)</subfield>
+  </datafield>
+</record>
