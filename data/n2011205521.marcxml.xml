@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2011205521</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110128074957.0</controlfield>
+  <controlfield tag="008">110127n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011205521</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Melo, Antonio Maureni Vaz Verçosa de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Melo, Antonio Maureni Vaz Verçosa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Verçosa de Melo, Antonio Maureni Vaz</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vaz Verçosa de Melo, Antonio Maureni</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Outras histórias do Piauí, 2007:</subfield>
+    <subfield code="b">t.p. (Antonio Maureni Vaz Verçosa de Melo) p. 5 (master degree, educação, UFPI; prof. Dept. História, UESPI)</subfield>
+  </datafield>
+</record>
