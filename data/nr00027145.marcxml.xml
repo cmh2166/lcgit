@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01021cz  a2200265n  4500</leader>
+  <controlfield tag="001">nr 00027145 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150507073754.0</controlfield>
+  <controlfield tag="008">000823n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00027145 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05302101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CMalG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CMalG</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNGA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18481018</subfield>
+    <subfield code="g">19080425</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lanier, L.</subfield>
+    <subfield code="q">(Lucien),</subfield>
+    <subfield code="d">1848-1908</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Louhans (France)</subfield>
+    <subfield code="c">France</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">History</subfield>
+    <subfield code="a">Geography</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Historians</subfield>
+    <subfield code="a">Geographers</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Lucien</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Lanier, L.</subfield>
+    <subfield code="q">(Lucien),</subfield>
+    <subfield code="d">b. 1848</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lanier, Lucien,</subfield>
+    <subfield code="d">1848-1908</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cours de géographie méthodique, 1912:</subfield>
+    <subfield code="b">t.p. (L. Lanier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Aug. 23, 2000</subfield>
+    <subfield code="b">(hdg.: Lanier, L. (Lucien), b. 1848 ; usage: L. Lanier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BnF in VIAF, May 6, 2015</subfield>
+    <subfield code="b">(access point: Lanier, Lucien, 1848-1908; b. Louhans (Saône-et-Loire), Oct. 18, 1848; d. Apr. 25, 1908; associate professor of history and geography)</subfield>
+  </datafield>
+</record>
