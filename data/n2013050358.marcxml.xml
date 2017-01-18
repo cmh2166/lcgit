@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00836nz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2013050358</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130812114852.0</controlfield>
+  <controlfield tag="008">130812n| azannaabn           n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013050358</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1861</subfield>
+    <subfield code="g">1922</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Opperman, Frank,</subfield>
+    <subfield code="d">1861-1922</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Houston,Tex.</subfield>
+    <subfield code="b">San Diego, Calif.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Acting</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The little teacher, 1915:</subfield>
+    <subfield code="b">(Frank Opperman; actor; film not viewed)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Niver, K.  Early motion pictures, 1985L</subfield>
+    <subfield code="b">p. 185 (Frank Opperman; cast member in The little teacher)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database WWW site, viewed August 12, 2013:</subfield>
+    <subfield code="b">(Frank Opperman; cast member in The little teacher; actor; born in 1861 in Houston, Texas; died in 1922 in San Diego, California)</subfield>
+  </datafield>
+</record>
