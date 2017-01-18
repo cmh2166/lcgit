@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00568cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006102469</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100320075130.0</controlfield>
+  <controlfield tag="008">060920n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006102469</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07063395</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Poynter, Jane</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The human experiment, 2006:</subfield>
+    <subfield code="b">t.p. (Jane Poynter) jkt. (lived sealed in an artificial world for two years; co-founded Paragon Space Development Corp.; lives in Tucson, Ariz.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, viewed March 19, 2010</subfield>
+    <subfield code="b">(initial bib. control record: Jane E. Poynter)</subfield>
+  </datafield>
+</record>
