@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89262115 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920617113540.2</controlfield>
+  <controlfield tag="008">920513n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89262115 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kumar, Anil,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Anil Kumar,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Anila Kumāra,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kumāra, Anila,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Alienation in the fiction of Carson McCullers ... 1991:</subfield>
+    <subfield code="b">t.p. (Anil Kumar, reader, Dept. of Eng., Guru Nanak Dev U. Regional Centre, Jalandhar City)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ltr. fr. auth., 4/2/92</subfield>
+    <subfield code="b">(Anila Kumāra; b. 12/11/1946)</subfield>
+  </datafield>
+</record>
