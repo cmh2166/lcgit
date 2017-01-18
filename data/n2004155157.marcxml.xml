@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00703cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2004155157</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050104131150.0</controlfield>
+  <controlfield tag="008">041228n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004155157</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Landi, Stefano,</subfield>
+    <subfield code="d">1895-1972</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Pirandello, Stefano,</subfield>
+    <subfield code="d">1895-1972</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Son of playwright Luigi Pirandello</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pirandello, Stefano Landi. Tutto il teatro, 2004:</subfield>
+    <subfield code="b">t.p. (Stefano Pirandello) p. 50 (b. June 14, 1895 in Rome) p. 414 (Stefano Landi Pirandello; d. Feb. 5, 1972 in Rome) p. 13 (In order to distance himself from his famous father, the son, a playwright and novelist in his own right, sometimes wrote under pseudonym of Stefano Landi)</subfield>
+  </datafield>
+</record>
