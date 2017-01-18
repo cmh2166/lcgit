@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00853nz  a2200205n  4500</leader>
+  <controlfield tag="001">nb2015001163</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150117050921.0</controlfield>
+  <controlfield tag="008">150116n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2015001163</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009232194</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2010</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Total Environment (Initiative : Great Britain)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Initiative</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Great Britain</subfield>
+    <subfield code="c">England</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Environmental protection</subfield>
+    <subfield code="a">Climatic changes--Environmental aspects</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Great Britain. Department for Environment, Food &amp; Rural Affairs</subfield>
+    <subfield code="a">Local Government Association (England and Wales)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Total Environment : progress report, 2012:</subfield>
+    <subfield code="b">PDF, p. 3 (The 'Total Environment' initiative was launched by the Defra Secretary of State and the Local Government Association Chairman in October 2010)</subfield>
+  </datafield>
+</record>
