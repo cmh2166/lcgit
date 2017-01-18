@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00581nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  77008830 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">770920n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  77008830 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Adams, Charles K.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Adams, C. K.</subfield>
+    <subfield code="q">(Charles K.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Build-it book of optoelectronic projects, 1977:</subfield>
+    <subfield code="b">CIP t.p. (C. K. Adams) book t.p. (Charles K. Adams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A beginner's guide to computers &amp; microprocessors, c1978:</subfield>
+    <subfield code="b">t.p. (C.K. Adams)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">AMWS, 1976;</subfield>
+    <subfield code="a">WW engineering, 1964;</subfield>
+    <subfield code="a">Engineers of distinction, 1970</subfield>
+  </datafield>
+</record>
