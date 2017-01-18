@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00904cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 92012835 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100527075639.0</controlfield>
+  <controlfield tag="008">920401nc acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92012835 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E1084800</subfield>
+    <subfield code="e">E1084800</subfield>
+    <subfield code="f">N0231200</subfield>
+    <subfield code="g">N0231200</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03144871</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Binzhou (Guangxi Zhuangzu Zizhiqu, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Pin-chou (Guangxi Zhuangzu Zizhiqu, China)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Binyang Xian (China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kuo, F. Wan-li Pin-chou chih, 1990 or 1991.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung-kuo ku chin ti ming ta tzʻu tien, 1933:</subfield>
+    <subfield code="b">p. 1129 (Pin-chou, changed to Pin-yang hsien, in Kwangsi province)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung-kuo shih hsien ta tzʻu tien, 1991:</subfield>
+    <subfield code="b">p. 863 (Pin-yang hsien, name changed from Pin-chou since 1912)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 23°12ʹ00ʺN 108°48ʹ00ʺE)</subfield>
+  </datafield>
+</record>
