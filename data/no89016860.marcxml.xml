@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00368nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 89016860 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891103053259.8</controlfield>
+  <controlfield tag="008">891031n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89016860 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Jonescu, J. A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Les sociétés étrangères en France et en Roumanie, 1901:</subfield>
+    <subfield code="b">t.p. (J.A. Jonescu, docteur en droit)</subfield>
+  </datafield>
+</record>
