@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01011cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 92023173 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940622120550.0</controlfield>
+  <controlfield tag="008">920921n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92023173 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">VAMC St. Louis</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Department of Veterans Affairs Medical Center (Saint Louis, Mo.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Veterans Administration Medical Center (Saint Louis, Mo.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Basic home safety, 1992?:</subfield>
+    <subfield code="b">t.p. (VAMC St. Louis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Center, 9/22/92</subfield>
+    <subfield code="b">(VAMC represents Veterans Affairs Medical Center)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">United States. Dept. of Veterans Affairs. Telephone directory, 1991:</subfield>
+    <subfield code="b">t.p. (Department of Veterans Affairs) p. 137 (St. Louis, MO, Medical Center)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fed. exec. dir., July/Aug. 1992</subfield>
+    <subfield code="b">(Department of Veterans Affairs, Veterans Health Administration, Clinical Programs, Medical Service; address: VA Medical Ctr./St. Louis, MO)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fed. yellow book, 1992</subfield>
+    <subfield code="b">(VAMCSL, VA Medical Ctr. St. Louis, St. Louis, MO)</subfield>
+  </datafield>
+</record>
