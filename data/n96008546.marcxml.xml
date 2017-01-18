@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00367nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  96008546 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960205085330.9</controlfield>
+  <controlfield tag="008">960131n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96008546 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Edwards, Ann T.</subfield>
+    <subfield code="q">(Ann Theresa),</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Out for life, 1996:</subfield>
+    <subfield code="b">CIP t.p. (Ann T. Edwards) data sheet (Ann Theresa Edwards; b. 07-26-46)</subfield>
+  </datafield>
+</record>
