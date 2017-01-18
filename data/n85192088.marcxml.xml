@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00785cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85192088 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081119081033.0</controlfield>
+  <controlfield tag="008">850912n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85192088 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01440407</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Leningradskiĭ finansovo-ėkonomicheskiĭ institut</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Leningradskiĭ finansovo-ėkonomicheskiĭ institut im. N.A. Voznesenskogo</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">For pre-1965 imprints only; old catalog heading: Leningrad. Finansovo-ėkonomicheskiĭ institut.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Leningrad. Finansovo-ėkonomicheskiĭ institut; usage: Leningradskiĭ finansovo-ėkonomicheskiĭ institut; Leningradskiĭ finansovo-ėkonomicheskiĭ institut imeni N.A. Voznesenskogo [later name])</subfield>
+  </datafield>
+</record>
