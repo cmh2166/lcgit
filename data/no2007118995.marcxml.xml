@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00736cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007118995</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110820075324.0</controlfield>
+  <controlfield tag="008">071001n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007118995</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07544267</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IaIaUAC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IaIaUAC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ghānim, Khālid al-Sayyid Muḥammad,</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">غانم، خالد السيد محمد،</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zarādushtīyah tārīkhan wa-ʻaqīdatan wa-sharīʻan, 2006:</subfield>
+    <subfield code="b">t.p. (Khālid al-Sayyid Muḥammad Ghānim) p. 386 (b. 1977 in Sinnūris, Egypt; imām bi-Wizārat al-Awqāf al-Miṣrīyah)</subfield>
+  </datafield>
+</record>
