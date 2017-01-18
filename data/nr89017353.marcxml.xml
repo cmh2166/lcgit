@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00393nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 89017353 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891213100744.2</controlfield>
+  <controlfield tag="008">891207n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89017353 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Victor Sewing Machine Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alden, F. Edith Burnham, 1876:</subfield>
+    <subfield code="b">p. 24 (Victor Sewing Machine Co.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Victor Sewing Machine Co.)</subfield>
+  </datafield>
+</record>
