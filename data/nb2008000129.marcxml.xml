@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2008000129</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080105075004.0</controlfield>
+  <controlfield tag="008">080103n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2008000129</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007000516</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Office of Head Start</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Administration for Children and Families.</subfield>
+    <subfield code="b">Office of Head Start</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Embracing our future, [2007?]:</subfield>
+    <subfield code="b">disc label (U.S. Department of Health and Human Services, Administration for Children and Families, Office of Head Start)</subfield>
+  </datafield>
+</record>
