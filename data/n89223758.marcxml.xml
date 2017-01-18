@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00844cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 91007690 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160722043051.0</controlfield>
+  <controlfield tag="008">910322n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91007690 </subfield>
+    <subfield code="z">n  89223758 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Universitas Indonesia.</subfield>
+    <subfield code="b">Lembaga Management</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ind</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universitas Indonesia.</subfield>
+    <subfield code="b">Fakultas Ekonomi.</subfield>
+    <subfield code="b">Lembaga Management</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Lembaga Management FE-UI</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">LMFEUI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Management dan usahawan Indonesia, 1971, 4:</subfield>
+    <subfield code="b">p. 1 (Universitas Indonesia, Fakultas Ekonomi, Lembaga Management)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Manajemen &amp; usahawan Indonesia, Jan. 1992:</subfield>
+    <subfield code="b">p. 2 (Lembaga Management FE-UI)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seminar "Manajemen Sumberdaya Manusia Menyongsong Abad 21" (1992 : Jakarta, Indonesia). Manajemen sumberdaya manusia, 1993:</subfield>
+    <subfield code="b">t.p. (LMFEUI)</subfield>
+  </datafield>
+</record>
