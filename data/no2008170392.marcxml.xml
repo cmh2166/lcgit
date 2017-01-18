@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2008170392</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326120055.0</controlfield>
+  <controlfield tag="008">081118n| azabbaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008170392</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07939594</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ItFiC</subfield>
+    <subfield code="d">ItFiC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2008</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">John</subfield>
+    <subfield code="b">XXIII,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">1881-1963.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">2008</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Centro studi Radini Tedeschi.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">2008</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Fondazione Papa Giovanni XXIII.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">2008</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">John</subfield>
+    <subfield code="b">XXIII,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">1881-1963.</subfield>
+    <subfield code="t">Opere.</subfield>
+    <subfield code="f">2008</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lettere del pontificato, c2008:</subfield>
+    <subfield code="b">ser. t.p. (Giovanni XXIII, Opere a cura di Fondazione Papa Giovanni XXIII, Centro studi Radini Tedeschi)</subfield>
+  </datafield>
+</record>
