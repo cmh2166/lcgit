@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 96033530 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316103255.0</controlfield>
+  <controlfield tag="008">960917n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96033530 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1530</subfield>
+    <subfield code="t">1564</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schobser, Andreas,</subfield>
+    <subfield code="d">active 1530-1564</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Schobser, Andreas,</subfield>
+    <subfield code="d">fl. 1530-1564</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Declaration vnnd ersuetterung etlicher inn JuĚngst Bayrischer ... 1557</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clavis typographorum librariorumque ... 1992:</subfield>
+    <subfield code="b">p. 445 (Schobser, Andreas (1530-1564): MuĚnchen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 9/17/96</subfield>
+    <subfield code="b">(hdg.: Schobser, Andreas, fl. 1530-1564)</subfield>
+  </datafield>
+</record>
