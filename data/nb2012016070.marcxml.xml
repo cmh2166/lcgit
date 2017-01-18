@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00843cz  a2200229n  4500</leader>
+  <controlfield tag="001">nb2012016070</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120720075021.0</controlfield>
+  <controlfield tag="008">120704n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012016070</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008520227</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Castillo Martínez, Paloma</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Medicine</subfield>
+    <subfield code="a">Surgery</subfield>
+    <subfield code="a">Renaissance</subfield>
+    <subfield code="a">Humanism</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Physicians</subfield>
+    <subfield code="a">Surgeons</subfield>
+    <subfield code="a">Historians</subfield>
+    <subfield code="a">Humanists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Martínez, Paloma Castillo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Castillo, Paloma</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tomás Moro, c2006:</subfield>
+    <subfield code="b">t.p. (Paloma Castillo Martínez) back cover (physician/surgeon who combines a brilliant medical career with a passion for the humanistic study of the Renaissance)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El camino espiritual de Tomás Moro, 2009:</subfield>
+    <subfield code="b">t.p. (Paloma Castillo)</subfield>
+  </datafield>
+</record>
