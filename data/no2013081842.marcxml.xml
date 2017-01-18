@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00869nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013081842</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130801073552.0</controlfield>
+  <controlfield tag="008">130731n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013081842</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09533579</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boĭko, N. O.</subfield>
+    <subfield code="q">(Natalii︠a︡ Oleksandrivna)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ukr</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Natalii︠a︡ Oleksandrivna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бойко, Н. О.</subfield>
+    <subfield code="q">(Наталія Олександрівна)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Boĭko, Natalii︠a︡ Oleksandrivna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бойко, Наталія Олександрівна</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rosïĭsʹsko-ukraïnsʹkyĭ slovnyk synonimiv, 2012:</subfield>
+    <subfield code="b">title page verso (Н.О. Бойко = N.O. Boĭko) colophon (Бойко Наталія Олександрівна = Boĭko Natalii︠a︡ Oleksandrivna)</subfield>
+  </datafield>
+</record>
