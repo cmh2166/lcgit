@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00813nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013127515</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131115073534.0</controlfield>
+  <controlfield tag="008">131114n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013127515</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09615238</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19560212</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pope, Tim,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music videos--Production and direction</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pope, Timothy Michael,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n 2001062559</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The crow, city of angels [VR] 2002:</subfield>
+    <subfield code="b">credits (Tim Pope, director)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Soft Cell's Non-stop exotic video show, p1982:</subfield>
+    <subfield code="b">container (directed by Tim Pope)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Nov. 14, 2013</subfield>
+    <subfield code="b">(Tim Pope; b. Timothy Michael Pope, Feb. 12, 1956, London; film director most famous for his music videos)</subfield>
+  </datafield>
+</record>
