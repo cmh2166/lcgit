@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 95005585 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071204075137.0</controlfield>
+  <controlfield tag="008">950213n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95005585 </subfield>
+    <subfield code="z">no2007114734</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU</subfield>
+    <subfield code="c">PU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Friedmann, Ronald</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Juden in Treptow, 1993:</subfield>
+    <subfield code="b">t.p. (Friedmann) p. 6 (Ronald Friedmann)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Exil auf Mauritius 1940 bis 1945, c1998:</subfield>
+    <subfield code="b">t.p. (Ronald Friedmann) p. 1 (b. 1956 in Berlin; journalist)</subfield>
+  </datafield>
+</record>
