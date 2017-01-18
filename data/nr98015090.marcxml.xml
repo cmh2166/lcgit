@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00908cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 98015090 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319182040.0</controlfield>
+  <controlfield tag="008">980423n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98015090 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNPM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNPM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1460</subfield>
+    <subfield code="t">1470</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Master of Charles de Neufchâtel,</subfield>
+    <subfield code="d">active 1460-1470</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Master of Charles de Neufchâtel,</subfield>
+    <subfield code="d">fl. 1460-1470</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Meister des Charles de Neufchâtel,</subfield>
+    <subfield code="d">active 1460-1470</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Painted prayers, 1997:</subfield>
+    <subfield code="b">p. 126 (Master of Charles de Neufchâtel; illuminator commissioned by Charles de Neufchâtel shortly after his election as archbishop of Besançon in 1463; illuminator of Pierpont Morgan Library. MS M.28, which was executed ca. 1470)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Leuchtendes mittelalter V, 1993:</subfield>
+    <subfield code="b">p. 310 (Meister des Charles de Neufchâtel; one of two Besançon artists who decorated a book of hours, dated ca. 1460)</subfield>
+  </datafield>
+</record>
