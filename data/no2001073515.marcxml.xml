@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01005nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2001073515</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010915071041.0</controlfield>
+  <controlfield tag="008">010914n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001073515</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05581864</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="b">Senate.</subfield>
+    <subfield code="b">Committee on Environment and Public Works.</subfield>
+    <subfield code="b">Subcommittee on Fisheries, Wildlife, and Water</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="b">Senate.</subfield>
+    <subfield code="b">Subcommittee on Fisheries, Wildlife, and Water</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="b">Senate.</subfield>
+    <subfield code="b">Committee on Environment and Public Works.</subfield>
+    <subfield code="b">Subcommittee on Fisheries, Wildlife, and Drinking Water</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Proposed rule changes to the TMDL ... 2001:</subfield>
+    <subfield code="b">t.p. (Subcommittee on Fisheries, Wildlife, and Water and the Committee on Environment and Public Works, United States Senate)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Subcommittee, 9/13/01</subfield>
+    <subfield code="b">(Subcommittee on Fisheries, Wildlife, and Drinking Water became Subcommittee on Fisheries, Wildlife and Water in 2001)</subfield>
+  </datafield>
+</record>
