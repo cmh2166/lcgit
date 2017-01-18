@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00531nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92084553 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920822092626.9</controlfield>
+  <controlfield tag="008">920822n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92084553 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">WEFM (Radio station : Chicago, Ill.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">WEFM (Radio station) Chicago</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Chicago Hist. Soc., Archives and Mss. Dept. (Ill.) for Booth, H.R. Papers, 1930-1974</subfield>
+    <subfield code="b">(Chicago radio station WEFM)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 08-22-92</subfield>
+    <subfield code="b">(hdg.: WEFM (Radio station) Chicago)</subfield>
+  </datafield>
+</record>
