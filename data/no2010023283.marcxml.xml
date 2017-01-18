@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010023283</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101017075058.0</controlfield>
+  <controlfield tag="008">100210nn acannaabn          aa aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010023283</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08391157</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MX-AgUA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MX-AgUA</subfield>
+    <subfield code="d">MX-SlUA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Galicia Contreras, Marco Aurelio,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Contreras, Macro Aurelio Galicia,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Don José de la Borda Sánchez: el fénix de los mineros ricos de América, 2001:</subfield>
+    <subfield code="b">t.p. (Marco Aurelio Galicia Contreras)</subfield>
+  </datafield>
+</record>
