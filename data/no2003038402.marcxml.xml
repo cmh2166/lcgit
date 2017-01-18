@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00752cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2005042883</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323085837.0</controlfield>
+  <controlfield tag="008">050505n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005042883</subfield>
+    <subfield code="z">n  92077520 </subfield>
+    <subfield code="z">no2003038402</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06626101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OBgU-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1880</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Lee,</subfield>
+    <subfield code="d">1880-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Brown, Lee,</subfield>
+    <subfield code="d">b. 1880</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Brown, Lee,</subfield>
+    <subfield code="c">pianist</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harmonica blues [SR] 197-:</subfield>
+    <subfield code="b">label (Lee Brown, piano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All music guide WWW site, May 5, 2005</subfield>
+    <subfield code="b">(Lee Brown; b. 1880; Arkansas blues piano player)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Lee Brown [SR] 1987:</subfield>
+    <subfield code="b">label (Lee Brown) container (piano, vocals)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">New Grove jazz;</subfield>
+    <subfield code="a">AmeriGrove;</subfield>
+    <subfield code="a">ASCAP, 4th ed.</subfield>
+  </datafield>
+</record>
