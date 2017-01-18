@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00617nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2002024705</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020713033130.0</controlfield>
+  <controlfield tag="008">020703n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002024705</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Čhulālongkō̜nmahāwitthayālai.</subfield>
+    <subfield code="b">Phāk Wichā Sathāpattayakammasāt</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Čhulālongkō̜nmahāwitthayālai.</subfield>
+    <subfield code="b">Khana Sathāpattayakammasāt.</subfield>
+    <subfield code="b">Phāk Wichā Sathāpattayakammasāt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sư̄psān sathāpattayakam Thai, 2001?:</subfield>
+    <subfield code="b">t.p. (Phāk Wichā Sathāpattayakammasāt, Khana Sathāpattayakammasāt, Čhulālongkō̜nmahāwitthayālai)</subfield>
+  </datafield>
+</record>
