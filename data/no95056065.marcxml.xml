@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00651cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 95056065 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970925120620.6</controlfield>
+  <controlfield tag="008">951129n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95056065 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03964408 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="c">FU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">State Transportation Policy Initiative (Fla.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">University of South Florida.</subfield>
+    <subfield code="b">Center for Urban Transportation Research.</subfield>
+    <subfield code="b">State Transportation Policy Initiative</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moving people in Florida, 1994:</subfield>
+    <subfield code="b">t.p. (State Transportation Policy Initiative) p. 3 (State Transportation Policy Initiative, Project Manager: E.A. Mierzejewski, Center for Urban Transportation Research)</subfield>
+  </datafield>
+</record>
