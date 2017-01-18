@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2005001987</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050112122426.0</controlfield>
+  <controlfield tag="008">050111n| acaaaaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005001987</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">E.C.L. technical publication</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">ECL technical publication</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Nihon Denshin Denwa Kōsha.</subfield>
+    <subfield code="b">Musashino Denki Tsūshin Kenkyūjo.</subfield>
+    <subfield code="t">E.C.L. technical publication</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 230</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tokyo, Japan</subfield>
+    <subfield code="b">Musashino Electrical Communication Laboratory, Nippon Telegraph and Telephone Public Corporation</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">n</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Technical report. Generally, issues of this series are uncataloged in LC; they are in the Science, Technology and Business Division.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Iron core printed wiring board, 1980:</subfield>
+    <subfield code="b">t.p.</subfield>
+  </datafield>
+</record>
