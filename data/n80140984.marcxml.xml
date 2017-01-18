@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00950cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80140984 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090207081321.0</controlfield>
+  <controlfield tag="008">801031n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80140984 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00521195</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">São Paulo (Brazil : State).</subfield>
+    <subfield code="b">Secretaria do Governo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">São Paulo, Brazil (State).</subfield>
+    <subfield code="b">Governo, Secretaria do</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">São Paulo, Brazil (State).</subfield>
+    <subfield code="b">Secretaria do Governo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">São Paulo (Brazil : State).</subfield>
+    <subfield code="b">Secretaria de Estado do Governo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fundação do Desenvolvimento Administrativo (São Paulo, Brazil).</subfield>
+    <subfield code="b">Projeto de Administração Rural. Bibliografia de administração rural, 1978 (x-ref.) p. foll. t.p. (Secretaria do Governo do Estado de São Paulo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Relatório da administração ... 1991?:</subfield>
+    <subfield code="b">t.p. (Secretaria de Estado do Governo) p. 3 (SP)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Perfil (Estado de São Paulo), 1973.</subfield>
+  </datafield>
+</record>
