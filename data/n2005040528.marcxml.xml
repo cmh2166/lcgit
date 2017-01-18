@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01171cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 00041269 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319173358.0</controlfield>
+  <controlfield tag="008">000611n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00041269 </subfield>
+    <subfield code="z">n 2005040528</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05237727</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DJBF</subfield>
+    <subfield code="d">NbU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">World Bank.</subfield>
+    <subfield code="b">Development Data Group</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">DECDG (Group)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">World Bank.</subfield>
+    <subfield code="b">Office of the Vice President, Development Economics.</subfield>
+    <subfield code="b">Development Data Group</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">World Bank.</subfield>
+    <subfield code="b">International Economics Department.</subfield>
+    <subfield code="b">Development Data Group</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">World Bank.</subfield>
+    <subfield code="b">Office of the Vice President, Development Economics</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">How the Republic of Korea's financial structure affects the volatility of four asset prices, 2000:</subfield>
+    <subfield code="b">t.p. (World Bank, Development Data Group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Little data book, 2004:</subfield>
+    <subfield code="b">p. [2] (Product of the Development Data Group of the World Bank's Development Economics Vice Presidency); 2005: back cover (Development Data Group (DECDG))</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">International capital flow, 1996: cover (World Bank, International Economics Department, Development Data Group)</subfield>
+  </datafield>
+</record>
