@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00879cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2011049769</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160315075306.0</controlfield>
+  <controlfield tag="008">110725n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011049769</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08924626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sui︠u︡ndukov, I︠A︡. T.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Суюндуков, Я. Т.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ḣȯĭȯndȯkov, Ĭ. T.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sui︠u︡ndukov, I︠A︡lilʹ Tukhvatovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Суюндуков, Ялиль Тухватович</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uralʹskiĭ region Respubliki Bashkortostan, 2010:</subfield>
+    <subfield code="b">t.p. verso (Я.Т. Суюндуков = I︠A︡.T. Sui︠u︡ndukov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tu̇n︠g︡gău̇er bashqorttary, 2012:</subfield>
+    <subfield code="b">Bashkir title page (Ĭ.T. Ḣȯĭȯndȯkov) colophon (Sui︠u︡ndukov I︠A︡lilʹ Tukhvatovich)</subfield>
+  </datafield>
+</record>
