@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00878nz  a2200277n  4500</leader>
+  <controlfield tag="001">no2012081182</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120614075100.0</controlfield>
+  <controlfield tag="008">120612n| azabaaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012081182</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09223803</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1920</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">PA3405.B8</subfield>
+    <subfield code="b">P6</subfield>
+    <subfield code="5">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Plato.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Series : Belles Lettres)</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Series</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Belles Lettres</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Plato.</subfield>
+    <subfield code="t">Oeuvres complètes</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">tome 4, 2e partie</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">UPB</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Paris</subfield>
+    <subfield code="b">Société d'édition "Les Belles Lettres"</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">UPB</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">UPB</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">UPB</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oeuvres complètes. Tome IV, 2e partie, Le banquet, 1929:</subfield>
+    <subfield code="b">Title page (Oeuvres complètes)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 12 June 2012</subfield>
+    <subfield code="b">(first volume in the series published 1920)</subfield>
+  </datafield>
+</record>
