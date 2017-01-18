@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00796cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98050207 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140930112810.0</controlfield>
+  <controlfield tag="008">980602n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98050207 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Graupner, Christoph,</subfield>
+    <subfield code="d">1683-1760.</subfield>
+    <subfield code="t">Overtures,</subfield>
+    <subfield code="n">GWV 464,</subfield>
+    <subfield code="r">G major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Graupner, Christoph,</subfield>
+    <subfield code="d">1683-1760.</subfield>
+    <subfield code="t">Overtures,</subfield>
+    <subfield code="n">G 12,</subfield>
+    <subfield code="r">G major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Concertos for bassoon and orchestra, 1997:</subfield>
+    <subfield code="b">container (Overture in G major for flute, bassoon, strings, and continuo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grosspietsch, C. Graupners Ouverturen und Tafelmusiken, c1994:</subfield>
+    <subfield code="b">p. 364 (Ouverture G 12; Ouverture a 2 violin, viola, flaut. tr., basson e cembalo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GWV</subfield>
+    <subfield code="b">(464: Ouverture fuĚr FloĚte, 2 Violinen, Viola, Fagott und B.C., G-Dur; Grosspietsch 1994: G12)</subfield>
+  </datafield>
+</record>
