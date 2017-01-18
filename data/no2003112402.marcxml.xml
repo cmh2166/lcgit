@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00526nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003112402</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031107052054.0</controlfield>
+  <controlfield tag="008">031106n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003112402</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06197976</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vaughan Williams, Ralph,</subfield>
+    <subfield code="d">1872-1958.</subfield>
+    <subfield code="t">Norfolk rhapsody,</subfield>
+    <subfield code="n">no. 2</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vaughan Williams, R. Norfolk rhapsody no. 2, p2002:</subfield>
+    <subfield code="b">container (Norfolk rhapsody no. 2)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grovemusic WWW site, Nov. 4, 2003</subfield>
+    <subfield code="b">(Norfolk Rhapsody no.2, 1906, unpublished)</subfield>
+  </datafield>
+</record>
