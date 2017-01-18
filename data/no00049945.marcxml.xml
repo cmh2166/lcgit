@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00565nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 00049945 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000715064108.0</controlfield>
+  <controlfield tag="008">000714n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00049945 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05259034</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU-AV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">GU-AV</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Latham/Lechowick Productions</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Homefront. [1992-07-28], "Take my hand", c1992:</subfield>
+    <subfield code="b">end credits (Latham/Lechowick Productions)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LEXIS/NEXIS, Jul. 7, 2000: PR Newswire, Apr. 20, 2000</subfield>
+    <subfield code="b">(Latham/Lechowick Productions; husband and wife team Lynn Marie Latham and Bernard Lechowick)</subfield>
+  </datafield>
+</record>
