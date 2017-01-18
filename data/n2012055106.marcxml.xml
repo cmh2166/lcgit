@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2012055106</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120824074945.0</controlfield>
+  <controlfield tag="008">120823n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012055106</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Steinfeld, Edward S.</subfield>
+    <subfield code="q">(Edward Saul),</subfield>
+    <subfield code="d">1966-</subfield>
+    <subfield code="t">Playing our game : why China's rise doesn't threaten the west.</subfield>
+    <subfield code="l">Chinese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Steinfeld, Edward S.</subfield>
+    <subfield code="q">(Edward Saul),</subfield>
+    <subfield code="d">1966-</subfield>
+    <subfield code="t">Zhongguo de luo ji : wei shen me Zhongguo de jue qi bu hui wei xie xi fang</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Steinfeld, Edward S.</subfield>
+    <subfield code="q">(Edward Saul),</subfield>
+    <subfield code="d">1966-</subfield>
+    <subfield code="t">中国的逻辑 : 为什么中国的崛起不会威胁西方</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo de luo ji, 2011.</subfield>
+  </datafield>
+</record>
