@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00983nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 93025016 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940118135648.4</controlfield>
+  <controlfield tag="008">930824n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93025016 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Presbytery of Luzerne</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Luzerne Presbytery</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Luzerne Presbytery (Presbyterian Church in the U.S.A.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Presbytery of Luzerne (Presbyterian Church in the U.S.A.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Presbytery of Lehigh</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Presbytery of Lackawanna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Minutes, 1821</subfield>
+    <subfield code="b">(Presbytery of Luzerne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi files</subfield>
+    <subfield code="b">(Presbytery of Luzerne; also known as Luzerne Presbytery; erected in Pennsylvania in 1844 by the Old School branch of the Presbyterian Church in the U.S.A.; divided in the 1870 reorganization between the presbyteries of Lehigh and Lackawanna)</subfield>
+  </datafield>
+</record>
