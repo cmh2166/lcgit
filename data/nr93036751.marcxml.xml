@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 93036751 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804084808.0</controlfield>
+  <controlfield tag="008">930916n| acannaab           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93036751 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Tagung "Psychologie und Literatur"</subfield>
+    <subfield code="d">(1991 :</subfield>
+    <subfield code="c">Institut für Slavische Philologie der Universität München)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Psychopoetik, 1992:</subfield>
+    <subfield code="b">t.p. (... Tagung "Psychologie und Literatur" München 1991) p. 5 (held from 3/7-3/9/1991 at Institut für Slavische Philologie der Universität München)</subfield>
+  </datafield>
+</record>
