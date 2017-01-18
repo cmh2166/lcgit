@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00931cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 89004295 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140128073825.0</controlfield>
+  <controlfield tag="008">890329n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89004295 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02491480</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU-Mu</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19060205</subfield>
+    <subfield code="g">19980321</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Seiler, Emil,</subfield>
+    <subfield code="d">1906-1998</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Nuremberg (Germany)</subfield>
+    <subfield code="b">Freiburg im Breisgau (Germany)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Violists</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brahms, J. Sonate fuĚr Klarinette (oder Bratsche) und Klavier, f-Moll, op. 120, No. 1, c1973:</subfield>
+    <subfield code="b">t.p. (Emil Seiler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN r66-1392</subfield>
+    <subfield code="b">(hdg.: Seiler, Emil, 1906- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bertold Hummel, Komponist home page, viewed January 27, 2014</subfield>
+    <subfield code="b">(Emil Seiler; born February 5, 1906, Nuremberg, died March 21, 1998, Freiburg; violist and professor)</subfield>
+    <subfield code="u">http://www.bertoldhummel.de/werkbeschreibungen/biographien/seiler.html</subfield>
+  </datafield>
+</record>
