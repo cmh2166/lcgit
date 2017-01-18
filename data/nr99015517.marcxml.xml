@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00374cz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 99015517 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010110101739.0</controlfield>
+  <controlfield tag="008">990512n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99015517 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Palka, Grzegorz,</subfield>
+    <subfield code="d">1950-1996</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grzegorz Palka w służbie Łodzi i Polsce, 1998:</subfield>
+    <subfield code="b">p. 4 of cover (b. May 8, 1950; d. July 12, 1996)</subfield>
+  </datafield>
+</record>
