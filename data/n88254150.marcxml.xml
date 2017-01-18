@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01487cz  a2200313n  4500</leader>
+  <controlfield tag="001">n  88254150 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081004075123.0</controlfield>
+  <controlfield tag="008">890405n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88254150 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02495811</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ayasofya Kütüphanesi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Istanbul.</subfield>
+    <subfield code="b">Ayasofya Kütüphanesi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ayasofya Library</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ayasofya Ktp.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ayasofya Kitap Saray</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Aya-Sofya-Bibliothek</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">اياصوفيه كتبخانه سى</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">اياصوفيه كتبخانهسي</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Süleymaniye Umumı̂ Kütüphanesi</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not the same as Ayasofya Müze Kütüphanesi.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ibn Bībī, N. al-D. H. ibn M. El-Evāmirüʼl-ʻalāʼiyye fīʼl-umūriʼl-ʻalāʼiyye, 1956:</subfield>
+    <subfield code="b">pref. Ayasofya Ktp., Istanbul)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4-1-89</subfield>
+    <subfield code="b">(hdg.: Istanbul. Ayasofya Kütüphanesi; variant: Ayasofya Library)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Büyük lûgat ve ansikl.</subfield>
+    <subfield code="b">(Ayasofya Kütüphanesi; est. by Sultan Mahmut I, 1742 within Ayasofya Mosque; bks. transferred as a collection to Süleymaniye Kütüphanesi in 1968)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pirı̂ Reis. Kitabı bahriye, 1935:</subfield>
+    <subfield code="b">t.p. verso (Ayasofya Kitap Saray)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eine Sprachlehre von der Hohen Pforte, 1989:</subfield>
+    <subfield code="b">p. v (Aya-Sofya-Bibliothek)</subfield>
+  </datafield>
+</record>
