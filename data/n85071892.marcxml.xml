@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85071892 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850904081929.6</controlfield>
+  <controlfield tag="008">850717n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85071892 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Petrov, V. V.</subfield>
+    <subfield code="q">(Viktor Vasil聞evich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Petrov, Viktor Vasil聞evich,</subfield>
+    <subfield code="c">demographer</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Petrov, Victor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Petrov, Viktor Vasil聞evich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His India, spotlight on population, 1985:</subfield>
+    <subfield code="b">t.p. (Victor Petrov) verso t.p. (V.V. Petrov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Petrov, Viktor Vasil聞evich, demographer; usage: V.V. Petrov)</subfield>
+  </datafield>
+</record>
