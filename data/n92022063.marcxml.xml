@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00961cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  92022063 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920229095919.4</controlfield>
+  <controlfield tag="008">920229n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92022063 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Punchard Free School (Andover, Mass.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Punchard School (Andover, Mass.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Punchard High School (Andover, Mass.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Punchard Free School Trustees (Andover, Mass.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Andover Historical Society for Punchard Free School records, 1856-1957</subfield>
+    <subfield code="b">(Punchard Free School; also called Punchard School; founded 1856, Andover, Mass., by bequest of Benjamin H. Punchard; renamed Punchard High School ca. 1910; and in 1957 reorganized as Andover High School; original Benjamin Punchard funds administered by Punchard Free School Trustees throughout history of the school; after integration into public school system, funds chiefly used to support teaching and special activities)</subfield>
+  </datafield>
+</record>
