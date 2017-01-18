@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00571cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2002082041</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100524075407.0</controlfield>
+  <controlfield tag="008">020906n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002082041</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0800034</subfield>
+    <subfield code="e">W0800034</subfield>
+    <subfield code="f">N0410812</subfield>
+    <subfield code="g">N0410812</subfield>
+    <subfield code="2">gnis</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05857141</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-pa</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Harrisville (Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harrisville borough, 1982:</subfield>
+    <subfield code="b">map recto (Harrisville)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, Sept. 3, 2002</subfield>
+    <subfield code="b">(Harrisville, Pa; ppl.; 41°08ʹ12ʺN, 080°00ʹ34ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="z">Harrisville</subfield>
+  </datafield>
+</record>
