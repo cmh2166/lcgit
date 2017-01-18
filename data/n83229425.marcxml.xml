@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01035cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  83229425 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130112074758.0</controlfield>
+  <controlfield tag="008">831031n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83229425 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Milian, Tomas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Quintin Rodriguez, Tomás</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rodriguez, Tomás Quintin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Muri, c1982:</subfield>
+    <subfield code="b">t.p. (Tomas Milian) jkt. (b. Havana (Cuba); actor, artist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Mar. 19, 2003</subfield>
+    <subfield code="b">(Tomas Milian, actor; b. Mar. 3, 1933, in Havana, Cuba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tomas Milian, c2007:</subfield>
+    <subfield code="b">t.p. (Tomas Milian) p. vi (Tomás Quintin Rodriguez, noto poi come Tomas Milian; b. 03-03-1933)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDB, 01-11-2013:</subfield>
+    <subfield code="b">(Tomas Milian; 3/3/1933; an American actor born in Cuba; was trained at the Actors Studio. He appeared in a few plays on Broadway, as well as in a show by Jean Cocteau' in Spolen; Mauro Bolognini noticed him and that was the starting point of a rather rich cinematographic career in Italy, where he played in all genres)</subfield>
+  </datafield>
+</record>
