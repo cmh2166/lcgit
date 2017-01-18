@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00541nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015011595</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150128073537.0</controlfield>
+  <controlfield tag="008">150127n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015011595</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10071563</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaBVa</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CaBVa</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Waxman, Susan</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Teachers</subfield>
+    <subfield code="a">Cooks</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The complete macrobiotic diet, 2015:</subfield>
+    <subfield code="b">title page (Susan Waxman) back cover (Susan Waxman, co-directror and master macrobiotic teacher and chef at the Strengthening Health Institute)</subfield>
+  </datafield>
+</record>
