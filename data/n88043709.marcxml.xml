@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00874cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88043709 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080316080214.0</controlfield>
+  <controlfield tag="008">880720n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88043709 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02323441</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Pembrokeshire Record Society</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Society for the Preservation of Pembrokeshire Records</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Pembrokeshire Local History and Record Society</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pembrokeshire record series ; 1. Howells, B. E. Pemrokeshire life, 1572-1843:</subfield>
+    <subfield code="b">t.p. (Pembrokeshire Record Society) p. 1 (formerly known as the Society for the Preservation of Pembrokeshire Records)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Journal of the Pembrokeshire Historical Society, No. 1 (1985):</subfield>
+    <subfield code="b">p. 5 (Pembrokeshire Local History and Record Society; formed by the Pembrokeshire Local History Society and the Pembrokeshire Record Society)</subfield>
+  </datafield>
+</record>
