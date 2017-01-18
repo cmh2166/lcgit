@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00532cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012140740</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121117075128.0</controlfield>
+  <controlfield tag="008">121029n| acannaabn           n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012140740</subfield>
+    <subfield code="z">n 2012069363</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09335472</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19771224</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weisiger, Alex,</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Alexander Richard</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Logics of limited and unlimited war, 2013:</subfield>
+    <subfield code="b">ECIP t.p. (Alex Weisiger) publisher's info (Weisiger, Alexander Richard; b. Dec. 24, 1977)</subfield>
+  </datafield>
+</record>
