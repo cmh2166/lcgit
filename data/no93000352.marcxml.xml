@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00586cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 93000352 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981006052106.3</controlfield>
+  <controlfield tag="008">930107n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93000352 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03297732 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DNAL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Veterinary Research Laboratory (Dublin, Ireland)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Ireland.</subfield>
+    <subfield code="b">Veterinary Research Service</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Report of the Veterinary Research Laboratory, 1987-88</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Annual report of the Veterinary Research Service, 1989: t.p. (an Roinn TalmhaiĚochta agus Bia, Veterinary Research Service)</subfield>
+  </datafield>
+</record>
