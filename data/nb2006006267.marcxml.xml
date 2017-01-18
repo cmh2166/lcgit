@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00935nz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2006006267</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060311063106.0</controlfield>
+  <controlfield tag="008">060310n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2006006267</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006421531</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Institute for Environment and Sustainability (European Commission. Joint Research Centre).</subfield>
+    <subfield code="b">Renewable Energies Unit</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Environment Institute (European Commission. Joint Research Centre).</subfield>
+    <subfield code="b">Renewable Energy Unit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The centrifugal fuel cell, 2001:</subfield>
+    <subfield code="b">t.p. (Institute for Environment and Sustainability, Renewable Energies Unit)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 10 Mar. 2006</subfield>
+    <subfield code="b">(hdg.: Institute for Environment and Sustainability. Renewable Energies Unit)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Hydrogen transport parameters and trapping effects in the martensitic steel optifer-IVb, 1999: t.p. (European Commission, Joint Research Centre, Environment Institute, Renewable Energy Unit)</subfield>
+  </datafield>
+</record>
