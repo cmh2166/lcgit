@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00974nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2010159744</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101002075545.0</controlfield>
+  <controlfield tag="008">100930n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010159744</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08642455</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OClW-H</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OClW-H</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Anderson, Daniel</subfield>
+    <subfield code="q">(Daniel Randolph)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Anderson, Daniel Randolph</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  97054605</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Teaching on-line, c1997:</subfield>
+    <subfield code="b">t.p. (Daniel Anderson, University of Texas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beyond words, c2006:</subfield>
+    <subfield code="b">t.p. (Daniel Anderson, University of North Carolina, Chapel Hill)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chapel Hill website, Sep. 12, 2005</subfield>
+    <subfield code="b">(Ph. D. from University of Texas in 1997; teaches and writes on information technology integration in universities, visual literacy, and new media composition at UNC/Chapel Hill)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 28, 2010</subfield>
+    <subfield code="b">(hdg.: Anderson, Daniel; Anderson, Daniel Randolph; usage: Daniel Anderson; Daniel Randolph Anderson)</subfield>
+  </datafield>
+</record>
