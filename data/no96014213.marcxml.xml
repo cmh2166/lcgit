@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 96014213 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960320052922.4</controlfield>
+  <controlfield tag="008">960319n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96014213 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04037789 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DCU-IA</subfield>
+    <subfield code="c">DCU-IA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mac-Dowell, José Maria</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">MacDowell, José Maria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fronteiras nacionaes, 1922:</subfield>
+    <subfield code="b">t.p. (José Maria Mac-Dowell, do Instituto dos advogados brasileiros)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC data base, 02-23-96</subfield>
+    <subfield code="b">(hdg.: Mac-Dowell, José Maria; usage: José Maria Mac-Dowell)</subfield>
+  </datafield>
+</record>
