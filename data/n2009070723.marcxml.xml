@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00531nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2009070723</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091104090445.0</controlfield>
+  <controlfield tag="008">091103n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009070723</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hay, Daisy,</subfield>
+    <subfield code="d">1981-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hay, Daisy. Young romantics, 2010:</subfield>
+    <subfield code="b">ECIP t.p. (Daisy Hay) data view (b. July 3, 1981 ; recent doctoral graduate, Cambridge Univ.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from publisher, Nov. 3, 2009:</subfield>
+    <subfield code="b">different Daisy Hay from author of The more I see of men, the more I love my cat, c2004.</subfield>
+  </datafield>
+</record>
