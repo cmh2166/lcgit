@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00986cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  92015852 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940616131851.1</controlfield>
+  <controlfield tag="008">920212n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92015852 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Universidade de São Paulo.</subfield>
+    <subfield code="b">Comissão Especial de Coordenação Universitária</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">CECAE</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Universidade de São Paulo.</subfield>
+    <subfield code="b">Comissão Especial de Coordenação de Atividades de Extensão Universitária</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Universidade de São Paulo.</subfield>
+    <subfield code="b">Coordenadoria Executiva de Cooperação Universitária e de Atividades Especiais</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Educação ambiental, 1989:</subfield>
+    <subfield code="b">t.p. (CECAE; Comissão Especial de Coordenação Universitária) p. 11 (Universidade de São Paulo, Comissão Especial de Coordenação de Atividades de Extensão Universitária)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">USP serviços, 1994?: t.p. (CECAE) p. opp. t.p. (CECAE-Coordenadoria Executiva de Cooperação Universitária e de Atividades Especiais)</subfield>
+  </datafield>
+</record>
