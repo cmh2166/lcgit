@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00362nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 97031105 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970924051414.7</controlfield>
+  <controlfield tag="008">970904n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97031105 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Pinoli, Mario,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dal lago Maggiore al Lago di Como, 1996:</subfield>
+    <subfield code="b">t.p. (Mario Pinoli) colophon (b. 1961, Torino, Italy; geologist)</subfield>
+  </datafield>
+</record>
