@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00436cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83237481 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081219080725.0</controlfield>
+  <controlfield tag="008">831017n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83237481 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01038126</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bull, Edvard,</subfield>
+    <subfield code="d">1881-1932</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Norsk biografisk leksikon, 1923- :</subfield>
+    <subfield code="b">v. 19, t.p. (Edv. Bull)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: Bull, Edvard, 1881-1932)</subfield>
+  </datafield>
+</record>
