@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008138831</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080924080722.0</controlfield>
+  <controlfield tag="008">080828n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008138831</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07885934</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shapey, Ralph,</subfield>
+    <subfield code="d">1921-2002.</subfield>
+    <subfield code="t">Harmaxiemanda</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shapey, R. Harmaxiemanda, c1987:</subfield>
+    <subfield code="b">t.p. (Harmaxiemanda : for piano) caption (1984)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, Aug. 28, 2008</subfield>
+    <subfield code="b">(Harmaxiemanda; 1984)</subfield>
+  </datafield>
+</record>
