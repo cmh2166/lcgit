@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00719nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 94016424 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940525121711.9</controlfield>
+  <controlfield tag="008">940518n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94016424 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Flint, Joshua B.</subfield>
+    <subfield code="q">(Joshua Barker),</subfield>
+    <subfield code="d">1801-1864</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His An address delivered before the Massachusetts Society for the Suppression of Intemperance, May 29, 1828, 1828:</subfield>
+    <subfield code="b">t.p. (Joshua B. Flint, M.D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Appletons' cyclopaedia of Amer. biog., 1888</subfield>
+    <subfield code="b">(Joshua Barker Flint; surgeon; M.D. Harvard 1825; practiced medicine in Boston; member Mass. legislature; professor Louisville Medical College and Kentucky School of Medicine; b. Cohasset, Mass. 10/13/1801; d. Louisville 3/19/1864)</subfield>
+  </datafield>
+</record>
