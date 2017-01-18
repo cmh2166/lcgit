@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00713nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014181882</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140312135920.0</controlfield>
+  <controlfield tag="008">140312n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014181882</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1604558</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Alzheimer's Disease Research (Program)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Program</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Clarksburg (Md.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">American Health Assistance Foundation.</subfield>
+    <subfield code="b">Alzheimer's Disease Research</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">American Health Assistance Foundation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Living with Alzheimer's disease, after 2007:</subfield>
+    <subfield code="b">t.p. (Alzheimer's Disease Research, a program of the American Health Assistance Foundation) p. 4 of cover (Clarksburg, MD)</subfield>
+  </datafield>
+</record>
