@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2007051609</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081013204422.0</controlfield>
+  <controlfield tag="008">070508n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007051609</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07404993</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ryzhkov, I︠U︡riĭ</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ryzhkov, I︠U︡. V.</subfield>
+    <subfield code="q">(I︠U︡riĭ Vladimirovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Рыжков, Юрий</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ignoto deo, 2006:</subfield>
+    <subfield code="b">t.p. (I︠U︡riĭ Ryzhkov) t.p. verso (Ryzhkov I︠U︡.V.) colophon (Ryzhkov I︠U︡riĭ Vladimirovich)</subfield>
+  </datafield>
+</record>
