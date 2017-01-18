@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00643nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  79111889 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">790926n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79111889 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gabrovska, S.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gabrovska, Svobodozarya</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mezhd. infor. sistema po obshchestvennym naukam.</subfield>
+    <subfield code="b">Rolʹ nauchnoĭ informat︠s︡ii v razvitii obshchestvennykh nauk v sot︠s︡ialisticheskikh stranakh i zadachi razvitii︠a︡ MISON, 1979 (a.e.) verso t.p. (k.f.n. S. Gabrovska)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her European guide to social science info. and docum. services, 1982:</subfield>
+    <subfield code="b">CIP t.p. (Svobodozarya Gabrovska)</subfield>
+  </datafield>
+</record>
