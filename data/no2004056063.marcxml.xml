@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00437nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2004056063</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040612071017.0</controlfield>
+  <controlfield tag="008">040611n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004056063</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06368522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mayr, Giovanni Simone,</subfield>
+    <subfield code="d">1763-1845.</subfield>
+    <subfield code="t">Andantino con variazioni,</subfield>
+    <subfield code="m">piano</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mayr, G.S. Andantino con variazioni, 1995:</subfield>
+    <subfield code="b">t.p. (Andantino con variazioni pour piano)</subfield>
+  </datafield>
+</record>
