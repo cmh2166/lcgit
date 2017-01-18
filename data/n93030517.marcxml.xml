@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00515cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  93030517 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060620101351.0</controlfield>
+  <controlfield tag="008">930402n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93030517 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3613.A3436</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Magee, William A.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Magee, Bill</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Fluent Tibetan, 1993:</subfield>
+    <subfield code="b">CIP t.p. (William A. Magee)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">She still lives, 2006:</subfield>
+    <subfield code="b">ECIP t.p. (Bill Magee) data view (same author as the William A. Magee who wrote Fluent Tibetan; b. 1949)</subfield>
+  </datafield>
+</record>
