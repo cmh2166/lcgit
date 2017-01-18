@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 99060691 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020303152008.0</controlfield>
+  <controlfield tag="008">990719n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99060691 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Schneider, Christine,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n99054747</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chaperonin protocols, 2000:</subfield>
+    <subfield code="b">t.p. (Christine Schneider) BL AL sent 12 Feb. 2002</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from author, 24 Feb. 2002</subfield>
+    <subfield code="b">(Christine Schneider, born 30 Nov. 1961)</subfield>
+  </datafield>
+</record>
