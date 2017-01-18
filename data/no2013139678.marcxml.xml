@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013139678</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131214073551.0</controlfield>
+  <controlfield tag="008">131213n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013139678</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09637893</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wright, Katie</subfield>
+    <subfield code="c">(Policy analyst)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Washington (D.C.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mitt Romney : bad for women, 2012:</subfield>
+    <subfield code="b">page 1 (Katie Wright; published by the Center for American Progress Action Fund)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Twitter, November 1, 2013</subfield>
+    <subfield code="b">(Katie Wright; policy analyst; lives in Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LinkedIn, November 1, 2013</subfield>
+    <subfield code="b">(Katie Wright; policy analyst at the Center for American Progress; graduated from Northwestern University in 2009 with a degree in social policy)</subfield>
+  </datafield>
+</record>
