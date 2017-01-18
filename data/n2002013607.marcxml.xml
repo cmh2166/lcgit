@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00562cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2002013607</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030624052540.0</controlfield>
+  <controlfield tag="008">020515n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002013607</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05764190</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Potter, Nicholas T.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neurogenetics, 2003:</subfield>
+    <subfield code="b">CIP t.p. (Nicholas T. Potter, University of Tennessee Medical Center, Knoxville, Tenn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 23, 2003</subfield>
+    <subfield code="b">(hdgs.: Potter, Nicholas T.; Potter, Nicholas Thomas, 1959- ; usage: Nicholas T. Potter, Nicholas Thomas Potter)</subfield>
+  </datafield>
+</record>
