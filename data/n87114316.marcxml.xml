@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00849cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  87114316 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000617064321.0</controlfield>
+  <controlfield tag="008">870724n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87114316 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01907834</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">García Canal, C. A.</subfield>
+    <subfield code="q">(Carlos Alberto)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">García Canal, Carlos Alberto</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Canal, C. A. García</subfield>
+    <subfield code="q">(Carlos Alberto García)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Introd. à la physique des hadrons, 1980:</subfield>
+    <subfield code="b">t.p. (C.A. Garcia Canal, Centre de recherches nucléaires et Université Louis Pasteur, Strasbourg; membre du Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina; adresse permanente: Depto. de Física, Universidad Nacional de La Plata, La Plata, Argentina)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliogr. de la France, 86-3552</subfield>
+    <subfield code="b">(Garcia Canal, Carlos Alberto)</subfield>
+  </datafield>
+</record>
