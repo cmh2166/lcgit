@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01428cz  a2200301n  4500</leader>
+  <controlfield tag="001">n  00112186 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101030074628.0</controlfield>
+  <controlfield tag="008">000127n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00112186 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W1245600</subfield>
+    <subfield code="e">W1245600</subfield>
+    <subfield code="f">N0494100</subfield>
+    <subfield code="g">N0494100</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W1245605</subfield>
+    <subfield code="e">W1245605</subfield>
+    <subfield code="f">N0494059</subfield>
+    <subfield code="g">N0494059</subfield>
+    <subfield code="2">erpn</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W1245600</subfield>
+    <subfield code="e">W1245600</subfield>
+    <subfield code="f">N0494100</subfield>
+    <subfield code="g">N0494100</subfield>
+    <subfield code="2">cgndb</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05143847</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-cn-bc</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Comox (B.C.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Komous (B.C.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Comuck (B.C.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Comax (B.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Courtenay, Comox, Parksville, Qualicum Beach ... 1999</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database Jan. 27, 2000</subfield>
+    <subfield code="b">(hdg.: Comox)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC Jan. 27, 2000</subfield>
+    <subfield code="b">(Comox (B.C.))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet Jan. 27, 2000</subfield>
+    <subfield code="b">(Comox, ppl, 49°41ʹN 124°56ʹW, British Columbia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Columbia gaz.</subfield>
+    <subfield code="b">(Comox, town, SW B.C., Canada, on E central Vancouver Isl. with a harbor on Strait of Georgia at mouth of Courtenay R., 110 mi/177 km NW of Victoria, 49°41ʹN 124°56ʹW)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The encyc. of raincoast place names, ©2009</subfield>
+    <subfield code="b">(Comox (49°40ʹ59ʺ 124°56ʹ05ʺ); the spellings Komous, Comuck and Comax have also been recorded)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Geographical names of Canada, via WWW, Oct. 11, 2010</subfield>
+    <subfield code="b">(Comox, British Columbia, town, Comox Land District, 49°41ʹ00ʺ N - 124°56ʹ00ʺ W)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">British Columbia</subfield>
+    <subfield code="z">Comox</subfield>
+  </datafield>
+</record>
