@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00588cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  87943386 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041105152121.0</controlfield>
+  <controlfield tag="008">880129n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87943386 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Franklin, Benjamin,</subfield>
+    <subfield code="d">1706-1790.</subfield>
+    <subfield code="t">Autobiography.</subfield>
+    <subfield code="l">French</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Franklin, Benjamin,</subfield>
+    <subfield code="d">1706-1790.</subfield>
+    <subfield code="t">MeĚmoires sur la vie de Benjamin Franklin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Franklin, Benjamin,</subfield>
+    <subfield code="d">1706-1790.</subfield>
+    <subfield code="t">Vie de Benjamin Franklin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His MeĚmoires sur la vie de Benjamin Franklin, 1828</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Franklin, Benjamin. Vie de Benjamin Franklin,  1798</subfield>
+  </datafield>
+</record>
