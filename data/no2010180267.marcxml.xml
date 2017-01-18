@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00737nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010180267</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101115134627.0</controlfield>
+  <controlfield tag="008">101105n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010180267</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08680038</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DCS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DCS</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress</subfield>
+    <subfield code="n">(72nd, 2nd session :</subfield>
+    <subfield code="d">1932-1933).</subfield>
+    <subfield code="b">House</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Memorial services held in the House of Representatives of the United States, together with remarks presented in eulogy of Godfrey G. Goodwin, late a representative from Minnesota ... 1933:</subfield>
+    <subfield code="b">t.p. (Seventy-second Congress, second session)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cong. dir. 2009-2010 :</subfield>
+    <subfield code="b">sessions of Congress, p. 532 (72d Congress, 2d session: convening date, Dec. 5, 1932; adjournment date, Mar. 3, 1933)</subfield>
+  </datafield>
+</record>
