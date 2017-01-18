@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00559cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  92110790 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940301181753.1</controlfield>
+  <controlfield tag="008">921116n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92110790 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CoU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Renneberg, Monika</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Renneburg, Monika</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Scientists, engineers, and national socialism, 1993:</subfield>
+    <subfield code="b">CIP t.p. (Monika Renneburg; asst. prof., Inst. for the Hist. of Sci., Tech. and Math., U. of Hamburg) book t.p. ([title]: Science, technology and national socialism; Monika Renneberg) jkt. (Monika Renneberg)</subfield>
+  </datafield>
+</record>
