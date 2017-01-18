@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88669519 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930108051926.2</controlfield>
+  <controlfield tag="008">881024n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88669519 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">International Commission on Technical Aids, Building, and Transportation (Bromma, Sweden).</subfield>
+    <subfield code="b">Information Centre</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">ICTA Information Centre</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-119927: Aids for the deaf-blind, 1985</subfield>
+    <subfield code="b">(hdg. on CaBVaU rept.: International Commission on Technical Aids, Building and Transportation. Information Centre; usage: ICTA Information Centre)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Elderly hearing impaired people, 1988:</subfield>
+    <subfield code="b">(ICTA Information Centre)</subfield>
+  </datafield>
+</record>
