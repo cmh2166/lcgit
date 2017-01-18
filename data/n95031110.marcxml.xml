@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00875nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  95031110 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950330101216.6</controlfield>
+  <controlfield tag="008">950330n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95031110 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Wyandotte Shipyards</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Wyandotte Ship Yards</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Detroit Dry Dock Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Wyandotte Museum for Wyandotte shipbuilding collection, 1871-1927</subfield>
+    <subfield code="b">(Wyandotte Shipyards; Wyandotte, Mich.; purchased by Detroit Dry Dock Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DeWindt, E.M. Our fame &amp; fortune in Wyandotte, 1985:</subfield>
+    <subfield code="b">p. 131 (Wyandotte shipbuilding operations founded by E.B. Ward in 1871; after his death in 1876 taken over by Detroit Dry Dock Company which was succeeded in 1900 by American Ship Building Co.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Wyandotte Museum, 03-30-95</subfield>
+    <subfield code="b">(Wyandotte Shipyards; also found as Wyandotte Ship Yards)</subfield>
+  </datafield>
+</record>
