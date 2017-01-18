@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00637cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2002009677</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320090919.0</controlfield>
+  <controlfield tag="008">020205n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002009677</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05683999</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NBuU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NBuU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1853</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thompson, Joseph W.</subfield>
+    <subfield code="q">(Joseph Wesley),</subfield>
+    <subfield code="d">1853-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Joseph Wesley</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Thompson, Joseph W.</subfield>
+    <subfield code="q">(Joseph Wesley),</subfield>
+    <subfield code="d">b. 1853</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Commentaries on the law of private corporations, 1908:</subfield>
+    <subfield code="b">t.p. (Joseph W. Thompson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 5, 2002</subfield>
+    <subfield code="b">(hdg.: Thompson, Joseph Wesley, 1853- ; usage: Joseph W. Thompson)</subfield>
+  </datafield>
+</record>
