@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2009160918</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091013120634.0</controlfield>
+  <controlfield tag="008">091008n| acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009160918</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08266101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Wuxi guo xue zhuan xiu xue xiao</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">無錫國學專修學校</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Wuxi guo zhuan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">無錫國專</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wuxi guo zhuan yu chuan tong shu yuan de zhuan xing, 2008:</subfield>
+    <subfield code="b">t.p. (無錫國學專修學校 = Wuxi guo xue zhuan xiu xue xiao) pref. (est. 1921; also as 無錫國專 = Wuxi guo zhuan)</subfield>
+  </datafield>
+</record>
