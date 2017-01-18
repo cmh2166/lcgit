@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00773cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86063588 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130308090942.0</controlfield>
+  <controlfield tag="008">870619n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86063588 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1651?</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hughes, John,</subfield>
+    <subfield code="d">1651?-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Hughes, John,</subfield>
+    <subfield code="d">b. 1651?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A sermon preach'd before the right hon. George, Earl of Berkley ... [MI] 1683:</subfield>
+    <subfield code="b">t.p. (John Hughes, A.M. and fellow of Baliol College in Oxon, and chaplain to his excellency the Lord Chandois, ambassadour at Constantinople)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alumni oxon.:</subfield>
+    <subfield code="b">v. 2, p. 761 (Hughes, John, matric. 1667, at the age of 16, from Balliol Coll.; later chaplain to James Lord Chandos, ambassador at Constantinople)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">DNB.</subfield>
+  </datafield>
+</record>
