@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00734cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  00115502 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001207114317.0</controlfield>
+  <controlfield tag="008">001120n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00115502 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Georgia Minstrels (Early recording group)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with Georgia Minstrels (active ca. 1872)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Minstrel, First Part, no. 1 [SR] 1900:</subfield>
+    <subfield code="b">label (Georgia Minstrels)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fagan, Ted. Encyclopedic discography of Victor recordings, c1983:</subfield>
+    <subfield code="b">p. 348 (Georgia Minstrels: pioneer studio recording group (Victor Talking Machine Co.) that consisted of S.H. Dudley, William F. Hooley, Harry Macdonough, Frank P. Banta, and, at times, Len Spencer, and the Metropolitan Orchestra)</subfield>
+  </datafield>
+</record>
