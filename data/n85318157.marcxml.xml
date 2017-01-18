@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01018cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85318157 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314083211.0</controlfield>
+  <controlfield tag="008">860204n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85318157 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01537343</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Western Australia.</subfield>
+    <subfield code="b">Health Department.</subfield>
+    <subfield code="b">Epidemiology Branch</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Western Australia.</subfield>
+    <subfield code="b">Health Dept.</subfield>
+    <subfield code="b">Epidemiology Branch</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Western Australia.</subfield>
+    <subfield code="b">Health Department.</subfield>
+    <subfield code="b">Epidemiology and Research Branch</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Western Australia.</subfield>
+    <subfield code="b">Health Department</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hatton, W. M. Cancer in W. Australia, 1985:</subfield>
+    <subfield code="b">t.p. (Epidemiology Branch, Health Department of Western Australia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fax from N. White of the National Library of Australia, 6/7/96</subfield>
+    <subfield code="b">(Epidemiology Branch chg'd its name to Epidemiology and Research Branch after 1989)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Our state of health, 1991: t.p. (Epidemiology and Research Branch of the Health Department of Western Australia)</subfield>
+  </datafield>
+</record>
