@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003066400</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030705071007.0</controlfield>
+  <controlfield tag="008">030704n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003066400</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06091932</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Royal Arch Masons.</subfield>
+    <subfield code="b">Grand Chapter (Va.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Grand Chapter of Royal Arch Masons in Virginia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Digest of the laws, rules, regulations and forms of the Grand Chapter of Royal Arch Masons in Virginia, 1937</subfield>
+  </datafield>
+</record>
