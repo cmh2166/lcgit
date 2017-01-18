@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00902cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  91033952 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000715065202.0</controlfield>
+  <controlfield tag="008">910408n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91033952 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02925374</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Figueiredo Júnior, José Rubens de Lima</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lima Figueiredo Júnior, José Rubens</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Júnior, José Rubens de Lima Figueiredo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Lima Figueiredo Júnior, José Rubens</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Figueiredo Jr., José Rubens de Lima</subfield>
+    <subfield code="q">(Figueiredo Júnior)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Figueiredo, Rubens</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Figuêiredo, N.L. Como ganhar uma eleição, 1990:</subfield>
+    <subfield code="b">t.p. (José Rubens de Lima Figueiredo Júnior) cover p. 1 (José Rubens de Lima Figueiredo Jr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">As cidades que dão certo, 1996?:</subfield>
+    <subfield code="b">t.p., etc. (Rubens Figueiredo) p. 5 (José Rubens de Lima Figueiredo Júnior)</subfield>
+  </datafield>
+</record>
