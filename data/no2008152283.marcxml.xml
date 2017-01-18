@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00808cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2008152283</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140417161108.0</controlfield>
+  <controlfield tag="008">081016n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008152283</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07909034</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1962</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Korn, Uwe,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Stuttgart, Germany</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music -- Instruction and study</subfield>
+    <subfield code="a">Performing arts</subfield>
+    <subfield code="a">Composition (Music)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Music teachers</subfield>
+    <subfield code="a">Pianists</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klassic meets jazz, c2007:</subfield>
+    <subfield code="b">t.p. (Uwe Korn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Oct. 16, 2008</subfield>
+    <subfield code="b">(hdgs.: Korn, Uwe, 1962- ; Korn, Uwe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schott online, viewed Apr. 17, 2014</subfield>
+    <subfield code="b">(Uwe Korn, born in Stuttgart on 20.01.1962; works as a music teacher, pianist and composer)</subfield>
+  </datafield>
+</record>
