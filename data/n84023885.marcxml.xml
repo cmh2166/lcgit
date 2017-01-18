@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84023885 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101122132414.0</controlfield>
+  <controlfield tag="008">840514n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84023885 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)001180201</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roberts, Ralph,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The word processor buyer's survival manual, 1984:</subfield>
+    <subfield code="b">CIP t.p. (Ralph Roberts) publisher's info. (Asheville, N.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Genealogy via the internet, 1997:</subfield>
+    <subfield code="b">CIP t.p. (Ralph Roberts, Alexander, N.C.) data sheet (b. Dec. 11, 1945) galley (interests inclu. computers, historical subjects; major in engineering; minor in hist.)</subfield>
+  </datafield>
+</record>
