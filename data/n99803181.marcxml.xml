@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  99803181 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814080827.0</controlfield>
+  <controlfield tag="008">991026n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99803181 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1093664</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)003714740</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Donovan, Terry,</subfield>
+    <subfield code="c">Dr.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Update on esthetic restorative dentistry, 1999:</subfield>
+    <subfield code="b">narration (Dr. Terry Donovan, exec. assoc. dean at Univ. of Southern Calif.) label (Donovan)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">LAC, 8 July 2009</subfield>
+  </datafield>
+</record>
