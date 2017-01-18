@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00895cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  50072678 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141126073700.0</controlfield>
+  <controlfield tag="008">801215n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50072678 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00106617</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">FU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mississippi Authority for Educational Television</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Mississippi.</subfield>
+    <subfield code="b">Authority for Educational Television</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Mississippi Authority for ETV</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Mississippi Authority for E.T.V.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MAET</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Matter is made of. [MP] 1972.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Data from Great Plains National Instructional Television Library for Edit point. 1 [VR] 1983 (a.e.)</subfield>
+    <subfield code="b">(Mississippi Authority for ETV)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An expenditure review of the Mississippi Authority for Educational Television and related foundations, 1993:</subfield>
+    <subfield code="b">t.p. (Mississippi Authority for Educational Television) cover (MAET)</subfield>
+  </datafield>
+</record>
