@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00840cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85163449 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090711074829.0</controlfield>
+  <controlfield tag="008">851029n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85163449 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK9169.N514</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nišnianiże, Gizo,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Nishnianidze, G. D.</subfield>
+    <subfield code="q">(Gizo Domentʹevich),</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nishnianidze, Gizo Domentʹevich,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nišnianiże, Gizo Domentis że,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pressa i radioveshchanie Gruzii v ... 1984:</subfield>
+    <subfield code="b">t.p. (G.D. Nishnianidze) colophon (Gizo Domentʹevich Nishnianidze, Gizo Domentis że Nišnianiże) verso t.p. (kandidat filologicheskikh nauk)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaxetʻi, 1991:</subfield>
+    <subfield code="b">t.p. (Gizo Nišnianiże)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Migule, 2008:</subfield>
+    <subfield code="b">p. [4] of cover (Gaioz (Gizo) Domentis że Nišnianiże: b. 1928)</subfield>
+  </datafield>
+</record>
