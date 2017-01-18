@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88121746 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080624074822.0</controlfield>
+  <controlfield tag="008">880719n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88121746 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ahmad, Imad-ad-Dean,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Imad-ad-Dean Ahmad,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IIIT Lunar Calendar Conf. (1987 : IIIT) Proceedings of IIIT Lunar Calendar Conference, 1988:</subfield>
+    <subfield code="b">CIP t.p. (Imad-ad-Dean Ahmad) galley (Astronomer, Lect. U. of Md.) data sheet (b. 7-11-48)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ahmad, Imad-ad-Dean. Islamic rules of order, 2008:</subfield>
+    <subfield code="b">ECIP t.p. (Imad-ad-Dean Ahmad, Ph.D)</subfield>
+  </datafield>
+</record>
