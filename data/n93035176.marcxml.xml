@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00485cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  93035176 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961113141139.7</controlfield>
+  <controlfield tag="008">930416n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93035176 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Technische Universität Dresden.</subfield>
+    <subfield code="b">Institut für Theoretische Physik</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">W.E. Heraeus Seminar (75th : 1991 : Gaussig, Germany). Electronic structure of solids '91, c1991:</subfield>
+    <subfield code="b">t.p. (Institut für Theoretische Physik, Technische Universität Dresden)</subfield>
+  </datafield>
+</record>
