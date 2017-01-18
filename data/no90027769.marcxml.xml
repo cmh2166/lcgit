@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00405nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 90027769 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910226133617.0</controlfield>
+  <controlfield tag="008">901231n| acannaab|          la ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90027769 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MnHi</subfield>
+    <subfield code="c">MnHi</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Jackson High School (Jackson, Minn.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Jackson (Minn.).</subfield>
+    <subfield code="b">High School</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jack Hi times, Sept. 24, 1924:</subfield>
+    <subfield code="b">p. 2 (Jackson High School) t.p. (Jackson, Minnesota)</subfield>
+  </datafield>
+</record>
