@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01250cz  a2200229n  4500</leader>
+  <controlfield tag="001">no 00033190 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150625073817.0</controlfield>
+  <controlfield tag="008">000509n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00033190 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05215122</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19680120</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shmonin, D. V.</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Dmitriĭ Viktorovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Шмонин, Д. В.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shmonin, Dmitriĭ Viktorovich</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fransisko Suares i evropeĭskai︠a︡ kultura XVI-XVII vekov, 1999:</subfield>
+    <subfield code="b">t.p. verso (D.V. Shmonin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Website, Russkai︠a︡ khristianskai︠a︡ gumanitarnai︠a︡ akademii︠a︡, June 24, 2015</subfield>
+    <subfield code="b">(Shmonin Dmitriĭ Viktorovich; b. January 20, 1968; Ph.D., specialist in the history of philosophy and culture of the Middle Ages, Reformation, Counter-Reformation; Director of the Institute of the History of Christian Thought, Russian Christian Humanitarian Academy; lecturer, general and special courses in Medieval philosophy, Christian theology, Counter-Reformation and scholasticism, history of education and science in Russia)</subfield>
+    <subfield code="u">http://rhga.ru/science/center/iihm/scholastic/shmonin.php</subfield>
+  </datafield>
+</record>
