@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 89006129 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890524123855.1</controlfield>
+  <controlfield tag="008">890522n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89006129 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gillis, Clarence,</subfield>
+    <subfield code="d">1895-1960</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gillis, Clarie,</subfield>
+    <subfield code="d">1895-1960</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harrop, G.G. Clarie, 1987:</subfield>
+    <subfield code="b">t.p. (Clarence Gillis, M.P., 1940-1957) p. 9 (Clarie Gillis) p. 11 (member of Co-operative Commonwealth Fed. party) back cover (d. 1960)</subfield>
+  </datafield>
+</record>
