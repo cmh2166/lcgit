@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00930cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 90000360 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810085026.0</controlfield>
+  <controlfield tag="008">900104n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90000360 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02672974</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1803</subfield>
+    <subfield code="g">1868</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thaon di Revel, Ottavio,</subfield>
+    <subfield code="c">marchese,</subfield>
+    <subfield code="d">1803-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Di Revel,</subfield>
+    <subfield code="c">marchese,</subfield>
+    <subfield code="d">1803-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Di Revel, Ottavio Thaon,</subfield>
+    <subfield code="c">marchese,</subfield>
+    <subfield code="d">1803-1868</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Revel, Ottavio Thaon di,</subfield>
+    <subfield code="c">marchese,</subfield>
+    <subfield code="d">1803-1868</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sardinia (Italy). Ministero delle finanze. Relazione sulle condizioni delle finanze dal 1830 al 1846, 1848:</subfield>
+    <subfield code="b">p. 48 (signed, Di Revel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diz. encic. ital.</subfield>
+    <subfield code="b">(Thaon di Revel, Ottavio, conte; 1803-1868)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Thaon di Revel, Ottavio, marchese, 1803-1868)</subfield>
+  </datafield>
+</record>
