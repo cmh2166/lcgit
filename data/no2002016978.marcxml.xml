@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2002016978</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020301070913.0</controlfield>
+  <controlfield tag="008">020228n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002016978</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05698145</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DSI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DSI</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Meter Stamp Society</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MSS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mailed via "Mailomat", 1995:</subfield>
+    <subfield code="b">t.p. (Meter Stamp Society) p. 63 (The Meter Stamp Society (MSS), founded in 1948, is a nonprofit organization dedicated to the study and advancement of meter stamp collecting; 1389 Islewood Drive, Anacortes, WA)</subfield>
+  </datafield>
+</record>
