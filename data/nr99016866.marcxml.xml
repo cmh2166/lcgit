@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00682cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 99016866 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081011204153.0</controlfield>
+  <controlfield tag="008">990525n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99016866 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05413341</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-HC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt-HC</subfield>
+    <subfield code="d">OU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Iusim, I.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yatom, Y.</subfield>
+    <subfield code="q">(Yosef)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yatom, Yosef</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">יתום, י.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dugmaọt, 1928- :</subfield>
+    <subfield code="b">v. 1, t.p. (ha-Rav Y. Yatom, Kaʼushani) p. 4 of cover (Rabin I. Iusim [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">JNUL, Sept. 7, 2001</subfield>
+    <subfield code="b">(Hdg.: Yatom, Yosef)</subfield>
+  </datafield>
+</record>
