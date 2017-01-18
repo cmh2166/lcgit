@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  96000915 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960104084222.9</controlfield>
+  <controlfield tag="008">960104n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96000915 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Cowan, Henry J.</subfield>
+    <subfield code="t">Dictionary of architectural and building technology.</subfield>
+    <subfield code="l">Vietnamese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Cowan, Henry C.</subfield>
+    <subfield code="t">Từ điển giải nghĩa kỹ thuật kiến trúc và xây dựng Anh-Việt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Từ điển giải nghĩa kỹ thuật kiến trúc và xây dựng Anh Việt, 1994.</subfield>
+  </datafield>
+</record>
