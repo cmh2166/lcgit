@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00918cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  98922620 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150523073902.0</controlfield>
+  <controlfield tag="008">980623n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98922620 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04788465</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1907</subfield>
+    <subfield code="g">1979</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Datta, Ajita,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ben</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ajita Datta,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ajit Dutta,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dutta, Ajit,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dutt, Ajit Kumar,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ajit Kumar Dutt,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dutt, Ajit,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ajit Dutt,</subfield>
+    <subfield code="d">1907-1979</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ajita Datta, jiĚbana o saĚhitya, 1995:</subfield>
+    <subfield code="b">t.p. (Ajita Datta) t.p. verso (Ajit Dutta; poet &amp; litterateur)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Delhi non-MARC file</subfield>
+    <subfield code="b">(hdg.: Dutt, Ajit Kumar, 1907- ; usage: Ajita Datta) New Delhi manual auth. cd. (hdg.: Dutt, Ajit, 1907-1979; usage: Ajita Datta)</subfield>
+  </datafield>
+</record>
