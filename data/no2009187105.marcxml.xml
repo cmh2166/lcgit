@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01352cz  a2200253n  4500</leader>
+  <controlfield tag="001">no2009187105</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160813075258.0</controlfield>
+  <controlfield tag="008">091119n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009187105</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">0000-0001-9340-8723</subfield>
+    <subfield code="2">orcid</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">103066739</subfield>
+    <subfield code="2">viaf</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08312608</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NcD</subfield>
+    <subfield code="d">CoU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1979-11-23</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tripp, Erin Anne,</subfield>
+    <subfield code="d">1979-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Chester (Ill.)</subfield>
+    <subfield code="e">Colorado</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Botany</subfield>
+    <subfield code="a">Biodiversity</subfield>
+    <subfield code="a">Ecology</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Colorado Boulder</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Botanists</subfield>
+    <subfield code="a">Plant ecologists</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Systematics and pollination system evolution in Ruellia (Acanthaceae), 2008:</subfield>
+    <subfield code="b">t.p. (Erin Anne Tripp) vita (b. Chester, Illinois, 23 Nov. 1979)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Field guide to the lichens of White Rocks (Boulder, Colorado), 2016:</subfield>
+    <subfield code="b">ECIP title page (Erin A. Tripp) data view (Erin A. Tripp is assistant professor in the Department of Ecology and Evolutionary Biology and curator of botany at the Museum of Natural History at the University of Colorado Boulder. She is a biodiversity scientist whose research focuses on the diversity and evolution of flowering plants and lichens, and was the recipient of the 2011 George R. Cooley Award from the Botanical Society of America.)</subfield>
+  </datafield>
+</record>
