@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01303cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2007088015</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141211073803.0</controlfield>
+  <controlfield tag="008">071211n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007088015</subfield>
+    <subfield code="z">n  85120710 </subfield>
+    <subfield code="z">n  93059754 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07605807</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">SaPrNL</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shell, Sandra Rowoldt</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rowoldt, Sandra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fold, S. C. T.</subfield>
+    <subfield code="q">(Sandra Carolyn Teresa)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fold, Sandra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliographies of bondage, c2008:</subfield>
+    <subfield code="b">eCIP t.p. (Sandra Rowoldt Shell) galley (Head, African Studies Library, Univ. of Cape Town; Masters deg., history, University of Cape Town; working towards her doctorate, Oromo slave diaspora, South Africa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">St Aidan's College archives ; W.H.D. Deacon papers ; small collections and individual documents, 1992:</subfield>
+    <subfield code="b">ser. t.p. (Sandra Rowoldt) p. ii (librarian, Cory Library for Historical Research)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cory Lib. for Hist. Res. Lovedale Press collection, 1984:</subfield>
+    <subfield code="b">t.p. (S.C.T. Fold) p. viii (Sandra Fold)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB correspondence with author, Aug. 31, 1987; Aug. 11, 1992; Aug. 14, 2009</subfield>
+    <subfield code="b">(married name: Shell; previously married name: Fold; maiden name:Rowoldt; full forenames: Sandra Carolyn Teresa; b. Sept. 7, 1946)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">Shell, Sandra Rowoldt,</subfield>
+    <subfield code="d">1946-</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
