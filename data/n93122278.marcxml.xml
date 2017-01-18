@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85141495 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000614064514.0</controlfield>
+  <controlfield tag="008">870504n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85141495 </subfield>
+    <subfield code="z">n  87908904 </subfield>
+    <subfield code="z">n  93122278 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01846666</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Delgado Ruiz, Manuel,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Delgado, Manuel,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ruiz, Manuel Delgado,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His De la muerte de un dios, 1986:</subfield>
+    <subfield code="b">t.p. (Manuel Delgado Ruiz) front cover flap (b. Barcelona, 1956; miembro del Institut CatalaĚ d'Antropologia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Las palabras de otro hombre, c1993:</subfield>
+    <subfield code="b">t.p. (Manuel Delgado) p. 2 of cover (Manuel Delgado Ruiz, 1956, professor of anthroplogy, University of Barcelona)</subfield>
+  </datafield>
+</record>
