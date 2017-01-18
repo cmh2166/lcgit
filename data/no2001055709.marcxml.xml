@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00583nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2001055709</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010718071107.0</controlfield>
+  <controlfield tag="008">010717n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001055709</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05535078</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ortiz, Freddy,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ortiz Landrón, Marino Rafael,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Landrón, Marino Rafael Ortiz,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ortiz, Freddy. La publicidad en República Dominicana y las experiencias de Freddy Ortiz, c2000:</subfield>
+    <subfield code="b">t.p. (Freddy Ortiz) inside front flap (b. 1947, Marino Rafael Ortiz Landrón)</subfield>
+  </datafield>
+</record>
