@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01340nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2013042505</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130421075031.0</controlfield>
+  <controlfield tag="008">130419n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013042505</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09453958</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ScU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ScU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Berec, Laurent</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">laurent.berec@uha.fr</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">History</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Université de Haute-Alsace</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Historian</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Claude de Sainliens, 2012:</subfield>
+    <subfield code="b">t.p. (Laurent Berec)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orizons WWW site, April 18, 2013:</subfield>
+    <subfield code="b">(Angliciste et historien, Laurent Berec est maître de conférences à l'Université de Haute-Alsace et membre de l'Institut de recherche en langues et littératures européennes. Ses recherches portent sur l'histoire de la période élisabéthaine et sur la littérature anglaise des XVIe et XVIIe siècles.)</subfield>
+    <subfield code="u">http://editionsorizons.fr/index.php/laurent-berec</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Université de Haute-Alsace Institut d'anglais WWW site, April 18, 2013:</subfield>
+    <subfield code="b">(Berec, Laurent ; laurent.berec@uha.fr ; Maître de Conférences en civilisation anglaise  (XVIème et XVIIème siècles)) CV (themes de recherche développés: Histoire et littérature en Europe à la fin du XVIe siècle et au début du XVIIe siècle.)</subfield>
+    <subfield code="u">http://www.flsh.uha.fr/formations/anglais</subfield>
+  </datafield>
+</record>
