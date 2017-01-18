@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00889cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 98024081 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160604075432.0</controlfield>
+  <controlfield tag="008">980115n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98024081 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04601889</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NN-MUS</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1905-12-07</subfield>
+    <subfield code="g">1986-12</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Magnante, Charles</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">New York (N.Y.)</subfield>
+    <subfield code="b">Westchester (N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Accordionists</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Arrangers (Musicians)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 93-714308: Fiesta!, 1964</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet, Jan. 3, 2003:</subfield>
+    <subfield code="b">http://www.spaceagepop.com/magnante.htm (Charles Magnante; American accordionist; b. Dec. 7 1905, New York City, New York ; d. Dec. 1986, Westchester, New York)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alter, Louis. Manhattan serenade, 1935:</subfield>
+    <subfield code="b">title page (Charles Magnante, arranger)</subfield>
+  </datafield>
+</record>
