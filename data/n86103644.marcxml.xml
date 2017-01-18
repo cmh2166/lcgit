@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00949cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  86103644 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081102080426.0</controlfield>
+  <controlfield tag="008">860611n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86103644 </subfield>
+    <subfield code="z">n  89142963 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01646216</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Munakata, Tsunetsugu,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Munakata, Tsuneji,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">宗像恆次,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">宗像恒次,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Seishin iryō no shakaigaku, 1984:</subfield>
+    <subfield code="b">t.p. (Munakata Tsunetsugu) colophon (r; b. 1948; res., Kokuritsu Seishin Eisei Kenkyūjo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moetsuki shōkōgun, 1988 (1989 printing):</subfield>
+    <subfield code="b">t.p. (Munakata Tsuneji) colophon (b. 1948; w. Kokuritsu Seishin Shinkei Sentā Seishin Hoken Kenkyūjo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NDL Web OPAC, Mar. 10, 2006</subfield>
+    <subfield code="b">(Munakata, Tsunetsugu (1948-))</subfield>
+  </datafield>
+</record>
