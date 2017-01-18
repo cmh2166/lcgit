@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00514nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012093294</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120713075207.0</controlfield>
+  <controlfield tag="008">120711n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012093294</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09246310</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kafka Films</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kafkafilms</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Manyas, c2011:</subfield>
+    <subfield code="b">container (Kafkafilms)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kafkafilms.tv WWW site, June 29, 2012</subfield>
+    <subfield code="b">(Kafka Films, Montevideo, Uruguay; film production company specializing in commercials and documentaries)</subfield>
+  </datafield>
+</record>
