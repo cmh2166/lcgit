@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00731nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2009020214</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090812075313.0</controlfield>
+  <controlfield tag="008">090810n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009020214</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007532983</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">British Telecommunications Research Ltd.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">BTR</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">B.T.R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">B.T.R. Technical Society [papers], [1959]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL database 10 Aug. 2009</subfield>
+    <subfield code="b">(hdg.: British Telecommunications Research Ltd.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Archives website, 10 Aug. 2009:</subfield>
+    <subfield code="b">The House Journal of the Plessey Company's Taplow Court Site, Taplow page (1945 Taplow Court was leased to a recently formed company called British Telecommunications Research Ltd. (BTR))</subfield>
+  </datafield>
+</record>
