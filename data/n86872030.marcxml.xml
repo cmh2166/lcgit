@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00640nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  86872030 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19861222145649.0</controlfield>
+  <controlfield tag="008">861218n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86872030 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Cour des aides et finances (Montauban)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Montauban (Tarn-et-Garonne, France).</subfield>
+    <subfield code="b">Cour des aides et finances</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cuillieron, M. Contribution à l'étude de la rébellion des cours souveraines ... 1983:</subfield>
+    <subfield code="b">t.p. (Cour des aides et finances de Montauban) p. 12, etc. (a court was created July 1642 in Cahors by royal decree; court ordered to move from Cahors to Montauban in Oct. 1661)</subfield>
+  </datafield>
+</record>
