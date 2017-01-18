@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00553nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2013136933</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131207073618.0</controlfield>
+  <controlfield tag="008">131206n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013136933</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09632587</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1942</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gerber, Margaret,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Canada</subfield>
+    <subfield code="e">Stratford (Ont.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lishman Coach Lines, 1916-1980, c2009:</subfield>
+    <subfield code="b">t.p. (Margaret Gerber) t.p. verso (Stratford, ON)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 5, 2013</subfield>
+    <subfield code="b">(hdg: Gerber, Margaret, 1942-; usage: Margaret Gerber)</subfield>
+  </datafield>
+</record>
