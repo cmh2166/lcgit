@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00535nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012067864</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120518075210.0</controlfield>
+  <controlfield tag="008">120516n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012067864</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09199208</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bazinet, C.</subfield>
+    <subfield code="q">(Christophe)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bazinet, Christophe</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the VIIth International Symposium on Artichoke, Cardoon, and Their Wild Relatives, c2011:</subfield>
+    <subfield code="b">t.p. (C. Bazinet, co-convener) p. 3 (Vegenov-BBV, France; editor) p. 7 (Christophe Bazinet)</subfield>
+  </datafield>
+</record>
