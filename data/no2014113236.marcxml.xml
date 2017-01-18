@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01030nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014113236</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140829101722.0</controlfield>
+  <controlfield tag="008">140826n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014113236</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09945271</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MiU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">19170319</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Anderson, C. Wilgress</subfield>
+    <subfield code="q">(Charles Wilgress),</subfield>
+    <subfield code="d">-1917</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">British Guiana</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Charles Wilgress</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Anderson, Charles Wilgress,</subfield>
+    <subfield code="d">-1917</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harrison, John Burchmore. The geology of the goldfields of British Guiana, 1908:</subfield>
+    <subfield code="b">title page (With historical, geographical, and other chapters. By ...  C. Wilgress Anderson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">JSTOR Global plants database, viewed August 26, 2014 :</subfield>
+    <subfield code="b">RBGK Memorandum; from the Royal Botanic Gardens. Kew; c.1917 (death of Charles Wilgress Anderson of the Forestry Office, British Guiana is recorded on 19 Mar 1917. The information was obtained from the DAILY CHRONICLE, Georgetown, on 20 Mar 1917)</subfield>
+    <subfield code="u">http://plants.jstor.org/visual/kldc12545?history=true&amp;</subfield>
+  </datafield>
+</record>
