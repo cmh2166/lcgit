@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00883cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2002077839</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061115075120.0</controlfield>
+  <controlfield tag="008">020826n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002077839</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05848045</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)005032680</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">European Consortium for Communications Research</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ECCR</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">European Communication Research and Education Association</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Intersections (Athens, Greece), winter 2001:</subfield>
+    <subfield code="b">p. 2 of cover (European Consortium for Communications Research (ECCR))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">European Communication Research and Education Association WWW Site, 13 Nov. 2006:</subfield>
+    <subfield code="b">about page (European Communication Research and Education Association (ECREA) was formed in Nov. 2005 by merger of ECA (European Communication Association) and ECCR (European Consortium for Communications Research))</subfield>
+  </datafield>
+</record>
