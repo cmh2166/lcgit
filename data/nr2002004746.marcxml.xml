@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00405nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2002004746</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020518033121.0</controlfield>
+  <controlfield tag="008">020130n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002004746</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reddy, Gita</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A letter from home, 1995:</subfield>
+    <subfield code="b">end credits (directed by Gita Reddy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Jan. 25, 2002</subfield>
+    <subfield code="b">(Gita Reddy, assistant director)</subfield>
+  </datafield>
+</record>
