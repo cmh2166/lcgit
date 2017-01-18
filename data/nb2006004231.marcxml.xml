@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00522nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2006004231</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060217050717.0</controlfield>
+  <controlfield tag="008">060216n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2006004231</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006401748</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Barbara,</subfield>
+    <subfield code="d">1939-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n82127599</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Facing the challenge, 2004:</subfield>
+    <subfield code="b">contents (Barbara Smith) BL AL sent 19 Jan. 2006</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 16 Feb. 2006</subfield>
+    <subfield code="b">(Barbara Dorothy Smith, born 23 April 1939)</subfield>
+  </datafield>
+</record>
