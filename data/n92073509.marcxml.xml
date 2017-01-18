@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00461cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92073509 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950911124701.1</controlfield>
+  <controlfield tag="008">920721n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92073509 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Vedder, Ben,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Vedder, B. H.</subfield>
+    <subfield code="q">(Ben H.),</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mens en metafysica, 1991:</subfield>
+    <subfield code="b">t.p. (Ben Vedder) p. 149 (b. 1948)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Denken als dialoog, c1994:</subfield>
+    <subfield code="b">t.p. (prof. dr. B.H. Vedder) p. 8 (Ben Vedder)</subfield>
+  </datafield>
+</record>
