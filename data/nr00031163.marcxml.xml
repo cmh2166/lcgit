@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00591cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00031163 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001020153058.0</controlfield>
+  <controlfield tag="008">001003n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00031163 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkENL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkENL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Committee on Serious Violent and Sexual Offenders</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Serious Violent and Sexual Offenders, Committee on</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A review of the research literature on serious violent and sexual offenders, 2000:</subfield>
+    <subfield code="b">cover (Committee on Serious Violent and Sexual Offenders) p. 1 (established in March 1999 by the government)</subfield>
+  </datafield>
+</record>
