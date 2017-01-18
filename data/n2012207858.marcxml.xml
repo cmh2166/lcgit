@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2012207858</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131209192831.0</controlfield>
+  <controlfield tag="008">130729n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012207858</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Aceh Institute</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Organization</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Banda Aceh, Indonesia</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Jl. Sawah no. 20, Lamteh, Ulee Kareng</subfield>
+    <subfield code="b">Banda Aceh</subfield>
+    <subfield code="d">Indonesia</subfield>
+    <subfield code="e">23118</subfield>
+    <subfield code="m">info@acehinstitute.org</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ind</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rangkeum 2009, 2010:</subfield>
+    <subfield code="b">t.p. (Aceh Institute) t.p. verso (address: Jl. Sawah no. 20, Lamteh, Ulee Kareng, Banda Aceh, Indonesia 23118, e-mail: info@acehinstitute.org)</subfield>
+  </datafield>
+</record>
