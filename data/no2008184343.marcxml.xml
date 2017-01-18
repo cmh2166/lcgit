@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00464nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008184343</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081214082233.0</controlfield>
+  <controlfield tag="008">081212n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008184343</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07964349</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoKU-MAV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoKU-MAV</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Donahue, Mary Jane</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Melodic moments. 905 [SR] 1947:</subfield>
+    <subfield code="b">spoken on recording (Mary Jane Donahue)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Radio GoldINdex WWW site, Nov. 24, 2008</subfield>
+    <subfield code="b">(vocals by Mary Jane Donahue)</subfield>
+  </datafield>
+</record>
