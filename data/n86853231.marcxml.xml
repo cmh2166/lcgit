@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00564cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  86853231 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080420081716.0</controlfield>
+  <controlfield tag="008">860922n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86853231 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01679707</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ndlela, Daniel Boda</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ndlela, D. B.</subfield>
+    <subfield code="q">(Daniel Boda)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Dualism in the Rhodesian colonial economy, 1981:</subfield>
+    <subfield code="b">t.p. (Daniel Boda Ndlela) pref. (Daniel B. Ndlela)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Transnationals in southern Africa, 1986:</subfield>
+    <subfield code="b">t.p. (D.B. Ndlela) p. 3, etc. (Dr.; U of Zimbabwe)</subfield>
+  </datafield>
+</record>
