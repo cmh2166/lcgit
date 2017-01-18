@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00806cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  81012786 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080124075540.0</controlfield>
+  <controlfield tag="008">810218n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81012786 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00558712</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-ru---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Khanskai︠a︡ Stavka (Russia)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Khanskai︠a︡ Stavka, Russia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kittary, M. I︠A︡. Stavka khana vnut. Kirgizskoĭ ordy, 1849 (subj.)</subfield>
+    <subfield code="b">p. 1 (POPL 48° and 49°N and 65° and 66°E; formed in 1824)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russ. Brockhaus, 1903:</subfield>
+    <subfield code="b">v. 37, p. 44 (in Astrakhan gub.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">BGN gaz for USSR;</subfield>
+    <subfield code="a">Col. Lip. gaz., 1966;</subfield>
+    <subfield code="a">SSSR adm.-ter. delenie Soi︠u︡z. Resp., 1974;</subfield>
+    <subfield code="a">Bolʹsh. sov. ėnt︠s︡ikl. 3d ed.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Russia (Federation)</subfield>
+    <subfield code="z">Khanskai︠a︡ Stavka</subfield>
+  </datafield>
+</record>
