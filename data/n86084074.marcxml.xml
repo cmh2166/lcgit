@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00755cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2001016412</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011011072707.0</controlfield>
+  <controlfield tag="008">011011n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001016412</subfield>
+    <subfield code="z">n  86084074 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Praderi, Raúl Carlos,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rios, lagos y montes indígenas del Uruguay, 2001:</subfield>
+    <subfield code="b">t.p. (Raúl Carlos Praderi) p. 4 of cover (prof., Faculty of Medicine of Montevideo; memb., Nat. Academy of Medicine and Hist. Marítima y Fluvial)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Transhepatic intubation in benign and malignant lesions of the biliary ducts, c1985:</subfield>
+    <subfield code="b">t.p. (Raul C. Praderi, M.D.) p. 4 (prof. of surg., Univ. Sch. of Med., Montevideo, Uruguay)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Oct. 11, 2001:</subfield>
+    <subfield code="b">(Praderi, Paul, 1927- )</subfield>
+  </datafield>
+</record>
