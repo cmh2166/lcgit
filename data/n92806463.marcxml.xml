@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01422cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  92806463 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140315171556.0</controlfield>
+  <controlfield tag="008">930708n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92806463 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03406454</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">OrU</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1845-03</subfield>
+    <subfield code="t">1910</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Eclectic Medical Institute of Cincinnati</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Eclectic College of Medicine</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Reformed Medical School of Cincinnati</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">Eclectic Medical College</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">American Medical College</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boyle, W. Herb doctors, c1988:</subfield>
+    <subfield code="b">t.p. (Eclectic Medical Institute of Cincinnati)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographies of John King, M.D., ... 1912: p. 374 (Eclectic Medical College, 1910; Incorporated March 1845, as Eclectic Medical Institute of Cincinnati; changed to Eclectic Medical College, 1910)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, Mar. 10, 2014</subfield>
+    <subfield code="b">(organized in 1830 as the Medical Department of Worthington College, Worthington, Ohio.  Also known as the Reformed Medical College of Ohio, or the Worthington Medical College.  Closed in 1842.  Re-opened in Cincinnati in 1842 as the Reformed Medical School of Cincinnati.  Incorporated under the above name in March, 1845.  Absorbed the American Medical College in 1857 and the Eclectic College of Medicine in 1859.  Name changed to Eclectic Medical College in 1910)</subfield>
+  </datafield>
+</record>
