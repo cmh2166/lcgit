@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00384cz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 91000762 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910208060059.1</controlfield>
+  <controlfield tag="008">910108n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91000762 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Hopedale Age Office</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Butts, H.N.G.  The little angel, 1868:</subfield>
+    <subfield code="b">wrapper (Hopedale Age Office; Hopedale, Mass. newspaper office acting as publisher)</subfield>
+  </datafield>
+</record>
