@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00822cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  92100222 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814080051.0</controlfield>
+  <controlfield tag="008">921008n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92100222 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">British Columbia Invitational Workshop on Medication Use and Elderly People</subfield>
+    <subfield code="d">(1989 :</subfield>
+    <subfield code="c">Vancouver, B.C.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Invitational Workshop on Medication Use and Elderly People, British Columbia</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on Medication Use and Elderly People, British Columbia Invitational</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Medication use and elderly people, 1989:</subfield>
+    <subfield code="b">p. 1 (British Columbia Invitational Workshop on Medication Use and Elderly People) cover (Vancouver; 1989)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">NLC 1992-03-18.</subfield>
+  </datafield>
+</record>
