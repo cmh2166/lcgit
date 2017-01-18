@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83034841 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070120074901.0</controlfield>
+  <controlfield tag="008">830616n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83034841 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00924663</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DNGA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lachièze-Rey, Henri,</subfield>
+    <subfield code="d">1927-1974</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rey, Henri Lachièze-,</subfield>
+    <subfield code="d">1927-1974</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Lachièze-Rey, 1973.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Lachièze Rey, 1982:</subfield>
+    <subfield code="b">p. 42 (b. 12-26-27; d. 7-14-74)</subfield>
+  </datafield>
+</record>
