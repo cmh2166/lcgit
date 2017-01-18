@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00651cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  91042550 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010324072046.0</controlfield>
+  <controlfield tag="008">910430n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91042550 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02938626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NZ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alvey, Jim</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alvey, James E.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Federal balance in Australia and Canada, 1990:</subfield>
+    <subfield code="b">t.p. (Jim Alvey, School of Economic and Financial Studies, Macquarie Univ., and Massey College, Univ. of Toronto)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Massey Univ. Calendar 2001</subfield>
+    <subfield code="b">p. 796 (James E. Alvey, MEcon Q'ld, PhD Tor.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ database, Mar. 9, 2001</subfield>
+    <subfield code="b">(usage: Jim Alvey; James E. Alvey)</subfield>
+  </datafield>
+</record>
