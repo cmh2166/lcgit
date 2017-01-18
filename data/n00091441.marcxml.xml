@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00444cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  96055896 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010531174206.0</controlfield>
+  <controlfield tag="008">960606n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96055896 </subfield>
+    <subfield code="z">n  00091441 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04094353</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pope-Davis, Donald B.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Davis, Donald B. Pope-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Multicultural counseling competence, c1996:</subfield>
+    <subfield code="b">CIP t.p. (Donald B. Pope-Davis)</subfield>
+  </datafield>
+</record>
