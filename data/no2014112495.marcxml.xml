@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00704nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2014112495</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140826073524.0</controlfield>
+  <controlfield tag="008">140825n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014112495</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09943871</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-A</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Printy, Wilma L.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Plants--Nutrition</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of California, Riverside</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Laboratory technicians</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wallihan, E. F. Iron requirement studies of navel orange trees in solution cultures, 1967:</subfield>
+    <subfield code="b">cover (Wilma L. Printy) page 2 of cover (Wilma L. Printy; Laboratory Technician, Department of Soils and Plant Nutrition, Riverside)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">BGMI, August 22, 2014</subfield>
+  </datafield>
+</record>
