@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01098cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  91009482 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120316074801.0</controlfield>
+  <controlfield tag="008">910130n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91009482 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02886466</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Nepal-German Manuscript Preservation Project</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">NGMPP</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Nepalese-German Manuscript Cataloging Project</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Publications of the Nepal-German Manuscript Preservation Project ; 1. Grünendahl, R. A concordance of H.P. Śāstri's catalogue of the Durbar Library and the microfilms of the Nepal-German Manucsript Preservation Project, 1989:</subfield>
+    <subfield code="b">t.p. (Nepal-German Manuscript Preservation Project) p. vi (NGMPP)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NGMCP WWW page (viewed Mar. 12, 2012) :</subfield>
+    <subfield code="b">About the NGMCP ("The Nepalese-German Manuscript Cataloguing Project (NGMCP) is the successor of the well-known and widely acknowledged Nepal-German Manuscript Preservation Project (NGMPP) which thirty-one years after its inception in 1970 was brought to an end in March 2001. This new project was launched in April 2002...")</subfield>
+  </datafield>
+</record>
