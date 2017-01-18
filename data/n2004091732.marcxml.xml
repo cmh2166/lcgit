@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00498cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2004091732</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040121151325.0</controlfield>
+  <controlfield tag="008">040114n| acacbaaan          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004091732</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Dandelion Books publication</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tempe, Ariz</subfield>
+    <subfield code="b">Dandelion Books</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Give as a quoted note if Dandelion Books does not appear in the publication, etc., area.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wilcox, C.T. Democracy under seige, 2003:</subfield>
+    <subfield code="b">t.p. (A Dandelion Books publication)</subfield>
+  </datafield>
+</record>
