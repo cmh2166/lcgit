@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00932cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2014055143</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151124093004.0</controlfield>
+  <controlfield tag="008">140909n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014055143</subfield>
+    <subfield code="z">no2012111183</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1960-11-05</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kim, Yŏng-jae</subfield>
+    <subfield code="c">(Curator)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Kungnip Minsok Pangmulgwan (Korea)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Museum curators</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김 영재</subfield>
+    <subfield code="c">(Curator)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kim, Young-Jae</subfield>
+    <subfield code="c">(Curator)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chungguk ŭi hollye munhwa, 2008:</subfield>
+    <subfield code="b">t.p. (김 영재 = Kim Yŏng-jae; Kungnip Minsok Pangmulgwan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Looking East, c2013:</subfield>
+    <subfield code="b">ECIP t.p. (Kim Young-Jae) data view (senior curator in the Department of Collections Management at the National Folk Museum of Korea)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from publ., Aug. 16, 2012</subfield>
+    <subfield code="b">(Kim, Young-Jae, b. Nov. 5, 1960).</subfield>
+  </datafield>
+</record>
