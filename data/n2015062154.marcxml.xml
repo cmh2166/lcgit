@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00818nz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2015062154</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151020153539.0</controlfield>
+  <controlfield tag="008">151020n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015062154</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chŏn, Yong-su</subfield>
+    <subfield code="c">(Professor of hotel administration)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Korea (South)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Chŏngju Taehakkyo</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">kor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">전 용수</subfield>
+    <subfield code="c">(Professor of hotel administration)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kwan'gwang pŏpkyu ŭi ihae, 2015:</subfield>
+    <subfield code="b">title page (전 용수 = Chŏn Yong-su) colophon (kyŏngyŏnghak sŏksa, Pugyŏng Taehakkyo; paksa, Tonga Taehakkyo Kwangwang Kyŏngyŏnghak; professor, Chŏngju Taehakkyo Hot'el Kyŏngyŏnghak)</subfield>
+  </datafield>
+</record>
