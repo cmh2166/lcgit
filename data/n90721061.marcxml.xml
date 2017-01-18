@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00629cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  90721061 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070208074939.0</controlfield>
+  <controlfield tag="008">901205n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90721061 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02862337</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">OrU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Agg, T. R.</subfield>
+    <subfield code="q">(Thomas Radford),</subfield>
+    <subfield code="d">1878-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Agg, Thomas Radford,</subfield>
+    <subfield code="d">1878-1947</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The construction of roads and pavements, 1920:</subfield>
+    <subfield code="b">t.p. (T.R. Agg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Agg, Thomas Radford, 1878- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who was who in America, 1950, v. 2</subfield>
+    <subfield code="b">(Agg, Thomas Radford; son of Henry and Sarah Jane (Tansey); d. May 7, 1947)</subfield>
+  </datafield>
+</record>
