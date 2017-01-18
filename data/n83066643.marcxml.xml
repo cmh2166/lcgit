@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00675cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  96094344 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020828084345.0</controlfield>
+  <controlfield tag="008">960927n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96094344 </subfield>
+    <subfield code="z">n  83066643 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04171389</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">HU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Racoma, Robin Yoko</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Burningham, Robin Yoko</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kamehameha IV, Alexander Liholiho, 1997:</subfield>
+    <subfield code="b">t.p. (Robin Yoko Racoma)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">How Maui slowed the sun, c1988:</subfield>
+    <subfield code="b">CIP t.p. (Robin Yoko Burningham) data sheet (b. Nov. 12, 1953)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Bess Press, Aug. 26, 2002</subfield>
+    <subfield code="b">(Robin Yoko Burningham is the maiden name of Robin Yoko Racoma; author now uses Racoma)</subfield>
+  </datafield>
+</record>
