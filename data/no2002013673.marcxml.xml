@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002013673</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020227181410.0</controlfield>
+  <controlfield tag="008">020219n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002013673</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05694830</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-OK</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-OK</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Botswana.</subfield>
+    <subfield code="t">Penal Code</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Botswana.</subfield>
+    <subfield code="t">Chapter 08:01</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Botswana.</subfield>
+    <subfield code="t">CAP. 01:01</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Botswana.</subfield>
+    <subfield code="t">Act to Establish a Code of Criminal Law</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Penal Code, 1986?:</subfield>
+    <subfield code="b">t.p. (Chapter 08:01) short title, p. 08:12, (may be cited as the Penal Code; an Act to Establish a Code of Criminal Law)</subfield>
+  </datafield>
+</record>
