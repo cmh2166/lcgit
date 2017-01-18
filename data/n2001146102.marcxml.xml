@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00479nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2001146102</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011119040110.0</controlfield>
+  <controlfield tag="008">011119n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001146102</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1146658</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pohl, Mary,</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hoffman, Catherine. Health insurance coverage in America, 2000:</subfield>
+    <subfield code="b">t.p. (Mary Pohl, Urban Institute)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from author, Nov. 10, 2001</subfield>
+    <subfield code="b">(b. May 31, 1978; middle name is Beth)</subfield>
+  </datafield>
+</record>
