@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00567cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  95015302 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111116074811.0</controlfield>
+  <controlfield tag="008">950215n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95015302 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CU-SB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mitchell, Karyn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mitchell, Karyn K.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reiki, a torch in daylight, c1994:</subfield>
+    <subfield code="b">t.p. (Karyn Mitchell, Ph D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reiki mystery school, 1998:</subfield>
+    <subfield code="b">t.p. (Karyn K. Mitchell) p. 219 (Karyn Mitchell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Raw Nutrition, c2011:</subfield>
+    <subfield code="b">ECIP t.p. (Karyn Mitchell, ND, PhD) data sheet (b. Aug. 11, 1950)</subfield>
+  </datafield>
+</record>
