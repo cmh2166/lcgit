@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00566cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr2005027634</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100528075744.0</controlfield>
+  <controlfield tag="008">051116n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005027634</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0004500</subfield>
+    <subfield code="e">W0004500</subfield>
+    <subfield code="f">N0380700</subfield>
+    <subfield code="g">N0380700</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06785556</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-sp---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Daya Nueva (Spain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Daya Nueva de poesía, 1993:</subfield>
+    <subfield code="b">t.p. verso (Daya Nueva, Alicante)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 16 Nov. 2005</subfield>
+    <subfield code="b">(Daya Nueva; PPL, 38°07ʹN, 000°45ʹW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Spain</subfield>
+    <subfield code="z">Daya Nueva</subfield>
+  </datafield>
+</record>
