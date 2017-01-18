@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00529nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008182350</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081212082103.0</controlfield>
+  <controlfield tag="008">081210n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008182350</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07960713</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">StEdNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">StEdNL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Richards, Mary,</subfield>
+    <subfield code="d">1832-1878</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">David, Mary,</subfield>
+    <subfield code="d">1832-1878</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strength perfected in weakness, 1881:</subfield>
+    <subfield code="b">t.p. (Mary Richards) p. 4, etc. (Mary David; b. 18 Feb. 1832, Cwm-Brombi, Glamorganshire; in July 1856, m. William Richards; d. 11 Dec. 1878)</subfield>
+  </datafield>
+</record>
