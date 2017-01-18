@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00560nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2007013163</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070606075114.0</controlfield>
+  <controlfield tag="008">070604n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2007013163</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006818682</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Aurora (Sound recording label)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schallplattenkatalog 1967, 1967:</subfield>
+    <subfield code="b">t.p. (Aurora)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, 4 June 2007:</subfield>
+    <subfield code="b">VEB Deutsche Schallplatten (Aurora, a label specialising in singer-collections of the VEB Deutsch Schallplatten music publisher in the [former] German Democratic Republic)</subfield>
+  </datafield>
+</record>
