@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00608cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2006070601</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060918110903.0</controlfield>
+  <controlfield tag="008">060914n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006070601</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">I︠U︡rʹev, E.</subfield>
+    <subfield code="q">(Evgeniĭ)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">I︠U︡rʹi︠e︡v, I︠E︡. B.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">I︠U︡rʹev, Evgeniĭ Borisovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yur'yev, Y.</subfield>
+    <subfield code="q">(Yevgeny)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ukraina : vzgli︠a︡d psikhiatra, 2004:</subfield>
+    <subfield code="b">t.p. (E. I︠U︡rʹev) t.p. verso (Evgenii︠a Borisovicha I︠U︡rʹeva; I︠U︡rʹi︠e︡v I︠E︡.B.) p. 1 of cover (Y. Yur'yev) p. 3 (Yevgeny)</subfield>
+  </datafield>
+</record>
