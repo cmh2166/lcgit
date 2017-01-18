@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00888nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012055208</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120420075213.0</controlfield>
+  <controlfield tag="008">120418n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012055208</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09175543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">MacDonald, J. E. H.</subfield>
+    <subfield code="q">(James Edward Hervey),</subfield>
+    <subfield code="d">1873-1932.</subfield>
+    <subfield code="t">Tangled garden</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">MacDonald, J. E. H.</subfield>
+    <subfield code="q">(James Edward Hervey),</subfield>
+    <subfield code="d">1873-1932.</subfield>
+    <subfield code="t">Jardin sauvage</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pictures that can be heard, 1984 :</subfield>
+    <subfield code="b">p. 1 (J.E.H. MacDonald's The tangled garden; first exhibited at Ontario Society of Artists anual exhibition, 1916) p. 1, second sequence (Le jardin sauvage de J.E.H. MacDonald)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Natl. Gall. of Canada WWW site, Mar. 30, 2012</subfield>
+    <subfield code="b">(Tangled garden; J.E.H. MacDonald; oil on beaverboard; gift, 1937)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World painting index, 2003</subfield>
+    <subfield code="b">(MacDonald, James Edward Hervey, 1873-1932; The tangled garden)</subfield>
+  </datafield>
+</record>
