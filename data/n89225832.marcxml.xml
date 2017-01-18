@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00393cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  89225832 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910603075409.9</controlfield>
+  <controlfield tag="008">910517n| acannaab|          |n aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89225832 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Tepe, Kenneth E.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eppley, S.R. Success, 1-2-3, c1990:</subfield>
+    <subfield code="b">cover (Kenneth E. Tepe, M.D.) introd. (Anxiety Disorders Inst., Good Samaritan Hosp., Cincinnati)</subfield>
+  </datafield>
+</record>
