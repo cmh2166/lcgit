@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00949cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  81069105 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151208083313.0</controlfield>
+  <controlfield tag="008">810903n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81069105 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00614449</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hasegawa, Teru,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lü-chʻuan, Ying-tzu,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Verda Majo,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Majo, Verda,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hasegawa, Teruko,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Midorikawa, Hideko,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Midorikawa, Eiko,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Liu, Meng-hui,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">長谷川テル,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">長谷川照,</subfield>
+    <subfield code="d">1912-1947</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tone, K. Teru no shōgai, 1969.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lü se ti wu yüeh, 1981:</subfield>
+    <subfield code="b">t.p. (Lü-chʻuan Ying-tzu; Verda Majo)</subfield>
+  </datafield>
+</record>
