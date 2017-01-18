@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00905cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2011182438</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140829150957.0</controlfield>
+  <controlfield tag="008">110629n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011182438</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1504811</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1808</subfield>
+    <subfield code="t">1814</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Ombrone (France : Department)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="b">Department</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Ombrone (France : Dept.)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="a">Tuscany (Grand Duchy)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a subject. Works about this place are entered under Tuscany (Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Istruzione sul metodo d'inoculare il vajolo vaccino, 1809:</subfield>
+    <subfield code="b">t.p. (Dipartimento dell'Ombrone)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed June 17, 2011</subfield>
+    <subfield code="b">(Formed in 1808 when Napoleon dissolved the Kingdom of Etruria [no publs. in LC] and annexed Tuscany to France; disbanded in 1814)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">France</subfield>
+    <subfield code="z">Ombrone (Department)</subfield>
+  </datafield>
+</record>
