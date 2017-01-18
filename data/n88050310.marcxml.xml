@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00628cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88050310 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020606071838.0</controlfield>
+  <controlfield tag="008">881123n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88050310 </subfield>
+    <subfield code="z">n 2001013209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nc</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Starr, James L.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Starr, J. L.</subfield>
+    <subfield code="q">(James L.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Control of nematodes in home vegetable gardens, 1988:</subfield>
+    <subfield code="b">cover (James L. Starr, nematologist, Agronomic Services, NCDA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plant resistance to parasitic nematodes, 2001:</subfield>
+    <subfield code="b">CIP t.p. (J.L. Starr) data sheet (James L. Starr) text (Dept. Plant Pathology &amp; Microbiology, Texas A&amp;M Univ., College Station, TX)</subfield>
+  </datafield>
+</record>
