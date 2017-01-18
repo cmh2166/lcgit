@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01245cz  a2200277n  4500</leader>
+  <controlfield tag="001">no2014113830</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141008073859.0</controlfield>
+  <controlfield tag="008">140827n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014113830</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09946356</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MBAt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MBAt</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1847</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reynolds, Herbert Edward,</subfield>
+    <subfield code="d">1847-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Exeter (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Exeter Cathedral</subfield>
+    <subfield code="a">Exeter Cathedral. Library</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Church of England--Clergy</subfield>
+    <subfield code="a">Librarians</subfield>
+    <subfield code="a">Editors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reynolds, H. E.</subfield>
+    <subfield code="q">(Herbert Edward),</subfield>
+    <subfield code="d">1847-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reynolds, Herbert,</subfield>
+    <subfield code="d">1847-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reynolds, Herbert E.</subfield>
+    <subfield code="q">(Herbert Edward),</subfield>
+    <subfield code="d">1847-</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Officiated corporate body:</subfield>
+    <subfield code="a">Exeter Cathedral</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Employer:</subfield>
+    <subfield code="a">Exeter Cathedral.</subfield>
+    <subfield code="b">Library</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wells Cathedral, 1881:</subfield>
+    <subfield code="b">title-page (Herbert Edward Reynolds, M.A., priest-vicar and librarian of Exeter Cathedral)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Jul. 29, 2014</subfield>
+    <subfield code="b">(access points: Reynolds, H. E.; Reynolds, Herbert; Reynolds, Herbert E.; Reynolds, Herbert Edward; Reynolds, Herbert Edward, 1847-; Reynolds, Herbert Edward (editor); usages: H.E. Reynolds; Herbert Reynolds; Herbert E. Reynolds; Herbert Edward Reynolds)</subfield>
+  </datafield>
+</record>
