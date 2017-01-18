@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00785cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  81111835 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950113170814.2</controlfield>
+  <controlfield tag="008">811008n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81111835 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Endrikhinskiĭ, A. S.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Endrikhinskiĭ, Aleksandr Sergeevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Relʹef i chetvertichnye otlozhenii︠a︡ Stanovogo nagorʹi︠a︡ 1981 (a.e.)</subfield>
+    <subfield code="b">verso t.p. (A. S. Endrikhinskiĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaĭnozoĭskie otlozhenii︠a︡ i geomorfologii︠a︡, 1983:</subfield>
+    <subfield code="b">verso t.p. (A. S. Endrikhinskiĭ) colophon (Aleksandr Sergeevich Endrikhinskiĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biostratigrafii︠a︡ i fauna mlekopitai︠u︡shchikh pliot︠s︡ena Zabaĭkalʹi︠a︡, 1992:</subfield>
+    <subfield code="b">t.p. (kandidat geologo-mineralogicheskikh nauk A.S. Endrikhinskiĭ)</subfield>
+  </datafield>
+</record>
