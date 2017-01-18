@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00405nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2001040067</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020129033139.0</controlfield>
+  <controlfield tag="008">011002n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001040067</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bible Knowledge Society of New-Hampshire</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">General Association of New Hampshire. Extracts from the minutes, 1824:</subfield>
+    <subfield code="b">p. 9 (Bible Knowledge Society of New-Hampshire)</subfield>
+  </datafield>
+</record>
