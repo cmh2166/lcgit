@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  84205964 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080618075112.0</controlfield>
+  <controlfield tag="008">851224n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84205964 </subfield>
+    <subfield code="z">n  85246604 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01462062</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="b">House.</subfield>
+    <subfield code="b">Committee on Armed Services.</subfield>
+    <subfield code="b">Delegation to Latin America</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Report of the Delegation to Latin America of the Committee on Armed Services, House of Representatives, Ninety-ninth Congress, first session, 1985:</subfield>
+    <subfield code="b">p. 1 (Delegation composed of members from House Armed Services Committee and 2 other committees of the House, chief of National Guard Bureau, and Adjutant General of Kentucky; trip lasted from Apr. 5 to 12, 1985)</subfield>
+  </datafield>
+</record>
