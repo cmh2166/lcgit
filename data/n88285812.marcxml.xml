@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00606cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88285812 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890815124551.7</controlfield>
+  <controlfield tag="008">890620n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88285812 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DI</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Project Plowshare (U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">U.S. Atomic Energy Commission.</subfield>
+    <subfield code="b">Project Plowshare</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Plowshare Program (U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Project Plowshare</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Environment of the Cape Thompson ... 1966:</subfield>
+    <subfield code="b">p. iii (Plowshare Program; established by Atomic Energy Commission)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6/13/89</subfield>
+    <subfield code="b">(hdg.: Project Plowshare; usage: Plowshare)</subfield>
+  </datafield>
+</record>
