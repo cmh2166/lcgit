@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00841cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  86054362 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120811082125.0</controlfield>
+  <controlfield tag="008">870904n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86054362 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Dante Alighieri,</subfield>
+    <subfield code="d">1265-1321.</subfield>
+    <subfield code="t">Vita nuova.</subfield>
+    <subfield code="l">English &amp; Italian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Dante Alighieri,</subfield>
+    <subfield code="d">1265-1321.</subfield>
+    <subfield code="t">New life</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Dante Alighieri,</subfield>
+    <subfield code="d">1265-1321.</subfield>
+    <subfield code="t">Vita nova</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Dante Alighieri,</subfield>
+    <subfield code="d">1265-1321.</subfield>
+    <subfield code="t">Vita nova di Dante Alighieri</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His La vita nuova, 1902.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A reference grammar of medieval Italian according to Dante, with a dual edition of the Vita Nova, 2000.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La vita nuova di Dante Alighieri, c2003.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The new life, 2006.</subfield>
+  </datafield>
+</record>
