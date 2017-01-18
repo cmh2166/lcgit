@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00939nz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2013005378</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316093512.0</controlfield>
+  <controlfield tag="008">130314n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013005378</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008702692</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20121027</subfield>
+    <subfield code="t">20121030</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">ICSC (Conference)</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Shanghai, China)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Shanghai, China</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Simulation methods</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Conference on System Simulation and Scientific Computing</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Shanghai, China)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on System Simulation and Scientific Computing, International</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Shanghai, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">System simulation and scientific computing, [2012]:</subfield>
+    <subfield code="b">t.p. (International Conference, ICSC 2012, Shanghai, China, October 27-30, 2012) preface (International Conference on System Simulation and Scientific Computing)</subfield>
+  </datafield>
+</record>
