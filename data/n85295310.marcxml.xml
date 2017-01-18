@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00995cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  85295310 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080911075451.0</controlfield>
+  <controlfield tag="008">870925nc acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85295310 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01949460</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU-A</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Chongqing Shi Chuan ju yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chʻung-chʻing shih Chʻuan chü yen chiu so</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Chong qing shi Chuan ju yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Chongqing (China).</subfield>
+    <subfield code="b">Chuan ju yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Chongqing Chuanju Research Institute</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">重庆市川剧研究所</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yüan, Y.K. Yüan Yü-kʻun wu tʻai i shu, 1986:</subfield>
+    <subfield code="b">t.p. (Chʻung-chʻing shih Chʻuan chü yen chiu so)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chʻuan chü i shu hsing hsiang pʻu, 1992:</subfield>
+    <subfield code="b">t.p. (Chʻung-chʻing shih Chʻuan chü yen chiu so) added t.p. (Chongqing Chuanju Research Institute)</subfield>
+  </datafield>
+</record>
