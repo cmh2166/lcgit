@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01377cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  81132036 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130919073824.0</controlfield>
+  <controlfield tag="008">820107n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81132036 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00676911</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NN</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19470108</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lasocki, David</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">London (England)</subfield>
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Bloomington (Ind.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="a">Energy medicine</subfield>
+    <subfield code="a">Woodwind instruments</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Musicologists</subfield>
+    <subfield code="a">Music librarians</subfield>
+    <subfield code="a">Healers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hotteterre, J. Principles of the flute, 1968</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mather, B.B. The art of preluding, 1700-1830, 1984:</subfield>
+    <subfield code="b">CIP t.p. (David Lasocki) data sheet (b. 1947)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I am alive now, 2012:</subfield>
+    <subfield code="b">t.p. (David Lasocki) p. 6 (b. London, England, Jan. 8, 1947) p. 32 (moved to Iowa City in Jan. 1969 to attend the University of Iowa) back cover (writer, editor, publisher, healer; lifelong involvement with healing, music and language)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Instant Harmony WWW site, viewed Sept. 4, 2013</subfield>
+    <subfield code="b">(Dr. David Lasocki; retired as Head of Music Reference Services in the Cook Music Library, Indiana University--Bloomington, in Feb. 2011; prominent researcher of the history of woodwind instruments; Ph.D. in musicology from The University of Iowa, 1983; he is also an energy healer)</subfield>
+    <subfield code="u">http://www.instantharmony.net/Music/about.php</subfield>
+  </datafield>
+</record>
