@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00660nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2011005317</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110226074953.0</controlfield>
+  <controlfield tag="008">110224n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2011005317</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008062410</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, Michael,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, M. G.</subfield>
+    <subfield code="q">(Michael Gilbert),</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record nr90012894</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strategic planning and management in local government, 1998:</subfield>
+    <subfield code="b">t.p. (Michael Clarke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 10 June 1994</subfield>
+    <subfield code="b">(Michael Gilbert Clarke, born 21 May 1944)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Modern political constitutions, 1972:</subfield>
+    <subfield code="b">t.p. (M.G. Clarke)</subfield>
+  </datafield>
+</record>
