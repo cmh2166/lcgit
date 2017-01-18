@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00735nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2014157932</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141202073508.0</controlfield>
+  <controlfield tag="008">141201n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014157932</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10027066</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2008</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lovecraft, H. P.</subfield>
+    <subfield code="q">(Howard Phillips),</subfield>
+    <subfield code="d">1890-1937.</subfield>
+    <subfield code="t">Case of Charles Dexter Ward.</subfield>
+    <subfield code="l">Russian</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Short stories</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lovecraft, H. P.</subfield>
+    <subfield code="q">(Howard Phillips),</subfield>
+    <subfield code="d">1890-1937.</subfield>
+    <subfield code="t">Istorii︠a︡ Charlʹza Deksteva Varda</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zverʹ v podzemelʹe, 2008:</subfield>
+    <subfield code="b">title page (Istorii︠a︡ Charlʹza Deksteva Varda) laid in slip from selector (Istorii︠a︡ Charlʹza Deksteva Varda, The case of Charles Dexter Ward)</subfield>
+  </datafield>
+</record>
