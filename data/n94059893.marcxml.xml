@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01119cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  94059893 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161224073808.0</controlfield>
+  <controlfield tag="008">940622n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94059893 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03629013</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1929-11-23</subfield>
+    <subfield code="g">1991-12-31</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML419.P44</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Patrick, Pat</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Saxophonists</subfield>
+    <subfield code="a">African American musicians</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Laurdine Kenneth Pat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Patrick, Laurdine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sun Ra. The magic city [SR] p1973:</subfield>
+    <subfield code="b">container (Pat Patrick)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove dict. of jazz, 1994:</subfield>
+    <subfield code="b">p. 963 (Patrick, Pat (Laurdine); b. Nov. 1929; saxophonist) p. xxxi (d. Dec. 31, 1991, Moline, IL)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Dec. 23, 2016</subfield>
+    <subfield code="b">(Laurdine Kenneth "Pat" Patrick, (Nov. 23, 1929 - Dec. 31, 1991), African American jazz musician, played baritone saxophone, alto saxophone and Fender bass; his son, Deval Patrick, was Governor of Massachusetts)</subfield>
+    <subfield code="u">https://en.wikipedia.org/wiki/Laurdine_Patrick</subfield>
+  </datafield>
+</record>
