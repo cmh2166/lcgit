@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87869441 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880130070227.7</controlfield>
+  <controlfield tag="008">870925n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87869441 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Forrest, Thomas,</subfield>
+    <subfield code="d">1729?-1802?</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A voyage to New Guinea, 1779:</subfield>
+    <subfield code="b">t.p. (Captain Thomas Forrest)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 9-2-87</subfield>
+    <subfield code="b">(hdg.: Forrest, Thomas, 1729?-1802?)</subfield>
+  </datafield>
+</record>
