@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01094cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84077132 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130115074702.0</controlfield>
+  <controlfield tag="008">840614n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84077132 </subfield>
+    <subfield code="z">nr 94000487 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19420223</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rand, Peter,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The private rich, c1984:</subfield>
+    <subfield code="b">CIP t.p. (Peter Rand) pub. info. (prof. at Columbia U.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6-8-84</subfield>
+    <subfield code="b">(hdg.: Rand, Peter, 1940- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ruan, M. Deng Xiaoping, 1994:</subfield>
+    <subfield code="b">CIP t.p. (Peter Rand) galley (freelance writer; an affiliate of the Fairbank Center for East Asian Research at Harvard Univ.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. resource center (Contemp. authors), Sept. 20, 2006</subfield>
+    <subfield code="b">(Peter Rand; b. Feb. 23, 1942, San Francisco, Calif.; Johns Hopkins University, M.A., 1976; Columbia University, lecturer, 1977-91) (WW Amer., 2006: Peter Rand; b. Feb. 23, 1942, San Francisco, Calif.; preceptor, Boston U., 1999; preceptor, Harvard U., 1997-98; instr., Columbia U., NYC, 1976-91)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from MBU, Sept. 19, 2006</subfield>
+    <subfield code="b">(email from author confirms b. Feb. 23, 1942)</subfield>
+  </datafield>
+</record>
