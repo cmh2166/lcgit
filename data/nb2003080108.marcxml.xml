@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00589nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2003080108</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030823063105.0</controlfield>
+  <controlfield tag="008">030818n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2003080108</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Williams, Pat,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Williams, Florence,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n85001237</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaleidoscope, 1972:</subfield>
+    <subfield code="b">t.p. (Pat Williams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">International authors and writers who's who, c1982:</subfield>
+    <subfield code="b">p. 1026 (Florence Williams, pen name Pat Williams, born 3 Apr. 1920; freelance writer and poet; lists works)</subfield>
+  </datafield>
+</record>
