@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00715cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2007063134</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070907074942.0</controlfield>
+  <controlfield tag="008">070904n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007063134</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Manitoba, Dick,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blum, Richard,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Manitoba, Richard H.D.,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wallace, Amy. The official punk rock book of lists, 2007:</subfield>
+    <subfield code="b">ECIP t.p. (Dick Manitoba) ECIP data sheet (Richard Blum)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All Music Guide WWW site, Sept. 4, 2007:</subfield>
+    <subfield code="b">(Handsome Dick Manitoba, born Richard Blum, Jan. 29, 1954, New York, NY)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from publisher, Sept. 5, 2007:</subfield>
+    <subfield code="b">(full legal name is Richard H.D. Manitoba, b. Jan. 29, 1954)</subfield>
+  </datafield>
+</record>
