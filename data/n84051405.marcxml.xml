@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00511cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84051405 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081122080352.0</controlfield>
+  <controlfield tag="008">840601n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84051405 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01117347</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fezandié, Hector,</subfield>
+    <subfield code="d">1856-1943</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The cannibal and the skeleton, 1913:</subfield>
+    <subfield code="b">t.p. (Hector Fezandié)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NY Times, 4/28/43:</subfield>
+    <subfield code="b">p. 23 (Fezandié, Hector; French born engineer and novelist; b. 8/22/1856; d. 4/27/1943)</subfield>
+  </datafield>
+</record>
