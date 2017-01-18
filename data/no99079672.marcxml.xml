@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00908cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 99079672 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020829054116.0</controlfield>
+  <controlfield tag="008">991103n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99079672 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05095013</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BrSU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">BrSU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CLU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Santos, José Renato Gonçalves dos</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gonçalves dos Santos, José Renato</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dos Santos, José Renato Gonçalves</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mecanismos para efetivação de transações distribuidas, 1992:</subfield>
+    <subfield code="b">t.p. (José Renato Gonçalves dos Santos; dissertação mestrado, Departamento de Engenharia de Componentes e Sistemas Digitais, Escola Politécnica, Universidade de São Paulo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RIO, 1998:</subfield>
+    <subfield code="b">t.p. (Jose Renato Goncalves Santos; Ph. D. in Computer Science, Univ. of Calif., Los Angeles) vita (b. Sao Paulo, Brazil, 1962; M.S. Electrical Engineering, Univ. of Sao Paulo, Brazil, 1992)</subfield>
+  </datafield>
+</record>
