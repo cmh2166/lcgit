@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00863nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2006021757</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060302051737.0</controlfield>
+  <controlfield tag="008">060301n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006021757</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06868091</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Illinois Pregnancy Risk Assessment Monitoring System</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Illinois Center for Health Statistics.</subfield>
+    <subfield code="b">Illinois Pregnancy Risk Assessment Monitoring System</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Illinois PRAMS</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">PRAMS (Ill.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">PRAMS Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Pregnancy Risk Assessment Monitoring System (Ill.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Illinois Pregnancy Risk Assessment Monitoring System (PRAMS) ... surveillance report, 2001:</subfield>
+    <subfield code="b">t.p. (Illinois Pregnancy Risk Assessment Monitoring System (PRAMS); Illinois Department of Public Health, Illinois Center for Health Statistics, PRAMS Program; Illinois PRAMS)</subfield>
+  </datafield>
+</record>
