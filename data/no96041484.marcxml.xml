@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00543nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 96041484 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960817053548.0</controlfield>
+  <controlfield tag="008">960816n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96041484 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04142534 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Fusco, Gene C.</subfield>
+    <subfield code="q">(Gene Carl),</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Fusco, Gene Carl,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">School-home partnership in depressed urban neighborhoods, 1964:</subfield>
+    <subfield code="b">t.p. (Gene C. Fusco)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, Aug. 16, 1996</subfield>
+    <subfield code="b">(hdg.: Fusco, Gene Carl, 1928- ; usage: Gene C. Fusco)</subfield>
+  </datafield>
+</record>
