@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00826cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  84056043 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081128080025.0</controlfield>
+  <controlfield tag="008">840426n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84056043 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01106107</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Benediktinerabtei Rott am Inn</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kloster Rott</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Closter Rott</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Benediktinerkloster Rott am Inn</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Rott am Inn (Germany).</subfield>
+    <subfield code="b">Benediktinerabtei</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rott am Inn, c1983:</subfield>
+    <subfield code="b">t.p. (Benediktinerabtei) p. 7, etc. (Kloster Rott; Closter Rott; Benediktinerabtei Rott am Inn; date of found. uncertain; secularized 1803)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brockhaus</subfield>
+    <subfield code="b">(under Rott am Inn: Benediktinerkloster; f. betw. 1081 and 1085; abolished 1803)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baedeker, Deutschl.</subfield>
+    <subfield code="b">(under Rott am Inn: Benediktinerabtei)</subfield>
+  </datafield>
+</record>
