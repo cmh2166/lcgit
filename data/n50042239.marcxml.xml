@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01259cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  50042239 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160722075353.0</controlfield>
+  <controlfield tag="008">800801n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50042239 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00077412</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ICA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1890-11-29</subfield>
+    <subfield code="g">1993-12-18</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Holden, Arthur C.,</subfield>
+    <subfield code="d">1890-1993</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">New York (N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Architecture</subfield>
+    <subfield code="a">Economics</subfield>
+    <subfield code="a">City planning</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Holden, McLaughlin &amp; Associates</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Architects</subfield>
+    <subfield code="a">Economists</subfield>
+    <subfield code="a">City planners</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Arthur Cort</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Holden, Arthur Cort,</subfield>
+    <subfield code="d">1890-</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Founded corporate body:</subfield>
+    <subfield code="a">Holden, McLaughlin &amp; Associates</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coffin, L.A. Brick architecture of the colonial period in Maryland &amp; Virginia, 1970:</subfield>
+    <subfield code="b">t.p. (Arthur C. Holden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Am. arch. dir., 1956</subfield>
+    <subfield code="b">(Holden, Arthur Cort, b. 11/29/1890; partner in Holden, McLaughlin &amp; Assocs.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York Preservation Archive Project WWW site, June 16, 2016:</subfield>
+    <subfield code="b">people (Arthur Cort Holden; b. Nov. 29, 1890, New York City; d. Dec. 18, 1993; architect and founding partner of firm Holden, McLaughlin, and Associates; economist and city planner)</subfield>
+  </datafield>
+</record>
