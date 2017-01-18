@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00926nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2015061236</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150508073606.0</controlfield>
+  <controlfield tag="008">150507nn azannaabn           a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015061236</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10159980</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1951</subfield>
+    <subfield code="t">19700101</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Commission de transport de Montréal</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">CTM</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Montreal Transportation Commission</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MTC</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">Communauté urbaine de Montréal (Québec).</subfield>
+    <subfield code="b">Commission de transport</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Annual report, 1966/1967:</subfield>
+    <subfield code="b">t.p. (Commission de transport de Montréal; Montreal Transportation Commission) p. 7 (CTM; MTC)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual report, 1950/1951:</subfield>
+    <subfield code="b">title page (est. 1951)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual report, 1969/1970:</subfield>
+    <subfield code="b">p. 23 (name changed Jan. 1, 1970 from Commission de transport de Montréal, to Commission de transport de la communauté urbaine de Montréal)</subfield>
+  </datafield>
+</record>
