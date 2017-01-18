@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00905cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 89018319 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000706064231.0</controlfield>
+  <controlfield tag="008">891117n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89018319 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02641722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jephson Norreys, D.</subfield>
+    <subfield code="q">(Denham),</subfield>
+    <subfield code="d">1799-1888</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Norreys, D. Jephson</subfield>
+    <subfield code="q">(Denham Jephson),</subfield>
+    <subfield code="d">1799-1888</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jephson-Norreys, Charles Denham Orlando,</subfield>
+    <subfield code="d">1799-1888</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Norreys, Charles Denham Orlando Jephson-,</subfield>
+    <subfield code="d">1799-1888</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jephson Norreys, Denham,</subfield>
+    <subfield code="d">1799-1888</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Letter to the Earl of Clarendon on a better organization of Ireland for local and general government, 1849:</subfield>
+    <subfield code="b">p. 4 (signed, D. Jephson Norreys)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boase</subfield>
+    <subfield code="b">(Jephson-Norreys, Sir Charles Denham Orlando, l baronet; b. 1799; d. 7-11-1888; assumed additional name of Norreys by r.l. 7-18-1838; cr. baronet 8-6-1838)</subfield>
+  </datafield>
+</record>
