@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  89146119 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911214114722.5</controlfield>
+  <controlfield tag="008">911030n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89146119 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Māheśvarī, Mithileśa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Mithilesa Mahesvari</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Maheswari, Mithilesh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Mithilesh Maheswari</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Kākā Hātharasī, 1990:</subfield>
+    <subfield code="b">t.p. (Ḍô. Mithileśa Mȧheśvarī) t.p. verso (Dr. Mithilesh Maheswari)</subfield>
+  </datafield>
+</record>
