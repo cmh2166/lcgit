@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00885nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010146972</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100911075150.0</controlfield>
+  <controlfield tag="008">100909n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010146972</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08619262</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCUCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCUCA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bullard, W. Irving</subfield>
+    <subfield code="q">(Washington Irving),</subfield>
+    <subfield code="d">1881-1948</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bullard, Washington Irving,</subfield>
+    <subfield code="d">1881-1948</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The evolution of the lug strap, 1907:</subfield>
+    <subfield code="b">caption (W. Irving Bullard, Danielson, Conn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC search, Sept. 9, 2010:</subfield>
+    <subfield code="b">(hdg.: Bullard, W. Irving; Bullard, Washington Irving, 1881-1948; Bullard, Washington Irving, b. 1881; usage: W. Irving Bullard)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWWA:</subfield>
+    <subfield code="b">v. 2 1943-1950 (Bullard, W(ashington) Irving; banker, textile manufacturer and inventor; b. Waltham, Mass.; lecturer and writer on economic, financial and industrial subjects; home: Charlotte, N.C.; d. June 28, 1948)</subfield>
+  </datafield>
+</record>
