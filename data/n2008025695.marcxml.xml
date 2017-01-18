@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00536cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2008025695</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080409080342.0</controlfield>
+  <controlfield tag="008">080408n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008025695</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ericsson, Hans-Ola,</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="t">Fyra varelsernas amen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ericsson, Hans-Ola,</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="t">Four beasts' amen</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ericsson, Hans-Ola. The four beasts' amen, p2006:</subfield>
+    <subfield code="b">insert (De fyra varelsernas amen (The four beasts' amen), mass for organ and electronics based on texts by Olov Hartman (1999-2000))</subfield>
+  </datafield>
+</record>
