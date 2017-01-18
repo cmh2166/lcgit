@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00754nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015012254</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150225104821.0</controlfield>
+  <controlfield tag="008">150225n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015012254</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20110713</subfield>
+    <subfield code="t">20110715</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">"Lü you yu ren di huan jing" guo ji xue shu yan tao hui</subfield>
+    <subfield code="n">(7th :</subfield>
+    <subfield code="d">2011 :</subfield>
+    <subfield code="c">Zhangjiajie Shi, China)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">"旅游与人地环境"国际学术研讨会</subfield>
+    <subfield code="n">(7th :</subfield>
+    <subfield code="d">2011 :</subfield>
+    <subfield code="c">Zhangjiajie Shi, China)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lü you yu ren di huan jing, 2013:</subfield>
+    <subfield code="b">t.p. ("旅游与人地环境"国际学术研讨会 = "Lü you yu ren di huan jing" guo ji xue shu yan tao hui) pref. (7th conf., held July 13-15, 2011 in Zhangjiajie Shi, China)</subfield>
+  </datafield>
+</record>
