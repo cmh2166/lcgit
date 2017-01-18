@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01010cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2008065560</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090329185015.0</controlfield>
+  <controlfield tag="008">080924n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008065560</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07889345</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-rb---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Velika Greda (Serbia)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Georgshausen (Serbia)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Györgyháza (Serbia)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Györgyház (Serbia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wüst, Josef. Lost homeland Georgshausen, 2008:</subfield>
+    <subfield code="b">t.p. (Georgshausen) p. ix (located  in the Banat, a part of Vojvodina now in Serbia since breakup of Yugoslavia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Sept. 24th, 2008</subfield>
+    <subfield code="b">(Velika Greda; coordinates: 45°14ʹ36"N 021°01ʹ45"E; located in Serbia; variants: Georgshausen, Györgyháza, Györgyház)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWW Banat village list, viewed Sept. 24th, 2008</subfield>
+    <subfield code="b">(Georgshausen [large, bolded]; village names: Vellika Greda (official name), Georgshausen (German), Györgyháza (Hungarian))</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Serbia</subfield>
+    <subfield code="z">Velika Greda</subfield>
+  </datafield>
+</record>
