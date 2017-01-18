@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01113cz  a2200313n  4500</leader>
+  <controlfield tag="001">no2002035412</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050810115121.0</controlfield>
+  <controlfield tag="008">020425n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002035412</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05746564</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Gautamadharmasūtra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Gautama</subfield>
+    <subfield code="c">(Authority on Dharmaśāstra).</subfield>
+    <subfield code="t">Gautamadharmasūtra</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Dharmasūtra</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautama dharma sūtram</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautamadharmasūtram</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautamadharmasūtrāni</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautama-dharma-sūtra</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautamadharmaśāstra</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautamadharmasmr̥ti</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gautamadharmasaṃhitā</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Attributed to Gautama.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gautamapraṇītadharmasūtrāni, 1959.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gautamadharmasūtrāni, 1966.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gautama dharma sūtram, 1993.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dharmasūtras, 2000:</subfield>
+    <subfield code="b">p. 120 (Gautamadharmasūtram)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gautamadharmasūtrāṇi, 2000:</subfield>
+    <subfield code="b">added t.p. (Gautama-dharma-sūtra)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aufrecht</subfield>
+    <subfield code="b">(Gautamasmr̥ti; Gautamadharmaśāstra; Gautamasṃhitā)</subfield>
+  </datafield>
+</record>
