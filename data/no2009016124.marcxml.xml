@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00568nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009016124</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090205082313.0</controlfield>
+  <controlfield tag="008">090203n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009016124</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08003868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AkU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harley, W. S.</subfield>
+    <subfield code="q">(William S.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harley, William S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Climatic trends in the northern hemisphere, 1975:</subfield>
+    <subfield code="b">t.p. (W.S. Harley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AMICUS, Feb. 3, 2009</subfield>
+    <subfield code="b">(LAC auth. hdg.: Harley, W. S. (William S.); LAC bib. hdg.: Harley, W. S. (William S.); non LAC bib. hdg.: Harley, W. S.)</subfield>
+  </datafield>
+</record>
