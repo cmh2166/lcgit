@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  87812129 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100623074813.0</controlfield>
+  <controlfield tag="008">870303n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87812129 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01800611</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ulansey, David</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-16430: His Mithras and Perseus, 1984</subfield>
+    <subfield code="b">(hdg. on GEU-T rept.: Ulansey, David; usage: David Ulansey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The origins of Mithraic mysteries, 1989:</subfield>
+    <subfield code="b">CIP t.p. (David Ulansey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Species Alliance web site, June 21, 2010</subfield>
+    <subfield code="b">(David Ulansey; founder of Species Alliance; film executive producer; creator and webmaster of massextinction.net; author of The origins of Mithraic mysteries)</subfield>
+  </datafield>
+</record>
