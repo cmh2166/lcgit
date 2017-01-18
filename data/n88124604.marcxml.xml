@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00412cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88124604 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890520064455.9</controlfield>
+  <controlfield tag="008">890417n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88124604 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-S</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Crespí, Juan,</subfield>
+    <subfield code="d">1721-1782</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Dos cartas sobre California del siglo XVIII, 1946:</subfield>
+    <subfield code="b">p. 34 (Juan Crespí)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 3-21-89</subfield>
+    <subfield code="b">(hdg.: Crespí, Juan, 1721-1782)</subfield>
+  </datafield>
+</record>
