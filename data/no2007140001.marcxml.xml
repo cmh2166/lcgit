@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00481nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2007140001</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071117075205.0</controlfield>
+  <controlfield tag="008">071003n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007140001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07583047</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lehrer, Rachel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dancing-on-view (Preview/hindsight) [VR] c2007:</subfield>
+    <subfield code="b">credits &amp; accomp. program (Rachel Lehrer; dancer; performs with Kathy Westwater, bopi's black sheep/dances by Kraig Patterson, and Sara Rudner)</subfield>
+  </datafield>
+</record>
