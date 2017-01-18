@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00834cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 91014639 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081113081339.0</controlfield>
+  <controlfield tag="008">910429n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91014639 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02938370</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OkS</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ōta, Masahiro,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ōta, M.</subfield>
+    <subfield code="q">(Masahiro),</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">太田政弘,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Togai, M. 100-mannin no faji, 1990:</subfield>
+    <subfield code="b">t.p. (Ōta Masahiro) colophon (r; b. 1936; 1964 grad. Kyōto Kōgei Senʼi Daigaku Tanki Daigakubu (elec. engin.); hd., Sekisui Kagaku Kōgyō K.K. Maikon Kiki Jigyōbu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Transputer/Occam Japan 6, 1994:</subfield>
+    <subfield code="b">t.p. (M. Ōta) 6th prelim. p. (Masahiro Ōta)</subfield>
+  </datafield>
+</record>
