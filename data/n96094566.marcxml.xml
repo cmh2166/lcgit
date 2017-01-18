@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00879cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  96094566 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970125132147.1</controlfield>
+  <controlfield tag="008">960930n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96094566 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Castilla y León (Spain).</subfield>
+    <subfield code="b">Dirección General de Transportes y Carreteras</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Castilla y León (Spain).</subfield>
+    <subfield code="b">Consejería de Fomento.</subfield>
+    <subfield code="b">Dirección General de Transportes y Carreteras</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Castilla y León (Spain).</subfield>
+    <subfield code="b">Dirección General de Carreteras</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plan regional de transportes, 1992, 1992:</subfield>
+    <subfield code="b">cover (Junta de Castilla y León, Consejería de Fomento, Dirección General de Transportes y Carreteras)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Estudio de accidentes en la red de carreteras de titularidad de la Junta de Castilla y León, 1990: cover (Junta de Castilla y León, Consejería de Fomento, Dirección General de Carreteras)</subfield>
+  </datafield>
+</record>
