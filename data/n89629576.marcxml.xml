@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01375cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  89629576 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130927074034.0</controlfield>
+  <controlfield tag="008">890516n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89629576 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02525853</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19011125</subfield>
+    <subfield code="g">19800618</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Humbert, Jean,</subfield>
+    <subfield code="d">1901-1980</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Greek language</subfield>
+    <subfield code="a">Greek literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Université de Lille. Faculté des lettres</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1944</subfield>
+    <subfield code="t">1953</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Faculté des lettres de Paris</subfield>
+    <subfield code="s">1953</subfield>
+    <subfield code="t">1972</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Université de Paris</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="a">Translators</subfield>
+    <subfield code="a">Editors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Jean Auguste</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-78872: Homer. Hymnes, 1967</subfield>
+    <subfield code="b">(hdg. on InNd rept.: Humbert, Jean; usage: Jean Humbert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dict. de biog. franç.</subfield>
+    <subfield code="b">(Humbert, Jean, 1901-1980; professeur de philologie grec; wrote on classical Greek, Socrates, and Homer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Homère. Hymnes, 1967:</subfield>
+    <subfield code="b">title page (texte établi et traduit par Jean Humbert, Professeur à la Sorbonne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliothèque nationale de France, via VIAF, 26 September 2013</subfield>
+    <subfield code="b">(Humbert, Jean; born 25 November 1901; died 18 June 1980; French Hellenist; professor at Facutlé des lettres de Lille (1944-1953), Faculté des lettres de Paris (1953-1972); full name: Jean Auguste Humbert)</subfield>
+  </datafield>
+</record>
