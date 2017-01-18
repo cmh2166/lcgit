@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00636cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2003071296</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040507051939.0</controlfield>
+  <controlfield tag="008">030721n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003071296</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06104908</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-OK</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-OK</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-OK</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Lesotho.</subfield>
+    <subfield code="b">Privatisation Unit</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">PU</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Lesotho.</subfield>
+    <subfield code="b">Ministry of Finance.</subfield>
+    <subfield code="b">Privatisation Unit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Report of the launch of the Lesotho ... 2001:</subfield>
+    <subfield code="b">t.p. (Government of Lesotho; Privatisation Unit) p. II (PU)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Final report of the Lesotho Privatisation and ... 2001:</subfield>
+    <subfield code="b">t.p. (Privatisation Unit, Ministry of Finance)</subfield>
+  </datafield>
+</record>
