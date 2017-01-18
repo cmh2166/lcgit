@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00883cz  a2200229n  4500</leader>
+  <controlfield tag="001">nr2001034073</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080827081201.0</controlfield>
+  <controlfield tag="008">010821n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001034073</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05567138</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Suzuki, Jinshisai,</subfield>
+    <subfield code="d">1744-1804</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Suzuki, On,</subfield>
+    <subfield code="d">1744-1804</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Suzuki, Kōon,</subfield>
+    <subfield code="d">1744-1804</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Suzuki, Junsai,</subfield>
+    <subfield code="d">1744-1804</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Suzuki, Takufu,</subfield>
+    <subfield code="d">1744-1804</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">鈴木尋思齋,</subfield>
+    <subfield code="d">1744-1804</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shinkoku tōsho Shikyō shitchū, 1847:</subfield>
+    <subfield code="b">2d postscript (Jinshisai Suzuki On[?])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kokusho jinmei j.</subfield>
+    <subfield code="b">(Suzuki Jinshisai; b. Enkyō 1, d. Bunka 1; other forenames and gō: On[?], Kōon[?], Takufu, Junsai, etc.)</subfield>
+  </datafield>
+</record>
