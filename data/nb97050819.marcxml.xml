@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 97050819 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970620051441.4</controlfield>
+  <controlfield tag="008">970619n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 97050819 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Dean, Bob,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dean, Robert,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Prepaid cards, 1997:</subfield>
+    <subfield code="b">t.p. (Bob Dean) BL AL sent 5 June 1997)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 19 June 1997:</subfield>
+    <subfield code="b">(Robert Dean, born 25 Apr. 1943)</subfield>
+  </datafield>
+</record>
