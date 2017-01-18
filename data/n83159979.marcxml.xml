@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83159979 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030702152809.0</controlfield>
+  <controlfield tag="008">831104n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83159979 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Protti, Aldo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Verdi, G. Rigoletto [SR] 1980:</subfield>
+    <subfield code="b">label (Aldo Protti, baritone)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zandonai, R. Francesca da Rimini [SR] p1987:</subfield>
+    <subfield code="b">labels (Aldo Protti) insert (b. 7/19/20, Cremona)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kutsch-Riemens, 3. erw. Aufl.</subfield>
+    <subfield code="b">(Protti, Aldo, baritone; b. 19 July 1920, Cremona; d. there, 10 Aug. 1995)</subfield>
+  </datafield>
+</record>
