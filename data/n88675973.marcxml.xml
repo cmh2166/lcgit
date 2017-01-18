@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88675973 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061103074837.0</controlfield>
+  <controlfield tag="008">881121n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88675973 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Bouscaren, Janine</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Sperling-Bouscaren, Janine,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-130525: Her Grammaire et textes anglais, 1987</subfield>
+    <subfield code="b">(hdg. on PU rept.: Bouscaren, Janine; usage: Janine Bouscaren)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grammaire anglaise, c1991:</subfield>
+    <subfield code="b">t.p. (Janine Bouscaren)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Sperling-Bouscaren, Janine. Petit dictionnaire intime des fous rires &amp; des larmes, c2006: t.p. (Janine Sperling-Bouscaren) p. 4 of cover (novelist, television scriptwriter, specialist in linguistics)</subfield>
+  </datafield>
+</record>
