@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00885cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2006091268</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816080734.0</controlfield>
+  <controlfield tag="008">061201n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006091268</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Event Management Research Conference</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Event Management Research Conference</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Event Research Conference</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">International Event Research Conference, (2005 : Sydney, N.S.W.). The impacts of events, 2005:</subfield>
+    <subfield code="b">t.p. (International Event Research Conference [in title]; held in Sydney July 2005) cover (Event Management Research Conference; July 13-14, 2005) conf. program p. (Third International Event Management Research Conference) pref. (1st conf. held in July 2000; 2nd held in 2002)</subfield>
+  </datafield>
+</record>
