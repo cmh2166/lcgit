@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00794cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  91030967 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001206071158.0</controlfield>
+  <controlfield tag="008">910328n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91030967 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02937956</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Satie, Erik,</subfield>
+    <subfield code="d">1866-1925.</subfield>
+    <subfield code="t">Belle excentrique</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Satie, Erik,</subfield>
+    <subfield code="d">1866-1925.</subfield>
+    <subfield code="t">Eccentric beauty</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Satie, Erik,</subfield>
+    <subfield code="d">1866-1925.</subfield>
+    <subfield code="t">Fantaisie seĚrieuse</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Satie, Erik,</subfield>
+    <subfield code="d">1866-1925.</subfield>
+    <subfield code="t">Serious fantasy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Satie, E. Sports et divertissements [SR] between 1984 and 1988:</subfield>
+    <subfield code="b">label (La belle excentrique) container (for four hands)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(La belle excentrique (fantaisie seĚrieuse for dance) (incl. California legend, c1902), music-hall orch, pf 2/4 hands, c1902-20)</subfield>
+  </datafield>
+</record>
