@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00747cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  97086062 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319171306.0</controlfield>
+  <controlfield tag="008">970827n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97086062 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1774</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Raymond, Charles de,</subfield>
+    <subfield code="d">-1774</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Raymond, Charles,</subfield>
+    <subfield code="d">-1774</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Raymond, Charles de,</subfield>
+    <subfield code="d">d. 1774</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Raymond,</subfield>
+    <subfield code="c">chevalier de,</subfield>
+    <subfield code="d">-1774</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">On the eve of the conquest, 1997:</subfield>
+    <subfield code="b">CIP t.p. (Chevalier de Raymond) introd. (Charles de Raymond; a captain in the Troupes de la Marine, the French colonial regular troops in New France, Canada. By 1754 he had served 32 years in New France ; he returned to France after the conquest and died there in 1774)</subfield>
+  </datafield>
+</record>
