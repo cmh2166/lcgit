@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00665cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  96046332 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140710132958.0</controlfield>
+  <controlfield tag="008">960510n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96046332 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1896</subfield>
+    <subfield code="g">1976</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Davidson, Eugene C.,</subfield>
+    <subfield code="d">1896-1976</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Washington (D.C.)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">African American civil rights workers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">African American real estate agents</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Moorland-Spingarn Research Center, Howard University for His Papers, 1912-1963</subfield>
+    <subfield code="b">(Davidson, Eugene C.; African American civil rights activist and realtor, of Washington, D.C.; b. 1896; d. 1976)</subfield>
+  </datafield>
+</record>
