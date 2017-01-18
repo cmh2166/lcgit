@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84174555 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010926134239.0</controlfield>
+  <controlfield tag="008">841129n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84174555 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lʹvov, I︠U︡. A.</subfield>
+    <subfield code="q">(I︠U︡riĭ Alekseevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lʹvov, I︠U︡riĭ Alekseevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Intensifikat︠s︡ii︠a︡ mashinostroitelʹnogo proizvodstva, organizat︠s︡ii︠a︡ i planirovanie, 1984:</subfield>
+    <subfield code="b">t.p. (I︠U︡.A. Lʹvov) verso t.p. (I︠U︡riĭ Alekseevich Lʹvov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Upravlenie akt︠s︡ionernym obshchestvom v Rossii, 2000:</subfield>
+    <subfield code="b">t.p. (I︠U︡.A. Lʹvov) t.p. verso (Lʹvov I︠U︡riĭ Alekseevich, doktor ėkonomicheskikh nauk)</subfield>
+  </datafield>
+</record>
