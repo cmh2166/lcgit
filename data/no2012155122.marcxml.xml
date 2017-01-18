@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00913nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012155122</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121209075127.0</controlfield>
+  <controlfield tag="008">121207n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012155122</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09361380</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">StEdNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">StEdNL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19680926</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">J D Fergusson Memorial Collection</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Art collection</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Stirling, Stirling, Scotland</subfield>
+    <subfield code="s">1968</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Fergusson Memorial Collection</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Stirling.</subfield>
+    <subfield code="b">J D Fergusson Memorial Collection</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Colour light freedom : the J D Fergusson Memorial Collection at the University of Stirling, 2011:</subfield>
+    <subfield code="b">p. 4 (On September 26th 1968, [Margaret] Morris and the J D Fergusson Arts Foundation gifted 14 Fergusson paintings to the newly established University of Stirling... The J D Fergusson Memorial Collection was installed in the Pathfoot Building where it still hangs)</subfield>
+  </datafield>
+</record>
