@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00875cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  78018398 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100512075206.0</controlfield>
+  <controlfield tag="008">780411n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78018398 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0103200</subfield>
+    <subfield code="e">E0103200</subfield>
+    <subfield code="f">N0520100</subfield>
+    <subfield code="g">N0520100</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00154801</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Schladen (Lower Saxony, Germany)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Schladen, Ger. (Lower Saxony)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schladen in alten Ansichten, 1977:</subfield>
+    <subfield code="b">t.p. (Schladen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ne 78-7</subfield>
+    <subfield code="b">(Schladen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN E. Ger.</subfield>
+    <subfield code="b">(one in E. Ger.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN</subfield>
+    <subfield code="b">(52°01ʹN, 10°32ʹE, W. Germany, Schladen, Nds.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Müllers gr. dt. Ortsb. 1977</subfield>
+    <subfield code="b">(Schladen in Nds.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 52°01ʹ00ʺN 010°32ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Germany</subfield>
+    <subfield code="z">Schladen (Lower Saxony)</subfield>
+  </datafield>
+</record>
