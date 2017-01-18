@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00691cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88292360 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19921028122836.2</controlfield>
+  <controlfield tag="008">891011n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88292360 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Poynter, James M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Poynter, James</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Poynter, Jim</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Corporate travel management, 1990:</subfield>
+    <subfield code="b">CIP t.p. (James M. Poynter, Metropolitan State College)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Travel agency accounting procedures, 1991:</subfield>
+    <subfield code="b">CIP t.p. (James Poynter) pub. info. (Jim Poynter; M.A. from George Wash. Univ., Wash., D.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His How to research and write a thesis ... c1993:</subfield>
+    <subfield code="b">CIP t.p. (James M. Poynter) data sheet (b. 07-27-39)</subfield>
+  </datafield>
+</record>
