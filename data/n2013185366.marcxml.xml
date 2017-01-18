@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00694cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2013185366</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130923073618.0</controlfield>
+  <controlfield tag="008">130910n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013185366</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09565475</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Saigai Jindō Iryō Shienkai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Humanitarian Medical Assistance</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">HuMA (Humanitarian Medical Assistance)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">災害人道医療支援会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gurōbaru saigai kango manyuaru, 2007:</subfield>
+    <subfield code="b">t.p. (災害人道医療支援会 (HuMA) = Saigai Jindō Iryō Shienkai (HuMA)) p. [3] (Humanitarian Medical Assistance : HuMA)</subfield>
+  </datafield>
+</record>
