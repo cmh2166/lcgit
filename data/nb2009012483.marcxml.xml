@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00508nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2009012483</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090522075352.0</controlfield>
+  <controlfield tag="008">090520n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009012483</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007453658</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Civil Defence Corps.</subfield>
+    <subfield code="b">Middlesex Division.</subfield>
+    <subfield code="b">Wood Green Sub-Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wood Green C.D. News, 1953</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL database 20 May 2009:</subfield>
+    <subfield code="b">(hdg.: Great Britain. Civil Defence Corps. Middlesex Division. Wood Green Sub-Division)</subfield>
+  </datafield>
+</record>
