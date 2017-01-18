@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00768cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85807607 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900314072254.5</controlfield>
+  <controlfield tag="008">850530n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85807607 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Milhorn, Howard T.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Milhorn, H. Thomas</subfield>
+    <subfield code="q">(Howard Thomas)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Milhorn, Tom</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 66-15623: His The application of control theory to physiological systems, 1966</subfield>
+    <subfield code="b">(hdg.: Milhorn, Howard T.; usage: Howard T. Milhorn, Jr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Chemical dependence, c1990:</subfield>
+    <subfield code="b">CIP t.p. (H. Thomas Milhorn) t.p. verso, etc. (Jr., Dept. of Family Med., Univ. of Mississippi Medical Ctr., Jackson, Miss.; Tom Milhorn, M.D., Ph. D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 3/9/90</subfield>
+    <subfield code="b">(Full name: Howard Thomas Milhorn, Jr.)</subfield>
+  </datafield>
+</record>
