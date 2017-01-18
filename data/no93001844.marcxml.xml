@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 93001844 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000727064851.0</controlfield>
+  <controlfield tag="008">930121n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93001844 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03304943</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPiU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Valdés Hernández, Israel,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hernández, Israel Valdés,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Valdéz Hernández, Israel,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Valdés Hernández, I.</subfield>
+    <subfield code="q">(Israel),</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Valdés, Israel,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Siembra de caña, 1990:</subfield>
+    <subfield code="b">cover (Israel Valdés Hernández) p. facing t.p., etc. (Israel Valdéz Hernández; b. Camagüey, 1941; economista y profesor; Valdés Hernández, I.; Valdés, Israel)</subfield>
+  </datafield>
+</record>
