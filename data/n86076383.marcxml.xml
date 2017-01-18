@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00967cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86076383 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101122151553.0</controlfield>
+  <controlfield tag="008">880203n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86076383 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02195209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">N</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">N</subfield>
+  </datafield>
+  <datafield tag="087" ind1=" " ind2=" ">
+    <subfield code="a">WAS 515</subfield>
+    <subfield code="2">nydocs</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">New York (State).</subfield>
+    <subfield code="b">Division of Solid and Hazardous Waste.</subfield>
+    <subfield code="b">Bureau of Resource Recovery</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="a">New York (State).</subfield>
+    <subfield code="b">Division of Solid Waste.</subfield>
+    <subfield code="b">Bureau of Resource Recovery</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Ash Residue Characterization Project, summary report, 1987:</subfield>
+    <subfield code="b">t.p. (New York State Department of Environmental Conservation, Division of Solid and Hazardous Waste, Bureau of Resource Recovery)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">N.Y.(S). Dept. of Environmental Conservation. Regulated medical waste storage, containment and disposal, 6 NYCRR subpart 360-10 (revised) ... 1991: cover (Division of Solid Waste, New York State Department of Environmental Conservation, Bureau of Resource Recovery)</subfield>
+  </datafield>
+</record>
