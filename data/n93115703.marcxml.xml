@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  93115703 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19931129120116.2</controlfield>
+  <controlfield tag="008">931129n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93115703 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Albuquerque Film Manufacturing Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Albuquerque Film Mfg. Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Soul mates [MP] 1914, 1924?</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Slide, A. The American film industry, 1986:</subfield>
+    <subfield code="b">p. 6 (Albuquerque Film Manufacturing Company, Inc.; organized in fall 1913; used studios in Los Angeles, CA; went bankrupt in early 1918)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AFI cat.: feature films 1911-1920, index, c1988:</subfield>
+    <subfield code="b">p. 227 (Albuquerque Film Mfg. Co.)</subfield>
+  </datafield>
+</record>
