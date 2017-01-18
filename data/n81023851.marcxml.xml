@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01037cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  81023851 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090118075647.0</controlfield>
+  <controlfield tag="008">810324n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81023851 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00569636</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Cercle d'histoire et d'archéologie Terre et abbaye de Saint-Hubert</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">"Terre et abbaye" (Society : Saint-Hubert, Belgium)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Société d'histoire et d'archéologie "Terre et abbaye de Saint-Hubert"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">"Terre et abbaye de Saint-Hubert" (Society)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Terre et abbaye de Saint-Hubert, 1973 (a.e.)</subfield>
+    <subfield code="b">t.p. (Cercle d'histoire et d'archéologie Terre et abbaye de Saint-Hubert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Saint-Hubert d'Ardenne, t. 1, 1977:</subfield>
+    <subfield code="b">verso contents p. (Secrétariat de "Terre et abbaye") p. 3 (Preśident de "Terre et abbaye"; Cercle d'histoire et d'archéologie "Terre et abbaye de Saint-Hubert") cover p. 3 (Publications de "Terre et abbaye"; Société d'histoire et d'archéologie "Terre et abbaye de Saint-Hubert")</subfield>
+  </datafield>
+</record>
