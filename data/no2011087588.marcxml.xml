@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00520nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011087588</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110608075146.0</controlfield>
+  <controlfield tag="008">110606n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011087588</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08878305</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEdL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEdL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Combet, Guillaume</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Siegel, C. Complementary colors, p 1998:</subfield>
+    <subfield code="b">label (Guillaume Combet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Comerata Chicago web site, May 27, 2011:</subfield>
+    <subfield code="b">(Guillaume Combet, b. Chatellerault, France; Advanced Certificate from Juilliard School; violinist)</subfield>
+  </datafield>
+</record>
