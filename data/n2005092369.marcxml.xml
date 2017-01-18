@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00609nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2005092369</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20051221082722.0</controlfield>
+  <controlfield tag="008">051221n| acaabaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005092369</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Biblioteca popular de Chiapas.</subfield>
+    <subfield code="p">Artes visuales</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Artes visuales (Tuxtla GutieĚrrez, Mexico)</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tuxtla GutieĚrrez, Chiapas</subfield>
+    <subfield code="b">Consejo Estatal para la Cultura y las Artes de Chiapas</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cinco pintores mayas, c2004:</subfield>
+    <subfield code="b">colophon (Artes visuales, Biblioteca popular de Chiapas)</subfield>
+  </datafield>
+</record>
