@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01155cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  80129070 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151223073741.0</controlfield>
+  <controlfield tag="008">801114n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80129070 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00509468</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">NN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1932</subfield>
+    <subfield code="g">2013</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Raviolo, Heber</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Montevideo (Uruguay)</subfield>
+    <subfield code="b">Montevideo (Uruguay)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Ediciones de la Banda Oriental</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1961</subfield>
+    <subfield code="t">2013</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Editors</subfield>
+    <subfield code="a">Critics</subfield>
+    <subfield code="a">Teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Morosoli, J. J.</subfield>
+    <subfield code="b">El viaje hacia el ... 1962.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La soledad y la creacioĚn literaria, 1971:</subfield>
+    <subfield code="b">t.p. (Heber Raviolo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Raviolo, Heber. Escritos sobre literatura uruguaya, 2015:</subfield>
+    <subfield code="b">title page (Heber Raviolo) front flap of cover (Heber Raviolo; born 1932, Montevideo, Uruguay; died 2013, Montevideo, Uruguay; was a secondary school teacher until the dictatorship dismissed him, and thereafter he concentrated on editing and writing literary criticism; was co-founder of publishing house Ediciones de la Banda Oriental and served as its director from its founding until his death)</subfield>
+  </datafield>
+</record>
