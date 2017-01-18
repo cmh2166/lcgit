@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01033cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2005009434</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060922112035.0</controlfield>
+  <controlfield tag="008">050201n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005009434</subfield>
+    <subfield code="z">no 94018735 </subfield>
+    <subfield code="z">n 2005061762</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06549110</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Michele,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Green, Michelle,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Michelle,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Greene, Michele Dominguez,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seeger, P. Seeds [SR] 2003:</subfield>
+    <subfield code="b">container (Michele Greene) insert (vocals)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Michele Greene WWW site, Jan. 31, 2005</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Movie Database, Jan. 31, 2005</subfield>
+    <subfield code="b">(Michele Greene; b. Feb. 3, 1962, Las Vegas, Nev.; sometimes credited as Michelle Green, Michelle Greene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unborn II, c1994:</subfield>
+    <subfield code="b">container (Michele Greene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Greene, Michele Dominguez. Chasing the jaguar, c2006:</subfield>
+    <subfield code="b">ECIP t.p. (Michele Dominguez Greene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amazon.com, Sept. 21, 2006</subfield>
+    <subfield code="b">(Chasing the jaguar: by the L.A. Law actress and songwriter)</subfield>
+  </datafield>
+</record>
