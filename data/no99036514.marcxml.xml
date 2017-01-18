@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00926nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 99036514 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990521053501.1</controlfield>
+  <controlfield tag="008">990520n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99036514 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04990966 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="c">CLU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Convento dell'Ambrogiana</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Convento del granduca Cosimo III all'Ambrogiana</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Real Convento di San Pietro d'Alcantara</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Ambrogiana (Monastery)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Delli, N.  Il convento del granduca Cosimo III all'Ambrogiana, 1998:</subfield>
+    <subfield code="b">p. 11 (Real Convento di San Pietro d'Alcantara) p. 39, etc. (Convento dell'Ambrogiana; Ambrogiana; Franciscan monastery founded in 1678 by Cosimo III, Grand-Duke of Tuscany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 12, 1999:</subfield>
+    <subfield code="b">(Convento dell'Ambrogiana, Montelupo Fiorentino, near Florence)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Catholic encyclopedia, 1907;</subfield>
+    <subfield code="a">New Catholic encyclopedia, 1967;</subfield>
+    <subfield code="a">Dizionario degli istituti di perfezione, 1974</subfield>
+  </datafield>
+</record>
