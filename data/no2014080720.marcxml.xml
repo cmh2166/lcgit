@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2014080720</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140613073534.0</controlfield>
+  <controlfield tag="008">140612n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014080720</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W880826</subfield>
+    <subfield code="e">W880826</subfield>
+    <subfield code="f">N421228</subfield>
+    <subfield code="g">N421228</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09881550</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-il</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">North Barrington (Ill.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, June 12, 2014</subfield>
+    <subfield code="b">(ppl; N 42Â° 12' 28'' W 88Â° 8' 26'')</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, June 12, 2014</subfield>
+    <subfield code="b">(North Barrington is a village in Lake County, Illinois, United States)</subfield>
+    <subfield code="u">http://en.wikipedia.org/wiki/North_Barrington,_Illinois</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Illinois</subfield>
+    <subfield code="z">North Barrington</subfield>
+  </datafield>
+</record>
