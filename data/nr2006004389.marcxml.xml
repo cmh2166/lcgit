@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00559cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2006004389</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060307091138.0</controlfield>
+  <controlfield tag="008">060222n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006004389</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bürgel, Constantin,</subfield>
+    <subfield code="d">1837-1909</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bürgel, Konstantin,</subfield>
+    <subfield code="d">1837-1909</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lyrische Dichtungen, 1865:</subfield>
+    <subfield code="b">t.p. (componirt von Constantin Bürgel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kurzgefasstes Tonkünstler-Lexikon, 1971-1978:</subfield>
+    <subfield code="b">T. 1, p. 84 (Bürgel, Konstantin; b. June 24, 1837, Liebau, Schles.; d. June 1, 1909, Breslau)</subfield>
+  </datafield>
+</record>
