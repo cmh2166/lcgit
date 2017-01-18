@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00573cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  92040053 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000722064719.0</controlfield>
+  <controlfield tag="008">920410n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92040053 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03148860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ciudad Reynaud, Adolfo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reynaud, Adolfo Ciudad</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ciudad, Adolfo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Burneo LabriĚn, J. Manual de capacitacioĚn laboral, 1978:</subfield>
+    <subfield code="b">t.p. (Adolfo Ciudad)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 04-10-92</subfield>
+    <subfield code="b">(hdg.: Ciudad Reynaud, Adolfo; usage: Adolfo Ciudad; Adolfo Ciudad Reynaud)</subfield>
+  </datafield>
+</record>
