@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00699cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 00008034 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160816075425.0</controlfield>
+  <controlfield tag="008">000309n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00008034 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05173625</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1966</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pagotto, Mario</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">San Donà di Piave (Italy)</subfield>
+    <subfield code="c">Italy</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Composition teachers (Music)</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pagotto, M. Corodidáscalos, c1998:</subfield>
+    <subfield code="b">t.p. (Mario Pagotto)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Italian Wikipedia, August 15, 2016</subfield>
+    <subfield code="b">(Mario Pagotto; born 1966, San Donà di Piave; Italian composer, professor of composition)</subfield>
+  </datafield>
+</record>
