@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00636cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015006516</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150121073911.0</controlfield>
+  <controlfield tag="008">150115n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015006516</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10062634</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNMM</subfield>
+    <subfield code="d">NNMM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hogarty, Nicole</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Cambridge (Mass.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Artists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Watch Hog</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hogarty, Nicole. Watching you watch art, 2014:</subfield>
+    <subfield code="b">accompanying card (Nicole Hogarty, The Watch Hog)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Etsy profile, January 15, 2015</subfield>
+    <subfield code="b">(Nicole Hogarty, artist based in Cambridge, Mass.)</subfield>
+    <subfield code="u">https://www.etsy.com/people/HOGACHACHA</subfield>
+  </datafield>
+</record>
