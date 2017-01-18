@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00325nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2015067856</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151119134406.0</controlfield>
+  <controlfield tag="008">151119n| azannaabn          |n aaa     b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015067856</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carlier, Julie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Women in transnational history, 2016:</subfield>
+    <subfield code="b">ECIP t.p. (Julie Carlier)</subfield>
+  </datafield>
+</record>
