@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00682cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2016015585</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160805164333.0</controlfield>
+  <controlfield tag="008">160323n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2016015585</subfield>
+    <subfield code="z">no2013055542</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20120523</subfield>
+    <subfield code="t">20120523</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Roundtable on Technology, Science, and Peacebuilding</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Using data sharing to improve coordination in peacebuilding, 2012:</subfield>
+    <subfield code="b">t.p. (Roundtable on Technology, Science, and Peacebuilding) p. 41 (Workshop on using data sharing to improve coordination in peacebuilding of the National Academies and United States Insitute of Peace, May 23, 2012, Washington, D.C.)</subfield>
+  </datafield>
+</record>
