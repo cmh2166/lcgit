@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01145cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2008158332</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120817083642.0</controlfield>
+  <controlfield tag="008">081028n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008158332</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07919771</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bostonskoe obshchestvo "Memorial".</subfield>
+    <subfield code="b">Konferent︠s︡ii︠a︡</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Konferent︠s︡ii︠a︡ Bostonskogo obshchestva "Memorial"</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Конференция Бостонского общества "Мемориал"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Бостонское общество "Мемориал".</subfield>
+    <subfield code="b">Конференция</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Bostonskiĭ "Memorial", 15 apr. 2008 g.:</subfield>
+    <subfield code="b">t.p. (Бостонское общество "Мемориал";  ... Конференции = Bostonskoe obshchestvo "Memorial" ; ... Konferent︠s︡ii) verso t.p. (... Конференции Бостонского общества "Мемориал" = ... Konferent︠s︡ii Bostonskogo obshchestva "Memorial")</subfield>
+  </datafield>
+</record>
