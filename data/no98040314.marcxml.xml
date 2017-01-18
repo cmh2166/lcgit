@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 98040314 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030128053440.0</controlfield>
+  <controlfield tag="008">980126n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98040314 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04624139</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Goetz, Hermann,</subfield>
+    <subfield code="d">1840-1876.</subfield>
+    <subfield code="t">Symphony,</subfield>
+    <subfield code="n">op. 9,</subfield>
+    <subfield code="r">F major</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 94-771907: Goetz, H. Symphony, p1993</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grovemusic WWW site, Jan. 24, 2003</subfield>
+    <subfield code="b">(op. 9. Symphony, F, 1873 (1875))</subfield>
+  </datafield>
+</record>
