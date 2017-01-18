@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92092621 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971205053655.4</controlfield>
+  <controlfield tag="008">920916n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92092621 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03239548 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OrU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Nehl, F. H.</subfield>
+    <subfield code="q">(Frederick H.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Nehl, Frederick H.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Selective electrowinning of silver and gold ... 1993:</subfield>
+    <subfield code="b">CIP t.p. (F.H. Nehl) galley (research chemist) data sheet (Frederick H. Nehl)</subfield>
+  </datafield>
+</record>
