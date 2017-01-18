@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00574nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  90685533 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900824090452.6</controlfield>
+  <controlfield tag="008">900824n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90685533 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sarpy, Peter A.,</subfield>
+    <subfield code="d">1805-1865</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nebraska State Hist. Soc. for Cuming, T.B. Papers, 1822-1913</subfield>
+    <subfield code="b">(Peter Sarpy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWWA, 1607-1896</subfield>
+    <subfield code="b">(Sarpy, Peter A., fur trader; b. St. Louis, Mo., Nov. 3, 1805; s. Gregorie Berald and Palagie (L'Abadie) S.; m. Nicomi Sarpy; helped in neg. with Omaha and Oto Indians, d. Jan. 4, 1865)</subfield>
+  </datafield>
+</record>
