@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004080443</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815083145.0</controlfield>
+  <controlfield tag="008">040822n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004080443</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06424633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Arbeitskreis deutscher und polnischer Kunsthistoriker.</subfield>
+    <subfield code="b">Tagung</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Tagung des Arbeitskreises deutscher und polnischer Kunsthistoriker</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hansestadt, Residenz, Industriestandort, 2002:</subfield>
+    <subfield code="b">t.p. (7. Tagung des Arbeitskreises deutscher und polnischer Kunsthistoriker in Oldenburg, 27.-30. September 2002)</subfield>
+  </datafield>
+</record>
