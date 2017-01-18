@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00772nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2008140767</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080927081253.0</controlfield>
+  <controlfield tag="008">080924n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008140767</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07889896</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-I</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU-I</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zhai, Fengzhu,</subfield>
+    <subfield code="d">jin shi 1646</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">翟鳳翥,</subfield>
+    <subfield code="d">jin shi 1646</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zhai, Xianglu,</subfield>
+    <subfield code="d">jin shi 1646</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">翟象陸,</subfield>
+    <subfield code="d">jin shi 1646</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Su shui bian, 1997:</subfield>
+    <subfield code="b">t.p. (翟鳳翥=Zhai Fengzhu) p. 197 (Qing dynasty; other personal name: 象陸=Xianglu; native of 聞喜=Wenxi; 順治丙戌進士= Shunzhi 3 (i.e. 1646) jin shi).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 24, 2008</subfield>
+    <subfield code="b">(hdg.: Zhai, Fengzhu, jin shi 1646; usage: Zhai Fengzhu)</subfield>
+  </datafield>
+</record>
