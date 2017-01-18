@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00441nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 97022832 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970912051037.1</controlfield>
+  <controlfield tag="008">970625n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97022832 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Doigneau, Edouard,</subfield>
+    <subfield code="d">1865-1954</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Edouard Doigneau, 1865-1954, 1996:</subfield>
+    <subfield code="b">p. 9 (b. 9/27/1865, Nemours)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BeĚneĚzit, 1976</subfield>
+    <subfield code="b">(Doigneau, Edouard-Edmond; landscape and animal painter; b. Nemours 1865)</subfield>
+  </datafield>
+</record>
