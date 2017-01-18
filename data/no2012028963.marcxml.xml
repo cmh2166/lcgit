@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00465nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2012028963</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120301080107.0</controlfield>
+  <controlfield tag="008">120228n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012028963</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09128611</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiFliG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiFliG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Day, John S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dilemmas for business education in the 1970's, 1970:</subfield>
+    <subfield code="b">cover (John S. Day, Dean, Krannert Graduate School of Industrial Administration, Purdue University, Lafayette, Ind.)</subfield>
+  </datafield>
+</record>
