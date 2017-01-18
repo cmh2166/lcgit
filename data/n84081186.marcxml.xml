@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00865cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  84081186 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081121080629.0</controlfield>
+  <controlfield tag="008">840517n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84081186 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01126103</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Direction de la réglementation et du contentieux</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Réglementation et du contentieux, Direction de la</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">France.</subfield>
+    <subfield code="b">Ministère de l'intérieur et de la décentralisation.</subfield>
+    <subfield code="b">Direction de la réglementation et du contentieux</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">France. Instruction interministérielle relative à la signalisation de direction, 1982:</subfield>
+    <subfield code="b">t.p. (Ministère de l'intérieur et de la décentralisation, Direction de la réglementation et du contentieux)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bottin admin., 1983:</subfield>
+    <subfield code="b">p. 715 (Direction de la réglementation et du contentieux)</subfield>
+  </datafield>
+</record>
