@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00617cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  84802828 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209073453.0</controlfield>
+  <controlfield tag="008">840706n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84802828 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">I︠A︡npolʹskiĭ, A. R.</subfield>
+    <subfield code="q">(Avraam Ruvimovich)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Avraam Ruvimovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">I︠A︡npolʹskiĭ, Avraam Ruvimovich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 61-43512: His Giperbolicheskie funkt︠s︡ii, 1960</subfield>
+    <subfield code="b">(hdg.: I︠A︡npolʹskiĭ, Avraam Ruvimovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC</subfield>
+    <subfield code="b">(hdg.: I︠A︡npolʹskiĭ, Avraam Ruvimovich; usage: A.R. I︠A︡npolʹskiĭ [in Cyrillic])</subfield>
+  </datafield>
+</record>
