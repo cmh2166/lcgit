@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00764cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  86804700 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901105172759.3</controlfield>
+  <controlfield tag="008">860130n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86804700 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Schouten, Marten Egbertus Hendrik,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Schouten, M. E. H.</subfield>
+    <subfield code="q">(Marten Egbertus Hendrik),</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-8072: His Native-language interference ... 1975?</subfield>
+    <subfield code="b">(hdg. on MiU rept.: Schouten, Marten Egbertus Hendrik, 1946- ; usage: Marten Egbertus Hendrik Schouten)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NATO Advanced Research Workshop on "The Psychophysics of Speech Perception" (1986 : Utrecht, Netherlands). The psychophysics of speech perception, 1987:</subfield>
+    <subfield code="b">CIP t.p. (M.E.H. Schouten; Inst. of Phonetics, Univ. of Utrecht, the Netherlands)</subfield>
+  </datafield>
+</record>
