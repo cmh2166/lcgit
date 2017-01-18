@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00833cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  83188709 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090104081610.0</controlfield>
+  <controlfield tag="008">831221n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83188709 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01004591</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Neikter, Jakob Fredrik,</subfield>
+    <subfield code="d">1744-1803</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Neichter, Jakob Fredrik,</subfield>
+    <subfield code="d">1744-1803</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Neikter, Jacob Frederik,</subfield>
+    <subfield code="d">1744-1803</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Dissertatio de hist. ciborum, 1794:</subfield>
+    <subfield code="b">t.p. (Jac. Fred. Neikter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hofberg, Svenskt biog. handlex.</subfield>
+    <subfield code="b">(Neikter, [Neichter] Jakob Fredrik; b. 1744, d. 5/4/1803)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC, pre-'56</subfield>
+    <subfield code="b">(Neikter, Jakob Fredrik, 1744-1803)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM</subfield>
+    <subfield code="b">(Neikter, Jacob Frederik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Callisen. Med.-Schriftst. Lex.</subfield>
+    <subfield code="b">(Neikter, Jacob Fr.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Hirsch;</subfield>
+    <subfield code="a">SackleĚn;</subfield>
+    <subfield code="a">Svenskt biog. lex.</subfield>
+  </datafield>
+</record>
