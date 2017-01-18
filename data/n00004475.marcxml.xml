@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00712cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  00004475 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030318052819.0</controlfield>
+  <controlfield tag="008">000322n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00004475 </subfield>
+    <subfield code="z">n 2002011565</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05181490</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OClW</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hsu, Chang S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chemistry of diesel fuels, 2000:</subfield>
+    <subfield code="b">CIP t.p. (Chang S. Hsu; Corporate Research, Exxon Mobil Research &amp; Engr. Co., Annandale, NJ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Analytical advances for hydrocarbon research, c2003:</subfield>
+    <subfield code="b">t.p. (Chang Samuel Hsu, ExxonMobil Res. and Engineer, Co., Baton Rouge, LA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Mar. 17, 2003</subfield>
+    <subfield code="b">(hdg.: Hsu, Chang S.; Hsu, Chang Samuel, 1945- ; usage: Chang S. Hsu; Chang Samuel Hsu)</subfield>
+  </datafield>
+</record>
