@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  42004749 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090104074901.0</controlfield>
+  <controlfield tag="008">830211n| acaaaaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  42004749 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00004502</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Biblioteca di studi viterbesi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Consorzio per la gestione delle biblioteche comunale degli Ardenti e provinciale "Anselmo Anselmi."</subfield>
+    <subfield code="t">Biblioteca di studi viterbesi</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">3</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Viterbo</subfield>
+    <subfield code="b">Consorzio per la gestione delle biblioteche Comunale degli Ardenti e Provinciale Anselmo Anselmi</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Barbini, B. Il Risorgimento viterbese nel Sommario di Angelo Mangani. 1978.</subfield>
+  </datafield>
+</record>
