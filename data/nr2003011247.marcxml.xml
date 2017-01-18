@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01052cz  a2200229n  4500</leader>
+  <controlfield tag="001">nr2003011247</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130203075217.0</controlfield>
+  <controlfield tag="008">030331n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003011247</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06018928</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+    <subfield code="d">OAkU-MCU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Rowallan lute book</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Rowallan manuscript</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Rowallan lute ms</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Edinburgh University Library.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">La.III.487</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Wm. Mure of Rowallan's lute MS</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Rowallen lute book</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Rowallan manuscript, c1995:</subfield>
+    <subfield code="b">t.p. (The Rowallan manuscript : Edinburgh University Library, Laing III 487)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grovemusic WWW site, Mar. 31, 2003:</subfield>
+    <subfield code="b">Libraries; Europe; Great Britain; Edinburgh (Rowallan lute book)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SCIMSS WWW site, Apr. 4, 2003</subfield>
+    <subfield code="b">(Mure, Sir William of Rowallan. Lute book, probably compiled by, and containing some of his compositions. c.1615. La.III.487)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lute music from Scotland and France [SR] p1987:</subfield>
+    <subfield code="b">back of container (The Rowallen lute book; c. 1620)</subfield>
+  </datafield>
+</record>
