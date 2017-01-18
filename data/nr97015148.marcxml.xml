@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00767cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 97015148 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060918103528.0</controlfield>
+  <controlfield tag="008">970423n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97015148 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04331117</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mateos Sáinz de Medrano, Ricardo,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sáinz de Medrano, Ricardo Mateos,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mateos, Ricardo,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Medrano, Ricardo Mateos Sáinz,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Medrano, Ricardo Mateos Sáinz de,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Desconocidos Infantes de España, 1996:</subfield>
+    <subfield code="b">t.p. (Ricardo Mateos Sáinz de Medrano) jkt flap (b. 1961 in Madrid [Spain])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nobleza obliga, 2006:</subfield>
+    <subfield code="b">t.p. (Ricardo Mateos Sáinz de Medrano) jkt. (Ricardo Mateos)</subfield>
+  </datafield>
+</record>
