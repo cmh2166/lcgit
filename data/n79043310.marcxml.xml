@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  79043310 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050112124821.0</controlfield>
+  <controlfield tag="008">790627n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79043310 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cattin, Giulio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cattin, Iulius</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Polifonia quattrocentesca italiana, 1970.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Croce, G. Ioannis a Cruce Clodiensis Missa prima sexti toni, 1963:</subfield>
+    <subfield code="b">t.p. (... Iulio Cattin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La monodia nel medioevo, c1991:</subfield>
+    <subfield code="b">t.p. (Giulio Cattin) p. 4 of cover (b. 1929)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, 01-12-05</subfield>
+    <subfield code="b">(Cattin, Giulio; b. Vicenza, 22 May 1929; Italian musicologist)</subfield>
+  </datafield>
+</record>
