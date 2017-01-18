@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  79096622 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090226080748.0</controlfield>
+  <controlfield tag="008">790828n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79096622 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00328840</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mesa de Burgos</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Madrid.</subfield>
+    <subfield code="b">Mesa de Burgos</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ValentiĚn de la Cruz, Father. CroĚnica de la Mesa de Burgos en Madrid, 1978 (subj.)</subfield>
+    <subfield code="b">t.p. (Mesa de Burgos en Madrid) p. 18 (est. Nov. 1950, legal association of natives of Burgos in Madrid)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Madrid tel. dir. 1971-1972</subfield>
+    <subfield code="b">(Mesa de Burgos)</subfield>
+  </datafield>
+</record>
