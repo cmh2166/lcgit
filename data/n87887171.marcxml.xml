@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87887171 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880628054810.6</controlfield>
+  <controlfield tag="008">880414n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87887171 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ruby, J. W.</subfield>
+    <subfield code="q">(Jay W.),</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ruby, Jay W.,</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His History of the Rubi-Ruby families of Switzerland and America, 1987 printing, c1983:</subfield>
+    <subfield code="b">t.p. (J.W. (Jay W.) Ruby) p. 179 (b. 2/12/1906)</subfield>
+  </datafield>
+</record>
