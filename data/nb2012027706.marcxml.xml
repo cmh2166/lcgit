@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00801nz  a2200205n  4500</leader>
+  <controlfield tag="001">nb2012027706</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121124074845.0</controlfield>
+  <controlfield tag="008">121122n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012027706</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008629232</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20090926</subfield>
+    <subfield code="t">20090927</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">"Horizont 2020-2030: Herausforderungen des Mehrebenensystems an die EU-Reflexionsgruppe" (Conference)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Conference</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Stuttgart, Germany</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Public administration</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">European Union</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die EU-Reflexionsgruppe "Horizont 2020-2030", 2010:</subfield>
+    <subfield code="b">p. 7 (... der wissenschaftlichen Konferenz "Horizont 2020-2030: Herausforderungen des Mehrebenensystems an die EU-Reflexionsgruppe" held from 26-27 November 2009 in Stuttgart)</subfield>
+  </datafield>
+</record>
