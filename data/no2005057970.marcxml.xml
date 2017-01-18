@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00461nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2005057970</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050624051802.0</controlfield>
+  <controlfield tag="008">050622n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005057970</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06663071</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ruggles, Carl,</subfield>
+    <subfield code="d">1876-1971.</subfield>
+    <subfield code="t">Prayer</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ruggles, C. The uncovered Ruggles [SR] p2005:</subfield>
+    <subfield code="b">container (Prayer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, June 22, 2005</subfield>
+    <subfield code="b">(The prayer, 1v, pf, ?1921)</subfield>
+  </datafield>
+</record>
