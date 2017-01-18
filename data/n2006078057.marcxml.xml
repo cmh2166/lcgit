@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01017cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2006078057</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130920074026.0</controlfield>
+  <controlfield tag="008">061011n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006078057</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07076372</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19451211</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sin, Sŏn-hŭi,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Korea</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">kor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">辛仙姬,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shin, Sun-Hi,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hanʼguk kodae kŭkchang ŭi yŏksa, 2006:</subfield>
+    <subfield code="b">t.p. (Sin Sŏn-hŭi) colophon (b. 1945; grad., Ihwa Yŏdae Yŏngmunkwa; yŏnʼgŭkhak chŏnʼgong, Hawaii Taehak; yŏnʼgŭkhak paksa, Chungang Taehakkyo; head, Kungnip Kŭkchang)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sin Sŏn-hŭi mudae yesul chakpʻumjip, 2008:</subfield>
+    <subfield code="b">t.p. (Sin Sŏn-hŭi; Shin Sun-Hi [in rom.]) p. 262 (b. Dec. 11, 1945 in Chŏnbuk Iksan-si; head, Kungnip Chungang Kŭkchang)</subfield>
+  </datafield>
+</record>
