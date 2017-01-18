@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00609cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 97032539 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090531075103.0</controlfield>
+  <controlfield tag="008">970528n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97032539 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04349863</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">DFo</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Farren, Percy</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Farren, P.</subfield>
+    <subfield code="q">(Percy)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Farren, Percival</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The field of forty footsteps, 1832?:</subfield>
+    <subfield code="b">t.p. (Percy Farren)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The field of forty footsteps, 1833:</subfield>
+    <subfield code="b">first screen of microfiche (Farren, P.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amer. and Brit. theatrical biog.</subfield>
+    <subfield code="b">(Farren, Percival; 1784-1843; English actor)</subfield>
+  </datafield>
+</record>
