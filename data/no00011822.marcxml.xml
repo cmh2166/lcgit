@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00011822 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000222070010.0</controlfield>
+  <controlfield tag="008">000221n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00011822 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05158676</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roca, Ferrando</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ferrando Roca</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El judio errante, 1845:</subfield>
+    <subfield code="b">(lithographic plates, copied from ill. by Gavarni, with artist's signature of Ferrando Roca; plates also lettered "Lit. de Ferrando Roca"; one plate with full address "Litografia de Ferrando Roca calle de Libreteria, no. 15")</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Thieme-Becker;</subfield>
+    <subfield code="a">BeĚneĚzit (4th ed.);</subfield>
+    <subfield code="a">World biographical index (web);</subfield>
+    <subfield code="a">OCLC, 27 Jan. 2000.</subfield>
+  </datafield>
+</record>
