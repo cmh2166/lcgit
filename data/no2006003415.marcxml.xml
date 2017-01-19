@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00392nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006003415</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060113052002.0</controlfield>
+  <controlfield tag="008">060109n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006003415</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06825895</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brañas, César.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brañas, César.</subfield>
+    <subfield code="t">Poesía esencial</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poesía esencial, c2004.</subfield>
+  </datafield>
+</record>
