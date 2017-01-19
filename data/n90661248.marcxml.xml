@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00585cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90661248 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900627145126.2</controlfield>
+  <controlfield tag="008">900623n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90661248 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Gilchrest, Hanna, and Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Gilchrest, Hanna &amp; Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nebraska State Hist. Soc. for Its Records, 1898-1902</subfield>
+    <subfield code="b">(Gilchrest, Hanna, and Company; South Omaha; livestock commission merchants)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Omaha city dir., 1899</subfield>
+    <subfield code="b">(Gilchrest, Hanna &amp; Co. (Richard Gilchrest, D.C. Hanna, Monmouth, Ill.); live stock com.)</subfield>
+  </datafield>
+</record>
