@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00401nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  88106037 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19881209144652.3</controlfield>
+  <controlfield tag="008">881101n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88106037 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Levikov, S. P.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gidrodinamicheskie metody modelirovanii︠a︡ prot︠s︡essov na mori︠a︡kh SSSR, 1987:</subfield>
+    <subfield code="b">t.p. (kandidatov fiz.-mat. nauk ... S. P. Levikova)</subfield>
+  </datafield>
+</record>
