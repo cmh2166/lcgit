@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00688cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 98029733 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080913081423.0</controlfield>
+  <controlfield tag="008">980807n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98029733 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04790664</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Minami Manshū Tetsudō Kabushiki Kaisha.</subfield>
+    <subfield code="b">Tōkyō Shisha.</subfield>
+    <subfield code="b">Gyōmuka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">南滿洲鐵道株式會社.</subfield>
+    <subfield code="b">東京支社.</subfield>
+    <subfield code="b">業務課</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sekai kakkoku ni okeru oiru shēru jigyō, 1939:</subfield>
+    <subfield code="b">t.p. ([Minami Manshū Tetsudō Kabushiki Kaisha] Tōkyō Shisha Gyōmuka)</subfield>
+  </datafield>
+</record>
