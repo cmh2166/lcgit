@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00847cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  86038180 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971218155631.1</controlfield>
+  <controlfield tag="008">870327n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86038180 </subfield>
+    <subfield code="z">no 97053242 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Vorarlberger Landesarchiv</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Vorarlberg (Austria).</subfield>
+    <subfield code="b">Vorarlberger Landesarchiv</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Vorarlberg (Austria).</subfield>
+    <subfield code="b">Landesarchiv</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Landesarchiv Vorarlberg</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Forschungen zur Geschichte Vorarlbergs ; 6. Bd. Niederstätter, A. Vorarlberger Urfehdebriefe bis zum Ende des 16. Jahrhunderts, 1985:</subfield>
+    <subfield code="b">ser. t.p. (Verarlberger Landesarchiv)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handb. öster. Bibl., 1971</subfield>
+    <subfield code="b">(Vorarlberger Landesarchiv)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Öster. Amtskal. 1985/86</subfield>
+    <subfield code="b">(under Vorarlberg: Landesarchiv)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3-19-87</subfield>
+    <subfield code="b">(hdg.: Landesarchiv Vorarlberg; no usage)</subfield>
+  </datafield>
+</record>
