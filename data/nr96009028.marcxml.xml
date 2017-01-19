@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00781cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 96009028 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731084046.0</controlfield>
+  <controlfield tag="008">960306n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96009028 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04037934</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IWhI</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1952</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Innokentiĭ,</subfield>
+    <subfield code="c">igumen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pavlov, Innokentiĭ</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pavlov, Sergeĭ Nikolaevich,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vvedenie v istorii︠u︡ russkoĭ bogoslovskoĭ mysli, 1995:</subfield>
+    <subfield code="b">t.p. (Igumen Innokentiĭ (Pavlov))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chto takoe khristianstvo?, 2008:</subfield>
+    <subfield code="b">p. [414] (Igumen Innokentiĭ (secular name Sergeĭ Nikolaevich Pavlov); b. Moscow, Russia, 1952)</subfield>
+  </datafield>
+</record>
