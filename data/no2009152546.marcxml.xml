@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00968nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2009152546</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090926075623.0</controlfield>
+  <controlfield tag="008">090924n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009152546</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08251350</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sundelius, Marie,</subfield>
+    <subfield code="d">1884-1958</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sundborg, Marie Louise,</subfield>
+    <subfield code="d">1884-1958</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sandtvig, Marie,</subfield>
+    <subfield code="d">1884-1958</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gounod, C. Ave Maria [SR], 192-?:</subfield>
+    <subfield code="b">label (Marie Sundelius, soprano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kutsch/Riemens, 2003</subfield>
+    <subfield code="b">(Sundelius, Marie; b. Feb. 4, 1884, Karlstadt, Sweden; d. June 27, 1958, Boston; soprano; real name, Marie Sandtvig)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NY Times, July 4, 1958:</subfield>
+    <subfield code="b">p. 19 (Mme. Marie Louise Sundborg Sundelius, Swedish-American soprano, d. Boston last Thursday, aged 76; b. in Karlstad, Sweden; moved to US with her parents at age 9; m. Gustave Sundelius in 1906)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ww in mus, 1941 ed.</subfield>
+    <subfield code="b">(Sundelius, Marie; b. Karlstad, Sweden, 1890; Swedish-American soprano)</subfield>
+  </datafield>
+</record>
