@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00451cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84126181 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001201133507.0</controlfield>
+  <controlfield tag="008">841102n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84126181 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Breier, Pavel</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Breier, Pavol</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Moje najdlhsĚie praĚzdniny, 1984:</subfield>
+    <subfield code="b">t.p. (Pavel Breier) verso t.p. (MUDr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ako zomiera mesto--, 1999:</subfield>
+    <subfield code="b">t.p. (Pavol Breier) jkt. (doctor; b. 1921)</subfield>
+  </datafield>
+</record>
