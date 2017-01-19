@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83228485 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161028075457.0</controlfield>
+  <controlfield tag="008">831027n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83228485 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01033188</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1947</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kintzler, Catherine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Jean-Philippe Rameau, c1983:</subfield>
+    <subfield code="b">t.p. (Catherine Kintzler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base 8/12/83</subfield>
+    <subfield code="b">(hdg.: Kintzler, Catherine)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tolerancia Y laicismo, 2005:</subfield>
+    <subfield code="b">t.p. (Catherine Kintzler) back cover (born 1947)</subfield>
+  </datafield>
+</record>
