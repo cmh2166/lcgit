@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2008014472</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080304072202.0</controlfield>
+  <controlfield tag="008">080228n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008014472</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rice, Larry,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rice, L. Little house [SR] 2007:</subfield>
+    <subfield code="b">label (Larry Rice) container (vocals, fiddle, bass, banjo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from L. Rice, Feb. 28, 2008</subfield>
+    <subfield code="b">(Larry Rice's middle name is Matthew)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to L. Rice, Mar. 3, 2008</subfield>
+    <subfield code="b">(Larry Rice; b. Aug. 24, 1953; not the same as the mandolin player or singer of the same name)</subfield>
+  </datafield>
+</record>
