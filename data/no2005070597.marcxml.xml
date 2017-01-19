@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00506cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2005070597</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050816071221.0</controlfield>
+  <controlfield tag="008">050802n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005070597</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06695745</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU</subfield>
+    <subfield code="d">TxU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mann, Hans</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hans Mann, 2004:</subfield>
+    <subfield code="b">t.p. (Hans Mann) front flap (b. 1902? in Ulm, Germany; d. 1966 in Recife, Brazil; photographer; emigrated to South America in 1930)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Aug. 2, 2005:</subfield>
+    <subfield code="b">(hdg.: Mann, Hans)</subfield>
+  </datafield>
+</record>
