@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00536cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90686557 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910306133446.4</controlfield>
+  <controlfield tag="008">900828n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90686557 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kerf, E. A. de</subfield>
+    <subfield code="q">(Eddy A.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">De Kerf, E. A.</subfield>
+    <subfield code="q">(Eddy A.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kerf, Eddy A. de</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BaĚuerle, G.G.A. Finite and infinite dimensional ... c1990:</subfield>
+    <subfield code="b">CIP t.p. (E. de Kerf, Inst. f. Theoretical Physics, Univ. of Amsterdam) data sheet (de Kerf, Eddy A.) bk. t.p. (E.A. de Kerf)</subfield>
+  </datafield>
+</record>
