@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00537nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009054932</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090410075537.0</controlfield>
+  <controlfield tag="008">090408n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009054932</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08071716</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">A.D.A.M., Inc.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ADAM, Inc.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Breast cancer (A.D.A.M. : Online), EBSCOHost:</subfield>
+    <subfield code="b">journal publishing information (A.D.A.M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A.D.A.M. WWW home page, Apr. 8, 2009</subfield>
+    <subfield code="b">(A.D.A.M., Inc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Apr. 8, 2009</subfield>
+    <subfield code="b">(usage: A.D.A.M., Inc.)</subfield>
+  </datafield>
+</record>
