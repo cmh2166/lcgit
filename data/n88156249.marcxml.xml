@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00722cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88156249 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130722142704.0</controlfield>
+  <controlfield tag="008">890710n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88156249 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dillard, J. H.</subfield>
+    <subfield code="q">(James Hardy),</subfield>
+    <subfield code="d">1856-1940</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Dillard, James Hardy,</subfield>
+    <subfield code="d">1856-1940</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Univ. of Virginia Lib. for McCabe, W. Papers, 1757-1920</subfield>
+    <subfield code="b">(Dillard, James Hardy, 1856-1940)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6-30-89</subfield>
+    <subfield code="b">(hdg.: Dillard, James Hardy, 1856-1940; usage: J.H. Dillard)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWWA,</subfield>
+    <subfield code="b">v. 1, 1897-1942 (Dillard, James Hardy; educator; noted for attempts to improve race relations and educational facilities for blacks in the South)</subfield>
+  </datafield>
+</record>
