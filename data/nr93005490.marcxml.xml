@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01064nz  a2200229n  4500</leader>
+  <controlfield tag="001">nr 93005490 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930218055900.1</controlfield>
+  <controlfield tag="008">930211n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93005490 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)sb051741</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Jackson, Bonaventure</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">F. B.,</subfield>
+    <subfield code="c">obseruant</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">B., F.,</subfield>
+    <subfield code="c">obseruant</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">FB,</subfield>
+    <subfield code="c">obseruant</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Bonaventurae, P.F.,</subfield>
+    <subfield code="c">Britanno</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">F. B.,</subfield>
+    <subfield code="c">observant</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Manuductions to the pallace of trueth, 1616:</subfield>
+    <subfield code="b">t.p. (F. B. Obseruant)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pollard &amp; Redgrave. A short-title cat. 1475-1640, 1986</subfield>
+    <subfield code="b">(Bonaventure Jackson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Halkett &amp; Laing Dict. of anon. and pseudo. English lit., 3rd ed., 1475-1640, 1980:</subfield>
+    <subfield code="b">p. 122 (In the Approbation, the author is referred to as "P. F. Bonaventurae Britanno"; misinterpretations of the phrase have caused the work to be wrongly ascribed to Richard Britton and to Richard Francis Britton; "Britton" is also wrongly described as Jackson's pseudonym)</subfield>
+  </datafield>
+</record>
