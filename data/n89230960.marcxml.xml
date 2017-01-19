@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00582cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89230960 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910213124235.3</controlfield>
+  <controlfield tag="008">910205n| acannaab|          |a ana ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89230960 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">WHO Task Group on Environmental Health Criteria for Dichlorvos</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">WHO Task Group on Dichlorvos</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">World Health Organization.</subfield>
+    <subfield code="b">Task Group on Environmental Health Criteria for Dichlorvos</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Dichlorvos, 1989:</subfield>
+    <subfield code="b">p. 10 (WHO Task Group on Environmental Health Criteria for Dichlorvos) p. 8 (WHO Task Group on Dichlorvos)</subfield>
+  </datafield>
+</record>
