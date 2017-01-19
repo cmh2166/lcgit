@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00701cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr2001025002</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130801073826.0</controlfield>
+  <controlfield tag="008">010626n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001025002</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05522990</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG3489.9.K45</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zakharchenko, Nikolaĭ</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Historians</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vozvrashchenie k istoku, 2000:</subfield>
+    <subfield code="b">t.p. (Nikolaĭ Zakharchenko) colophon (Nikolaĭ Mikhaĭlovich Zakharchenko)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aleksandr Ignatʹevich Tarasov-Rodionov, 2012:</subfield>
+    <subfield code="b">cover (Nikolaĭ Mikhaĭlovich Zakharchenko, retired military officer (in the rank of colonel), historian and author)</subfield>
+  </datafield>
+</record>
