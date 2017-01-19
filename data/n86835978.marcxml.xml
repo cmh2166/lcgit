@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01295cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  86835978 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161214073922.0</controlfield>
+  <controlfield tag="008">860624n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86835978 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01628045</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1734</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Motte, Andrew,</subfield>
+    <subfield code="d">-1734</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Motte, Andrew,</subfield>
+    <subfield code="d">d. 1730.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Motte, Andrew,</subfield>
+    <subfield code="d">d. 1734</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">DNB death date is incorrect according to Musgrave and Wallis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 34-20582: Newton, I. Sir Isaac Newton's Mathematical principles of natural philosophy, 1934</subfield>
+    <subfield code="b">(hdg.: Motte, Andrew, d. 1730; usage: Andrew Motte)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6-17-86</subfield>
+    <subfield code="b">(hdg.: Motte, Andrew, d. 1730; usage: Andrew Motte)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB:</subfield>
+    <subfield code="b">vol. 13, p. 1091 (Andrew Motte, d. 1730)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wallis, R.V. Bibliography of British mathematics and its application:</subfield>
+    <subfield code="b">pt. 2, p. 161 (Motte, Andrew, before 1700-1734.3.19; FSA 1724.4.22; mathematician, lecturer, engraver, London)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Musgrave, W. Obituary prior to 1800 as far as relates to England, Scotland, and Ireland, 1899</subfield>
+    <subfield code="b">(Motte, Andrew, engraver and mathhem., auth. of The laws of motion; d. 1734.2.19, citing Gentleman's magazine for 1734, p. 107)</subfield>
+  </datafield>
+</record>
