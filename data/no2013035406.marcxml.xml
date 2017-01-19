@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013035406</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130331075036.0</controlfield>
+  <controlfield tag="008">130329n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013035406</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09440121</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1938</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">MuĚller, Beat,</subfield>
+    <subfield code="d">1938-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Bremgarten, Aargau, Switzerland</subfield>
+    <subfield code="e">Lucerne, Switzerland</subfield>
+    <subfield code="e">Ticino, Switzerland</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Jazz</subfield>
+    <subfield code="a">Criticism</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Music critics</subfield>
+    <subfield code="a">Journalists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jazz in Luzern, 2009:</subfield>
+    <subfield code="b">t.p. (Beat MuĚller) p. 143 (born and raised in 1938 in Bremgarten, AG, Switzerland; journalist since 1961; jazz critic and columnist; lives in Lucerne and Ticino, Switzerland)</subfield>
+  </datafield>
+</record>
