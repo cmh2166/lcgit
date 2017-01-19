@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00906nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014091394</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140710073611.0</controlfield>
+  <controlfield tag="008">140709n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014091394</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09903888</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IlMpPL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IlMpPL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19760801</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bower, Elizabeth,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Leeds (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actresses</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Narrator of audiobooks</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moyes, Jojo. One plus one, 2014:</subfield>
+    <subfield code="b">label (Read by Elizabeth Bower) container (Elizabeth Bower is a familiar face on British TV having appeared in programs including Trollied, Doctors, Silent witness, The bill, and Pramface.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb WWW site, July 9, 2014:</subfield>
+    <subfield code="b">(Elizabeth Bower, actress, born on August 1, 1976 in Leeds, West Yorkshire, England. She is an actress, known for Doctors (2000), Trollied (2011) and Micro Men (2009)).</subfield>
+  </datafield>
+</record>
