@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00835cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2004020353</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322110125.0</controlfield>
+  <controlfield tag="008">040708n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004020353</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1831,1832]</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Davies, Vincent,</subfield>
+    <subfield code="d">1831 or 1832-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Davies, V.</subfield>
+    <subfield code="q">(Vincent),</subfield>
+    <subfield code="d">1831 or 1832-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Davies, Vincent,</subfield>
+    <subfield code="d">b. 1831 or 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Davis, Vincent,</subfield>
+    <subfield code="d">1831 or 1832-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Courting in the rain, 1872</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford University Library online catalogue, July 8, 2004</subfield>
+    <subfield code="b">(hdg.: Davies, Vincent, composer; usage: Vincent Davies; V. Davies; Vincent Davis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AncestryPlus, July 8, 2004:</subfield>
+    <subfield code="b">1891 England census (Vincent Davies; musician; age 59; Islington, London, England; b. Islington, London, England)</subfield>
+  </datafield>
+</record>
