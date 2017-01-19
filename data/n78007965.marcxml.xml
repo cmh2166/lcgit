@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  78007965 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801075446.0</controlfield>
+  <controlfield tag="008">780223n| abannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78007965 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1935</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nomura, Toshio,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Maboroshi no ireisai, 1977:</subfield>
+    <subfield code="b">t.p. (Nomura Toshio) colophon (copyright by Toshio Nomura [in rom])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ja 77-21507</subfield>
+    <subfield code="b">(r; Nomura Toshio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. from TSCC</subfield>
+    <subfield code="b">(b. 4/27/ShoĚwa 10; confirmed by author)</subfield>
+  </datafield>
+</record>
