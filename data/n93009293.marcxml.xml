@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00710nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  93009293 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930302104154.2</controlfield>
+  <controlfield tag="008">930202n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93009293 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Preferred Pictures, Inc.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Famous Attractions Corporation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shameful behavior? [MP] 1926:</subfield>
+    <subfield code="b">credits (A Preferred Picture)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 2/2/93</subfield>
+    <subfield code="b">(PREMARC hdg.: Preferred Pictures, inc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A. Slide, The American film industry, 1986:</subfield>
+    <subfield code="b">pp. 269-270 (Preferred Pictures; formed by B. P. Schulberg (1892-1957) in 1920 with J. G. "Jack" Bachmann and Al Lichtman; also known as Famous Attractions Corporation; released its last films in 1926)</subfield>
+  </datafield>
+</record>
