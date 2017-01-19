@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00813nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011038982</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110313075143.0</controlfield>
+  <controlfield tag="008">110311n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011038982</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08794338</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Adlgasser, Anton Cajetan,</subfield>
+    <subfield code="d">1729-1777.</subfield>
+    <subfield code="t">Deo in altissimis gloria</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Adlgasser, Anton Cajetan,</subfield>
+    <subfield code="d">1729-1777.</subfield>
+    <subfield code="t">Offertorio per il Natale del Nostro Sigre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Adlgasser, Anton Cajetan,</subfield>
+    <subfield code="d">1729-1777.</subfield>
+    <subfield code="t">Weihnachtsoffertorium</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adlgasser, A.C. Weihnachtsoffertorium, c2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">De Catanzaro, C.D. Anton Cajetan Adlgasser (1729-1777), c2000</subfield>
+    <subfield code="b">(5.10. Offertorium, Deo in altissimis gloria, SA solo, SATB chorus, 2 clarini, timpani, 2 violins, viola, continuo; ms. title: Offertorio per il Natale del Nostro Sigre)</subfield>
+  </datafield>
+</record>
