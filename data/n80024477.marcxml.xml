@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01075cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  80024477 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219092708.0</controlfield>
+  <controlfield tag="008">800306n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80024477 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mitchell, G. Duncan</subfield>
+    <subfield code="q">(Geoffrey Duncan)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Geoffrey Duncan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Dīnkin Mīshīl</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mīshīl, D.</subfield>
+    <subfield code="q">(Dīnkin)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mīshīl, Dīnkin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mīshīl, G. D.</subfield>
+    <subfield code="q">(G. Dīnkin)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mitchell, Duncan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mitchell, G. D.</subfield>
+    <subfield code="q">(Geoffrey Duncan)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Mitchell, Geoffrey Duncan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Sociology, 1959.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dictionary of sociology. Arabic. 1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (Dīnkin Mīshīl) p. 5, etc. (D. Mīshīl, G. D. Mīshīl)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Snowden, R. The artificial family, 1983, c1981 (a.e.)</subfield>
+    <subfield code="b">t.p. (G.D. Mitchell; Institute of Population Studies, Univ. of Exeter) opposite t.p. (Duncan Mitchell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 19, 2014</subfield>
+    <subfield code="b">(M.B.E.B.Sc. Econ.; Senior Lecturer in Sociology, Univ. of Exeter)</subfield>
+  </datafield>
+</record>
