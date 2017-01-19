@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00769cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2014049427</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150227073949.0</controlfield>
+  <controlfield tag="008">140414n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014049427</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09733844</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1962</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McGregor-Giles, Olivia Aroha,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Olivia Aroha</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Giles, Olivia Aroha,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Giles, Olivia Aroha McGregor-,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Heart of the tapu stone, 2013:</subfield>
+    <subfield code="b">title page (Olivia Aroha Giles) CIP data sheet (born 1962)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Zealand database, April 11, 2014</subfield>
+    <subfield code="b">(usage: Olivia Aroha Giles, Olivia Giles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hoani and Makere Te Kuru, 2014:</subfield>
+    <subfield code="b">title page (Olivia Aroha McGregor-Giles)</subfield>
+  </datafield>
+</record>
