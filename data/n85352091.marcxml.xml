@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00937cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85352091 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900524102015.6</controlfield>
+  <controlfield tag="008">861030n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85352091 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Research for Better Schools, inc.</subfield>
+    <subfield code="b">Research and Evaluation Division.</subfield>
+    <subfield code="b">Field Studies Component</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Research for Better Schools, inc.</subfield>
+    <subfield code="b">Research and Evaluation Division.</subfield>
+    <subfield code="b">Field Studies Unit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rossman, G. Intentions and impacts, 1984:</subfield>
+    <subfield code="b">t.p. (Field Studies Component, Research and Evaluation Division, Research for Better Schools, Inc., Philadelphia, PA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rossman, G.B. Professional cultures, improvement efforts and effectiveness, 1985:</subfield>
+    <subfield code="b">t.p. (Field Studies Unit, Research and Evalulation Division, Research for Better Schools, Philadelphia, PA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to organization, 5/22/90</subfield>
+    <subfield code="b">(Field Studies Unit is variant name, true name is Field Studies Component)</subfield>
+  </datafield>
+</record>
