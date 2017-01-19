@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00508nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003117915</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031122071026.0</controlfield>
+  <controlfield tag="008">031121n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003117915</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06210790</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">García Rincón, Pilar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rincón, Pilar García</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">García, Pilar</subfield>
+    <subfield code="q">(García Rincón)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mitología clásica en la Granja de San Ildefonso, 2002:</subfield>
+    <subfield code="b">t.p. (Pilar García Rincón) cover (Pilar García)</subfield>
+  </datafield>
+</record>
