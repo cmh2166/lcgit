@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01259cz  a2200241n  4500</leader>
+  <controlfield tag="001">n 2013004530</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130130074857.0</controlfield>
+  <controlfield tag="008">130129n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013004530</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Naranjo Piñera, Eduardo Jorge</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">San Cristóbal de Las Casas, Mexico</subfield>
+    <subfield code="f">Mexico City, Mexico</subfield>
+    <subfield code="f">Heredia, Costa Rica</subfield>
+    <subfield code="f">Tallahassee, Fla.</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">enaranjo@ecosur.mx</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">ECOSUR (Institution : Mexico)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad Autónoma Metropolitana</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad Nacional (Costa Rica)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Florida</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Piñera, Eduardo Jorge Naranjo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Naranjo, E. J.</subfield>
+    <subfield code="q">(Eduardo Jorge Naranjo Piñera)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uso y manejo de fauna silvestre en el norte de Mesoamérica, 2010:</subfield>
+    <subfield code="b">t.p. (Eduardo Naranjo Piñera) p. 23, etc. (bib. ref.: Naranjo, E.J.; researcher, Dpto. de Ecología y Sistemática Terrestres, Colegio de la Frontera Sur, Campus San Cristóbal de las Casas, Chiapas, Mexico; biologist degree, Univ. Aut. Metropolitana, Mexico; master's in wildlife mgmt., Univ.  Nac. de Costa Rica; dr. in ecology and wildlife conservation, Univ. of Fla., U.S.; enaranjo@ecosur.mx)</subfield>
+  </datafield>
+</record>
