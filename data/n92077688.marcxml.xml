@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00850cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  92077688 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920803152518.9</controlfield>
+  <controlfield tag="008">920803n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92077688 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Little, Eleanor H.</subfield>
+    <subfield code="q">(Eleanor Howell),</subfield>
+    <subfield code="d">1885-1986</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Little, Eleanor Howell,</subfield>
+    <subfield code="d">1885-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Little, Eleanor Howell,</subfield>
+    <subfield code="d">1885-1986</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Little, E. H.</subfield>
+    <subfield code="q">(Eleanor Howell),</subfield>
+    <subfield code="d">1885-1986</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from University of Connecticut Library for Her Papers, 1933-1979</subfield>
+    <subfield code="b">(Eleanor H. Little; 1885-1986; parole officer, matron, psychologist, manufacturing administrator, state legislator; activities w. Conn. Dept. of Correction and Conn. Relief Commission; of Guilford, Conn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: Little, Eleanor Howell, 1885- ; usage: E.H. Little; Eleanor H. Little)</subfield>
+  </datafield>
+</record>
