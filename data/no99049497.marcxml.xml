@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00547nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99049497 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990714052018.5</controlfield>
+  <controlfield tag="008">990713n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99049497 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05025408 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU</subfield>
+    <subfield code="c">OBgU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gates, Chas. H.</subfield>
+    <subfield code="q">(Charles Horatio),</subfield>
+    <subfield code="d">1816-1896</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gates, Charles Horatio,</subfield>
+    <subfield code="d">1816-1896</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 9-15-1999</subfield>
+    <subfield code="b">(hdgs.: Gates, Chas. H.; Gates, Charles H.; Gates, Charles Horatio, b. 1816; Gates, Charles Horatio, 1816-1896; usages: Chas. H. Gates, Charles Horatio Gates)</subfield>
+  </datafield>
+</record>
