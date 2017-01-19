@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00535nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 89006042 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890510060256.4</controlfield>
+  <controlfield tag="008">890502n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89006042 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">MRA (Association : Brookfield, Wis.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Management Research Association</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sales representative compensation &amp; benefits survey, 1987:</subfield>
+    <subfield code="b">t.p. (MRA) cover p. 4 (Brookfield, Wisconsin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to the Association, 5/1/89:</subfield>
+    <subfield code="b">(MRA stands for Management Research Association)</subfield>
+  </datafield>
+</record>
