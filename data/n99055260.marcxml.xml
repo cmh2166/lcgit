@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00764cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  99055260 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000613064811.0</controlfield>
+  <controlfield tag="008">990802n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99055260 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05040234</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NmU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Klimchuk, A. B.</subfield>
+    <subfield code="q">(Aleksandr Borisovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Klimchuk, Aleksandr Borisovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Klimchouk, A. B.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Klimchouk, Alexander B.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strukturnye predposylki speleogeneza v gipsakh ZapadnoiĚ Ukrainy, 1995:</subfield>
+    <subfield code="b">t.p. (A.B. Klimchuk; A.B. Klimchouk [in rom.]) colophon (Klimchuk Aleksandr Borisovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Speleogenesis, c2000:</subfield>
+    <subfield code="b">t.p. (Alexander B. Klimchouk; Kiev, Ukraine) back cover (sen. scientist, Inst. of Geol. Sci., Nat. Acad. of Sci., Ukraine)</subfield>
+  </datafield>
+</record>
