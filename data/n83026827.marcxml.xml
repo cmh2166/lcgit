@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00997cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  83026827 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219105907.0</controlfield>
+  <controlfield tag="008">830511nc acannaabn          |b aba      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83026827 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00918403</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Xu, Junliang</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hsü, Chün-liang</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">徐俊良</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">徐君亮</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Editor of Tsʻam tʻi chieh pʻou sheng li hsüeh]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tsʻan tʻi chieh pʻou sheng li hsüeh, 1981 (a.e.)</subfield>
+    <subfield code="b">colophon (Hsü Chün-liang, Che-chiang nung yeh ta hsüeh)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Author of Hsü Hsia-kʻo ti ku shih]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Hsü Hsia-kʻo ti ku shih, 1987:</subfield>
+    <subfield code="b">t.p. (Hsü Chün-liang)</subfield>
+  </datafield>
+</record>
