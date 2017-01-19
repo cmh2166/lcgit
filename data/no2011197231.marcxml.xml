@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00665nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011197231</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111224075109.0</controlfield>
+  <controlfield tag="008">111222n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011197231</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09071606</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Michael J. Kappel &amp; Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Michael J. Kappel and Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kappel &amp; Co. (Savannah, Ga.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Savannah River Baptist Association. Minutes, 1817:</subfield>
+    <subfield code="b">t.p. (Michael J. Kappel &amp; Co.; printing firm at Savannah)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files, Dec. 21, 2011</subfield>
+    <subfield code="b">(hdg.: Michael J. Kappel &amp; Co.; note: printing firm of Michael J. Kappel (1791 or 2-1846); active at  Savannah, ca. 1817)</subfield>
+  </datafield>
+</record>
