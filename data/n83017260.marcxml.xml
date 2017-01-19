@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00877cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  83017260 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000513064210.0</controlfield>
+  <controlfield tag="008">830323n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83017260 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00910652</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez, Gonzalo M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez Mesa, Gonzalo M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mesa, Gonzalo M. Rodríguez</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez Mesa, Gonzalo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El proceso de industrialización de la economía cubana, 1980:</subfield>
+    <subfield code="b">t.p. (Gonzalo M. Rodríguez) verso of t.p. (Gonzalo M. Rodríguez Mesa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Castro Tato, M. Sobre la metodología de la investigación económica, 1982:</subfield>
+    <subfield code="b">t.p. (Gonzalo Rodríguez Mesa) p. 2 (Gonzalo M. Rodríguez Mesa; b. 1940, Máximo Gómez, Matanzas; profesor auxiliar y trabaja en la Facultad de Economía de la Universidad de La Habana)</subfield>
+  </datafield>
+</record>
