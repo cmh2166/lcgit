@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00688cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  79002727 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090228074911.0</controlfield>
+  <controlfield tag="008">790110n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79002727 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00236940</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Servettaz, Françoise</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Servettaz, F.</subfield>
+    <subfield code="q">(Françoise)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Servettaz, F.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aubry, B. Eléments pour l'étude ... 1978 (a.e.)</subfield>
+    <subfield code="b">p. 5 (F. Servettaz, Lycée d'Etat mixte de Châlons-sur-Marne) p. 35 (F. Servettaz, Lycée d'Etat P. Bayen-Châlons)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aubry, B. Oiseaux de Champagne-Ardenne, c1982:</subfield>
+    <subfield code="b">t.p. (Françoise Servettaz; professeur de biologie-géologie)</subfield>
+  </datafield>
+</record>
