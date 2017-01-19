@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00952cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  85306744 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140226143157.0</controlfield>
+  <controlfield tag="008">860310n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85306744 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01561135</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">-0420</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Aristophanes.</subfield>
+    <subfield code="t">Peace</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="g">Athens (Greece)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Comedies</subfield>
+    <subfield code="a">Plays (Performed works)</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Aristophanes.</subfield>
+    <subfield code="t">Pax</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Aristophanes.</subfield>
+    <subfield code="t">Eirēnē</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Aristophanes.</subfield>
+    <subfield code="t">Εἰρήνη</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pax, 1968.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxf. class. dict., 2nd ed., 1970</subfield>
+    <subfield code="b">(under Aristophanes: Peace (Pax))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aristophanes : Peace, 1998.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Papyros-Larous.</subfield>
+    <subfield code="b">(Eirēnē)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aristophane. Tome II, 1964:</subfield>
+    <subfield code="b">title page (La paix) page 87 (first performed in Athens in 421 BC) running title (Εἰρήνη)</subfield>
+  </datafield>
+</record>
