@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012027993</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120229075440.0</controlfield>
+  <controlfield tag="008">120227n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012027993</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09127212</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Musée français de la brasserie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La pirogue ivre, 2006:</subfield>
+    <subfield code="b">t.p. (Musée français de la brasserie; loc. Saint-Nicolas-de-Port)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its website, Feb. 24, 2012</subfield>
+    <subfield code="b">(Musée français de la brasserie; loc. Saint-Nicolas-de-Port, France)</subfield>
+  </datafield>
+</record>
