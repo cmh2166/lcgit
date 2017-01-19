@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00964cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  80073729 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151013073805.0</controlfield>
+  <controlfield tag="008">800820n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80073729 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00455165</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1922-03-01</subfield>
+    <subfield code="g">1995-12-22</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ6662.U5</subfield>
+    <subfield code="c">Spanish</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PC3942.22.U48</subfield>
+    <subfield code="c">Catalan</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Luján, Néstor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Pickwick</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Luján i Fernández, Nèstor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fernández, Nèstor Luján i</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His De toros y toreros, 1947.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Diccionari Luján de gastronomia catalana, 1990:</subfield>
+    <subfield code="b">t.p. (Nèstor Luján) p. 4 cover (Nèstor Luján i Fernández; b. Mataró, 1922; journalist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Els fantasmes del Trianon, 1996:</subfield>
+    <subfield code="b">t.p. (Nèstor Luján) front flap (b. Mar. 1, 1922 in Mataró, Spain; d. Dec. 22, 1995)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. converted from 678, 2012-10-02</subfield>
+    <subfield code="b">(b. 1922)</subfield>
+  </datafield>
+</record>
