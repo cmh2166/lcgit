@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00457nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012106766</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810085830.0</controlfield>
+  <controlfield tag="008">120808n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012106766</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09271451</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB-M</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB-M</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pitre, Duane</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Feel free [VR] p2012:</subfield>
+    <subfield code="b">container (Duane Pitre)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pitre Duane WWW site, July 27, 2012</subfield>
+    <subfield code="b">(American avant-garde composer, performer, and sound artist)</subfield>
+  </datafield>
+</record>
