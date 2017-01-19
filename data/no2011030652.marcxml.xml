@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00386nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011030652</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110227075242.0</controlfield>
+  <controlfield tag="008">110225n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011030652</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08780083</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">KU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Royaards, Rense.</subfield>
+    <subfield code="t">Drama in Mexico.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Royaards, Rense.</subfield>
+    <subfield code="t">Mexican drama</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mexican drama, 1992.</subfield>
+  </datafield>
+</record>
