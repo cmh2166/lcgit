@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01132cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2010033296</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111015075311.0</controlfield>
+  <controlfield tag="008">100226n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010033296</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08407779</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaBeW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaBeW</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ganbaatar, Mi︠a︡gmarzhavyn,</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ганбаатар, Мягмаржавын,</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Mi︠a︡gmarzhavyn Ganbaatar,</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Мягмаржавын Ганбаатар,</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ganbaatar, M.</subfield>
+    <subfield code="q">(Mi︠a︡gmarzhavyn),</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ганбаатар, М.</subfield>
+    <subfield code="q">(Мягмаржавын),</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ėsėregu̇u̇ tȯlȯȯlȯgch, 2008:</subfield>
+    <subfield code="b">t.p. (Мягмаржавын Ганбаатар = Mi︠a︡gmarzhavyn Ganbaatar) p. 3 of cover (b. 1975 [Ulaanbaatar]; master's in economics; politician in Ulaanbaatar city government; party: MAKhN)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nėgėn udaa Mongold, 2010:</subfield>
+    <subfield code="b">t.p. (М. Ганбаатар = M. Ganbaatar) in running title (Мягмаржавын Ганбаатар = Mi︠a︡gmarzhavyn Ganbaatar)</subfield>
+  </datafield>
+</record>
