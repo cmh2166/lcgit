@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00846cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  90707455 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140611073810.0</controlfield>
+  <controlfield tag="008">901023n| azannaabn          |a aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90707455 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02846158</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1978</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Geddes, John Maxwell.</subfield>
+    <subfield code="t">Callanish,</subfield>
+    <subfield code="n">no. 4</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="a">no. 4</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Geddes, John Maxwell.</subfield>
+    <subfield code="t">Callanish IV</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Geddes, John Maxwell.</subfield>
+    <subfield code="t">Callanish 4</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Geddes, John Maxwell.</subfield>
+    <subfield code="t">Callanish four</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Geddes, John Maxwell.</subfield>
+    <subfield code="t">Callanish,</subfield>
+    <subfield code="m">cello</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">90-754507: His Callanish IV, c1986</subfield>
+    <subfield code="b">(title on CaOTU rept.: Callanish IV)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, viewed June 10, 2014</subfield>
+    <subfield code="b">(Callanish IV, vc, 1978; composed 5 additional works titled Callanish for different instruments)</subfield>
+  </datafield>
+</record>
