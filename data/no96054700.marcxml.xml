@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00339nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 96054700 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961022053259.3</controlfield>
+  <controlfield tag="008">961021n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96054700 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04188186 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="c">OU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hadari, Amnon</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ha-Sokhnut ha-Yehudit, 1995:</subfield>
+    <subfield code="b">t.p. verso (Amnon Hadari)</subfield>
+  </datafield>
+</record>
