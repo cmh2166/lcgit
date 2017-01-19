@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00914cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2005100494</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323091228.0</controlfield>
+  <controlfield tag="008">051024n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005100494</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06767329</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">16</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Giffthail, Johann,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Giffthail, Johann,</subfield>
+    <subfield code="d">17th cent.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Giffthail, Johannes,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gifftheil, Joannes,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gifftheil, Johann,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gifftheil, Johannes,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Der käyserische Papst, das ist, Wie schändtlich die Päpste ... , anno MDCVII, 1607:</subfield>
+    <subfield code="b">t.p. (Johann Giffthail)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VD 17 on the WWW, viewed Oct. 24, 2005</subfield>
+    <subfield code="b">(hdg.: Giffthail, Johann; variants: Giffthail, Johannes; Gifftheil, Johann; Gifftheil, Johannes; Gifftheil, Joannes)</subfield>
+  </datafield>
+</record>
