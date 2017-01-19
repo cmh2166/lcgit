@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01388cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  89633838 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210091137.0</controlfield>
+  <controlfield tag="008">890609n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89633838 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Fondation Baulig</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Association des publications de la Faculté des lettres de Strasbourg.</subfield>
+    <subfield code="b">Fondation Baulig</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Association des publications près les universités de Strasbourg.</subfield>
+    <subfield code="b">Fondation Baulig</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Université de Strasbourg.</subfield>
+    <subfield code="b">Fondation Baulig</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Association des publications de la Faculté des lettres de Strasbourg</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Association des publications près les universités de Strasbourg</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Université de Strasbourg</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog headings: Fondation Baulig; and, Strasbourg. Université. Fondation Baulig.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Association des publications près les universités de Strasbourg, Fondation Baulig ; t. 12. Schwab, R.G. De la cellule rurale à la région, c1980.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 06-09-89</subfield>
+    <subfield code="b">(headings: Strasbourg. Université. Fondation Baulig; Fondation Baulig; usage: Association des publications de la Faculté des lettres de Strasbourg, Fondation Baulig; Association des publications près les universités de Strasbourg, Fondation Baulig)</subfield>
+  </datafield>
+</record>
