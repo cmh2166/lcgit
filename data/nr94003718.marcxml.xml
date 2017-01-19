@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01798cz  a2200289n  4500</leader>
+  <controlfield tag="001">n  94044913 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160301073911.0</controlfield>
+  <controlfield tag="008">940510n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94044913 </subfield>
+    <subfield code="z">nr 94003718 </subfield>
+    <subfield code="z">n  98062659 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03601681</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MH-FA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1953-01-23</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML410.A2333</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Adams, John Luther,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Meridian (Miss.)</subfield>
+    <subfield code="c">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Alaska</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1978</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Fairbanks Symphony Orchestra</subfield>
+    <subfield code="a">Arctic Chamber Orchestra</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1982</subfield>
+    <subfield code="t">1989</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Alaska Fairbanks</subfield>
+    <subfield code="a">Bennington College</subfield>
+    <subfield code="a">Oberlin College. Conservatory of Music</subfield>
+    <subfield code="a">Harvard University</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Percussionists</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="a">Environmentalists</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="a">Music teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The far country [SR] p1993:</subfield>
+    <subfield code="b">label (John Luther Adams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anderson, E.R. Contemporary Amer. composers, 2nd ed.</subfield>
+    <subfield code="b">(Adams, John Luther; b. 1-23-53, Meridian, Miss.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">America in concert. Program #214, 198-:</subfield>
+    <subfield code="b">program sheet (John Adams; footnote: Alaskan composer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC</subfield>
+    <subfield code="b">(Bib. records indicate that Adams composed works in Alaska)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford music online, February 29, 2016:</subfield>
+    <subfield code="b">New Grove dictionary of American music, 2nd ed. (Adams, John Luther; born January 23, 1953, Meridian, MS; American composer; settled in Alaska in 1978; timpanist and principal percussionist of the Fairbanks Symphony Orchestra and the Arctic Chamber Orchestra, 1982-1989; author of two books and numerous other writings on music and the environment; he has taught at the University of Alaska, Bennington College, Oberlin Conservatory of Music, and Harvard University)</subfield>
+  </datafield>
+</record>
