@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01053cz  a2200253n  4500</leader>
+  <controlfield tag="001">n 2013027874</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130604070357.0</controlfield>
+  <controlfield tag="008">130516n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013027874</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09475724</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19201117</subfield>
+    <subfield code="g">2007</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Belo, Eshua Mois,</subfield>
+    <subfield code="d">1920-2007</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Plovdiv, Bulgaria</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">puppet theater</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">theater critic</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">bul</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Belo, Shuli,</subfield>
+    <subfield code="d">1920-2007</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бело, Ешуа Моис,</subfield>
+    <subfield code="d">1920-2007</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kuklenii︠a︡t teatŭr i malkii︠a︡t zritel, 2012:</subfield>
+    <subfield code="b">t.p. (Shuli Belo), outside back cover (Шули Бело (Ешуа Моис Бело) = Shuli Belo (Eshua Mois Belo); born on Nov. 17, 1920 in Plovdiv; theater critic, researcher on Bulgarian puppet theater.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Virtualna biblioteka Bulgarii︠a︡ (www.cobiss.bg), accessed May 16, 2013:</subfield>
+    <subfield code="b">(Бело, Шули, 1920-2007 = Belo, Shuli, 1920-2007)</subfield>
+  </datafield>
+</record>
