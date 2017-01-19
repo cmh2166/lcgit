@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01009cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  82233272 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140912073747.0</controlfield>
+  <controlfield tag="008">840113n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82233272 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01060231</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NNMM</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19131006</subfield>
+    <subfield code="g">19851115</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PT2629.P655</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Oppenheim, Meret,</subfield>
+    <subfield code="d">1913-1985</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Charlottenburg (Berlin, Germany)</subfield>
+    <subfield code="b">Basel (Switzerland)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Surrealist artists</subfield>
+    <subfield code="a">Poets</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Curiger, B. Meret Oppenheim, c1982:</subfield>
+    <subfield code="b">t.p. (Meret Oppenheim) p. 9 (b. 10/6/13; Meret Elisabeth Oppenheim)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 1-6-84</subfield>
+    <subfield code="b">(hdg.: Oppenheim, Meret, 1913- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Meret Oppenheim, 1986:</subfield>
+    <subfield code="b">p. 5 (d. Nov. 1985)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, German, via WWW, September 10, 2014</subfield>
+    <subfield code="b">(Meret Elisabeth Oppenheim; born October 6, 1913 in Berlin-Charlottenburg; died November 15, 1985 in Basel; German-Swiss artist (surrealism) and poet)</subfield>
+  </datafield>
+</record>
