@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01154cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  80049691 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090415074844.0</controlfield>
+  <controlfield tag="008">801013n| acnnnabbn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80049691 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00431574</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-ru---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Kuĭbyshev (Kuĭbyshevskai︠a︡ oblastʹ, R.S.F.S.R.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kuybyshev (Kuĭbyshevskai︠a︡ oblastʹ, R.S.F.S.R.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kuibyschew (Kuĭbyshevskai︠a︡ oblastʹ, R.S.F.S.R.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Kuybyshev, Russia</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="a">Samara (Russia)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a subject. Works about this place are entered under Samara (Russia).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gurʹi︠a︡nov, E.F. Drevnie vekhi Samary, 1986:</subfield>
+    <subfield code="b">t.p. (Samary) p. 3 (Samary--Kuĭbysheva)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN, 1970:</subfield>
+    <subfield code="b">v. 3, p. 831 (Kuybyshev; popl.; 53°12 N; 50°09 E)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RSFSR, adm.-ter. delenie, 1981:</subfield>
+    <subfield code="b">p. 245 (Kuĭbyshev) p. 501 (earlier name Samara [no publ. in LC data base])</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">BGN phone call, 09-01-92 (Samara; 53°12ʹN, 50°09ʹE; name changed from Kuibyshev to Samara Dec. 1991-Jan. 1992)</subfield>
+  </datafield>
+</record>
