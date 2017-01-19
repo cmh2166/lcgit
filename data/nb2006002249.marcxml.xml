@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2006002249</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060131050947.0</controlfield>
+  <controlfield tag="008">060130n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2006002249</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006387114</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Engineering Council (Great Britain).</subfield>
+    <subfield code="b">WISE Campaign</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Engineering Council (Great Britain).</subfield>
+    <subfield code="b">Women into Science and Engineering</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Directory of WISE initiatives 1999:</subfield>
+    <subfield code="b">t.p. (WISE Campaign, Engineering Council) p. facing t.p. (Engineering Council, Women Into Science and Engineering; launched 1984)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 30 Jan. 2006</subfield>
+    <subfield code="b">(hdg.: Engineering Council. WISE Campaign)</subfield>
+  </datafield>
+</record>
