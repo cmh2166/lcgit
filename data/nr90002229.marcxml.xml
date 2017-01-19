@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 90002229 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080812075904.0</controlfield>
+  <controlfield tag="008">900214nc acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 90002229 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02694576</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Sichuan Sheng guo yi qi gong yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Ssu-chʻuan sheng kuo i chʻi kung yen chiu so</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Si chuan sheng guo yi qi gong yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Sichuan Sheng (China).</subfield>
+    <subfield code="b">Guo yi qi gong yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">四川省国医气功硏究所</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chʻi kung chʻuan tʻung shu yü tzʻu tien, 1988:</subfield>
+    <subfield code="b">t.p. (Ssu-chʻuan sheng kuo i chʻi kung yen chiu so)</subfield>
+  </datafield>
+</record>
