@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00673cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89197383 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020607084838.0</controlfield>
+  <controlfield tag="008">940308n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89197383 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03561320</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ9697.B3344</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barbosa, Orestes,</subfield>
+    <subfield code="d">1893-1966</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CustoĚdio Mesquita &amp; Orestes Barbosa [SR] p1983:</subfield>
+    <subfield code="b">label (Orestes Barbosa, composer) container, p. 5 (b. 5/7/1893) p. 6 (d. 8/15/66)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His BambambaĚ, 1993:</subfield>
+    <subfield code="b">t.p. (Orestes Barbosa) p. 129 (b. 05-07-1893 in Rio de Janeiro) p. 130 (d. 08-15-1966)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base 03-16-94</subfield>
+    <subfield code="b">(hdg.: Barbosa, Orestes)</subfield>
+  </datafield>
+</record>
