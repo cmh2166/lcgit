@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01221cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 92022185 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930901055428.1</controlfield>
+  <controlfield tag="008">920910n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92022185 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="c">PPPrHi</subfield>
+    <subfield code="d">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">United Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Synod of Florida</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Synod of Florida (United Presbyterian Church in the U.S.A.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Florida Synod (United Presbyterian Church in the U.S.A.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Synod of Florida</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">United Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Synod of the South</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">United Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Synod of Atlantic</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Presbyterian Church in the U.S.A. Special Committee on Segregated Synods and Presbyteries. Records, 1954-1960</subfield>
+    <subfield code="b">(Synod of Florida; received a portion of the Synod of Atlantic, an African-American Presbyterian synod, by merger, in 1959)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi files</subfield>
+    <subfield code="b">(Synod of Florida, sometimes referred to as Florida Synod; erected 1905 by the Presbyterian Church in the U.S.A.; dissolved 1907; reorganized 1921; parent body's name changed in 1958 to United Presbyterian Church in the U.S.A.; merged into the Synod of the South in 1973)</subfield>
+  </datafield>
+</record>
