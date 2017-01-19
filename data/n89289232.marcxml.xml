@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00488cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  89289232 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160610033743.0</controlfield>
+  <controlfield tag="008">930430n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89289232 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Uganda.</subfield>
+    <subfield code="b">Ministry of Local Government</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Uganda.</subfield>
+    <subfield code="b">Local Government, Ministry of</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Meeting of District Medical Officers (1st : 1986 : Kampala, Uganda). Report on the First ... 1986?:</subfield>
+    <subfield code="b">t.p. (Uganda; Ministry of Local Government)</subfield>
+  </datafield>
+</record>
