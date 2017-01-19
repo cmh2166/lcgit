@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00699cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  94024794 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030402082739.0</controlfield>
+  <controlfield tag="008">940314n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94024794 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Klenke, Claus-Volker</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Klenke, C.-V.</subfield>
+    <subfield code="q">(Claus-Volker)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spontaneität und Prozess, c1992:</subfield>
+    <subfield code="b">t.p. (Claus-Volker Klenke) p. 265 (Dr.; wiss. Mitarb., Wissenschaftliches Zentrum II der Gesamthochschule Kassel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Georg Forster in interdisziplinärer Perspektive, c1994:</subfield>
+    <subfield code="b">t.p. (Claus-Volker Klenke) p. 437 (Dr. phil.; b. 1955)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Existenz, Negativität, und Kritik ... c1999:</subfield>
+    <subfield code="b">t.p. (claus-Volker Klenke) spine (C.-V. Klenke)</subfield>
+  </datafield>
+</record>
