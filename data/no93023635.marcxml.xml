@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00837nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 93023635 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930828082434.5</controlfield>
+  <controlfield tag="008">930811n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93023635 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSC-Hi</subfield>
+    <subfield code="c">PSC-Hi</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Concord Monthly Meeting of Friends (Orthodox : 1827-1937)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Concord Monthly Meeting (Society of Friends : Orthodox : 1827-1937)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Concord Monthly Meeting (Society of Friends)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Concord Monthly Meeting (Society of Friends). Minutes, 1684-    </subfield>
+    <subfield code="b">(Concord Monthly Meeting of Friends)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PSC-Hi files</subfield>
+    <subfield code="b">(Concord Monthly Meeting of Friends (Orthodox); most often referred to in its fuller form; mtg. formed in 1827 at the time of the Hicksite Separation, out of the original Concord Mo. Mtg.; merged with Concord Mo. Mtg. (Hicksite) in 1937 to form a united mtg.)</subfield>
+  </datafield>
+</record>
