@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00484nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2003023558</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030729033117.0</controlfield>
+  <controlfield tag="008">030718n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003023558</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dalton, Lucinda Lee,</subfield>
+    <subfield code="d">1847-1925</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lee, Sarah Lucinda,</subfield>
+    <subfield code="d">1847-1925</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Woman arise!, 2002:</subfield>
+    <subfield code="b">leaf iv, etc. (Lucinda Lee Dalton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">FamilySearch, via WWW, July 18, 2003</subfield>
+    <subfield code="b">(Sarah Lucinda Lee; b. Feb. 9, 1847; d. Nov. 24, 1925)</subfield>
+  </datafield>
+</record>
