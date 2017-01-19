@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00971nz  a2200229n  4500</leader>
+  <controlfield tag="001">nb2012022130</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120926075235.0</controlfield>
+  <controlfield tag="008">120924n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012022130</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008588504</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20101024</subfield>
+    <subfield code="t">20101027</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Conference on Advances in Materials and Processing Technology</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Paris, France)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Conference</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Paris, France</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Materials</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">AMPT (Conference)</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Paris, France)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Advances in Materials and Processing Technology, International</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Paris, France)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Conference on Advances in Materials and Processing Technologies</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Paris, France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">International Conference on Advances in Materials and Processing Technologies, 2010:</subfield>
+    <subfield code="b">t.p. (also known as AMPT 2010, held 24-27 October 2010, Paris, France)</subfield>
+  </datafield>
+</record>
