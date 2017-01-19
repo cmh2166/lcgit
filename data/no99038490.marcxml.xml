@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00502nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99038490 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990529052032.7</controlfield>
+  <controlfield tag="008">990528n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99038490 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04996823 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Williams, Robert I.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encyclopedia of accounting systems, 1956-1957:</subfield>
+    <subfield code="b">v.1, t.p. (Robert I. Williams, certified public accountant)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, May 28, 1999</subfield>
+    <subfield code="b">(hdg.: Williams, Robert I.; usage: Robert I. Williams)</subfield>
+  </datafield>
+</record>
