@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00672cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015142428</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151028073744.0</controlfield>
+  <controlfield tag="008">151023n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015142428</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10303201</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6112.Y565</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lynn, Cordelia</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Soho Theatre Young Writers Company</subfield>
+    <subfield code="a">Royal Court Young Writers Programme</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lynn, Cordelia. Lela &amp; Co, 2015:</subfield>
+    <subfield code="b">title page (Cordelia Lynn) page i (Cordelia Lynn ... she has taken part in the Royal Court Young Writers Programme 2012 and is a member of the Soho Theatre Young Writers Company)</subfield>
+  </datafield>
+</record>
