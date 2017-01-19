@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00939nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 00080401 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001004064539.0</controlfield>
+  <controlfield tag="008">001003n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00080401 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05325291</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OkS</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Transportation Research Board.</subfield>
+    <subfield code="b">HOV Systems Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Transportation Research Board.</subfield>
+    <subfield code="b">Committee on High Occupancy Vehicle Systems</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Transportation Research Board.</subfield>
+    <subfield code="b">Committee on HOV Systems</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Preliminary program, 1996:</subfield>
+    <subfield code="b">p. 1 (Transportation Research Board, Committee on High Occupancy Vehicle Systems) p. 2 (Transportation Research Board, Committee on HOV Systems)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 22, 2000</subfield>
+    <subfield code="b">(hdg.: National Research Council (U.S.). Transportation Research Board. HOV Systems Committee; usage: TRB HOV Systems Committee)</subfield>
+  </datafield>
+</record>
