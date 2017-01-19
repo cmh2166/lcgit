@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00968nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013082902</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130806073508.0</controlfield>
+  <controlfield tag="008">130805n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013082902</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09536430</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Haller, William T.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Agronomy</subfield>
+    <subfield code="a">Biology</subfield>
+    <subfield code="a">Weeds--Biological control</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Florida. Center for Aquatic and Invasive Plants</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">2004</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Florida. Agronomy Department</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Professor</subfield>
+    <subfield code="v">Center for Aquatic and Invasive Plants, University of Florida, Institute of Food and Agricultural Sciences website viewed June 24, 2013</subfield>
+    <subfield code="u">http://plants.ifas.ufl.edu/node/615</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haller, William T. Physiology and carbon metabolism of Hydrilla vertcillata (Royle), 1974:</subfield>
+    <subfield code="b">title page (William T. Haller, Agronomy Department, Institute of Food and Agricultural Sciences, University of Florida)</subfield>
+  </datafield>
+</record>
