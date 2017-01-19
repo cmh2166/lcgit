@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00615cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007059009</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070615075040.0</controlfield>
+  <controlfield tag="008">070523n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007059009</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07421695</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ItFiC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Regione piena di cinema</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Emilia-Romagna (Italy).</subfield>
+    <subfield code="t">Regione piena di cinema</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">[Bologna, Italy]</subfield>
+    <subfield code="b">Regione Emilia-Romagna</subfield>
+    <subfield code="a">[Alessandria, Italy]</subfield>
+    <subfield code="b">Falsopiano</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Michelangelo Antonioni, 2007:</subfield>
+    <subfield code="b">t.p. (Una regione piena di cinema) cover (Una regione piena di cinema / Regione Emilia-Romagna)</subfield>
+  </datafield>
+</record>
