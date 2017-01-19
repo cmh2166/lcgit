@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00746cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2003035591</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519075216.0</controlfield>
+  <controlfield tag="008">030117n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003035591</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0110218</subfield>
+    <subfield code="e">E0110218</subfield>
+    <subfield code="f">N0444347</subfield>
+    <subfield code="g">N0444347</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05953659</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-it---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Bomporto (Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NIS gazetteer Italy, 1956</subfield>
+    <subfield code="b">(hdg.: Bomporto popl. 44°44ʹN, 11°02ʹE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nuovo diz dei comuni e frazioni di comune, 1984</subfield>
+    <subfield code="b">(hdg.: Bomporto; located in prov. of Modena)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bomporto e il suo territorio, 1999.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 44°43ʹ47ʺN 011°02ʹ18ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Italy</subfield>
+    <subfield code="z">Bomporto</subfield>
+  </datafield>
+</record>
