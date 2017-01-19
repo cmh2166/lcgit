@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00453nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99034736 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990515051507.5</controlfield>
+  <controlfield tag="008">990514n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99034736 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04986564 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sāʻidī, Ghulām Ḥusayn.</subfield>
+    <subfield code="t">Ahl-i Hava.</subfield>
+    <subfield code="l">Italian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Sāʻidī, Ghulām Ḥusayn.</subfield>
+    <subfield code="t">Gente del vento</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ahl-e havâ, c1994:</subfield>
+    <subfield code="b">t.p. (Ahl-e havâ = La gente del vento)</subfield>
+  </datafield>
+</record>
