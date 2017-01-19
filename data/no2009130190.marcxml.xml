@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009130190</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090821075708.0</controlfield>
+  <controlfield tag="008">090819n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009130190</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08210793</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViVb</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViVb</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Right On Band</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Right On</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The gold album, between 2004 and 2009:</subfield>
+    <subfield code="b">label (Right On and www.rightonband.com)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">www.rightonband.com, viewed August 19, 2009</subfield>
+    <subfield code="b">title tab (Right On Band) home page (The Right On Band is a group....;  copyright Right On Band)</subfield>
+  </datafield>
+</record>
