@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00765nz  a2200193n  4500</leader>
+  <controlfield tag="001">n  97830976 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970924073634.1</controlfield>
+  <controlfield tag="008">970924n| acannaab|           n and     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97830976 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 300870258</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="c">NN-PD</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Scylla et Glaucus (Choreographic work : Blache, J)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Chor: Jean Baptiste Blache; mus: probably Jean Baptiste Blache; scen: Perlet fils and Blanchard; cos: Eissautier.  First perf: Lyon, Grand TheĚaĚtre, August or September, 1804.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">(Scylla et Glaucus)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">75-555.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MGZT-Res.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NYPL Dict. Cat. of the Dance Coll., 1974-</subfield>
+  </datafield>
+</record>
