@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008052314</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080407080457.0</controlfield>
+  <controlfield tag="008">080311n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008052314</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07726811</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OhKeUAV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OhKeUAV</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Alga Editores</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Don Juan Tenorio [VR] 20--?:</subfield>
+    <subfield code="b">container (Alga Editores)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alga Editores WWW site, Mar. 11, 2008</subfield>
+    <subfield code="b">(Alga Editores, S.L.; publishes videorecordings of Spanish theater, cinema and flamenco; located in Fortuna, Spain)</subfield>
+    <subfield code="u">http://www.algaeditores.com/</subfield>
+  </datafield>
+</record>
