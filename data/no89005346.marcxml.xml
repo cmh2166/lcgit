@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00490nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 89005346 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890427062019.1</controlfield>
+  <controlfield tag="008">890419n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89005346 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IU</subfield>
+    <subfield code="c">IU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Preobrazhenskiĭ, Evgeniĭ Nikolaevich,</subfield>
+    <subfield code="d">1909-1963</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Merkurʹev, V. Nebo zovet [MI] 1972:</subfield>
+    <subfield code="b">p. 62 (Evgeniĭ Nikolaevich Preobrazhenskiĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Great Soviet Encyclopedia, 1974:</subfield>
+    <subfield code="b">v. 20, p. 518 (Preobrazhenskiĭ, Evgeniĭ Nikolaevich, 1909-1963)</subfield>
+  </datafield>
+</record>
