@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00613nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2012218451</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130724062846.0</controlfield>
+  <controlfield tag="008">130724n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012218451</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Khan, Sarfaraz Ahmad</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Institute of Persian Research, Aligarh Muslim University</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">per</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Sarfaraz Ahmad Khan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catalogue Persian manuscripts of Subhanallah Collection in Maulana Azad Library, 2010:</subfield>
+    <subfield code="b">t.p. (Sarfaraz Ahmad Khan; project associate, Institute of Persian Research, Aligarh Muslim University)</subfield>
+  </datafield>
+</record>
