@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00024592 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814081809.0</controlfield>
+  <controlfield tag="008">000407n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00024592 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05193114</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Goethe, Johann Wolfgang von,</subfield>
+    <subfield code="d">1749-1832.</subfield>
+    <subfield code="t">Werther.</subfield>
+    <subfield code="l">French &amp; German</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goethe, Johann Wolfgang von,</subfield>
+    <subfield code="d">1749-1832.</subfield>
+    <subfield code="t">Souffrances du jeune Werther</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Souffrances du jeune Werther, 1976</subfield>
+  </datafield>
+</record>
