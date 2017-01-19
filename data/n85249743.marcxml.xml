@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85249743 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870130065320.7</controlfield>
+  <controlfield tag="008">861210n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85249743 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Switzerland.</subfield>
+    <subfield code="t">Arbeitsgesetz</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Switzerland.</subfield>
+    <subfield code="t">Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Switzerland.</subfield>
+    <subfield code="t">ArG</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Switzerland.</subfield>
+    <subfield code="k">Laws, statutes, etc.</subfield>
+    <subfield code="t">Arbeitsgesetz</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bigler, F.W. Kommentar zum Arbeitsgesetz, 1986:</subfield>
+    <subfield code="b">t.p. (Arbeitsgesetz; Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel) p. 3, etc. (vom 13. März 1964; ArG)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11-21-86</subfield>
+    <subfield code="b">(hdg.: Switzerland. Laws, statutes, etc. Arbeitsgesetz)</subfield>
+  </datafield>
+</record>
