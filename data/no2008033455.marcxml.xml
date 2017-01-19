@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00420nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008033455</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080305075954.0</controlfield>
+  <controlfield tag="008">071218n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008033455</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07680078</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ratnesar-Shumate, Shanna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shumate, Shanna Ratnesar-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aerosol capture by iodinated fiber media, 2004:</subfield>
+    <subfield code="b">t.p. (Shanna Ratnesar-Shumate)</subfield>
+  </datafield>
+</record>
