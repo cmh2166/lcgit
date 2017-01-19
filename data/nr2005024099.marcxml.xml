@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00701cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2005024099</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081022083322.0</controlfield>
+  <controlfield tag="008">051007n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005024099</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06778874</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU-ME</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PU-ME</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">ʻAwdī, Aḥmad</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Aoudi, A.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Aoudi, Ahmad</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عودي، أحمد</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A dictionary of diplomatic terminology ... 2005:</subfield>
+    <subfield code="b">t.p. (A. Aoudi (MA)) p. 5 (Ahmad Aoudi (MA), formerly, lecturer at Lebanese University) added t.p. (Aḥmad ʻAwdī [in Arabic])</subfield>
+  </datafield>
+</record>
