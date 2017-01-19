@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011067806</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110503075314.0</controlfield>
+  <controlfield tag="008">110429n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011067806</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08843171</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Campbell, Torquil</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The golden seal [VR] c1984:</subfield>
+    <subfield code="b">container (Torquil Campbell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb, Apr. 29, 2011</subfield>
+    <subfield code="b">(Torquil Campbell; b. May 9, 1972, Sheffield, England; actor, composer)</subfield>
+  </datafield>
+</record>
