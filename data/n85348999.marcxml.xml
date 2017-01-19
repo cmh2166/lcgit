@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00606nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85348999 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19861223063348.6</controlfield>
+  <controlfield tag="008">861118n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85348999 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ginzburg, S. I.</subfield>
+    <subfield code="q">(Susanna Ilสนinichna)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ginzburg, Susanna Ilสนinichna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Ginzburg, Suzanna Ilสนinichna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rukovodstvo po khimicheskomu analizu platinovykh metallov i zolota, 1965:</subfield>
+    <subfield code="b">t.p. (S.I. Ginzburg) colophon (Ginzburg Susanna Ilสนinichna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 10-31-86</subfield>
+    <subfield code="b">(hdg.: Ginzburg, Suzanna Ilสนinichna; usage: S.I. Ginzburg)</subfield>
+  </datafield>
+</record>
