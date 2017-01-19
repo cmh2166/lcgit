@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00863nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010123264</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100801075054.0</controlfield>
+  <controlfield tag="008">100730n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010123264</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08576160</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">StEdNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">StEdNL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Candlish Church (Edinburgh, Scotland)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Candlish Parish Church (Edinburgh, Scotland)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Candlish Church Merchiston (Edinburgh, Scotland)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Polwarth Parish Church (Edinburgh, Scotland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The history of Polwarth Parish Church and its former congregations, 2007?:</subfield>
+    <subfield code="b">p. 3 (Polwarth Parish Church, in the City of Edinburgh, was formed from the union of Candlish Parish Church and John Ker Memorial Church on the ... 29 Nov. 1981; Candlish Church) p. 13 (the new church was to be called Candlish Church Merchiston; opening service, 18th May 1901)</subfield>
+  </datafield>
+</record>
