@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00723cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2001074032</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320090055.0</controlfield>
+  <controlfield tag="008">010917n| azannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001074032</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05583862</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">California.</subfield>
+    <subfield code="b">Department of Water Resources.</subfield>
+    <subfield code="b">Environmental Services Office</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">California.</subfield>
+    <subfield code="b">Dept. of Water Resources.</subfield>
+    <subfield code="b">Environmental Services Office</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">California.</subfield>
+    <subfield code="b">Department of Water Resources</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Water quality conditions in the Sacramento-San Joaquin Delta during 1996, 2001:</subfield>
+    <subfield code="b">t.p. (State of California, The Resources Agency, Dept. of Water Resources, Environmental Services Office)</subfield>
+  </datafield>
+</record>
