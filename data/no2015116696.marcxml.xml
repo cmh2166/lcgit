@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015116696</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150902073611.0</controlfield>
+  <controlfield tag="008">150901n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015116696</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10258177</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NbU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NbU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Books Unlimited</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">San Marcos (Calif.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">1455 Linda Vista Drive</subfield>
+    <subfield code="b">San Marcos</subfield>
+    <subfield code="c">CA</subfield>
+    <subfield code="e">92069</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Booksellers and bookselling</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">American School of Needlework</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Books Unlimited catalog listing, Summer 1991:</subfield>
+    <subfield code="b">caption (Books Unlimited, a division of ASN Publishing/American School of Needlework; 1455 Linda Vista Drive, San Marcos, CA 92069)</subfield>
+  </datafield>
+</record>
