@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00847nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2008174640</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081127082000.0</controlfield>
+  <controlfield tag="008">081125n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008174640</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07946802</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith de Bruin, Michelle</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Michelle,</subfield>
+    <subfield code="d">1969-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Bruin, Michelle</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bruin, Michelle de</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Transnational litigation, 2008 :</subfield>
+    <subfield code="b">t.p. (Michelle Smith de Bruin B.L.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, 14 Nov. 2008 :</subfield>
+    <subfield code="b">(Michelle Smith b. Dec. 10 1969 in Rathcoole Co. Dublin  now more commonly referred to by her married name, Michelle de Bruin, retired Irish swimmer. She was a triple gold medallist at the 1996 Summer Olympics in Atlanta.  In July 2005 she was conferred with the degree of Barrister at Law of King's Inns, Dublin)</subfield>
+  </datafield>
+</record>
