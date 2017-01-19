@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00670cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2007072581</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080831075458.0</controlfield>
+  <controlfield tag="008">071009n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007072581</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07546961</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hong, Shi,</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ć´Şçł,</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhan guo Qin Han qi qi yan jiu, 2006:</subfield>
+    <subfield code="b">t.p. (Hong Shi) front flap (b. 1972, Daan Shi, Jilin Sheng; MA. in history, Jilin da xue kao gu xi, 1999; Ph.D. in archaeology, Zhongguo she hui ke xue yuan kao gu xi, 2002)</subfield>
+  </datafield>
+</record>
