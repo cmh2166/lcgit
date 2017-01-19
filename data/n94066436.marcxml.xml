@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00502nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  94066436 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940712143110.7</controlfield>
+  <controlfield tag="008">940712n| acacbaaa|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94066436 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Stride conversation piece</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Exeter, Devon</subfield>
+    <subfield code="b">Stride</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Give as a quoted note if Stride is not present in the publication, distribution, etc. area of the bibliographic record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The cool eye, 1993:</subfield>
+    <subfield code="b">verso t.p. (A Stride conversation piece)</subfield>
+  </datafield>
+</record>
