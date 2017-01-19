@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00900cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  86032089 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910910090320.7</controlfield>
+  <controlfield tag="008">870304n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86032089 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sam, Sam-Ang,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Sam-Ang Sam,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Khmer folk dance, c1987:</subfield>
+    <subfield code="b">CIP t.p. (Sam-Ang Sam) data sheet (b. 1/8/50)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Silent temples, songful hearts, c1991:</subfield>
+    <subfield code="b">CIP t.p. (Sam-Ang Sam) front matter (Sam-Ang Sam, Ph.D.; one of the very few remaining Cambodian master artists; came to U.S. in 1977 and ... at Wesleyan University ... received his Ph.D. degree in Ethnomusicology)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to World Music Press, 09-10-91</subfield>
+    <subfield code="b">(on t.p. of above work, author has reversed elements in name from order that they would have in vernacular in order to conform with American practice; i.e. surname is Sam; forename is Sam-Ang)</subfield>
+  </datafield>
+</record>
