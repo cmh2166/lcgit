@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00545nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 96008827 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960425052508.1</controlfield>
+  <controlfield tag="008">960305n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96008827 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Rockport Apprenticeshop</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Apprenticeshop</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Artisans School</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Apprentice (Rockport, Me.), spring 1983:</subfield>
+    <subfield code="b"> cover (Apprenticeshop); winter 1985: cover (Rockport Apprenticeshop) p. 3 (location: Rockport, Me.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Artisan (Rockport, Me.), fall 1993- : cover (The Artisans School)</subfield>
+  </datafield>
+</record>
