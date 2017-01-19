@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010124809</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100804075405.0</controlfield>
+  <controlfield tag="008">100802n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010124809</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08578819</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MsHaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MsHaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mississippi Association of Colleges for Teacher Education</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Staff development project, 1986:</subfield>
+    <subfield code="b">t.p. (Mississippi Association of Colleges for Teacher Education)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC data base, Aug. 2, 2010:</subfield>
+    <subfield code="b">(hdg.: Mississippi Association of Colleges for Teacher Education)</subfield>
+  </datafield>
+</record>
