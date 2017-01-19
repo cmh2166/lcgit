@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00784cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008097953</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120727075028.0</controlfield>
+  <controlfield tag="008">080619n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008097953</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07812385</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxCM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxCM</subfield>
+    <subfield code="d">TxCM</subfield>
+    <subfield code="d">PCarlMH</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">43rd Infantry Division Veterans Association</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">43d Infantry Division Veterans Association</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Winged victory, 1947?:</subfield>
+    <subfield code="b">t.p. (43rd Infantry Division Veterans Association)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">43d Infantry Division Veterans Association website, June 19, 2008:</subfield>
+    <subfield code="b">(founded September, 1945 in Kumagaya, Japan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from Howard F. Brown, Asst Sec/Treasurer and 43d Bulletin Editor, June 30, 2008</subfield>
+    <subfield code="b">(Difference of ordinal numeral abbreviation, 43rd vs. 43d not formal name change)</subfield>
+  </datafield>
+</record>
