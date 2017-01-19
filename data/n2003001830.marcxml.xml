@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01047cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2003001830</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120901074953.0</controlfield>
+  <controlfield tag="008">030616n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003001830</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06077891</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)003910682</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20030709</subfield>
+    <subfield code="t">20030711</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">ACISP (Conference)</subfield>
+    <subfield code="n">(8th :</subfield>
+    <subfield code="d">2003 :</subfield>
+    <subfield code="c">Wollongong, N.S.W.)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Conference</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Wollongong, N.S.W.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Computer security</subfield>
+    <subfield code="a">Data protection</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Australasian Conference on Information Security and Privacy</subfield>
+    <subfield code="n">(8th :</subfield>
+    <subfield code="d">2003 :</subfield>
+    <subfield code="c">Wollongong, N.S.W.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Information Security and Privacy, Australasian</subfield>
+    <subfield code="n">(8th :</subfield>
+    <subfield code="d">2003 :</subfield>
+    <subfield code="c">Wollongong, N.S.W.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ACISP 2003 (2003 : Wollongong, N.S.W.). Information security and privacy, 2003:</subfield>
+    <subfield code="b">CIP t.p. (8th Australasian conference, ACISP 2003, Wollongong, Australia, July 9-11, 2003) galley pref. (8th Australasian Conference on Information Security and Privacy (ACISP 2003))</subfield>
+  </datafield>
+</record>
