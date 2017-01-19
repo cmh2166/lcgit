@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00490nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009180353</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091112075240.0</controlfield>
+  <controlfield tag="008">091110n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009180353</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08300335</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUSA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kersale, Philippe,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contribution aĚ l'eĚtude des staphylocoques canins, 1971 :</subfield>
+    <subfield code="b">t.p. (Philippe Kersale)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 10, 2009</subfield>
+    <subfield code="b">(hdg.: Kersale, Philippe, 1947-; usage: Philippe Kersale)</subfield>
+  </datafield>
+</record>
