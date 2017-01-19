@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01312nz  a2200265n  4500</leader>
+  <controlfield tag="001">no2014155762</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141125073545.0</controlfield>
+  <controlfield tag="008">141124n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014155762</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10023936</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18480107</subfield>
+    <subfield code="g">19170120</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Coffinières de Nordeck, André,</subfield>
+    <subfield code="d">1848-1917</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Auch (France)</subfield>
+    <subfield code="b">Paris (France)</subfield>
+    <subfield code="c">France</subfield>
+    <subfield code="c">Senegal</subfield>
+    <subfield code="c">Gabon</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">France. Marine</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Ship captains</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">André François Joseph</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Coffinières de Nordeck, A.</subfield>
+    <subfield code="q">(André),</subfield>
+    <subfield code="d">1848-1917</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Nordeck, André Coffinières,</subfield>
+    <subfield code="d">1848-1917</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nordeck, André Coffinières de,</subfield>
+    <subfield code="d">1848-1917</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le Gabon, 1912:</subfield>
+    <subfield code="b">title page (A. Coffinières de Nordeck, retired ship captain) page 1 (André Coffinières de Nordeck)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Espace tradition/École navale website, Officiers et anciens élèves, viewed Nov. 24, 2014</subfield>
+    <subfield code="b">(André François Joseph Coffinières de Nordeck;  b. Jan. 7, 1848, Auch; d. Jan. 20, 1917, Paris, age 69; entered service de la Marine following École Polytechnique in 1866; served on various ships incl. in Antilles, Senegal)</subfield>
+    <subfield code="u">http://ecole.nav.traditions.free.fr/officiers_coffinieres.htm</subfield>
+  </datafield>
+</record>
