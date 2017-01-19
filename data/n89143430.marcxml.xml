@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00745cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  89143430 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140118073841.0</controlfield>
+  <controlfield tag="008">910723n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89143430 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02987587</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19470208</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tasman, Allan,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stigma and mental illness, c1991:</subfield>
+    <subfield code="b">CIP t.p. (Allan Tasman, M.D.; prof. of psychiatry; director, Residency Training &amp; Med. Sch. Edu., Dept. of Psychiatry, Univ. of Conn. Sch. of Med., Farmington) data sheet (b. 2/8/47)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Psychiatric drugs, c2000:</subfield>
+    <subfield code="b">CIP t.p. (Allan Tasman, M.D., Prof. and chairman, Dept. of Psychiatry and Behavioral Sciences, Univ. of Louisville Sch. of Med., Louisville, KY)</subfield>
+  </datafield>
+</record>
