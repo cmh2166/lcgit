@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 95057332 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001104071845.0</controlfield>
+  <controlfield tag="008">951205n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95057332 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03967961</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPiU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hernández Chilín, Fermín,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chilín, Fermín Hernández,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poemas al amor, 1990:</subfield>
+    <subfield code="b">t.p. (Fermín Hernández Chilín) p. 7 (b. 1966 in El Conacaste, Iztapa, Escuintla)</subfield>
+  </datafield>
+</record>
