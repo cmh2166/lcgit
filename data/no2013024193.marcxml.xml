@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00534nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2013024193</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130307090924.0</controlfield>
+  <controlfield tag="008">130305n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013024193</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09419702</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PE-LiPUR</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PE-LiPUR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mata Hidalgo, Hipólito Daniel</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hidalgo, Hipólito Daniel Mata</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Heraldos : revista de investigaciones del Centro de Estudiantes de Historia, Ago. 2012</subfield>
+    <subfield code="b">p. 95 (Hipólito Daniel Mata Hidalgo; Universidad Nacional Mayor de San Marcos)</subfield>
+  </datafield>
+</record>
