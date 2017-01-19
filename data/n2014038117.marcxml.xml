@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00776cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014038117</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141023114913.0</controlfield>
+  <controlfield tag="008">140627n| azannaabn          |a aaa     a</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014038117</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lewandowski, Ted</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Oberek, Theodore</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alan Lomax collection of Michigan and Wisconsin recordings, 1938-1939:</subfield>
+    <subfield code="b">collection materials, American Folklife Center, Library of Congress (Theodore Oberek; performer of Polish songs on banjo, recorded by Alan Lomax in Posen, MI in 1938)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email correspondence with folk music scholar, Laurie Sommers, based on her recent interaction with the Lewandowski family in Michigan, Oct. 23, 2014:</subfield>
+    <subfield code="b">(Ted Lewandowski, Theodore Oberek; performer of Polish music from MI)</subfield>
+  </datafield>
+</record>
