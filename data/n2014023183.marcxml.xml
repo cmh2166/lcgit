@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00503cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2014023183</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140513144045.0</controlfield>
+  <controlfield tag="008">140428n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014023183</subfield>
+    <subfield code="z">no2014017400</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ben Harosh, Mosheh.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ben Harosh, Mosheh.</subfield>
+    <subfield code="t">Śefat ha-yam</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ben Harosh, Mosheh.</subfield>
+    <subfield code="t">שפת הים</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">שפת הים = Śefat ha-yam, 2013.</subfield>
+  </datafield>
+</record>
