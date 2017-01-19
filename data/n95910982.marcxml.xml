@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  95910982 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000802105815.0</controlfield>
+  <controlfield tag="008">950917n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95910982 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04029732</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mvula, Peter</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mvula, P. M.</subfield>
+    <subfield code="q">(Peter M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Water and sanitation in eastern Machinga District, 1994:</subfield>
+    <subfield code="b">t.p. (Peter Mvula)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Women in Malawi, 1997:</subfield>
+    <subfield code="b">p. facing t.p. verso (Peter M. Mvula, Centre for Social Res., Univ. of Malawi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rappid appraisal of in-country grain stocks at household ... 1999-:</subfield>
+    <subfield code="b">t.p. (Mvula, P.M.)</subfield>
+  </datafield>
+</record>
