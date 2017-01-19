@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00828cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2010030674</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140825150801.0</controlfield>
+  <controlfield tag="008">101117n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010030674</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007971767</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Shallow Lakes Congress</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Shallow Lakes Congress, International</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">See also related access points for individual instances of this conference which include specific information about the number, date, or place of the individual conference.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Structure and Function of World shallow lakes, c2010:</subfield>
+    <subfield code="b">cover (proceedings from the 6th Shallow Lakes Congress) p. 2 (the sixth International Shallow Lakes Congress took place in Punta del Este, on the south-eastern coast of Uruguay, from the 23rd to 28th November 2008)</subfield>
+  </datafield>
+</record>
