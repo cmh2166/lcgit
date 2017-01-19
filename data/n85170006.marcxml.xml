@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00469nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85170006 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860129140432.1</controlfield>
+  <controlfield tag="008">860109n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85170006 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Parker, Bruce</subfield>
+    <subfield code="q">(Bruce D.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">NLC form conflicts with another LC heading.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cruickshank, B. Brookbanks Ravine, 1974:</subfield>
+    <subfield code="b">t.p. (Bruce Parker)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 12-27-85</subfield>
+    <subfield code="b">(AACR2: Parker, Bruce; full name, Bruce D. Parker)</subfield>
+  </datafield>
+</record>
