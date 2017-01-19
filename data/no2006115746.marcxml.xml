@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01130cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2006115746</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323094254.0</controlfield>
+  <controlfield tag="008">061027n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006115746</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07093447</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1782~</subfield>
+    <subfield code="g">1846</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Turner, F. C.</subfield>
+    <subfield code="q">(Francis Calcraft),</subfield>
+    <subfield code="d">approximately 1782-1846</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Francis Calcraft</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Turner, F. C.</subfield>
+    <subfield code="q">(Francis Calcraft),</subfield>
+    <subfield code="d">ca. 1782-1846</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Turner, Francis Calcraft,</subfield>
+    <subfield code="d">approximately 1782-1846</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sporting scenes and sundry sketches, 1842:</subfield>
+    <subfield code="b">v. 1, plate facing p. 187 (F.C. Turner, pinxt.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dict. of Brit. equestrian artists, c1985:</subfield>
+    <subfield code="b">p. 433 (Turner, Francis Calcraft, c. 1782-1846; d. June 12, 1846 at the age of 64)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dict. critique et documentaire des peintres, ..., 1999:</subfield>
+    <subfield code="b">t. 13, p. 855 (Turner, Francis Calcraft, b. about 1782, d. 1846; active in London, genre painter, hunting scenes; Member of the Society of British Artists; exhibited in London, 1810-46)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A dict. of Brit. sporting painters, 1980:</subfield>
+    <subfield code="b">(Turner, F.C. (1795-1846))</subfield>
+  </datafield>
+</record>
