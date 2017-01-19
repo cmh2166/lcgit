@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00375nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 93009254 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930402200439.1</controlfield>
+  <controlfield tag="008">930401n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93009254 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Arazgulyev, Ishanguly</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Arazkulyev, I.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His On sovala on jogap, 1989:</subfield>
+    <subfield code="b">t.p. (Ishanguly Arazgulyev) verso t.p. (Arazkulyev, I.)</subfield>
+  </datafield>
+</record>
