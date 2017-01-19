@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01169nz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2014210158</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140602045839.0</controlfield>
+  <controlfield tag="008">140602n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014210158</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Das, Diptendu</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">India</subfield>
+    <subfield code="e">Mumbai (India)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">diptendudas@aerb.gov.in</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Chemical engineering</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Atomic Energy Regulatory Board (Mumbai, India)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Scientific officer</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Diptendu Das</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Monograph on hazardous chemicals &amp; emergency preparedness and emergency medicine, 2012:</subfield>
+    <subfield code="b">t.p. (Diptendu Das)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IIT Bombay website, WWW site viewed on May 30, 2014:</subfield>
+    <subfield code="b">(Diptendu Das, Ph.D., student at Department of Chemical Engineering, IIT, Bombay, B.Tech. (Honours) in Chemical engineering from IIT Kharagpur, worked as process engineer at British Oxygen BOC India from 2000-2002, worked as scientist at DRDO from 2002-2005, currently associated as scientific officer with Atomic Energy Regulatory Board since 2005, email: diptendudas@aerb.gov.in)</subfield>
+    <subfield code="u">http://www.che.iitb.ac.in/online/student/diptendu-das</subfield>
+  </datafield>
+</record>
