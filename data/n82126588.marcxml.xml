@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00840cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  82126588 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141208111032.0</controlfield>
+  <controlfield tag="008">821127n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82126588 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1933</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Solnt︠s︡ev, N. N.</subfield>
+    <subfield code="q">(Nikolaĭ Nikolaevich),</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Solnt︠s︡ev, N.</subfield>
+    <subfield code="q">(Nikolaĭ),</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Solnt︠s︡ev, Nikolaĭ,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Solnt︠s︡ev, Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Solnt︠s︡ev, Nikolaĭ Nikolaevich,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Xôn-sep, Ni-cô-lai,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Gosudarstvennyĭ stroĭ Niderlandov, 1960.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gao, L. Kitaĭ, steny i li︠u︡di, 1981:</subfield>
+    <subfield code="b">t.p. (N. Solnt︠s︡ev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Việt Nam, 1986:</subfield>
+    <subfield code="b">t.p. (Ni-cô-lai Xôn-sep)</subfield>
+  </datafield>
+</record>
