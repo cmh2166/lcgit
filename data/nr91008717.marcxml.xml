@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 91008717 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151005092252.0</controlfield>
+  <controlfield tag="008">910315n| azannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91008717 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jensen, John,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ives, C. Two piano sonatas [SR] p1990:</subfield>
+    <subfield code="b">label (John Jensen, pianist) booklet, p. 11 (plays both jazz and classical; artist-in-residence at Grinnell College)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WW in entertainment, 1st ed.</subfield>
+    <subfield code="b">(Jensen, John Warner, b. Lynn, Mass., 12-27-1944; music educator, pianist)</subfield>
+  </datafield>
+</record>
