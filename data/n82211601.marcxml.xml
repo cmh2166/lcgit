@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00845cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  82211601 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19841102102956.0</controlfield>
+  <controlfield tag="008">831227n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82211601 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Argentina.</subfield>
+    <subfield code="t">Código aeronáutico</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Argentina.</subfield>
+    <subfield code="t">Código aeronáutico (con las modificaciones de la Ley 22,390)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Argentine Republic.</subfield>
+    <subfield code="t">Decreto-ley no. 17.285 (1967)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Argentina.</subfield>
+    <subfield code="t">Decreto-ley no. 17,285 (1967)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Argentina.</subfield>
+    <subfield code="t">Código aeronáutico de la Nación Argentina</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Código aeronáutico (con las modificaciones de la Ley 22,390), 1983.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 12/14/84</subfield>
+    <subfield code="b">(hdg.: Argentine Republic. Laws, statutes, etc. Decreto-ley no. 17.285 (1967))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Código aeronáutico de la Nación Argentina, 1983.</subfield>
+  </datafield>
+</record>
