@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00920cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2005051255</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111014074835.0</controlfield>
+  <controlfield tag="008">050713n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005051255</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06680260</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CaBSKC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Michaels, David,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Benson, Raymond,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Blackwood, Grant</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Pseudonym used by multiple persons. For works by these authors entered under their own or other names, search also under:</subfield>
+    <subfield code="b">Benson, Raymond, 1955-</subfield>
+    <subfield code="b">Blackwood, Grant</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Michaels, David. Tom Clancy's splinter cell, c2004:</subfield>
+    <subfield code="b">t.p. (David Michaels)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RaymondBenson.com, web site, 13 Jul. 2005</subfield>
+    <subfield code="b">(wrote Splinter cell under the pseud. David Michaels)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from Grant Blackwood, May 14, 2011</subfield>
+    <subfield code="b">(authored three David Michaels' books, all Splinter cell titles: Checkmate, Fallout, and Conviction.)</subfield>
+  </datafield>
+</record>
