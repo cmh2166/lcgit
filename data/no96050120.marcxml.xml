@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00453nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96050120 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961002051128.4</controlfield>
+  <controlfield tag="008">961001n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96050120 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04172547 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Van Der Jagt, Scott</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Jagt, Scott Van Der</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Urban seminar, the gateway community redevelopment proposal, 1995?:</subfield>
+    <subfield code="b">cover (Scott Van Der Jagt, School of Architecture)</subfield>
+  </datafield>
+</record>
