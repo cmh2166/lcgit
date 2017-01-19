@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 93035966 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010123140654.0</controlfield>
+  <controlfield tag="008">931124n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93035966 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ATLA</subfield>
+    <subfield code="c">ATLA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sargent, John T.</subfield>
+    <subfield code="q">(John Turner),</subfield>
+    <subfield code="d">1808-1877</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Beethoven, Bronze,</subfield>
+    <subfield code="d">1808-1877</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Sargent, John Turner,</subfield>
+    <subfield code="d">1808-1877</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Theodore Parker, the reform pulpit, and the influences that oppose it, 1852:</subfield>
+    <subfield code="b">t.p. (John T. Sargent)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 11/24/93</subfield>
+    <subfield code="b">(hdg.: Sargent, John Turner, 1808-1877; usage: John T. Sargent, Bronze Beethoven)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC Pre-1956:</subfield>
+    <subfield code="b">(hdg.: Sargent, John Turner, 1808-1877)</subfield>
+  </datafield>
+</record>
