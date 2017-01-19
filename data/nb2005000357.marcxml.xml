@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2005000357</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111022075057.0</controlfield>
+  <controlfield tag="008">050307n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005000357</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006130712</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barrymore, Amanda E.,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Barrymore, Mike,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barrymore, A. E.</subfield>
+    <subfield code="q">(Amanda E.),</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sunshine &amp; shadow, 2004:</subfield>
+    <subfield code="b">t.p. (Mike Barrymore) p.2 (born 10 July 1953)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The complete autobiography, 2009:</subfield>
+    <subfield code="b">t.p. (Amanda E. Barrymore) cover (A.E. Barrymore) added t.p. for Book 1 (Mike Barrymore) back cover (international media-medium, clairvoyant and author; lives in Essex; autobiography charts the author's transition from male to female)</subfield>
+  </datafield>
+</record>
