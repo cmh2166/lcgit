@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>02156cz  a2200241n  4500</leader>
+  <controlfield tag="001">n 2012182396</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130328080001.0</controlfield>
+  <controlfield tag="008">120301n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012182396</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09132414</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1664</subfield>
+    <subfield code="t">1685</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moegling, Johann Ludwig,</subfield>
+    <subfield code="d">active 1664-1685</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Moegling, Johann Ludwig,</subfield>
+    <subfield code="d">fl. 1664-1685</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Möglingus, Joh. Ludovicus</subfield>
+    <subfield code="q">(Johannes Ludovicus),</subfield>
+    <subfield code="d">active 1664-1685</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Möglingus, Johannes Ludovicus,</subfield>
+    <subfield code="d">active 1664-1685</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Respondent of 1664 Tübingen diss., for receipt of M.D. May also be praeses of 1672 and 1685 Tübingen dissertations. 1608-1624 imprints are by another of the same name (Mögling or Moegling). Most sources do not distinguish between them. However, Adelung (C.G. Adelung, Fortz. u. Ergänz. Jöchers Allgem. Gelehrt.-Lex.) records a Jo. Ludwig Moegling, b. Tübingen 1613, received M.D. degree Univ. Tübingen, 1640, Prof. Math., Naturwissensch., Arznei., Tübingen, 1660, and Ordentl. Prof. Arznei., 1687; d. 1693, author of Palingenesia, 1683. He is probably the praeses of the 1662 Tübingen diss., De mundo, listed in Heffter. It is not possible to determine whether he or the J.L.M. who received his medical degree in 1664 is the praeses of the dissertations Vigilia (Tübingen, 1672) and Exercit. physica de inferno natural. (Tübingen, 1685).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brotbeck, J.C. Disp. inaug. med. de podagra, 1664:</subfield>
+    <subfield code="b">t.p. (Joh. Ludovicus Möglingus, T.; received M.D. degree, 1664)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM</subfield>
+    <subfield code="b">(Moegling, Johann Ludwig; publications, 1665 and 1683; 1617 and 1619 publs.listed under this name are by another J.L. Moegling)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Vigilia, 1672:</subfield>
+    <subfield code="b">t.p.(... Johann-Ludovico Möglingo, philos. et med. doct., phys. et math. P.P., praeses, Univ. Tübingen, 1672)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Exercitat. physice de inferno natural., 1685:</subfield>
+    <subfield code="b">t.p. (... Johanne Ludovico Möglingo, phil. &amp; med. doct. experientissimo, physices &amp; mathemat. prof., praeses, Univ. Tübingen, 1685)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">NUC; ICSGO; Kestner; Hirsch; Jöcher; Adelung; BN; Heffter.</subfield>
+  </datafield>
+</record>
