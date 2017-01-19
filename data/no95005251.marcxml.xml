@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00901nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 95005251 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950201061751.4</controlfield>
+  <controlfield tag="008">950131n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95005251 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03763562 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSW-Mu</subfield>
+    <subfield code="c">MoSW-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gandolfi, Riccardo,</subfield>
+    <subfield code="d">1839-1920</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Gandolfi, Riccardo Cristoforo Daniele Diomede,</subfield>
+    <subfield code="d">1839-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gandolfi, R.</subfield>
+    <subfield code="q">(Riccardo),</subfield>
+    <subfield code="d">1839-1920</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Onoranze fiorentine a Gioachino Rossini inaugurandosi in Santa Croce il monumento al grande maestro (xxiii giugno MCMII), 1902:</subfield>
+    <subfield code="b">t.p. (Riccardo Gandolfi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 1-16-95</subfield>
+    <subfield code="b">(hdg.: Gandolfi, Riccardo Cristoforo Daniele Diomede, 1839- ; usage: R. Gandolfi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diz. encic. univ. della mus. e dei musicisti</subfield>
+    <subfield code="b">(Gandolfi, Riccardo Cristoforo Daniele Diomede; b. 2-16-1839, Voghera; d. 2-5-20, Firenze; Italian composer and musicologist)</subfield>
+  </datafield>
+</record>
