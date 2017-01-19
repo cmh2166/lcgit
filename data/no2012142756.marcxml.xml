@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00492nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012142756</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121104075024.0</controlfield>
+  <controlfield tag="008">121102n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012142756</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09338259</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ZA-PrTUT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ZA-PrTUT</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">JUT Foundation for Arts and Architecture (Taiwan)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">JFAA (Taiwan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Vertical village, c2012:</subfield>
+    <subfield code="b">Biographies and addresses (JUT Foundation for Arts and Architecture (JFAA), JUT, JUT Foundation)</subfield>
+  </datafield>
+</record>
