@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00864cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  50015821 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090909074754.0</controlfield>
+  <controlfield tag="008">800522n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50015821 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sanders, J. Oswald</subfield>
+    <subfield code="q">(John Oswald),</subfield>
+    <subfield code="d">1902-1992</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sanders, John Oswald,</subfield>
+    <subfield code="d">1902-1992</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A spiritual clinic, 1958.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Promised-land living, c1984:</subfield>
+    <subfield code="b">CIP t.p. (J. Oswald Sanders)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Heaven, c1993:</subfield>
+    <subfield code="b">t.p. (J. Oswald Sanders) back cover (d. 1992)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 2/1/84</subfield>
+    <subfield code="b">(hdg.: Sanders, John Oswald, 1902- ; usage: J. Oswald Sanders)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. resource center (Contemp. authors), Sept. 8, 2009</subfield>
+    <subfield code="b">(J(ohn) Oswald Sanders; b. Oct. 17, 1902, Invercargill, N.Z.; d. Oct. 24, 1992, Auckland, N.Z.; principal, Christian Leaders Training College, New Guinea, 1973-74)</subfield>
+  </datafield>
+</record>
