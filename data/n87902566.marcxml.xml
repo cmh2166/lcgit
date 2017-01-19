@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00624cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87902566 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970515053613.8</controlfield>
+  <controlfield tag="008">871218n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87902566 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NIC-Mu</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Deutscher Komponisten-Verband</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Deutscher Komponisten-Interessenverband</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Komponisten der Gegenwart ... 1985:</subfield>
+    <subfield code="b">p. VI (Deutscher Komponisten-Verband)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Komponisten der Gegenwart ... 1995: p. vii (in 1994 the Deutscher Komponisten-Verband and the Interessenverband Deutscher Komponisten were merged into the Deutscher Komponisten-Interessenverband)</subfield>
+  </datafield>
+</record>
