@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00949cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  92077274 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920804092611.9</controlfield>
+  <controlfield tag="008">920731n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92077274 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">United Verde Extension Mining Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">United Verde Extension Copper Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">United Verde Extension Gold, Silver, and Copper Mining Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Northern Ariz. Univ. Lib. for Phelps Dodge Corporation. United Verde Branch. Records, 1900s-1940s</subfield>
+    <subfield code="b">(United Verde Extension Copper Company; mined in Jerome, Ariz., area)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moody's manual railroads and corp. securities, 1916</subfield>
+    <subfield code="b">(United Verde Extension Mining Co.; inc. 1902; owned claims adjacent to United Verde Copper Co.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wahmann, R. Narrow gauge to Jerome, 1988:</subfield>
+    <subfield code="b">p. 12 (United Verde Extension Mining Company; formed 1899 as United Verde Extension Gold, Silver, and Copper Mining Company)</subfield>
+  </datafield>
+</record>
