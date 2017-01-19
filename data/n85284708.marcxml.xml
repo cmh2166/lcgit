@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00719cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85284708 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091110072036.0</controlfield>
+  <controlfield tag="008">851224n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85284708 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Papuašvili, Tʻengiz,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Papuashvili, T. G.</subfield>
+    <subfield code="q">(Tengiz Georgievich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Papuashvili, Tengiz Georgievich,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amichba, G.A. Iz istorii sovmestnoĭ borʹby ... 1985:</subfield>
+    <subfield code="b">t.p. (T.G. Papuashvili) colophon (Papuashvili Tengiz Georgievich, Papuašvili Tʻengiz Giorgiz że)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Papuašvili, Tʻengiz. Saingilos istoriis narkvevebi, 2008:</subfield>
+    <subfield code="b">t.p. (Tʻengiz Papuašvili) coloophon (b. 1928, Mačʻxaani, Siġnaġis raioni, Georgia)</subfield>
+  </datafield>
+</record>
