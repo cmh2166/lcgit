@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00583nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010069233</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100429075328.0</controlfield>
+  <controlfield tag="008">100427n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010069233</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08474512</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Thunderbird School of Global Management</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Thunderbird, The Garvin School of International Management</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thunderbird international business review, Mar./Apr. 2010:</subfield>
+    <subfield code="b">t.p. (Thunderbird School of Global Management); Nov./Dec. 2005: t.p. (Thunderbird, The Garvin School of International Management)</subfield>
+  </datafield>
+</record>
