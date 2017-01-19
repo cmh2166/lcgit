@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00668nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009178560</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091108075310.0</controlfield>
+  <controlfield tag="008">091106n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009178560</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08297169</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-BA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-BA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Andrews, George Townsend,</subfield>
+    <subfield code="d">1805-1855</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Andrews, G. T.</subfield>
+    <subfield code="q">(George Townsend),</subfield>
+    <subfield code="d">1805-1855</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Illustrations of Bishop West's chapel in Putney Church, Surrey, 1825:</subfield>
+    <subfield code="b">t.p., etc. (G.T. Andrews; illustrator) dedication (George Townsend Andrews)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Directory of British architects 1834-1914, 2001:</subfield>
+    <subfield code="b">v. 1, p. 45 (George Townsend Andrews; architect at York; b. 1805; d. 1855)</subfield>
+  </datafield>
+</record>
