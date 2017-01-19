@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00849cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2010057904</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100904074923.0</controlfield>
+  <controlfield tag="008">100902n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010057904</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Tōkyō-to Shichōson Koseki Jūmin Kihon Daichō Jimu Kyōgikai.</subfield>
+    <subfield code="b">Jūmin Kihon Daichō Jimu Tebikisho Sakusei Iinkai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">東京都市町村戶籍住民基本台帳事務協議会.</subfield>
+    <subfield code="b">住民基本台帳事務手引書作成委員会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shoninsha no tame no jūmin kihon daichō jimu, 2008:</subfield>
+    <subfield code="b">t.p. (東京都市町村戶籍住民基本台帳事務協議会住民基本台帳事務手引書作成委員会.Tōkyō-to Shichōson Koseki Jūmin Kihon Daichō Jimu Kyōgikai Jūmin Kihon Daichō Jimu Tebikisho Sakusei Iinkai)</subfield>
+  </datafield>
+</record>
