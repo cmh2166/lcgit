@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00623cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81006383 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316080731.0</controlfield>
+  <controlfield tag="008">810121n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81006383 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00552449</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UkCU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Ireland.</subfield>
+    <subfield code="b">Department of Education.</subfield>
+    <subfield code="t">Second atlas for Irish schools.</subfield>
+    <subfield code="l">Irish</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">iri</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Ireland.</subfield>
+    <subfield code="b">Department of Education.</subfield>
+    <subfield code="t">Atlas a dó do scoileanna na hÉireann</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Ireland.</subfield>
+    <subfield code="b">Dept. of Education.</subfield>
+    <subfield code="t">Second atlas for Irish schools.</subfield>
+    <subfield code="l">Irish</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Atlas a dó do scoileanna na hÉireann, 1978.</subfield>
+  </datafield>
+</record>
