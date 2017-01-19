@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00861cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 96033643 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120811084032.0</controlfield>
+  <controlfield tag="008">960701n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96033643 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04110417</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICRL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">World Fertilizer Conference</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Fertilizer Institute's World Fertilizer Conference</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Conferences held in 1976-1984 are numbered 1st-9th; beginning with 1987 conferences have only chronological designation.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World Fertilizer Conference (1990 : San Francisco, Calif.). Proceedings, 1990:</subfield>
+    <subfield code="b">t.p. (1990 World Fertilizer Conference; held Sept. 18-20, 1990 in San Francisco, Calif.) on cover (The Fertilizer Institute's 1990 World Fertilizer Conference)</subfield>
+  </datafield>
+</record>
