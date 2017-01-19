@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 91010645 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910403061740.8</controlfield>
+  <controlfield tag="008">910401n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91010645 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Cadogan, J. I. G.</subfield>
+    <subfield code="q">(John Ivan George)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Cadogan, John Ivan George</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Environmental effects of North Sea oil and gas developments, 1987:</subfield>
+    <subfield code="b">t.p. (J.I.G. Cadogan, F.R.S.) p. 25 (Bt. Petrol. Int. Co., London)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 3-27-91</subfield>
+    <subfield code="b">(hdg.: Cadogan, John Ivan George; usage: J.I.G. Cadogan)</subfield>
+  </datafield>
+</record>
