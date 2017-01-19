@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00652nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014140683</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141024073554.0</controlfield>
+  <controlfield tag="008">141023n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014140683</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W76.6188439</subfield>
+    <subfield code="e">W76.6188439</subfield>
+    <subfield code="f">N37.6615295</subfield>
+    <subfield code="g">N37.6615295</subfield>
+    <subfield code="2">gnis</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09996547</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Vi</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Vi</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-va</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Remlik (Va.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Streets (Va.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cooking with friends, 1996:</subfield>
+    <subfield code="b">(Remlik Wesleyan Church, Remlik, Virginia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, Oct. 23, 2014</subfield>
+    <subfield code="b">(Remlik; populated place; Middlesex County, Va.; 37.6615295N 76.6188439W; variant: Streets)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Virginia</subfield>
+    <subfield code="z">Remlik</subfield>
+  </datafield>
+</record>
