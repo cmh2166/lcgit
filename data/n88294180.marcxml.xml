@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00750cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  88294180 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100517075510.0</controlfield>
+  <controlfield tag="008">890824n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88294180 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0030400</subfield>
+    <subfield code="e">E0030400</subfield>
+    <subfield code="f">N0364700</subfield>
+    <subfield code="g">N0364700</subfield>
+    <subfield code="2">other</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02586525</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f-ae---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Kasbah (Algiers, Algeria)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Algiers (Algeria).</subfield>
+    <subfield code="b">Kasbah</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kasba (Algiers, Algeria)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Casbah (Algiers, Algeria)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lesbet, D. La Casbah d'Alger, 1985.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN gaz., Algeria</subfield>
+    <subfield code="b">(Kasbah, pplx, 36°47ʹN, 3°04ʹE; variant: Casbah, Kasba)</subfield>
+  </datafield>
+</record>
