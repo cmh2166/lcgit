@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00608nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2001042514</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020205033113.0</controlfield>
+  <controlfield tag="008">011016n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001042514</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">L.V. &amp; J.B. Reed (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">L.V. and J.B. Reed (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Reed (Firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New arrangement! Albany &amp; Boston rail road, 1841:</subfield>
+    <subfield code="b">t.p. (L.V. &amp; J.B. Reed, Alabany; tickets to be bought from them)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: L.V. &amp; J.B Reed (Firm); note: firm of Leonard V. and John Bailey Reed; proprietors of stage coach lines at Albany)</subfield>
+  </datafield>
+</record>
