@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2004066675</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040109104807.0</controlfield>
+  <controlfield tag="008">040109n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004066675</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Muzzy, Caroline</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Historical Society for Muzzy, F. Correspondence, 1835-1873</subfield>
+    <subfield code="b">(Caroline Muzzy; wife of Franklin Muzzy, blacksmith and politician; Bucksport and later Bangor, Me.)</subfield>
+  </datafield>
+</record>
