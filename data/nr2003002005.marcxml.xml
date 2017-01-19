@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00757nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr2003002005</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030206033110.0</controlfield>
+  <controlfield tag="008">030121n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003002005</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sepp, Jan,</subfield>
+    <subfield code="d">1778-1853</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sepp, Johann,</subfield>
+    <subfield code="d">1778-1853</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beschouwing der wonderen Gods, in de minstgeachtte schepzelen, 1762-1860</subfield>
+    <subfield code="b">(name not given in parts held by NYPL)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hagen, H.A. Bib. entomologica</subfield>
+    <subfield code="b">(under Sepp, Christian: grandson Johann Sepp, b. Amsterdam Sept. 18, 1778, d. there Dec. 19, 1853)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nieuw nederlandsch biogr. woordenboek</subfield>
+    <subfield code="b">(Sepp, Jan, 1778-1853; son of J.C. Sepp, grandson of Christiaan Sepp)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 1/21/03</subfield>
+    <subfield code="b">(hdgs.: Sepp, Jan, 1778-1853; Sepp, Jan)</subfield>
+  </datafield>
+</record>
