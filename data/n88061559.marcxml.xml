@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00965cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88061559 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081029080413.0</controlfield>
+  <controlfield tag="008">890203n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88061559 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02451723</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Sumitomo Bēkuraito Kabushiki Kaisha</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Sumitomo Bakelite Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">住友ベークライト株式会社</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sumitomo Bēkuraito shashi, 1986:</subfield>
+    <subfield code="b">colophon (Sumitomo Bēkuraito Kabushiki Kaisha; loc. Tōkyō-to Minato-ku) p. 28, etc. (1932 est. as Nihon Bēkuraito K.K. [no publs. in LC data base]; 1955 Nihon Bēkuraito K.K. and Sumitomo Kakōzai Kōgyō K.K. [no publs. in LC data base] merged to form Sumitomo Bēkuraito K.K.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaisha nenkan, 1987</subfield>
+    <subfield code="b">(Sumitomo Bēkuraito Kabushiki Kaisha; Sumitomo Bakelite Co.)</subfield>
+  </datafield>
+</record>
