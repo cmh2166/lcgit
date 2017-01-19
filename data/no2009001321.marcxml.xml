@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00527nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009001321</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090108082300.0</controlfield>
+  <controlfield tag="008">090106n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009001321</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07977790</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdSsNOAA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdSsNOAA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chu, Yen-Hsi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chu, Y. H.</subfield>
+    <subfield code="q">(Yen-hsi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beach response to the Redington Shores, Florida breakwater, 1992:</subfield>
+    <subfield code="b">cover (Yen-Hsi Chu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 19, 2008:</subfield>
+    <subfield code="b">(usage: Y.H. Chu; Yen-Hsi Chu ; hdgs.: Chu, Yen H.; Chu, Yen-Hsi)</subfield>
+  </datafield>
+</record>
