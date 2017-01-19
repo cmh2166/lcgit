@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 93012352 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970308051336.4</controlfield>
+  <controlfield tag="008">930401n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93012352 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03347977 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Crampton, Julian M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Crampton, J. M.</subfield>
+    <subfield code="q">(Julian M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Royal Entomological Society of London. Symposium (16th : 1991 : London, England). Insect molecular science, c1992:</subfield>
+    <subfield code="b">t.p. (Julian M. Crampton, Wolfson Unit of Molecular Genetics, Liverpool School of Tropical Medicine, Liverpool, UK)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Molecular biology of insect disease vectors, 1997:</subfield>
+    <subfield code="b">t.p. (J. M. Crampton) p. xii (Julian M. Crampton, Wolfson Unit of Molecular Genetics)</subfield>
+  </datafield>
+</record>
