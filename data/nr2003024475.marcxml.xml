@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00506nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2003024475</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030801033111.0</controlfield>
+  <controlfield tag="008">030728n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003024475</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Eyck, Jacob van.</subfield>
+    <subfield code="t">Fluyten lust-hof.</subfield>
+    <subfield code="p">Onder de linde groene</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Eyck, Jacob van.</subfield>
+    <subfield code="t">Onder de linde groene</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Early music, p2000:</subfield>
+    <subfield code="b">container (Onder de linde groene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eyck, J. Der fluyten lust-hof, 1984, v. 3:</subfield>
+    <subfield code="b">p. 25 (Onder de linde groene)</subfield>
+  </datafield>
+</record>
