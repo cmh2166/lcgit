@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00834cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2014046832</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140805162454.0</controlfield>
+  <controlfield tag="008">140804n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014046832</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20130715</subfield>
+    <subfield code="t">20130718</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation</subfield>
+    <subfield code="d">(2013 :</subfield>
+    <subfield code="c">Samos, Greece)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation, International</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">SMOS (Conference)</subfield>
+    <subfield code="d">(2013 :</subfield>
+    <subfield code="c">Samos, Greece)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">2013 International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation, 2013:</subfield>
+    <subfield code="b">t.p. (International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SMOS XIII 2013) Samos, Greece, 15-18 July 2013)</subfield>
+  </datafield>
+</record>
