@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00960cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2005018190</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816081521.0</controlfield>
+  <controlfield tag="008">051122n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005018190</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006335265</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">NATO SFP Workshop on Future Directions in Instrumentation for Strong Motion and Engineering Seismology</subfield>
+    <subfield code="d">(2004 :</subfield>
+    <subfield code="c">Kusadasi, Izmir)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">SFP Workshop on Future Directions in Instrumentation for Strong Motion and Engineering Seismology, NATO</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on Future Directions in Instrumentation for Strong Motion and Engineering Seismology, NATO SFP</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Directions in strong motion instrumentation, c2005:</subfield>
+    <subfield code="b">t.p. verso (NATO SFP Workshop on Future Directions in Instrumentation for Strong Motion and Engineering Seismology, held 17-21 May 2004, in Kusadasi, Izmir)</subfield>
+  </datafield>
+</record>
