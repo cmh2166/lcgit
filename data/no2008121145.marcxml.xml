@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00901nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2008121145</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080822080137.0</controlfield>
+  <controlfield tag="008">080820n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008121145</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07855582</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Meriwether Jones &amp; John Dixon (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Meriwether Jones and John Dixon (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jones &amp; Dixon</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jones and Dixon</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Freemasons. Grand Lodge of Virginia. Extracts from the records of the Grand Lodge of Virginia, 1799:</subfield>
+    <subfield code="b">t.p. (Meriwether Jones &amp; John Dixon; printer at Richmond, Va.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files, Aug. 20, 2008</subfield>
+    <subfield code="b">(hdg.: Meriwether Jones &amp; John Dixon (Firm); usage: Meriwether Jones &amp; John Dixon; Meriwether Jones and John Dixon; Jones &amp; Dixon; Jones and Dixon; note: printing firm of Meriwether Jones (1766-1806) and John Dixon (d. 1805); active at Richmond, Va., 1798-99)</subfield>
+  </datafield>
+</record>
