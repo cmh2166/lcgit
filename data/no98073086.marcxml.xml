@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00632cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 98073086 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030906071213.0</controlfield>
+  <controlfield tag="008">980319n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98073086 </subfield>
+    <subfield code="z">no 98073476 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04686351</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="c">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Essential</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Essential series (Mayibuye Books)</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Bellville</subfield>
+    <subfield code="b">Mayibuye Books</subfield>
+    <subfield code="a">Cape Town</subfield>
+    <subfield code="b">D. Philip Publishers</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">IEN</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">IEN</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">IEN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The essential Desmond Tutu, 1997:</subfield>
+    <subfield code="b">t.p. (The Essential) jkt. (The essential series)</subfield>
+  </datafield>
+  <datafield tag="730" ind1=" " ind2="7">
+    <subfield code="a">Essential</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
