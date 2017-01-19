@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00623cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  93087082 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319170545.0</controlfield>
+  <controlfield tag="008">930907n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93087082 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1554</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lionardi, Alessandro,</subfield>
+    <subfield code="d">active 1554</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Lionardi, Alessandro,</subfield>
+    <subfield code="d">fl. 1554</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ferrabosco, A. I saw my lady weeping, 1986?:</subfield>
+    <subfield code="b">caption (original text from the sonnet by Alessandro Lionardi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Charteris, R. Alfonso Ferrabosco The Elder (1543-1588), a thematic catalogue of his music, c1984:</subfield>
+    <subfield code="b">p. 203 (Alessandro Lionardi; fl. 1554)</subfield>
+  </datafield>
+</record>
