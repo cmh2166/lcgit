@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  93064672 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930708141537.1</controlfield>
+  <controlfield tag="008">930708n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93064672 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Netherlands.</subfield>
+    <subfield code="b">Ministerie van Justitie.</subfield>
+    <subfield code="b">Directie Staats- en Strafrecht</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Netherlands.</subfield>
+    <subfield code="b">Ministerie van Justitie.</subfield>
+    <subfield code="b">Hoofdafdeling Staats- en Strafrecht</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tekstenbundel kantongerechtsovertredingen, 1991:</subfield>
+    <subfield code="b">p. 4 of cover (Ministerie van Justitie, Directie Staats- en Strafrecht)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tekstenbundel kantongerechtsovertredingen, 1990:</subfield>
+    <subfield code="b">p. 3 (Ministerie van Justitie, Hoofdafdeling Staats- en  Strafrecht)</subfield>
+  </datafield>
+</record>
