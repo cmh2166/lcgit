@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00602nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2003014736</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030708033102.0</controlfield>
+  <controlfield tag="008">030429n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003014736</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkOxU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Elliott, Geoff,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Elliott, Geoffrey James,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not the same as: Elliott, Geoffrey, Dr.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Multimedia computing, 2003:</subfield>
+    <subfield code="b">t.p. (Geoff Elliott) p. 4 of cover (information and learning technology coordinator for Pembrokeshire Coll.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from author, July 7, 2003</subfield>
+    <subfield code="b">(Geoffrey James Elliott; b. July 16, 1961)</subfield>
+  </datafield>
+</record>
