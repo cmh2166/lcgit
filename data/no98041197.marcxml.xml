@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01042cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 98041197 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150716073827.0</controlfield>
+  <controlfield tag="008">980126n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98041197 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04625022</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1908</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Respighi, Ottorino,</subfield>
+    <subfield code="d">1879-1936.</subfield>
+    <subfield code="t">Concerto all'antica</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Concertos</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">violin</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">orchestra</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">A minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Respighi, Ottorino,</subfield>
+    <subfield code="d">1879-1936.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">violin, orchestra,</subfield>
+    <subfield code="r">A minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Respighi, Ottorino,</subfield>
+    <subfield code="d">1879-1936.</subfield>
+    <subfield code="t">Concerto in the old style</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 94-774576: Respighi, O. Concerto gregoriano, p1994</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Respighi, O. Concerto all'antica, 2008:</subfield>
+    <subfield code="b">cover (Concerto all'antica : per violino ed orchestra) facsim. t.p. (Concerto in la min. per violino con orchestra (stile XVIII secolo))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, July 15, 2015</subfield>
+    <subfield code="b">(Concerto all'antica for violin and orchestra (1908))</subfield>
+  </datafield>
+</record>
