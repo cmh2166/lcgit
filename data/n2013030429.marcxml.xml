@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00552nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2013030429</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130531075159.0</controlfield>
+  <controlfield tag="008">130530n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013030429</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1974</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kawasaki, Nobuki,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">jpn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">河崎信樹,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amerika no kokusai enjo, 2012:</subfield>
+    <subfield code="b">t.p. (河崎信樹 = Kawasaki Nobuki) colophon (r; b. 1974; assist. prof., Kansai Daigaku Seisaku Sōzō Gakubu)</subfield>
+  </datafield>
+</record>
