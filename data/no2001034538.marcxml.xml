@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00652cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2001034538</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030904154110.0</controlfield>
+  <controlfield tag="008">010430n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001034538</subfield>
+    <subfield code="z">no2003085946</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05476548</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pillow, Sara Ashley,</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pillow, Ashley,</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The last temptation of Christ, c2000:</subfield>
+    <subfield code="b">t.p. (Sara Ashley Pillow)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from Graduate Dept. of Religion, Vanderbilt University, April 23, 2001</subfield>
+    <subfield code="b">(Sara Ashley Pillow; b. Sept. 15, 1977)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Use and users of electronic library resources, 2003:</subfield>
+    <subfield code="b">t.p. (Ashley Pillow)</subfield>
+  </datafield>
+</record>
