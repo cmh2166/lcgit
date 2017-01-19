@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01095cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2009016586</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150105113718.0</controlfield>
+  <controlfield tag="008">090204n| acannaabn          |n aba     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009016586</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08004330</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007355427</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PaPiCLS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PaPiCLS</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lee, Elizabeth</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Lee, Elizabeth, 1958-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">E-mail sent to editor of All in my corner, 19 May 2011</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Producer of The WILDlife concert]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The WILDlife concert [VR] c1999:</subfield>
+    <subfield code="b">credits (Elizabeth Lee; producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Movie Database, Feb. 4, 2009</subfield>
+    <subfield code="b">(Elizabeth Lee)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cambridge English for the media, c2008:</subfield>
+    <subfield code="b">t.p. (Elizabeth Lee) p. 3 (degree in French and English literatures; writes ETL material for secondary ed.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Editor of All in my corner]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All in my corner, 2009:</subfield>
+    <subfield code="b">t.p. (edited by Elizabeth Lee)</subfield>
+  </datafield>
+</record>
