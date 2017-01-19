@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01035cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014170330</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150220074044.0</controlfield>
+  <controlfield tag="008">141231n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014170330</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10050380</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-S</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hospital Santa Cruz.</subfield>
+    <subfield code="b">Comissão de Controle de Infecção</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Brazil</subfield>
+    <subfield code="e">Santa Cruz do Sul (Brazil)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Nosocomial infections</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">por</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Hospital Santa Cruz.</subfield>
+    <subfield code="b">Comissão de Controle de Infecção Hospitalar</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Revista de Epidemiologia e Controle de Infecção, 2011, viewed Dec. 13, 2014</subfield>
+    <subfield code="b">journal home page (Hospital Santa Cruz, Núcleo de Epidemiologia Hospitalar/Comissão de Controle de Infecção; Santa Cruz do Sul)</subfield>
+    <subfield code="u">http://online.unisc.br/seer/index.php/epidemiologia/index</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hospital Santa Cruz website, Dec. 12, 2014</subfield>
+    <subfield code="b">comissões page (Comissão de Controle de Infecção Hospitalar;  Hospital Santa Cruz)</subfield>
+    <subfield code="u">http://www.hospitalstacruz.com.br/sobre/comissoes/</subfield>
+  </datafield>
+</record>
