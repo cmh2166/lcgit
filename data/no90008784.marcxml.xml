@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00578nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 90008784 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900503053420.4</controlfield>
+  <controlfield tag="008">900501n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90008784 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Italy.</subfield>
+    <subfield code="b">Ambasciata (U.S.).</subfield>
+    <subfield code="b">Ufficio commerciale</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Italy.</subfield>
+    <subfield code="b">Ambasciata (U.S.).</subfield>
+    <subfield code="b">Office of the Commercial Counselor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Italy, an economic profile, 1958-1959:</subfield>
+    <subfield code="b">t.p. (Office of the Commercial Counselor, Italian Embassy, Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4-30-90</subfield>
+    <subfield code="b">(hdg.: Italy.  Ambasciata (U.S.).  Ufficio commerciale)</subfield>
+  </datafield>
+</record>
