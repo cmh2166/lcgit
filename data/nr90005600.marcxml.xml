@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00755cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 90005600 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080924080859.0</controlfield>
+  <controlfield tag="008">900406nc acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 90005600 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02721583</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ma'anshan shi Li Bai ji nian guan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Ma-an-shan shih Li Pai chi nien kuan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ma an shan shi li bai ji nian guan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Maʼanshan Shi (China).</subfield>
+    <subfield code="b">Li Bai ji nian guan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">马鞍山市李白纪念馆</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Li Pai hsüan kʻan, 1989- :</subfield>
+    <subfield code="b">v.1, t.p. (Ma-an-shan shih Li Pai chi nien kuan)</subfield>
+  </datafield>
+</record>
