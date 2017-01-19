@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015028919</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150305073547.0</controlfield>
+  <controlfield tag="008">150304n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015028919</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10103195</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DHMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DHMM</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Crawinkel (Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">US Holocaust Memorial Museum catalog, 4 March 2015</subfield>
+    <subfield code="b">(Crawinkel (Germany))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 4 March 2015</subfield>
+    <subfield code="b">(Crawinkel; PPL, 50°46ʹ53ʺN, 010°47ʹ08ʺE; Thuringia [conventional] / Thüringen [German], Germany)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Germany</subfield>
+    <subfield code="z">Crawinkel</subfield>
+  </datafield>
+</record>
