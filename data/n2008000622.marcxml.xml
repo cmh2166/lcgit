@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00814cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2008000622</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100301093909.0</controlfield>
+  <controlfield tag="008">080104n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008000622</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07620560</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Pangakol Chonghap Sahoe Pokchigwan.</subfield>
+    <subfield code="b">Yŏn'gu Kihoektʻim</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Pangakol Chonghap Sahoe Pokchigwan.</subfield>
+    <subfield code="b">Yŏnʼgu Kihoek-tʻim</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">방아골 종합 사회 복지관.</subfield>
+    <subfield code="b">연구 기획팀</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading changed to update romanization and word division.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sinmyŏng nanŭn chiyŏk pokchi mandŭlgi, 2007:</subfield>
+    <subfield code="b">t.p. (Pangakol Chonghap Sahoe Pokchigwan Yŏnʼgu Kihoek-tʻim)</subfield>
+  </datafield>
+</record>
