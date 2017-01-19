@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00438nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2013050410</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130812111834.0</controlfield>
+  <controlfield tag="008">130812n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013050410</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taylor, Thomas V.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Surgeons</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Overcoming obesity, 2007:</subfield>
+    <subfield code="b">t.p. (Thomas V. Taylor, M.D., F.A.C.S., F.R.C.S., F.A.C.G., academic chief of surgery, St. Joseph Hospital, Houston)</subfield>
+  </datafield>
+</record>
