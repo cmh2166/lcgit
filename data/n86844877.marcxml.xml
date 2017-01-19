@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  86844877 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900104132241.4</controlfield>
+  <controlfield tag="008">860806n| acannaab|          |n and |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86844877 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Society of Naval Architects and Marine Engineers (U.S.).</subfield>
+    <subfield code="b">Ship's Machinery Committee.</subfield>
+    <subfield code="b">Panel M-27 (Machinery Noise)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-72746: Fischer, R.W. Design guide for shipboard ... 1983</subfield>
+    <subfield code="b">(hdg. on AzU rept.: Society of Naval Architects and Marine Engineers (U.S.). Ship's Machinery Committee. Panel M-27 (Machinery Noise); usage: Panel M-27 (Machinery Noise) of the Ship's Machinery Committee)</subfield>
+  </datafield>
+</record>
