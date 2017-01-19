@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 98010984 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000204130403.0</controlfield>
+  <controlfield tag="008">980324n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98010984 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Zami︠a︡tina, N. A.</subfield>
+    <subfield code="q">(Natalʹi︠a︡ Aleksandrovna)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Zami︠a︡tina, Natalʹi︠a︡ Aleksandrovna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Terminologii︠a︡ russkoĭ ikonopisi, 1997:</subfield>
+    <subfield code="b">t.p. (N.A. Zami︠a︡tina) colophon (Natalʹi︠a︡ Aleksandrovna Zami︠a︡tina) port. (Zami︠a︡tina Natalʹi︠a︡ Aleksandrovna was born in Novosibirsk, and graduated from the philological faculty at Moscow University)</subfield>
+  </datafield>
+</record>
