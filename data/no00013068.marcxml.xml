@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00652cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 00013068 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140615122628.0</controlfield>
+  <controlfield tag="008">000224n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00013068 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05160522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OrU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCUCA</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1963</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Levy, Ernst,</subfield>
+    <subfield code="d">1881-1968.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">1963</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Levy, Ernst,</subfield>
+    <subfield code="d">1881-1968.</subfield>
+    <subfield code="t">Gesammelte Schriften.</subfield>
+    <subfield code="f">1963</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Levy, Ernst,</subfield>
+    <subfield code="d">b. 1881.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">1963</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gesammelte Schriften, 1963.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ernst Levy und Wolfgang Kunkel, c2005:</subfield>
+    <subfield code="b">t.p. (Ernst Levy) p. 7 (b. Berlin, Dec. 21, 1881) p. 4 of cover (lawyer; d. 1968)</subfield>
+  </datafield>
+</record>
