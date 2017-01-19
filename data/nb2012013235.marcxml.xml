@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2012013235</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120821075342.0</controlfield>
+  <controlfield tag="008">120525n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012013235</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008487372</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Journées de castellologie de Bourgogne</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Journées de castellologie</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chastels et maisons fortes en Bourgogne, 2008-:</subfield>
+    <subfield code="b">v. 1, t.p. (Journées de castellologie, 1994-1998) cover (Journées de castellologie de Bourgogne) v. 2, t.p. (Journées de castellologie de Bourgogne, 1999-2007)</subfield>
+  </datafield>
+</record>
