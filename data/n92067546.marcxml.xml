@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00621cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92067546 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920630164843.8</controlfield>
+  <controlfield tag="008">920630n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92067546 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Reilich, Gabriel,</subfield>
+    <subfield code="d">1643-1677.</subfield>
+    <subfield code="t">Geistlich-musicalischer Blum- und Rosen-Wald.</subfield>
+    <subfield code="n">Anderer Theil</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Reilich, Gabriel,</subfield>
+    <subfield code="d">1643-1677.</subfield>
+    <subfield code="t">Pădure spiritual-muzicală de flori și trandafiri.</subfield>
+    <subfield code="n">Partea a 2-a</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Reilich, Gabriel,</subfield>
+    <subfield code="d">1643-1677.</subfield>
+    <subfield code="t">Geistlich-musikalischer Blum- und Rosenwald.</subfield>
+    <subfield code="n">Anderer Teil</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pădure spiritual-muzicală de flori și trandafiri, 1984.</subfield>
+  </datafield>
+</record>
