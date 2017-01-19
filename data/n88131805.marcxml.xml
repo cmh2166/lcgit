@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01191cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  88131805 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090204081348.0</controlfield>
+  <controlfield tag="008">890522n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88131805 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02529557</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MoSU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Douglass, John,</subfield>
+    <subfield code="d">1743-1812</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Douglas, John,</subfield>
+    <subfield code="d">1743-1812</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Centurien, John,</subfield>
+    <subfield code="d">1743-1812</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Centuria, John,</subfield>
+    <subfield code="c">Bishop of,</subfield>
+    <subfield code="d">1743-1812</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">John,</subfield>
+    <subfield code="c">Bishop of Centuria,</subfield>
+    <subfield code="d">1743-1812</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="b">Vicariate Apostolic of the London District.</subfield>
+    <subfield code="b">Vicar Apostolic (1790-1812 : J. Douglass)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Instructions and regulations for the fast of Lent, 1791:</subfield>
+    <subfield code="b">p. 2 (John Centurien, V.A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A pastoral letter from Charles Bishop of Rama, William Bishop of Acanthos, and John Bishop of Centuriae, Vicars Apostolic, to all the faithful, clergy and laity of the Western, Northern and London Districts,  1793:</subfield>
+    <subfield code="b">p. 27 (John Douglass, Vicar Apostolic)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB</subfield>
+    <subfield code="b">(Douglass, John, D.D., 1743-1812; Catholic prelate; bishop of Centuria [a titular see] and vicar apostolic of the London district, 1790)</subfield>
+  </datafield>
+</record>
