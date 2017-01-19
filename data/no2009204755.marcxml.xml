@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00519nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009204755</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091225075145.0</controlfield>
+  <controlfield tag="008">091223n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009204755</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08345459</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Newbold, Bradley A.,</subfield>
+    <subfield code="d">1979-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Paleoindian lifeways of Paleoarchaic peoples, 2009:</subfield>
+    <subfield code="b">t.p. (Bradley A. Newbold, Thesis ( (M.A.)--Brigham Young University. Dept. of Anthropolgy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">UPB files, Dec. 18, 2009</subfield>
+    <subfield code="b">(Bradley A. Newbold, b. 1979)</subfield>
+  </datafield>
+</record>
