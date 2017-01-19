@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  87947868 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130817195537.0</controlfield>
+  <controlfield tag="008">891117n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87947868 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02638388</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brooker, Christine</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Christine G.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brooker, Chris</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Nurses's dictionary, c1989:</subfield>
+    <subfield code="b">t.p. (Christine Brooker, Bsc, SRN, SCM, RNT)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Churchill Livingstone's dictionary of nursing, 2001: CIP t.p. (Chris Brooker, BSc, RGN, SCM, RNT, author lecturer, Norfolk, U.K.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Human structure and function, 1993:</subfield>
+    <subfield code="b">t.p. (Christine G. Brooker, BSc, RGN, RM, RNT)</subfield>
+  </datafield>
+</record>
