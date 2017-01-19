@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00979cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  82125765 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140206073843.0</controlfield>
+  <controlfield tag="008">821127n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82125765 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00822076</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1881</subfield>
+    <subfield code="t">1968</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Union Switch and Signal Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Union Switch &amp; Signal Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">American Standard, Inc.</subfield>
+    <subfield code="b">Union Switch &amp; Signal Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Catalogue of Saxby ... 1885.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brignano, M. The search for safety, c1981:</subfield>
+    <subfield code="b">p. v (Union Switch &amp; Signal Company; founded May 1881) spine (Union Switch &amp; Signal Division, American Standard Inc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Feb. 5, 2014</subfield>
+    <subfield code="b">(Union Switch &amp; Signal founded in 1881 by consolidation of the Union Electric Signal Company and Interlocking Switch &amp; Signal Company, became subsidiary of American Standard in 1968)</subfield>
+    <subfield code="u">https://en.wikipedia.org/wiki/Union_Switch_%26_Signal</subfield>
+  </datafield>
+</record>
