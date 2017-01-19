@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00681nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010025633</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100217075343.0</controlfield>
+  <controlfield tag="008">100215n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010025633</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08394771</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mazeman, Jacques François Joseph,</subfield>
+    <subfield code="d">1767-1837</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mazeman, J. F.</subfield>
+    <subfield code="q">(Jacques François),</subfield>
+    <subfield code="d">1767-1837</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aux nobles de la West-Flandre, 1794:</subfield>
+    <subfield code="b">t.p. (J.F. Mazeman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Belgique héraldique,1866 via Internet Archive WWW site, Feb. 15, 2010:</subfield>
+    <subfield code="b">t.p. (Jacques François Joseph Mazeman, seigneur de Couthove et de Tonlieu; 1767-1837; maire de Poperinghe sous l'administration française)</subfield>
+  </datafield>
+</record>
