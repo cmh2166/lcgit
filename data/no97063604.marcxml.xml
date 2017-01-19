@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00560cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 97063604 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020105071245.0</controlfield>
+  <controlfield tag="008">971030n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97063604 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04496324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="c">ViU</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mucha Foundation</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Mucha Trust and Foundation</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Muchova nadace</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alphonse Mucha : pastels, posters, ... 1994:</subfield>
+    <subfield code="b">t.p. (Mucha Foundation) pref. (Mucha Trust and Foundation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alfons Mucha, 2000:</subfield>
+    <subfield code="b">t.p. verso (Muchova nadace) p. 6 (Mucha Foundation)</subfield>
+  </datafield>
+</record>
