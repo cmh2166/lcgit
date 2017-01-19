@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00532nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012025186</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120223075311.0</controlfield>
+  <controlfield tag="008">120221n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012025186</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09121762</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IlMchBWI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IlMchBWI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bullock, Torbin,</subfield>
+    <subfield code="d">1971-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cars Toon. Moon Mater, c2012:</subfield>
+    <subfield code="b">t.p. (Torbin Bullock, voice of Howard)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb, Feb. 21, 2012</subfield>
+    <subfield code="b">(Torbin Xan Bullock ; b. Mar. 5, 1971 in San Francisco, Calif. ; alt. name: Torbin Bullock ; editor, actor (voice))</subfield>
+  </datafield>
+</record>
