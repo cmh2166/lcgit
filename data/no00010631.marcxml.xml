@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01236cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 00010631 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218071422.0</controlfield>
+  <controlfield tag="008">000216n| acannaabn          |n abc     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00010631 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05154994</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ellis, Brad</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Ellis, Bradford</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Musical director; piano arrangements for You're never fully dressed without a smile]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strouse, C. You're never fully dressed without a smile [SR] p1996:</subfield>
+    <subfield code="b">container (Brad Ellis, musical direction and arrangements) insert (piano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Producer of The Finland phenomenon]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Finland phenomenon, c2011:</subfield>
+    <subfield code="b">credits (Brad Ellis; producer)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Enc. of pop. mus., 3rd ed.;</subfield>
+    <subfield code="a">Int. ww in mus. Vol. 2, Pop. mus., 1st ed.;</subfield>
+    <subfield code="a">Film composers guide, 1st ed.;</subfield>
+    <subfield code="a">ASCAP, 4th ed.;</subfield>
+    <subfield code="a">U.S. copyright file, Feb. 16, 2000 (cannot identify with: Ellis, Brad; Ellis, Brad, 1956- ; Ellis, Brad, 1962- ; Ellis, Brad, 1967- ; Ellis, Bradford, 1963- ; Ellis, Bradley H., 1956- ; Ellis, Bradley Hal, 1956- )</subfield>
+  </datafield>
+</record>
