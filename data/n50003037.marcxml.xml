@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01423cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  50003037 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000520072728.0</controlfield>
+  <controlfield tag="008">800325n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50003037 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00038667</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TNJ</subfield>
+    <subfield code="d">WaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Denver Museum of Natural History</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Denver (Colo.).</subfield>
+    <subfield code="b">Denver Museum of Natural History</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Denver (Colo.).</subfield>
+    <subfield code="b">Museum of Natural History</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">DMNH</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Colorado Museum of Natural History</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Denver Museum of Nature and Science</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog heading: Denver. Museum of Natural History.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Annual report of the ... 1948:</subfield>
+    <subfield code="b">t.p. (Denver Museum of Natural History) p. 11 (name of museum has been changed. "Denver" has been substituted for "Colorado")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Friends of Mineralogy. Colo. Chap. Symp. (7th : 1989 : Denver Museum of Natural History). Photography of mineralogical, paleontological, and archaeological specimens, c1989:</subfield>
+    <subfield code="b">t.p. (Denver Museum of Natural History; DMNH)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Colorado Museum of Natural History. Annual report of the Colorado Museum of Natural History, 1947;</subfield>
+    <subfield code="a">Denver Museum of Nature and Science WWW home page, May 19, 2000 (Denver Museum of Nature and Science; Denver Museum of Nature &amp; Science) news release (effective May 8, 2000 the Denver Museum of Natural History will become the Denver Museum of Nature and Science)</subfield>
+  </datafield>
+</record>
