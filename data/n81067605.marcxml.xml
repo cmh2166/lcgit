@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81067605 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960802052341.9</controlfield>
+  <controlfield tag="008">810708n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81067605 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mullen, Christopher L.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yokel, F.Y. A study of reaction forces on mobile home foundations caused by wind and flood loads, 1981 (a.e.)</subfield>
+    <subfield code="b">t.p. (Christopher L. Mullen, Center for Building Technology, National Engineering Laboratory, National Bureau of Standards, Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seismic fragility of an existing conventional reinforced-concrete highway bridge, 1996:</subfield>
+    <subfield code="b">t.p. (Christopher Louis Mullen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. from Princeton University Archives, 5-31-96</subfield>
+    <subfield code="b">(Mullen, Christopher L., b. 7-10-56)</subfield>
+  </datafield>
+</record>
