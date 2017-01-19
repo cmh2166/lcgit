@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00981cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2009025577</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090428075026.0</controlfield>
+  <controlfield tag="008">090427n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009025577</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Gyöngyösi kódex</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Gyöngyösi codex</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gyöngyösi kódex. Gyöngyösi kódex, 2001:</subfield>
+    <subfield code="b">t.p. (Gyöngyösi kódex) p. 7, etc. (written in Hungariand and Latin in the 16th century, consisting of prayers, song of King Mátyás and song of St. László; held in the Maryar Tudoḿanyos Akadémia Könyvtára Kézirattár, and known as K 39 and microfilm number Mf. 3753/IV))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWW site, Apr. 27, 2009, www.c3.hu/-magyarnyelv/english/abstracts-02-4.htm:</subfield>
+    <subfield code="b">(Gyöngyösi Codex is a manuscript document of miscellaneous contents, written in Hungarian and Latin in the early 1500s. The whole codex is the work of eight different scriptors; the Hungarian parts were produced by five different hands.)</subfield>
+  </datafield>
+</record>
