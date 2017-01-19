@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00710cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98080761 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100527074940.0</controlfield>
+  <controlfield tag="008">980909n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98080761 </subfield>
+    <subfield code="z">n 2001025215</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rush, Robert S.,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Rush, Robert S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NCO guide., 1999:</subfield>
+    <subfield code="b">CIP t.p. (Sgt. Maj. Robert S. Rush)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rush, Robert Sterling. Hell in HuĚrtgen Forest, 2001:</subfield>
+    <subfield code="b">CIP t.p. (Robert Sterling Rush) CIP data sheet (b. Jan. 17, 1951)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. Press of Kansas Web site, Nov. 26, 2001</subfield>
+    <subfield code="b">(Robert Sterling Rush; Command Sergeant Major (ret.); Ph. D., Ohio State University; author of The soldier's guide and The NCO guide)</subfield>
+  </datafield>
+</record>
