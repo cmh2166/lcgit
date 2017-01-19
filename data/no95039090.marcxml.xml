@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00847cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 95039090 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810085235.0</controlfield>
+  <controlfield tag="008">950815n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95039090 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03898170</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxArU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxArU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Philip D. Cady International Symposium</subfield>
+    <subfield code="d">(1993 :</subfield>
+    <subfield code="c">Minneapolis, Minn.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Cady International Symposium</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Concrete bridges in aggressive environments, 1994:</subfield>
+    <subfield code="b">t.p. (Philip D. Cady International Symposium) p. iii (held in Minneapolis, Minnesota November 9 and 10, 1993; held to honor a concrete educator/researcher)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 08-04-95</subfield>
+    <subfield code="b">(hdg.: Philip D. Cady International Symposium; usage: Philip D. Cady International Symposium)</subfield>
+  </datafield>
+</record>
