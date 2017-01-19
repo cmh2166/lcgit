@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00582cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88523898 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890426132627.3</controlfield>
+  <controlfield tag="008">890323n| acaabaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88523898 </subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">0835-4227</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Economics of the service sector in Canada</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Fraser Institute (Vancouver, B.C.).</subfield>
+    <subfield code="t">Economics of the service sector in Canada</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Vancouver, B.C., Canada</subfield>
+    <subfield code="b">Fraser Institute</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Easton, S.T. Education in Canada, c1988:</subfield>
+    <subfield code="b">ser. t.p.</subfield>
+  </datafield>
+</record>
