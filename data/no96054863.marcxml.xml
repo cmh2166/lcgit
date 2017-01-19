@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00673cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 96054863 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000519101642.0</controlfield>
+  <controlfield tag="008">961022n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96054863 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04188808</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">NmU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Riahi, Daniel N.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Riahi, D. N.</subfield>
+    <subfield code="q">(Daniel N.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mathematical modeling and simulation in hydrodynamic stability, c1996:</subfield>
+    <subfield code="b">t.p. (Daniel N. Riahi; Univ. of Ill. at Urbana-Champaign) p. 149 (D.N. Riahi; Dept. of Theoretical and Applied Mechanics, Univ. of Ill., Urbana, Ill.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nonlinear instability, chaos, and turbulence, c1998- :</subfield>
+    <subfield code="b">v. 1, t.p. (D.N. Riahi; Univ. of Ill.)</subfield>
+  </datafield>
+</record>
