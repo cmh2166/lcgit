@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01273cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2014005567</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140128073739.0</controlfield>
+  <controlfield tag="008">140115n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014005567</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09656932</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OOC</subfield>
+    <subfield code="d">OOC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1997</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rosing-Schow, Niels.</subfield>
+    <subfield code="t">Vocabulary,</subfield>
+    <subfield code="n">no. 2</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Songs</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">mezzo-soprano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">clarinet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">percussion</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">5</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">mezzo-soprano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">clarinet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">percussion</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">electronics</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosing-Schow, Niels.</subfield>
+    <subfield code="t">Vocabulary II</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosing-Schow, Niels.</subfield>
+    <subfield code="t">Vocabulary two</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosing-Schow, Niels.</subfield>
+    <subfield code="t">Vocabulary 2</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rosing-Schow, Niels. Peinture du temps, p2012:</subfield>
+    <subfield code="b">container (Vocabulary II : 1986/97) insert (for mezzo-soprano, clarinet, viola, percussion and piano; text of word-fragments sung live and electronically delayed)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, January 15, 2014</subfield>
+    <subfield code="b">(Vocabulary II, mez, cl, va, pf, perc, elecs, 1997)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Niels Rosing-Schow WWW site, January 15, 2014</subfield>
+    <subfield code="b">(Vocabulary II (1997); for mezzo-soprano, clarinet, viola, percussion, piano (based on Vocabulary [I]); English words by the composer)</subfield>
+    <subfield code="u">http://nielsrosingschow.com/vocabulary-ii-1997/</subfield>
+  </datafield>
+</record>
