@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01162nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2009070479</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090509075519.0</controlfield>
+  <controlfield tag="008">090507n| acaabaaan          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009070479</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08101000</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">HkUST</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">HkUST</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Xi bei da xue Zhongguo yu yan wen xue cong shu.</subfield>
+    <subfield code="n">Di 3 ji</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">西北大学中国语言文学丛书.</subfield>
+    <subfield code="n">第三辑</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Xi bei da xue (China).</subfield>
+    <subfield code="b">Xi bei da xue Zhongguo yu yan wen xue cong shu.</subfield>
+    <subfield code="n">Di 3 ji</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">西北大学 (China).</subfield>
+    <subfield code="b">西北大学中国语言文学丛书.</subfield>
+    <subfield code="n">第三辑</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Xi bei da xue yu yan wen xue yan jiu cong shu.</subfield>
+    <subfield code="n">Di 3 ji</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">西北大学语言文学研究丛书.</subfield>
+    <subfield code="n">第三辑</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Beijing</subfield>
+    <subfield code="b">Ren min chu ban she</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">HkUST</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">HkUST</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">HkUST</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nü xing wu shi yu Song ci, 2008:</subfield>
+    <subfield code="b">t.p. (西北大学中国语言文学丛书. 第三辑 = Xi bei da xue Zhongguo yu yan wen xue cong shu. Di 3 ji; 西北大学语言文学研究丛书. 第三辑 = Xi bei da xue yu yan wen xue yan jiu cong shu. Di 3 ji)</subfield>
+  </datafield>
+</record>
