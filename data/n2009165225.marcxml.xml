@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00833cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2009165225</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219113632.0</controlfield>
+  <controlfield tag="008">091201n| acannaabn          |n aba      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009165225</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Speed, John J.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Author of Hygienic surroundings]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Hygienic surroundings, c1881</subfield>
+    <subfield code="b">(John J. Speed; published in Louisville, Ky.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Added entry on Smith's Home for Aged Indigent Mothers record book]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Historical Society for Smith's Home for Aged Indigent Mothers record book, 1864-1938</subfield>
+    <subfield code="b">(John J. Speed; one of corporators for the home which was located in Westbrook, Me.)</subfield>
+  </datafield>
+</record>
