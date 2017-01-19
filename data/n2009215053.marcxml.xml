@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00831cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2009215053</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130604070333.0</controlfield>
+  <controlfield tag="008">090828n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009215053</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08223290</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1960</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL3748.K596</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Kun-grol-rgya-mtsho,</subfield>
+    <subfield code="c">Rṅa-ba,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Rṅa-ba Kun-grol-rgya-mtsho,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">更卓加措,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Gengzhuojiacuo,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kun-grol-rgya-mtsho, Rṅa-ba. Gaṅs Rgyal Ti-ser phul baʼi glu dbyaṅs, 2004:</subfield>
+    <subfield code="b">t.p. (Rṅa-ba Kun-grol-rgya-mtsho) jkt. (b. 1960; monk of Togden Monastery)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mkhaʼ la ʼphyo baʼi sprin dkar, 2010:</subfield>
+    <subfield code="b">t.p. verso (更卓加措 = Gengzhuojiacuo)</subfield>
+  </datafield>
+</record>
