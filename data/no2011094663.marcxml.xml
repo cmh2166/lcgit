@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00538nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011094663</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110619075348.0</controlfield>
+  <controlfield tag="008">110617n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011094663</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08890690</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Steinman, John Warren,</subfield>
+    <subfield code="d">1891-1950</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Steinmann, Bruno,</subfield>
+    <subfield code="d">1891-1950</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A Cincinnati story, 2008:</subfield>
+    <subfield code="b">p. 99 (John Warren Steinman, b. Jun. 21, 1891 in Friedenau, Brandenburg, Germany with name Bruno Steinmann, d. Sept. 2, 1950 in Covington, Kenton County, Ky.)</subfield>
+  </datafield>
+</record>
