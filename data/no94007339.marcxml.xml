@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00400nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 94007339 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940429133643.3</controlfield>
+  <controlfield tag="008">940304n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94007339 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Massaquoi, J. G. M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Energy policy issues in Sierra Leone, c1988:</subfield>
+    <subfield code="b">t.p. (J.G.M. Massaquoi) p. iii (hd., Dept. of Mech. Engineering, Fourah Bay College, Sierra Leone)</subfield>
+  </datafield>
+</record>
