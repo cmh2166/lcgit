@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01254nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2015028530</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150305073502.0</controlfield>
+  <controlfield tag="008">150303n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015028530</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E1051348</subfield>
+    <subfield code="e">E1051348</subfield>
+    <subfield code="f">N0202037</subfield>
+    <subfield code="g">N0202037</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10102070</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-vt---</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1994</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Cành Nàng (Vietnam)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="b">Cities and towns</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Vietnam</subfield>
+    <subfield code="e">Thanh Hóa (Vietnam : Province)</subfield>
+    <subfield code="e">Bá Thước (Vietnam : District)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Thị trấn Cành Nàng (Vietnam)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lịch sử Đảng bộ thị trấn Cành Nàng (1994-2010), 2010- :</subfield>
+    <subfield code="b">volume 1, page 11 (small town located in Bá Thước district, Thanh Hóa province; 120 km from Thanh Hóa city; bordered with Lâm Xa commune; covers an area of 99.62 ha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, March 3, 2015</subfield>
+    <subfield code="b">(Thị trấn Cành Nàng; Vietnam; Thanh Hóa (VM34); third-order administrative division (ADM3); 20°20ʹ37ʺN; 105°13ʹ48ʺE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia (Vietnamese), March 3, 2015</subfield>
+    <subfield code="b">(Cành Nàng; a town of Bá Thước district, Thanh Hóa province; covers an area of 0.84 km²; established in 1994)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Vietnam</subfield>
+    <subfield code="z">Cành Nàng</subfield>
+  </datafield>
+</record>
