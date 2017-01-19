@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01112cz  a2200253n  4500</leader>
+  <controlfield tag="001">nr 89004901 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313101849.0</controlfield>
+  <controlfield tag="008">890425n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89004901 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02514386</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1593</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PA8485.C22</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Calvete de Estrella, Juan Cristóbal,</subfield>
+    <subfield code="d">-1593</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Calvete de Estrella, Juan Cristóbal,</subfield>
+    <subfield code="d">d. 1593</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Calvetus Stella, Ioannes Christophorus,</subfield>
+    <subfield code="d">-1593</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Calvetus Stella, Joannes Christophorus,</subfield>
+    <subfield code="d">-1593</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Estrella, Juan Cristóbal Calvete,</subfield>
+    <subfield code="d">-1593</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Estrella, Juan Cristóbal Calvete de,</subfield>
+    <subfield code="d">-1593</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Stella, Joannes Christophorus Calvetus,</subfield>
+    <subfield code="d">-1593</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Elogio de Vaca de Castro, 1947:</subfield>
+    <subfield code="b">t.p. (Juan Cristóbal Calvete de Estrella)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Calvete de Estrella, Juan Cristóbal, d. 1593)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ioannis Christophori Calveti Stellae De Aphrodisio expugnato, quod vulgo Aphricam vocant, commentarius, 1771:</subfield>
+    <subfield code="b">prelim. p. 3 (Io. Christophorus Calvetus Stella)</subfield>
+  </datafield>
+</record>
