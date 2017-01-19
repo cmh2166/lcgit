@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007147434</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160317163152.0</controlfield>
+  <controlfield tag="008">071122n| azannaabn           a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007147434</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07596715</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MX-MxITA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MX-MxITA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Romero de Solís, Ignacio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Solís, Ignacio Romero</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Solís, Ignacio Romero de</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Castells, M. Movimientos sociales urbanos, 1974:</subfield>
+    <subfield code="b">t.p. (tr. de Ignacio Romero de Solís)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Palmagallarda, 2015:</subfield>
+    <subfield code="b">t.p. (Ignacio Romero de Solís) frt flp (b. 1937, Seville, journalist, writer, translator; food critic)</subfield>
+  </datafield>
+</record>
