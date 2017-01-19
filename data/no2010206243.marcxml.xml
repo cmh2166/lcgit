@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00970cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2010206243</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110324075346.0</controlfield>
+  <controlfield tag="008">101220n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010206243</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08721443</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NdU</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fricke, Brian</subfield>
+    <subfield code="q">(Brian Lee)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">U.S.</subfield>
+    <subfield code="e">Minot, N.D.</subfield>
+    <subfield code="e">Grand Forks, N.D.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Art</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Department of Art &amp; Design, University of North Dakota</subfield>
+    <subfield code="s">start</subfield>
+    <subfield code="t">2008</subfield>
+    <subfield code="u">http://www.und.edu/dept/art/</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College students</subfield>
+    <subfield code="t">2004</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Graduate students</subfield>
+    <subfield code="s">2004</subfield>
+    <subfield code="t">2008</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Perception of value, 2007,  ÂŠ2007</subfield>
+    <subfield code="b">title page (Brian Fricke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of North Dakota directory, 2003-2004:</subfield>
+    <subfield code="b">page 170 (Brian L. Fricke; Minot N.D; senior student)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of North Dakota directory, 2007-2008:</subfield>
+    <subfield code="b">page 166 (Brian Lee Fricke; Grand Forks, N.D.; graduate student; Visual Arts )</subfield>
+  </datafield>
+</record>
