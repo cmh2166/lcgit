@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00912cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2001057788</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070206075642.0</controlfield>
+  <controlfield tag="008">010315n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001057788</subfield>
+    <subfield code="z">n 2006095527</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">China.</subfield>
+    <subfield code="t">Zhao biao tou biao fa</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">China.</subfield>
+    <subfield code="t">Zhonghua Renmin Gongheguo zhao biao tou biao fa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhonghua Renmin Gongheguo zhao biao tou biao fa shi wu quan shu, 1999:</subfield>
+    <subfield code="b">t.p. (Zhonghua Renmin Gongheguo zhao biao tou biao fa) p. 3, 1st group (promulgated by Quan guo ren min dai biao da hui chang wu wei yuan hui ti 11 ci hui i on Aug. 30, 1999; 68 articles in six chapters; effective Jan. 01, 2000)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zheng fu cai gou yu xing zheng quan li jiu ji, 2004:</subfield>
+    <subfield code="b">p. 345 (Zhonghua Renmin Gongheguo zhao biao tou biao fa; promulgated as law on Aug. 20, 1999 by Di 9 ren da di 11 Chang wei hui; effective Jan. 1, 2000; 68 articles in 6 chpaters)</subfield>
+  </datafield>
+</record>
