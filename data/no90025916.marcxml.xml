@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00871nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 90025916 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901203134003.0</controlfield>
+  <controlfield tag="008">901130n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90025916 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Petroglyph National Monument Establishment Act of 1990</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Public Law 101-313</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Act to Establish Petroglyph National Monument and Pecos National Historical Park in the State of New Mexico, and for Other Purposes</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">United States. Petroglyph National Monument and Pecos National Historical Park, establishment, 1990:</subfield>
+    <subfield code="b">t.p. (Public Law 101-313) p. 1 (An Act to Establish Petroglyph National Monument and Pecos National Historical Park in the State of New Mexico, and for Other Purposes) citation title, p. 1 (Petroglyph National Monument Establishment Act of 1990)</subfield>
+  </datafield>
+</record>
