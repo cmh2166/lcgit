@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01021nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2015140734</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151021073624.0</controlfield>
+  <controlfield tag="008">151020n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015140734</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10300365</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICrlF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Perry, Tim</subfield>
+    <subfield code="c">(Travel writer)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Dungannon (Northern Ireland)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Travel</subfield>
+    <subfield code="a">Popular music</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">DK Publishing, Inc.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Travel writer</subfield>
+    <subfield code="a">Author</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  98000828</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fodor's rock &amp; roll traveler USA, c1996:</subfield>
+    <subfield code="b">t.p. (Tim Perry)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dublin, 1999:</subfield>
+    <subfield code="b">t.p. (Tim Perry) BL AL sent 5 July 2001, returned no further information available</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gerard-Sharp, Lisa. Ireland, c2015:</subfield>
+    <subfield code="b">t.p. (main contributors, Lisa Gerard-Sharp and Tim Perry) t.p. verso (DK Publishing) p. 394 (from Dungannon, County Tyrone; writes on travel/popular music for various publishers in North America/British Isles)</subfield>
+  </datafield>
+</record>
