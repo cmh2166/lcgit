@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  92088956 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920903144646.4</controlfield>
+  <controlfield tag="008">920903n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92088956 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Ziesing Brothers Book Emporium (Willimantic, Conn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from University of Connecticut Library for Its Records, ca. 1982-1984</subfield>
+    <subfield code="b">(Ziesing Brothers Book Emporium; bookstore and small press poetry publisher; Willimantic, Conn.)</subfield>
+  </datafield>
+</record>
