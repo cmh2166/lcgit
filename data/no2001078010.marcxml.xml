@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001078010</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011002064235.0</controlfield>
+  <controlfield tag="008">011001n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001078010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05595022</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DSI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DSI</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Velde, Roelfs &amp; Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Velde, Roelfs and Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wholesale and retail hardware ... 191-?:</subfield>
+    <subfield code="b">t.p. (VELDE, ROELFS &amp; CO. (INCORPORATED)); 303-315 Margaret St., Pekin, Ill.; wagon and carriage material, blacksmiths' supplies, tools, etc.)</subfield>
+  </datafield>
+</record>
