@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00665nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2011021282</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110813075249.0</controlfield>
+  <controlfield tag="008">110811n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2011021282</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008222944</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">O'Mahony, Danno,</subfield>
+    <subfield code="d">1912-1950</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">O'Mahoney, Danny,</subfield>
+    <subfield code="d">1912-1950</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mahony, Dan,</subfield>
+    <subfield code="d">1912-1950</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Danno Mahony, [1985?]:</subfield>
+    <subfield code="b">p.2 (The different spelling of Danno's surname will be noticed in the text due to the fact that, in Ireland, the name is spelled O'Mahony, while, in America, it is O'Mahoney) p.19 (born 29 Sept. 1912) p.47 (Danny O'Mahoney) p.281 (Dan Mahony died 2 Nov. 1950)</subfield>
+  </datafield>
+</record>
