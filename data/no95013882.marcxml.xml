@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00528nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 95013882 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950324060124.0</controlfield>
+  <controlfield tag="008">950323n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95013882 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03799882 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="c">TxU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Latino Gerontological Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">LGC</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Centro GerontoloĚgico Latino</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Latino Gerontological Center newsletter, winter 1995:</subfield>
+    <subfield code="b">t.p. (Latino Gerontological Center; LGC) p. 2 (Centro GerontoloĚgico Latino, Inc.; f. 1991; New York, NY)</subfield>
+  </datafield>
+</record>
