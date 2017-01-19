@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00380nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 93006748 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930227064542.7</controlfield>
+  <controlfield tag="008">930224n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93006748 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Squire, J. S.</subfield>
+    <subfield code="q">(Jon S.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Squire, Jon S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Digital computer use in power plant design, 1961:</subfield>
+    <subfield code="b">t.p. (J.S. Squire) p. iii (Jon Squire)</subfield>
+  </datafield>
+</record>
