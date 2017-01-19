@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008043443</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326113912.0</controlfield>
+  <controlfield tag="008">080320n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008043443</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07709103</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">National Epidemiology Center (Philippines)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Philippines.</subfield>
+    <subfield code="b">Department of Health.</subfield>
+    <subfield code="b">National Epidemiology Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Philippines.</subfield>
+    <subfield code="b">National Epidemiology Center</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Philippines.</subfield>
+    <subfield code="b">Department of Health</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Field health service information system annual report, 2002:</subfield>
+    <subfield code="b">t.p. (National Epidemiology Center, Department of Health)</subfield>
+  </datafield>
+</record>
