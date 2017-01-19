@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01103nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 97066494 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971114051939.1</controlfield>
+  <controlfield tag="008">971113n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97066494 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04532520 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">NAFTA Center (U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">NAFTA Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">U.S. Customs NAFTA Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">U.S. Customs Service.</subfield>
+    <subfield code="b">NAFTA Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Centro TLCAN (U.S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The NAFTA Center, Office of Field Operations, Dallas, Texas, 1997:</subfield>
+    <subfield code="b">t.p. (The NAFTA Center) 1st letter of transmittal (North American Free Trade Agreement (NAFTA); agreement to est. Center, Nov. 1994) p. 1 after 3rd letter of transmittal (located in Dallas-Fort Worth Int'l Airport; opened March 13, 1995; staffed by U.S. Customs Service, a rep. of [Mexico] Ministry of Finance and Public Credit, and briefly by official from Revenue Canada) p. 1, 4th group (The NAFTA Center, a service of the U.S. Customs Service) p. 64 (El Centro TLCAN)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its home page, via U.S. Customs Service, 11/12/97</subfield>
+    <subfield code="b">(U.S. Customs NAFTA Center)</subfield>
+  </datafield>
+</record>
