@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00629cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85246750 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940510123324.9</controlfield>
+  <controlfield tag="008">870422n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85246750 </subfield>
+    <subfield code="z">n  88026225 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">IT Corporation</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">International Technology Corporation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rochkind, M.L. Microbial decomposition of chlorinated aromatic compounds, 1986:</subfield>
+    <subfield code="b">t.p. (IT Corporation, Knoxville, Tenn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kruger, C.A. Decision-support software for soil vapor extraction ... [MI] 1993:</subfield>
+    <subfield code="b">t.p. (IT Corporation, Knoxville, TN) p. ii (International Technology Corporation)</subfield>
+  </datafield>
+</record>
