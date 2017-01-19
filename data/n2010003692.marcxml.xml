@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00417nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2010003692</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100120075148.0</controlfield>
+  <controlfield tag="008">100119n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010003692</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sokolow, David</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Leed, Maren. The ingenuity gap, c2010:</subfield>
+    <subfield code="b">CIP t.p. (David Sokolow) data view (research assistant, Center for Strategic and International Studies, Washington, D.C.)</subfield>
+  </datafield>
+</record>
