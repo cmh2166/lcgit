@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00548nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012025541</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120224075250.0</controlfield>
+  <controlfield tag="008">120222n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012025541</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09122656</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sienkiewicz, Henryk,</subfield>
+    <subfield code="d">1846-1916.</subfield>
+    <subfield code="t">Poﾌ）dzﾌ［y za Nim.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sienkiewicz, Henryk,</subfield>
+    <subfield code="d">1846-1916.</subfield>
+    <subfield code="t">Let us follow Him</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Let us follow Him, 1897.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC/NACO Authority File, Feb. 22, 2012</subfield>
+    <subfield code="b">(Sienkiewicz, Henryk, 1846-1916. Poﾌ）dzﾌ［y za Nim. Latin)</subfield>
+  </datafield>
+</record>
