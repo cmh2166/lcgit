@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00677cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2002037180</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110528075120.0</controlfield>
+  <controlfield tag="008">020418n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2002037180</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)004105299</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lindquist, R. C.</subfield>
+    <subfield code="q">(Rowena Cory),</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lindquist, Rowena Cory,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Daniells, Cory</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The intruder, 1999:</subfield>
+    <subfield code="b">t.p. (R. C. Lindquist) cover (Rowena Lindquist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLA database, 18 April 2002</subfield>
+    <subfield code="b">(hdg.: Lindquist, Rowena Cory, 1958-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fantastic Fiction www site, 26 May 2011:</subfield>
+    <subfield code="b">Cory Daniells page (Rowena Cory Lindquist is pseud. of Rowena Cory Daniells)</subfield>
+  </datafield>
+</record>
