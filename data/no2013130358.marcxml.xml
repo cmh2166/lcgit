@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013130358</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150105135953.0</controlfield>
+  <controlfield tag="008">131120n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013130358</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09620269</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1985</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Flammer, Ernst Helmuth,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">violins (2), viola, cello,</subfield>
+    <subfield code="n">no. 3</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">violin</subfield>
+    <subfield code="n">2</subfield>
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">4</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="a">no. 3</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Flammer, Ernst Helmuth,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">strings,</subfield>
+    <subfield code="n">no. 3</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Flammer, Ernst Helmuth. Streichquartett Nr. 3, 1985, 1989.</subfield>
+  </datafield>
+</record>
