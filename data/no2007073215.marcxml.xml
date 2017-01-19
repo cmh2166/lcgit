@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00915cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2007073215</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081013204435.0</controlfield>
+  <controlfield tag="008">070702n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007073215</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07452193</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ḥusaynī, Ḥusayn,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hosseini, Hossein,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">حسينى، حسين</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">حسيني، حسين،</subfield>
+    <subfield code="d">1962</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Miʼat mawḍūʻ akhlāqī fī al-Qurān wa-al-ḥadīth, 1383, 2004:</subfield>
+    <subfield code="b">t.p. (al-Sayyid Ḥusayn Ḥusaynī) CIP (Ḥusayni, Ḥusayn, 1341- [1962-])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rahbarī va inqilāb, 2002 or 2003:</subfield>
+    <subfield code="b">t.p. (Duktur Ḥusayn Ḥusaynī) t.p. verso (Iranian CIP data: b. 1341 [1962 or 3]) p. 4 of cover (Dr. Hossein Hosseini [in rom.])</subfield>
+  </datafield>
+</record>
