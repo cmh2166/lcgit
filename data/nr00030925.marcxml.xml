@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00311nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 00030925 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001004034019.0</controlfield>
+  <controlfield tag="008">000929n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00030925 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaQMCCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaQMCCA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ebert, Emil</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Emil Ebert, c1929:</subfield>
+    <subfield code="b">leaf 14 (Architekt Emil Ebert)</subfield>
+  </datafield>
+</record>
