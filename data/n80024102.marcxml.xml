@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00931cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80024102 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090212080134.0</controlfield>
+  <controlfield tag="008">800305n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80024102 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00406419</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">R. Stazione agraria sperimentale di Roma</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Italy.</subfield>
+    <subfield code="b">Stazione agraria sperimentale</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Italy.</subfield>
+    <subfield code="b">R. Stazione agraria sperimentale di Roma</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Regia Stazione agraria sperimentale di Roma</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Stazione agraria sperimentale di Roma, R.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">R. Stazione chimico-agraria sperimentale di Roma</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The R. Stazione agraria sperimentale was established in 1871; and took the name R. Stazione chimico-agraria sperimentale di Roma in 1880. In 1945 (?) it became Stazione chimico-agraria sperimentale di Roma. In 1967 the name was changed to Istituto sperimentale per la nutrizione delle piante</subfield>
+  </datafield>
+</record>
