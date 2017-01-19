@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00613cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2013026832</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130511075139.0</controlfield>
+  <controlfield tag="008">130510n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013026832</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1921?</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="b">Diocese of Llandaff</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The European Union 'on being the church across frontiers', 1999:</subfield>
+    <subfield code="b">t.p. (Diocese of Llandaff, Board for Social Responsibility [diocese created in 1921?])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email to NACO from National Lib. of Wales, May 10, 2013</subfield>
+    <subfield code="b">(not the same as Diocese of Llandaff (Wales) which ceased to exist in 1559)</subfield>
+  </datafield>
+</record>
