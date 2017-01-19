@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00464cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 90013393 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901123054232.3</controlfield>
+  <controlfield tag="008">900702n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90013393 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="c">InU-Mu</subfield>
+    <subfield code="d">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hamerik, Margaret Williams,</subfield>
+    <subfield code="d">1867-1942</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hammerich, A. Mediaeval musical relics of Denmark, 1976:</subfield>
+    <subfield code="b">t.p. (Margaret Williams Hamerik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 7-19-90</subfield>
+    <subfield code="b">(hdg.: Hamerik, Margaret Williams, 1867-1942)</subfield>
+  </datafield>
+</record>
