@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01070cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  84128143 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081029075231.0</controlfield>
+  <controlfield tag="008">841121n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84128143 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01258169</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Segal, E.</subfield>
+    <subfield code="q">(Elena),</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Segal, Elena Aleksandrovna,</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Segal, Elena,</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Szegál, E.,</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Segal, Y.,</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hsieh-chia-erh,</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">סגל, א.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ilʹin, M. Jen tsen yang pien chʻeng chü jen, -1982:</subfield>
+    <subfield code="b">v. 3, verso t.p. (E. Segal) colophon (Hsieh-chia-erh)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Segal, Elena Aleksandrovna, 1905- ; usage: E. Segal; Elena Segal; E. Szegál; Y. Segal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sov. det. pis., 1961:</subfield>
+    <subfield code="b">p. 335 (Segal, E. (Marshak, Elena Aleksandrovna); b. 4-26-1905)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Britannica, 15th ed.;</subfield>
+    <subfield code="a">Americana;</subfield>
+    <subfield code="a">Collier's.</subfield>
+  </datafield>
+</record>
