@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00593cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  82201663 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031202134606.0</controlfield>
+  <controlfield tag="008">830610n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82201663 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gale, G. H.</subfield>
+    <subfield code="q">(George Henry)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gale, George Henry</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A geological evaluation of precambrian massive sulphide deposit potential in Manitoba, 1980:</subfield>
+    <subfield code="b">t.p. (G.H. Gale)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mineral deposits and occurrences in the Flin Flon area NTS 63K/13, 1988- :</subfield>
+    <subfield code="b">v. 3, t.p. (G.H. Gale)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC, 03-20/91</subfield>
+    <subfield code="b">(Gale, G. H. (George Henry))</subfield>
+  </datafield>
+</record>
