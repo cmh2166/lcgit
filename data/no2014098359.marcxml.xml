@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00682nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014098359</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140725073610.0</controlfield>
+  <controlfield tag="008">140724n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014098359</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09917464</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Adelberg, Samantha</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Washington (D.C.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">PaguĚa (Panama)</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">samantha.adelberg@gmail.com</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cuentacuentos bajo la penca, 2013:</subfield>
+    <subfield code="b">title page (Samantha Adelberg) page 17 (Samantha Adelberg...from Washington D.C., United States...Fulbright Scholarship recipient...lived in PaguaĚ [Panama]. samantha.adelberg@gmail.com)</subfield>
+  </datafield>
+</record>
