@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004061049</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040626071027.0</controlfield>
+  <controlfield tag="008">040625n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004061049</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06379152</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hayashida, K. B.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hayashida, Kazuo Ben</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Single wall penetration equations, 1991:</subfield>
+    <subfield code="b">t.p. (K.B. Hayashida, Structures and Dynamics Lab., Sci. and Engin. Directorate; George C. Marshall Space Flight Center)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 23, 2004</subfield>
+    <subfield code="b">(hdg.: Hayashida, K. B.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tethers in space handbook, 1997:</subfield>
+    <subfield code="b">p. 201 (Kazuo Ben Hayashida, NASA Marshall Space Flight Center)</subfield>
+  </datafield>
+</record>
