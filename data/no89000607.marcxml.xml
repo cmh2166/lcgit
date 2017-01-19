@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00697cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 89000607 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314092711.0</controlfield>
+  <controlfield tag="008">890119n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89000607 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MnHi</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MnHi</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1827</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dimbleby, J. B.</subfield>
+    <subfield code="q">(Jabez Bunting),</subfield>
+    <subfield code="d">1827-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Jabez Bunting</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Dimbleby, J. B.</subfield>
+    <subfield code="q">(Jabez Bunting),</subfield>
+    <subfield code="d">b. 1827</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dimbleby, Jabez Bunting,</subfield>
+    <subfield code="d">1827-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dimleby, J. B.</subfield>
+    <subfield code="q">(Jabez Bunting),</subfield>
+    <subfield code="d">1827-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Den bestemte tid, 1896:</subfield>
+    <subfield code="b">t.p. (J.B. Dimbleby)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His En ny tid er nĂŚr! 1895:</subfield>
+    <subfield code="b">t.p. (J.B. Dimleby)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg: Dimbleby, Jabez Bunting, 1827-  )</subfield>
+  </datafield>
+</record>
