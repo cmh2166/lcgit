@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00582nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002046702</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020531055314.0</controlfield>
+  <controlfield tag="008">020530n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002046702</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05773612</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUSA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schoeman, J. J. A.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schoeman, Jacobus Johannes Albert</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Afrikaanse taaloefeninge vir matrikulasie ..., 1924:</subfield>
+    <subfield code="b">t.p. (J.J.A. Schoeman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A South African bibliography to the year 1925</subfield>
+    <subfield code="b">v. 4, p. 155 (hdg.: Schoeman, J. J. A. (Jacobus Johannes Albert); usage: J.J.A. Schoeman)</subfield>
+  </datafield>
+</record>
