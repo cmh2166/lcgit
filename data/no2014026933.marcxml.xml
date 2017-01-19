@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01209nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014026933</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140228073630.0</controlfield>
+  <controlfield tag="008">140227n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014026933</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09691940</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">SurveyUSA</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Public opinion polling firm</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Business enterprises</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Clifton (N.J.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Public opinion polls</subfield>
+    <subfield code="a">Marketing research</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SurveyUSA website, February 27, 2014:</subfield>
+    <subfield code="b">home page (SurveyUSA; Clifton NJ) Who is SurveyUSA? (SurveyUSA is an independent, non-partisan, full-service opinion research firm that conducts scientific research for media, government, and private-sector clients. By many measures, SurveyUSA is the nation's largest public opinion polling firm)</subfield>
+    <subfield code="u">http://www.surveyusa.com/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, February 27, 2014</subfield>
+    <subfield code="b">(SurveyUSA is a polling firm in the United States. It conducts market research for corporations and interest groups, but is best known for conducting opinion polls for various political offices and questions; SurveyUSA is owned by Hypotenuse, Inc., a privately held company in New Jersey)</subfield>
+  </datafield>
+</record>
