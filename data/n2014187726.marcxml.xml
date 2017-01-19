@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00754nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014187726</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140829044103.0</controlfield>
+  <controlfield tag="008">140829n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014187726</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1622851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Trafic de l'opium et autres drogues nuisibles.</subfield>
+    <subfield code="p">Importations et exportations de morphine, diacétylmorphine et cocaïne pour les années 1929 et 1930.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Traffic in opium and other dangerous drugs.</subfield>
+    <subfield code="p">Imports and exports of morphine, diacetylmorphine, and cocaine for the years 1929 and 1930</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Trafic de l'opium et autres drogues nuisibles. Importations et exportations de morphine, diacétylmorphine et cocaïne pour les années 1929 et 1930, mai 1931</subfield>
+  </datafield>
+</record>
