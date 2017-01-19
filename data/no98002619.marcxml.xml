@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 98002619 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980410051459.9</controlfield>
+  <controlfield tag="008">980106n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98002619 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04575464 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">MoSW-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Edwards, Gus,</subfield>
+    <subfield code="d">1879-1945.</subfield>
+    <subfield code="t">School days</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Edwards, Gus,</subfield>
+    <subfield code="d">1879-1945.</subfield>
+    <subfield code="t">When we were a couple of kids</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 87-770295: Edwards, G. School days, c1986</subfield>
+  </datafield>
+</record>
