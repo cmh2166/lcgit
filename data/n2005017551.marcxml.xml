@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00581cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2005017551</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050315125042.0</controlfield>
+  <controlfield tag="008">050310n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005017551</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR9387.9.F34</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fakayode, Tope</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fakayode, Tiwatope</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fakayode, Tope. Not yet over, c2001:</subfield>
+    <subfield code="b">t.p. (Tope Fakayode) t.p. verso (cprt. by Tiwatope Fakayode) p. 4 of cover (b. in Morocco; educated in Islamabad, Pakistan and Buenos Aires, Argentina; B.A. in civil engin. from Obafemi Awolowo Univ., Ile-Ife, Nigeria)</subfield>
+  </datafield>
+</record>
