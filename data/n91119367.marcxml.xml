@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91119367 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911122135727.7</controlfield>
+  <controlfield tag="008">911122n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91119367 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Visiting Nurse Association of St. Louis</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Visiting Nurses (Saint Louis, Mo.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">St. Louis Provident Association.</subfield>
+    <subfield code="b">Visiting Nurse Association of St. Louis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Univ. of Mo.-St. Louis Lib., Western Hist. Ms. Coll. for Family and Children's Service of Greater St. Louis. Records, 1861-1960</subfield>
+    <subfield code="b">(Visiting Nurses; began as department of St. Louis Provident Association)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Greater St. Louis tel. dir.,</subfield>
+    <subfield code="b">1950: p. 836 (Visiting Nurse Association of St. Louis)</subfield>
+  </datafield>
+</record>
