@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00496nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2003040823</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030418051752.0</controlfield>
+  <controlfield tag="008">030417n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2003040823</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Willson, Richard,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record nb90048522</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Erik the Troll, 1996:</subfield>
+    <subfield code="b">t.p. (Richard Willson) BL AL sent 4 February 2003</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Letter from author, 17 April 2003</subfield>
+    <subfield code="b">(Richard John Willson, born 24 May 1932)</subfield>
+  </datafield>
+</record>
