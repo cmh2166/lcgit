@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00694nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2012183728</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120427074955.0</controlfield>
+  <controlfield tag="008">120426n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012183728</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1529965</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shenʹ, N. P.</subfield>
+    <subfield code="q">(Natalʹi︠a︡ Petrovna)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Шень, Н. П.</subfield>
+    <subfield code="q">(Наталья Петровна)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shenʹ, Natalʹi︠a︡ Petrovna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Шень, Наталья Петровна</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ozhogi u deteĭ, 2011:</subfield>
+    <subfield code="b">t.p. (Н.П. Шень = N.P. Shen) colophon (Шень Наталья Петровна = Shenʹ Natalʹi︠a︡ Petrovna)</subfield>
+  </datafield>
+</record>
