@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00371nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2010031244</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100518075615.0</controlfield>
+  <controlfield tag="008">100517n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010031244</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ackerman, Bari J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ackerman, Bari J. Inspired to sew by Bari J., 2011:</subfield>
+    <subfield code="b">e-cip t.p. (Bari J. Ackerman) data v. (Ackerman, Bari Jill)</subfield>
+  </datafield>
+</record>
