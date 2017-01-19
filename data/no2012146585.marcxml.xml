@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00800nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012146585</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121116075624.0</controlfield>
+  <controlfield tag="008">121114n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012146585</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09345931</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FJ</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Jacksonville Executive at Craig Airport</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Craig Municipal Airport</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jacksonville Aviation Authority. Jacksonville's aviation history, 2012:</subfield>
+    <subfield code="b">t.p. (Jacksonville Executive at Craig Airport)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed Nov. 13, 2012:</subfield>
+    <subfield code="b">(Jacksonville Executive at Craig Airport, formerly known as Craig Municipal Airport, is a public airport located eight miles east of the central business district of Jacksonville, in Duval County, Florida, United States. It is owned by the Jacksonville Aviation Authority.)</subfield>
+  </datafield>
+</record>
