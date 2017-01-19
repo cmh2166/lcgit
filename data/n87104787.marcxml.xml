@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00530cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87104787 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080410075353.0</controlfield>
+  <controlfield tag="008">870618n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87104787 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01879392</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Flowers, Montaville,</subfield>
+    <subfield code="d">1868-1934</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-64849: What every American should know ... [MI] c1918</subfield>
+    <subfield code="b">(hdg. on MiU rept.: Flowers, Montaville, 1868- ; usage: Montaville Flowers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 06/19/87</subfield>
+    <subfield code="b">(hdg.: Flowers, Montaville, 1868-1934)</subfield>
+  </datafield>
+</record>
