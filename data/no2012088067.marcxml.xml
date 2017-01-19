@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00563nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012088067</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120702130557.0</controlfield>
+  <controlfield tag="008">120628n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012088067</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09236277</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Laustetter, Christian,</subfield>
+    <subfield code="d">1982-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grenzen des Glücksspielstrafrechts, 2011:</subfield>
+    <subfield code="b">t.p. (Christian Laustetter) p. 4 of cover (Dr. Christian Laustetter, b. 1982; Bremer Forschungscenter Geldwäschekriminalität)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB in VIAF, June 28, 2012</subfield>
+    <subfield code="b">(hdg.: Laustetter, Christian, 1982-)</subfield>
+  </datafield>
+</record>
