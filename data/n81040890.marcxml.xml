@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00630cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  81040890 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880614112604.3</controlfield>
+  <controlfield tag="008">810918n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81040890 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hussain, Khalifa Afzal,</subfield>
+    <subfield code="d">1907-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Khalifa Afzal Hussain,</subfield>
+    <subfield code="d">1907-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Hussain, K. A.</subfield>
+    <subfield code="q">(Khalifa Afzal),</subfield>
+    <subfield code="d">1907-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The development of roads and road transport in Pakistan, 1973-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The transport modes in developing countries, 1984:</subfield>
+    <subfield code="b">t.p. (K.A. Hussain, FCIT, FBIM) cover (Khalifa Afzal Hussain; Fellow of the Chartered Institute of Transport, London)</subfield>
+  </datafield>
+</record>
