@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00411nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 91026773 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910809062630.4</controlfield>
+  <controlfield tag="008">910725n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91026773 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Associazioni moglie medici italiani</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">A.M.M.I.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">AMMI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ottocento ritrovato, c1989:</subfield>
+    <subfield code="b">t.p. (A.M.M.I.) t.p. verso (Associazioni moglie medici italiani)</subfield>
+  </datafield>
+</record>
