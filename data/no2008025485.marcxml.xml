@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00531nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008025485</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080220104506.0</controlfield>
+  <controlfield tag="008">080218n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008025485</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07660999</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InIU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InIU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McBride, James Hubert,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The test ban treaty, c1967:</subfield>
+    <subfield code="b">t.p. (James Hubert McBride)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 18, 2008</subfield>
+    <subfield code="b">(hdg.: McBride, James Hubert, 1924- ; McBride, James Hubert; McBride James H.; usage: James Hubert McBride, James H. McBride)</subfield>
+  </datafield>
+</record>
