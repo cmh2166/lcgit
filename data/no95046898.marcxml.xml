@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00543cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 95046898 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001104071221.0</controlfield>
+  <controlfield tag="008">951003n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95046898 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03931006</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ramazani Wite, Louis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wite, Louis Ramazani</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ramazani Wite Louis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La femme de ma vie, 1992:</subfield>
+    <subfield code="b">t.p. (Ramazani Wite Louis) preface (RAMAZANI WITE, Louis; pub. on the occasion of approaching 50th anniversary of his 'religious marriage')</subfield>
+  </datafield>
+</record>
