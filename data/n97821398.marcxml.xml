@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00674nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  97821398 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970916070708.4</controlfield>
+  <controlfield tag="008">970916n| acannaab|           n and     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97821398 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 300089453</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="c">NN-PD</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Schatten (Choreographic work : Georgi)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Chor: Yvonne Georgi; mus: Wolfgang Wydeveld; lib: Hans Christian Andersen.  First perf: Hannover, Jan or Feb 1958.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MA  Melos, Zeitschrift fur neue Musik. Mar 1958, p 99.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NYPL Dict. Cat. of the Dance Coll., 1974-</subfield>
+  </datafield>
+</record>
