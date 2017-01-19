@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00764cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2001131134</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815075229.0</controlfield>
+  <controlfield tag="008">011220n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001131134</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1170794</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">NCVHS 50th Anniversary Symposium</subfield>
+    <subfield code="d">(2000 :</subfield>
+    <subfield code="c">National Academy of Sciences)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">50th Anniversary Symposium, NCVHS</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Anniversary Symposium, NCVHS 50th</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">NCVH Fiftieth Anniversary Symposium</subfield>
+    <subfield code="d">(2000 :</subfield>
+    <subfield code="c">National Academy of Sciences)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NCVHS 50th Anniversary Symposium, 2001:</subfield>
+    <subfield code="b">t.p. (June 2000) p. 1 (... symposium at the National Academy of Sciences)</subfield>
+  </datafield>
+</record>
