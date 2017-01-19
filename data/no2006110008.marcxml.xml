@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00397nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006110008</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061019075226.0</controlfield>
+  <controlfield tag="008">061017n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006110008</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07081079</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NmU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NmU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Baez Jasso, Juan Jaime</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jasso, Juan Jaime Baez</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Manantial de historias, 2005:</subfield>
+    <subfield code="b">t.p. (Juan Jaime Baez Jasso)</subfield>
+  </datafield>
+</record>
