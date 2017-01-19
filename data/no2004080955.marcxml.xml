@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004080955</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040824052339.0</controlfield>
+  <controlfield tag="008">040823n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004080955</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06425439</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InIU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InIU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Van Koughnet, S. J.</subfield>
+    <subfield code="q">(Salter Jehosaphat),</subfield>
+    <subfield code="d">1833-1888</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van Koughnet, Salter Jehosaphat,</subfield>
+    <subfield code="d">1833-1888</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Koughnet, Salter Jehosaphat van,</subfield>
+    <subfield code="d">1833-1888</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Queen's Bench and Practice Court reports:</subfield>
+    <subfield code="b">v. 43, t.p. (S.J. Van Koughnet, barrister-at-law)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Aug. 23, 2004</subfield>
+    <subfield code="b">(hdg.: Van Koughnet, Salter Jehosaphat, 1833-1888; no usage given)</subfield>
+  </datafield>
+</record>
