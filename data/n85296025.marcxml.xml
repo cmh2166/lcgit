@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00468nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85296025 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860513131658.5</controlfield>
+  <controlfield tag="008">860421n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85296025 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Weiss, Norman L.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Weiss, N. L.</subfield>
+    <subfield code="q">(Norman L.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SME mineral processing handbook, 1985:</subfield>
+    <subfield code="b">t.p. (Norman L. Weiss) p. iv., etc. (N.L. Weiss; Tucson, AZ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to publ., 4/9/86</subfield>
+    <subfield code="b">(Norman L. Weiss; MIT)</subfield>
+  </datafield>
+</record>
