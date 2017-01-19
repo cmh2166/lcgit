@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00576nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011101731</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110705145411.0</controlfield>
+  <controlfield tag="008">110701n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011101731</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08902956</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Filminstitut der Landeshauptstadt Düsseldorf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Filminstitut der Stadt Düsseldorf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Düsseldorf (Germany).</subfield>
+    <subfield code="b">Filminstitut</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Düsseldorf kinematographisch, c1982:</subfield>
+    <subfield code="b">t.p. (Filminstitut der Landeshauptstadt Düsseldorf) p. 7 (... des Filminstituts der Stadt Düsseldorf)</subfield>
+  </datafield>
+</record>
