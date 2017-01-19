@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00403cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88189375 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900209153210.1</controlfield>
+  <controlfield tag="008">890724n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88189375 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Abd-ru-shin,</subfield>
+    <subfield code="d">1875-1941.</subfield>
+    <subfield code="t">Im Lichte der Wahrheit.</subfield>
+    <subfield code="l">Dutch</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Abd-ru-shin,</subfield>
+    <subfield code="d">1875-1941.</subfield>
+    <subfield code="t">In het licht der waarheid</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His In het licht der waarheid, c1987.</subfield>
+  </datafield>
+</record>
