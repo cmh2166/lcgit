@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00464nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98083611 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980507051919.4</controlfield>
+  <controlfield tag="008">980506n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98083611 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04722494 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lukács, György,</subfield>
+    <subfield code="d">1885-1971.</subfield>
+    <subfield code="t">Schriften zur literatursoziologie.</subfield>
+    <subfield code="l">Spanish</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lukács, György,</subfield>
+    <subfield code="d">1885-1971.</subfield>
+    <subfield code="t">Sociología de la literatura</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sociología de la literatura, 1968.</subfield>
+  </datafield>
+</record>
