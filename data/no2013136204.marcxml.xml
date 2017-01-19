@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01047cz  a2200265n  4500</leader>
+  <controlfield tag="001">no2013136204</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150310073928.0</controlfield>
+  <controlfield tag="008">131205n| azaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013136204</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">2198-9370</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09631283</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">CLU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">WeltLiteraturen</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series (Publications)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Freie Universität Berlin.</subfield>
+    <subfield code="b">Friedrich Schlegel Graduiertenschule für literaturwissenschaftliche Studien.</subfield>
+    <subfield code="t">WeltLiteraturen</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">World literatures</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">WL</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Bd. 3</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">MH</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Akademie Verlag</subfield>
+    <subfield code="b">De Gruyter</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">MH</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">MH</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">MH</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Liminal semiotics, 2013:</subfield>
+    <subfield code="b">ser. t.p. (WeltLiteraturen; World literatures; Band 3; Schriftenreihe der Friedrich Schlegel Graduiertenschule für literaturwissenschaftliche Studien) spine (WL 3)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die Vertextung der Welt, ©2014, series title page (WeltLiteraturen; World literatures; Band 7) title page (De Gruyter)</subfield>
+  </datafield>
+</record>
