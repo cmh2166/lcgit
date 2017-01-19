@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00369nz  a2200121n  4500</leader>
+  <controlfield tag="001">nb 99069971 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001122053016.0</controlfield>
+  <controlfield tag="008">990823n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99069971 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Scott, Rebecca,</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A fine kind of madness, 1999:</subfield>
+    <subfield code="b">t.p. (Rebecca Scott) jkt. (b. 5 Sept. 1972, London; lives in Brooklyn, N.Y.)</subfield>
+  </datafield>
+</record>
