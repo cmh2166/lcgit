@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  91099371 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910930082448.5</controlfield>
+  <controlfield tag="008">910930n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91099371 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Roper, Clinton,</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Roper, C. M.</subfield>
+    <subfield code="q">(Clinton Marcus),</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">N.Z. Ministerial Comm. of Inquiry into the Prisons Syst. Prison review, 1989:</subfield>
+    <subfield code="b">t.p. verso (Sir Clinton Roper) prelim. (Hon. Sir Clinton Roper of Christchurch, retired judge of the High Court) NZ CIP data (Roper, C. M. (Clinton Marcus), 1921- )</subfield>
+  </datafield>
+</record>
