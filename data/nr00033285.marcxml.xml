@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00624nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 00033285 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001102034029.0</controlfield>
+  <controlfield tag="008">001020n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00033285 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bibliothèque municipale de Besançon.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">101</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="t">Ordinarium Bisuntinense (1346)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading stands for the physical aspects of the codex, represented for its textual content by the heading: Catholic Church. Ordinarium Bisuntinense (1346)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'ordinaire liturgique du diocèse de Besançon : (Besançon, Bibl. mun., MS. 101), 1999</subfield>
+  </datafield>
+</record>
