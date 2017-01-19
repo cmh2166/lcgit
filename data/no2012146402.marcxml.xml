@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00693nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012146402</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121115075252.0</controlfield>
+  <controlfield tag="008">121113n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012146402</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09345092</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Stichting Octopus</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Octopus Foundation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dutch details, 1971:</subfield>
+    <subfield code="b">t.p. ("Een uitgave van de Stichting Octopus in het kader van 'Sonsbeek buiten de perken,' 1971. A publication of the Octopus Foundation within the framework of Sonsbeek 71")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 13, 2012</subfield>
+    <subfield code="b">(hdgs.:Stichting Octopus (Deventer); Octopus Foundation (Deventer); usage: Stichting Octopus, Deventer; Octopus Foundation, Deventer)</subfield>
+  </datafield>
+</record>
