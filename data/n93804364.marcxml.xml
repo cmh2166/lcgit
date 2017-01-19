@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00506nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  93804364 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940201150108.1</controlfield>
+  <controlfield tag="008">940201n| acannaab|          |a ana ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93804364 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Baylor College of Medicine.</subfield>
+    <subfield code="b">Human Genome Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Baylor Genome Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Human Genome Center at Baylor College of Medicine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baylor Genome Center news, Feb. 1993:</subfield>
+    <subfield code="b">t.p. (Human Genome Center at Baylor College of Medicine; Baylor Genome Center)</subfield>
+  </datafield>
+</record>
