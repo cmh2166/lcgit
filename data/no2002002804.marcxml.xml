@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00399nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2002002804</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020112071029.0</controlfield>
+  <controlfield tag="008">020111n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002002804</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05663886</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weerda, Jan Remmers,</subfield>
+    <subfield code="d">1906-1963</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Der Emder Kirchenrat und seine Gemeinde, 2000:</subfield>
+    <subfield code="b">t.p. (Jan Remmers Weerda) p. xi (1906-1963)</subfield>
+  </datafield>
+</record>
