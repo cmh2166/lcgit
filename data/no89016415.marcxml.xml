@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00877cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 89016415 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801083146.0</controlfield>
+  <controlfield tag="008">891026n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89016415 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02631336</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1757</subfield>
+    <subfield code="g">1839</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Essex, George Capel-Coningsby,</subfield>
+    <subfield code="c">Earl of,</subfield>
+    <subfield code="d">1757-1839</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Capel-Coningsby, George,</subfield>
+    <subfield code="c">Earl of Essex,</subfield>
+    <subfield code="d">1757-1839</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Coningsby, George Capel-,</subfield>
+    <subfield code="c">Earl of Essex,</subfield>
+    <subfield code="d">1757-1839</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Capel, W. An account of the trial between George Earl of Essex, plaintiff, and the Hon. &amp; Rev. Wm. Capel, defendant, 1810.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Doyle, J.W.E. The official baronage of England, 1886:</subfield>
+    <subfield code="b">(George Capel-Coningsby, 5th Earl of Essex; b. 11-13-1757; d. 4-23-1839)</subfield>
+  </datafield>
+</record>
