@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00880cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 00094906 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320084334.0</controlfield>
+  <controlfield tag="008">001120n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00094906 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05360514</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IaAS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IaAS</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Iowa State University.</subfield>
+    <subfield code="b">Archives</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Iowa State University.</subfield>
+    <subfield code="b">Library.</subfield>
+    <subfield code="b">Special Collections Department.</subfield>
+    <subfield code="b">University Archives</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Iowa State University.</subfield>
+    <subfield code="b">University Archives</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Iowa State University</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Index to the ERI papers available in the Iowa State University Archives, 1992:</subfield>
+    <subfield code="b">title leaf (Iowa State University Archives) leaf following title leaf (University Archives)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 8, 2000</subfield>
+    <subfield code="b">(hdgs.: Iowa State University. Archives; Iowa State University. University Archives; usage: Iowa State University Archives)</subfield>
+  </datafield>
+</record>
