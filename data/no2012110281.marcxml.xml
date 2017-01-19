@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012110281</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120822075214.0</controlfield>
+  <controlfield tag="008">120816n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012110281</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09278315</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">NN</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Villa García (Zacatecas, Mexico)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Villa García, 2009.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NGA : Geonames, WWW site viewed Aug. 23, 2012 :</subfield>
+    <subfield code="b">(ppl; 22° 10' 00" N, 101° 57' 00" W)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Mexico</subfield>
+    <subfield code="z">Villa Garcia (Zacatecas)</subfield>
+  </datafield>
+</record>
