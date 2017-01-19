@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00860cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  00039172 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150313174155.0</controlfield>
+  <controlfield tag="008">000510n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00039172 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1944</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3554.A937658</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Davis, Richard</subfield>
+    <subfield code="q">(Richard J.),</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Davis, Rick,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Davis, Richard. A man to cross rivers with, 1999:</subfield>
+    <subfield code="b">t.p. (Richard Davis) cover (lives in Denver, Colo.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to publisher, May 10, 2000</subfield>
+    <subfield code="b">(Richard J. Davis; b. 1944; also known as Rick Davis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Last Indian summer, 2015:</subfield>
+    <subfield code="b">ECIP t.p. (Richard Davis) data view (Rick Davis; third generation  Colorado native; education credentials include Colorado State University, University of Denver, John Marshall and the University of Colorado; resides in Colorado)</subfield>
+  </datafield>
+</record>
