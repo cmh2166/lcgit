@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001074358</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150128073754.0</controlfield>
+  <controlfield tag="008">010918n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001074358</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05584188</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OrU</subfield>
+    <subfield code="d">NSyU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1903</subfield>
+    <subfield code="t">1926</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">L.C. Smith &amp; Bros. Typewriter Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">L.C. Smith and Brothers Typewriter Co.</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Founder:</subfield>
+    <subfield code="a">Smith, Lyman Cornelius,</subfield>
+    <subfield code="d">1850-1910</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">L.C. Smith &amp; Corona Typewriters, Inc.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Demonstration, Portland number, 1923:</subfield>
+    <subfield code="b">cover (L.C. Smith &amp; Bros. Typewriter Co., Syracuse N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kovels: Typewriter Collectibles website, Sept. 17, 2001: (In 1903 they started the L.C. Smith &amp; Bros. Typewriter Co., which in 1926 merged with Corona Typewriter Co.)</subfield>
+  </datafield>
+</record>
