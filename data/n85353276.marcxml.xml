@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85353276 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860514145404.7</controlfield>
+  <controlfield tag="008">860424n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85353276 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Instituto del Libro (Cuba)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Cuba.</subfield>
+    <subfield code="b">Instituto del Libro</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Book Institute (Cuba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ColeccioĚn Teatro y danza. Leal, R. En primera persona, 1954-1966, 1967:</subfield>
+    <subfield code="b">t.p. (Instituto del Libro; La Habana, Cuba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Black, J.K. Area handbook for Cuba, 1976:</subfield>
+    <subfield code="b">p. 249 (Book Institute; government-owned publishing house) p. 312 (state agency)</subfield>
+  </datafield>
+</record>
