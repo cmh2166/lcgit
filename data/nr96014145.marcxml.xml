@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00634cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 96014145 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040406033147.0</controlfield>
+  <controlfield tag="008">960410n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96014145 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04068159</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zocchi del Trecco, Angela Maria</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Del Trecco, Angela Maria Zocchi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Trecco, Angela Maria Zocchi del</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zocchi, Angela Maria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anziano, 1993:</subfield>
+    <subfield code="b">t.p. (Angela Maria Zocchi Del Trecco)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oltre la sociologia dell'arte, c2003:</subfield>
+    <subfield code="b">t.p. (Angela Maria Zocchi) p. 4 of cover (Angela Maria Zocchi Del Trecco)</subfield>
+  </datafield>
+</record>
