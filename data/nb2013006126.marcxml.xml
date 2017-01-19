@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00771nz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2013006126</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130328080732.0</controlfield>
+  <controlfield tag="008">130326n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013006126</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008713220</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1948</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Webster, Len,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Smethwick, England</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Webster, Leonard,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n88094188</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lone wolf, c2012:</subfield>
+    <subfield code="b">t.p. (Len Webster) p. 91 (brought up in Smethwick. His books include The Turban-Wallah, Beneath the blue moon, and Hell-Riders)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL authority file, 25 March 2013</subfield>
+    <subfield code="b">(hdg.: Webster, Len, 1948-, variant access point, Webster, Leonard, 1948-)</subfield>
+  </datafield>
+</record>
