@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01198cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2008036258</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160528075318.0</controlfield>
+  <controlfield tag="008">080229n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008036258</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07687205</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kamper-Warejko, Joanna</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Polish philology</subfield>
+    <subfield code="a">Polish language--History--16th century</subfield>
+    <subfield code="a">Polish language--Poland--Toruń--History</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Uniwersytet Mikołaja Kopernika w Toruniu</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Philologists</subfield>
+    <subfield code="a">Linguists</subfield>
+    <subfield code="a">Polonists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">Females</subfield>
+    <subfield code="2">lcdgt</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">pol</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Warejko, Joanna Kamper-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pieśni pasyjne i wielkanocne w kancjonale Piotra Artomiusza (Toruń, 1601), 2006:</subfield>
+    <subfield code="b">t.p. (Joanna Kamper-Warejko)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Instytut Języka Polskiego, Uniwersytet Mikołaja Kopernika w Toruniu WWW site, May 27, 2016:</subfield>
+    <subfield code="b">Joanna Kamper-Warejko page (dr Joanna Kamper-Warejko; affiliated with the Instytut Języka Polskiego [at the Uniwersytet Mikołaja Kopernika w Toruniu; area of research: historical linguistics; historical grammar of Middle Polish language; history of Polish in 16th century Torun)</subfield>
+    <subfield code="u">http://www.ijp.umk.pl/pracownicy/p_kamper.html</subfield>
+  </datafield>
+</record>
