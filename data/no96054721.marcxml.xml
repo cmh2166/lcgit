@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00483cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96054721 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060222052208.0</controlfield>
+  <controlfield tag="008">961021n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96054721 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04188207</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB-M</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB-M</subfield>
+    <subfield code="d">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Howells, Herbert,</subfield>
+    <subfield code="d">1892-1983.</subfield>
+    <subfield code="t">Dances,</subfield>
+    <subfield code="m">violin, orchestra,</subfield>
+    <subfield code="n">op. 7</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Howells, H. Concerto for string orchestra [SR] p1992:</subfield>
+    <subfield code="b">label (Three dances)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(3 dances, vn, orch, 1915)</subfield>
+  </datafield>
+</record>
