@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01412cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  50055107 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314075036.0</controlfield>
+  <controlfield tag="008">800908n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50055107 </subfield>
+    <subfield code="z">n  50055109 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00089858</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DI</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Victoria.</subfield>
+    <subfield code="b">Department of Crown Lands and Survey</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Victoria, Australia.</subfield>
+    <subfield code="b">Dept. of Crown Lands and Survey</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Victoria.</subfield>
+    <subfield code="b">Crown Lands and Survey, Department of</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Victoria.</subfield>
+    <subfield code="b">Department of Lands and Survey</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Victoria.</subfield>
+    <subfield code="b">Dept. of Crown Lands and Survey</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Victoria.</subfield>
+    <subfield code="b">Department of Conservation, Forests, and Lands</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Victoria.</subfield>
+    <subfield code="b">Division of Lands</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Victoria: Reserved forest ... 1969.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 5/24/85</subfield>
+    <subfield code="b">(hdg.: Victoria, Australia. Dept. of Crown Lands and Survey; usage: Dept. of Crown Lands and Survey, Victoria; 1967/68, 1969, 1973, 1974)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 5/24/85</subfield>
+    <subfield code="b">(hdg.: Victoria, Australia. Dept. of Lands and Survey; usage: Dept. of Lands and Survey, Victoria; 1969, 1971)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Letter from Librarian, Victoria Dept. of Conservation, Forests, and Lands, 5/24/85</subfield>
+    <subfield code="b">(In 1983 Dept. of Crown Lands and Survey, Victoria was succeeded by Dept. of Conservation, Forests, and Lands; land management functions apparently continued in new dept. by Division of Lands)</subfield>
+  </datafield>
+</record>
