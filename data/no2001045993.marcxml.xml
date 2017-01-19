@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00477nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2001045993</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010609071039.0</controlfield>
+  <controlfield tag="008">010608n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001045993</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05506827</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rose, Philip,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rose, Philip Michael,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">On Whitehead, c2002:</subfield>
+    <subfield code="b">t.p. (Philip Rose, Dalhousie University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 8, 2001</subfield>
+    <subfield code="b">(hdg.: Rose, Philip Michael, 1960- )</subfield>
+  </datafield>
+</record>
