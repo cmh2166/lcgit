@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00423cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  91003180 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910726093258.8</controlfield>
+  <controlfield tag="008">910111n| acannaab|          |n aad |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91003180 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lundquist, Ronald Evald,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc91-733: His Characterization of the amino termini of ... 1971</subfield>
+    <subfield code="b">(hdg. on DNAL rept.: Lundquist, Ronald Evald, 1944- ; usage: Ronald Evald Lundquist)</subfield>
+  </datafield>
+</record>
