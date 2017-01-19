@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00748nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00069314 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000826064111.0</controlfield>
+  <controlfield tag="008">000825n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00069314 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05297380</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Warner, Mark T.</subfield>
+    <subfield code="q">(Mark Thomas),</subfield>
+    <subfield code="d">1889-1975</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diary of the overseas military service of ..., 1943-1944:</subfield>
+    <subfield code="b">t.p. (Chaplain (Lt. Col.) Mark T. Warner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">United Presbyterian directory, 1958:</subfield>
+    <subfield code="b">p. 282 (Warner, Mark Thomas; b. Monroe, O., 2/10/1889; ord. by First Pby. of Ohio, 1918; pastorates: Montrose, O.; Chaplain, USArmy; Mod., Nebraska Syn., 1953)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 22, 2000</subfield>
+    <subfield code="b">(hdg.: Warner, Mark T. (Mark Thomas), 1889-1975; usage: Mark T. Warner)</subfield>
+  </datafield>
+</record>
