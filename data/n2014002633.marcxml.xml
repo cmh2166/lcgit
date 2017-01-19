@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00921nz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2014002633</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140114142050.0</controlfield>
+  <controlfield tag="008">140114n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014002633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Zhong yang yan jiu yuan.</subfield>
+    <subfield code="b">Shu wei wen hua zhong xin</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Academia Sinica Digital Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Academia Sinica (Taipei, Taiwan).</subfield>
+    <subfield code="b">Digital Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Zhong yan yuan Shu wei wen hua zhong xin</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">中研院數位文化中心</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">中央硏究院.</subfield>
+    <subfield code="b">數位文化中心</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Huang yu sou lan : Meiguo guo hui tu shu guan suo cang ming qing yu tu, 2013:</subfield>
+    <subfield code="b">colophon (中央硏究院數位文化中心 = Zhong yang yan jiu yuan Shu wei wen hua zhong xin, Academia Sinica Digital Center [in rom.]) colophon (中研院數位文化中心 = Zhong yan yuan Shu wei wen hua zhong xin)</subfield>
+  </datafield>
+</record>
