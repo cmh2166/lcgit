@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00046409 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000719064743.0</controlfield>
+  <controlfield tag="008">000629n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00046409 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05249701</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Informat︠s︡ionno-izdatelski t︠s︡entŭr "Impuls"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Impuls</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">IIT︠S︡ "Impuls"</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Radio, televizii︠a︡, elektronika, '99, 3:</subfield>
+    <subfield code="b">verso of t.p. (Informat︠s︡ionno-izdatelski t︠s︡entŭr "Impuls"; Impuls;) p. 1 (IIT︠S︡ "Impuls" EAD)</subfield>
+  </datafield>
+</record>
