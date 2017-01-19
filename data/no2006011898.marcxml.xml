@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00745cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2006011898</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160112223456.0</controlfield>
+  <controlfield tag="008">060112n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006011898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06844765</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NJQ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NJQ</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1933-04-10</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Saradesāī, Ha. Vi.</subfield>
+    <subfield code="q">(Haṇamanta Vidyādhara),</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">mar</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Haṇamanta Vidyādhara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Saradesāī, Haṇamanta Vidyādhara,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Haṇamanta Vidyādhara Saradesāī,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ārogya, 2003:</subfield>
+    <subfield code="b">t.p. (Ha. Vi. Saradesāī), author's info. on p. [4] of cover MBBS(Bom), MD(Bom), FRCP(Edin), FACP(USA), FAIID(Ind); b. April 10, 1933)</subfield>
+  </datafield>
+</record>
