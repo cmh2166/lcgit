@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2006088753</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061121080534.0</controlfield>
+  <controlfield tag="008">061120n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006088753</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Laguna del Cojo, Elena</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Del Cojo, Elena Laguna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cojo, Elena Laguna del</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CataĚlogo de la ColeccioĚn Cervantina de la Biblioteca Nacional, 2006:</subfield>
+    <subfield code="b">t.p. (Elena Laguna del Cojo)</subfield>
+  </datafield>
+</record>
