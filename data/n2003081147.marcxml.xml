@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00807cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2003081147</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322080827.0</controlfield>
+  <controlfield tag="008">030612n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003081147</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reinecke, Carl,</subfield>
+    <subfield code="d">1824-1910.</subfield>
+    <subfield code="t">Sonatinas,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">op. 251.</subfield>
+    <subfield code="n">No. 3;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Reinecke, Carl,</subfield>
+    <subfield code="d">1824-1910.</subfield>
+    <subfield code="t">Sonatinas,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">op. 251.</subfield>
+    <subfield code="n">No. 3;</subfield>
+    <subfield code="o">arr.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reinecke, Carl,</subfield>
+    <subfield code="d">1824-1910.</subfield>
+    <subfield code="t">Sonatinas,</subfield>
+    <subfield code="m">violin, piano,</subfield>
+    <subfield code="n">op. 251, op. 3,</subfield>
+    <subfield code="r">G major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reinecke, Carl. Weihnachts-Sonatine, 199-:</subfield>
+    <subfield code="b">t.p. (Weihnachts-Sonatine : fuĚr Violine und Klavier, op. 251, Nr. 3) p. 1 (original t.p.: Drei Sonatinen fuĚr das Pianoforte, op. 251. 3, Weihnachts-Sonatine (G-Dur); also available in arrangements for piano 4 hands and for violin and piano)</subfield>
+  </datafield>
+</record>
