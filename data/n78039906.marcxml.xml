@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01520cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  78039906 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090308080000.0</controlfield>
+  <controlfield tag="008">780628n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78039906 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00175870</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">George Washington University.</subfield>
+    <subfield code="b">Medical Center.</subfield>
+    <subfield code="b">Rehabilitation Research and Training Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">George Washington University, Washington, D.C.</subfield>
+    <subfield code="b">Medical Center.</subfield>
+    <subfield code="b">Rehabilitation Research and Training Center.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">George Washington University.</subfield>
+    <subfield code="b">Medical Center.</subfield>
+    <subfield code="b">Medical Rehabilitation Research and Training Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">George Washington University.</subfield>
+    <subfield code="b">Medical Rehabilitation Research and Training Center</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">AACR 1 form: George Washington University. Medical Center. Rehabilitation Research and Training Center</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mallik, K. Micrographics technology ... c1976 (subdiv.)</subfield>
+    <subfield code="b">t.p. (Rehabilitation Research and Training Center, RT-9, the George Washington University Medical Center) p. 4 of cover (Rehabilitation Research and Training Center, RT-9, the George Washington University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Research dir. of the rehabilitation ... 1975/77:</subfield>
+    <subfield code="b">1. before p. 237 (George Washington University (RT-9) Medical Rehabilitation Research and Training Center) p. 237 (The George Washington University Medical Rehabilitation Research and Training Center)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to the Rehab. Center, 12/17/80</subfield>
+    <subfield code="b">(Rehab. Res. and Train. Cent. is the official name. Medical Rehab. etc. is a variant name)</subfield>
+  </datafield>
+</record>
