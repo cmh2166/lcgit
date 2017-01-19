@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01183cz  a2200253n  4500</leader>
+  <controlfield tag="001">nr2004021282</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140609133027.0</controlfield>
+  <controlfield tag="008">040716n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004021282</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06396508</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Beijing Shi gui hua wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Beijing (China).</subfield>
+    <subfield code="b">Gui hua wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Beijing (China).</subfield>
+    <subfield code="b">Shi gui hua wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Beijing (China).</subfield>
+    <subfield code="b">Municipal Commission of Urban Planning</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Beijing (China).</subfield>
+    <subfield code="b">Municipal Planning Commission</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">北京市規劃委員會</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">北京市规划委员会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beijing jin pai ju zhu qu, 2003:</subfield>
+    <subfield code="b">t.p. (北京市规划委员会 = Beijing Shi gui hua wei yuan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">2008 Beijing Ao yun, 2004:</subfield>
+    <subfield code="b">t.p. (Beijing Shi gui hua wei yuan hui; also: Beijing Municipal Planning Commission)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beijing Ao yun gong gong yi shu lun wen ji, 2006:</subfield>
+    <subfield code="b">cover (Beijing Shi gui hua wei yuan hui) p. 11 (Beijing Municipal Commission of Urban Planning)</subfield>
+  </datafield>
+</record>
