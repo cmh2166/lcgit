@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00717nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012085097</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120623075027.0</controlfield>
+  <controlfield tag="008">120621n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012085097</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09231185</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Notkina, Ekaterina</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ноткина, Екатерина</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ноткина, Е.</subfield>
+    <subfield code="q">(Екатерина)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Notkina, E.</subfield>
+    <subfield code="q">(Ekaterina)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Notkin, Ekaterina</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shag v storonu, 2011:</subfield>
+    <subfield code="b">p. 261 (Екатерина Ноткина = Ekaterina Notkina) copyright statement, t.p. verso (Е. Ноткина = E. Notkina, Ekaterina Notkin [in rom.])</subfield>
+  </datafield>
+</record>
