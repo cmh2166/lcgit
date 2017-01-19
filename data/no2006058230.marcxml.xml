@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00643cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2006058230</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060622051945.0</controlfield>
+  <controlfield tag="008">060605n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006058230</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06960781</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjBlaOCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjBlaOCU</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Talbot-Smith, Alison,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Alison Talbot-,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The new NHS, 2006:</subfield>
+    <subfield code="b">t.p. (Alison Talbot-Smith) p. i (Dr.; working for the NHS in London and researching at UCL)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 5, 2006</subfield>
+    <subfield code="b">(hdgs.: Talbot-Smith, Alison, 1968-; Smith, Alison Talbot; Talbot-Smith, Alison; usage: Alison Talbot Smith; Alison Talbot-Smith)</subfield>
+  </datafield>
+</record>
