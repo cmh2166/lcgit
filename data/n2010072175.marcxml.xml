@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00404nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2010072175</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101029075146.0</controlfield>
+  <controlfield tag="008">101028n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010072175</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thompson, R. D.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Library of Congress Manuscript Division for the Ben B. Lindsey papers, 1838-1957</subfield>
+    <subfield code="b">(R.D. Thompson; Denver, Colo., lawyer; Lindsey apprenticed under)</subfield>
+  </datafield>
+</record>
