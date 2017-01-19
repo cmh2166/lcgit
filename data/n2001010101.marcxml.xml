@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00874cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2001010101</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150310164953.0</controlfield>
+  <controlfield tag="008">010524n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001010101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19670731</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dodonov, V. I︠U︡.</subfield>
+    <subfield code="q">(Vi︠a︡cheslav I︠U︡rʹevich)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Alma-Ata (Kazakhstan)</subfield>
+    <subfield code="c">Kazakhstan</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Economists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dodonov, Vi︠a︡cheslav I︠U︡rʹevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Додонов, B. Ю.</subfield>
+    <subfield code="q">(Вячеслав Юрьевич)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Додонов, Вячеслав Юрьевич</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kenzheguzin, M. B. Faktorno-t︠s︡elevoe regulirovanie ėkonomiki, 1999:</subfield>
+    <subfield code="b">t.p. (Dodonov V.I︠U︡) colophon (Dodonov Vi︠a︡cheslav I︠U︡rʹevich)</subfield>
+  </datafield>
+</record>
