@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00699cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2003052409</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050127171314.0</controlfield>
+  <controlfield tag="008">030528n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003052409</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06060513</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Digital Preservation Coalition</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">DPC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Preservation management of digital materials WWW site, May 27, 2003</subfield>
+    <subfield code="b">(Digital Preservation Coalition)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Digital Preservation Coalition WWW Home page, May 27, 2003</subfield>
+    <subfield code="b">(Digital Preservation Coalition, London; est. 2001 for preservation of digital resources in the UK)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Digital Preservation Coalition WWW Home page, viewed Jan. 27, 2005</subfield>
+    <subfield code="b">(DPC)</subfield>
+  </datafield>
+</record>
