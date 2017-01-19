@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2007105611</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070912075336.0</controlfield>
+  <controlfield tag="008">070817n| acaaaaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007105611</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07517870</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TCooP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TCooP</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Introduction to arboriculture</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">3</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">TCooP</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Champaign, Ill.</subfield>
+    <subfield code="b">International Society of Arboriculture</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">TCooP</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">TCooP</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">TCooP</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pruning, c2005:</subfield>
+    <subfield code="b">title screen (Introduction to arboriculture) disc surface (Introduction to arboriculture) insert (Introduction to arboriculture)</subfield>
+  </datafield>
+</record>
