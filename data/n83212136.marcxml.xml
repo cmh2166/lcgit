@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01459cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  83212136 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081206075409.0</controlfield>
+  <controlfield tag="008">840202n| acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83212136 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01068184</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Egypt.</subfield>
+    <subfield code="b">Maṣlaḥat al-Thaqāfah al-Zirāʻīyah.</subfield>
+    <subfield code="b">Murāqabat al-Taḥrīr wa-al-Nashr wa-al-Maktabāt</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">مصر.</subfield>
+    <subfield code="b">مصلحة الثقافة الزراعية.</subfield>
+    <subfield code="b">مراقبة التحرير والنشر والمكتبات</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Egypt.</subfield>
+    <subfield code="b">Maṣlaḥat al-Thaqāfah al-Zirāʻīyah.</subfield>
+    <subfield code="b">Murāqabat al-Taḥrīr wa-al-Nashr</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="a">United Arab Republic.</subfield>
+    <subfield code="b">Maṣlaḥat al-Thaqāfah al-Zirāʻīyah.</subfield>
+    <subfield code="b">Murāqabat al-Taḥrīr wa-al-Nashr wa-al-Maktabāt</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Ṣaḥīfah al-zirāʻīyah, Yanāyir 1970:</subfield>
+    <subfield code="b">cover p. 3 (Murāqabat al-Taḥrīr wa-al-Nashr wa-al-Maktabāt, Maṣlaḥat al-Thaqāfah al-Zirāʻīyah, Wizārat al-Zirāʻah); Yanāyir 1962: t.p. (al-Jumhūrīyah al-ʻArabīyah al-Muttaḥidah, Qism al-Taḥrīr, Murāqabat al-Taḥrīr wa-al-Nashr wa-al-Maktabāt, Maṣlaḥat al-Thaqāfah al-Zirāʻīyah)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Majallat al-buḥūth al-zirāʻīyah, Yanāyir 1975: t.p. (Murāqabat al-Taḥrīr wa-al-Nashr, Maṣlaḥat al-Thaqāfah al-Zirāʻīyah)</subfield>
+  </datafield>
+</record>
