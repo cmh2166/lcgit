@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00744cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 98039166 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040419110854.0</controlfield>
+  <controlfield tag="008">981026n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98039166 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Morton, Anne,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Morton, Margaret Anne Elizabeth,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographical resources at the Hudson's Bay Company Archives, c1996- :</subfield>
+    <subfield code="b">vol. 1, t.p. (Anne Morton) p. vi (b. in Winnipeg; head, Research and Reference, Hudson's Bay Company Archives)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amicus, Oct. 6, 1998</subfield>
+    <subfield code="b">(hdg.: Morton, Anne; x-ref.: Morton, Frances Anne Murphy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from author, April 16, 2004</subfield>
+    <subfield code="b">(not the name as Frances Anne Murphy Morton; fulle name: Margaret Anne Elizabeth Morton; b. 1951)</subfield>
+  </datafield>
+</record>
