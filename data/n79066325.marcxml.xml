@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01306cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  79066325 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970724161001.5</controlfield>
+  <controlfield tag="008">790619n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79066325 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">AWS Committee on Definitions and Symbols</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">American Welding Society.</subfield>
+    <subfield code="b">Committee on Definitions and Symbols</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">AWS Committee on Nomenclature, Definitions, and Symbols</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">American Welding Society.</subfield>
+    <subfield code="b">Committee on Symbols</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">American Welding Society.</subfield>
+    <subfield code="b">Committee on Definitions and Chart</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">AWS Committee on Definitions, Symbols, and Metric Practice</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The following heading for an earlier name is a valid AACR 2 heading: AWS Committee on Nomenclature, Definitions, and Symbols.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The Committee on Symbols and the Committee on Definitions and Chart of the American Welding Society merged to form the AWS Committee on Nomenclature, Definitions and Symbols. Subsequently, its name was changed to AWS Committee on Definitions and Symbols; in 1973 to AWS Committee on Definitions, Symbols, and Metric Practice. In 1978 the Committee divided into the AWS Committee on Definitions and Symbols and the Committee on Metric Practice.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Nondestructive testing symbols, c1958.</subfield>
+  </datafield>
+</record>
