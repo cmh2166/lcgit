@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  79135194 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050929144242.0</controlfield>
+  <controlfield tag="008">791121n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79135194 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Behrman, Jack N.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His International economics, 1957.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Essays on ethics in business and the professions, c1988:</subfield>
+    <subfield code="b">CIP t.p. (Jack N. Behrman) data sheet (b. Mar. 5, 1922)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. resource center (Contemp. authors), Sept. 29, 2005</subfield>
+    <subfield code="b">(Jack N(ewton) Behrman; b. Mar. 5, 1922, Waco, Tex.; Princeton University, Ph. D., 1950; University of North Carolina at Chapel Hill, associate dean of academic programs, 1983-87)</subfield>
+  </datafield>
+</record>
