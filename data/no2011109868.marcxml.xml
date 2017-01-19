@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00438nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011109868</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110721075357.0</controlfield>
+  <controlfield tag="008">110719n| acannaabn           n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011109868</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08917292</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PaPhCHF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PaPhCHF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kroger, Carl,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grundriss der technischen Chemie, 19--?-, c1952:</subfield>
+    <subfield code="b">t.p. (Carl Kroger)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, July 18, 2011,</subfield>
+    <subfield code="b">(hdg: Kroger, Carl, 1904-)</subfield>
+  </datafield>
+</record>
