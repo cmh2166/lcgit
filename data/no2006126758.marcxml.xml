@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01498cz  a2200277n  4500</leader>
+  <controlfield tag="001">no2006126758</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140228104531.0</controlfield>
+  <controlfield tag="008">061120n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006126758</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07264083</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PU-AML</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19031126</subfield>
+    <subfield code="g">20140223</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML417.H38</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Herz-Sommer, Alice,</subfield>
+    <subfield code="d">1903-2014</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Prague (Czech Republic)</subfield>
+    <subfield code="b">London (England)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Theresienstadt (Concentration camp)</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1943</subfield>
+    <subfield code="t">1945</subfield>
+    <subfield code="v">New York times (online), viewed Feb. 28, 2014</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Pianists</subfield>
+    <subfield code="a">Holocaust survivors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sommer, Alice Herz-,</subfield>
+    <subfield code="d">1903-2014</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sommer Herz, Alice,</subfield>
+    <subfield code="d">1903-2014</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Herz, Alice Sommer,</subfield>
+    <subfield code="d">1903-2014</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alice Herz-Sommer, c2006:</subfield>
+    <subfield code="b">t.p. (Alice Herz-Sommer) jkt. (b. 1903 in Prague)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jewish Music Institute website, Mar. 13, 2007:</subfield>
+    <subfield code="b">(concert pianist; b. in Prague, survived the Holocaust, moved to Israel and then moved to London)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">We want the light [VR] 2004:</subfield>
+    <subfield code="b">container (Alice Sommer Herz, an inspiring survivor of a Nazi concentration camp)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times (online), viewed Feb. 28, 2014</subfield>
+    <subfield code="b">(in obituary published Feb. 27: Alice Herz-Sommer; b. Alice Herz, Nov. 26, 1903, Prague; m. Leopold Sommer, 1931 (d. 1945); d. Sunday [Feb. 23, 2014], London, aged 110; considered the oldest known Holocaust survivor; had been a distinguished pianist in Europe before the war)</subfield>
+  </datafield>
+</record>
