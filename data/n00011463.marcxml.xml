@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00564cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  82242869 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010319072311.0</controlfield>
+  <controlfield tag="008">840224n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82242869 </subfield>
+    <subfield code="z">n  00011463 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Norvell, Patsy,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Norvell, Patricia,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A Collaboration, Patsy Norvell &amp; Zakanitch, c1982:</subfield>
+    <subfield code="b">t.p. (Patsy Norvell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Recording conceptual art, 2001:</subfield>
+    <subfield code="b">CIP t.p. (Patricia Norvell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. from pub., May 9, 2000</subfield>
+    <subfield code="b">(Patricia Norvell is real name of Patsy Norvell)</subfield>
+  </datafield>
+</record>
