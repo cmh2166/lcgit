@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01114cz  a2200277n  4500</leader>
+  <controlfield tag="001">nr2004018680</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081017075857.0</controlfield>
+  <controlfield tag="008">040621n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004018680</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06377976</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Yūsei,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Kankō,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Kyūzō,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Isuian,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ryōudō,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Toyoshima, Yūsei,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">由誓,</subfield>
+    <subfield code="d">1789-1859</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aokarishi, 1842?:</subfield>
+    <subfield code="b">pref. (Kankō Yūsei) leaf 1 (Yūsei)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haikai jinmei j.</subfield>
+    <subfield code="b">(Yūsei; last name: Toyoshima; gō: Kyūzō, Kankō, Isuian, Ryōudō; d. 9/2/Ansei 6; haiku poet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kokusho somokuroku, auth. index:</subfield>
+    <subfield code="b">(Yūsei; Toyoshima--, Kyūzo, Isuian, Kankō, etc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dai jinmei j.</subfield>
+    <subfield code="b">(Toyoshima Yusei, 1789-1859; b. Kansei 1; d. 9/2/Ansei 6)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jinbutsu refarensu j.</subfield>
+    <subfield code="b">(Yūsei; d. 1859)</subfield>
+  </datafield>
+</record>
