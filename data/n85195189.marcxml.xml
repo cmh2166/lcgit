@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00548nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85195189 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19851009073522.9</controlfield>
+  <controlfield tag="008">850823n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85195189 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Losse, H.</subfield>
+    <subfield code="q">(Heinz),</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Losse, Heinz,</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Secondary hypertension, 1985:</subfield>
+    <subfield code="b">CIP t.p. (Prof. Heinz Losse)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, 8/5/85</subfield>
+    <subfield code="b">(hdg.: Losse, H. (Heinz), 1920- ; usage: H. Losse, Heinz Losse)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8/5/85</subfield>
+    <subfield code="b">(hdg.: Losse, Heinz, 1920- ; usage: H. Losse)</subfield>
+  </datafield>
+</record>
