@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00656nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008092136</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080625080840.0</controlfield>
+  <controlfield tag="008">080515n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008092136</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07802257</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH-AH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH-AH</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Lady Doak College</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual - Lady Doak College, 1950 :</subfield>
+    <subfield code="b">t.p. (Lady Doak College)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, viewed May 15, 2008:</subfield>
+    <subfield code="b">(hdg.: Lady Doak College; usage: Lady Doak College)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lady Doak College WWW site, viewed May 15, 2008:</subfield>
+    <subfield code="b">Intro ("Lady Doak College, a premier Christian institution and the first Women's College in Madurai)</subfield>
+    <subfield code="u">http://www.ladydoak.org/intro.htm</subfield>
+  </datafield>
+</record>
