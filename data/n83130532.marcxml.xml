@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01418cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  83130532 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140529073734.0</controlfield>
+  <controlfield tag="008">830714n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83130532 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00963747</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18980619</subfield>
+    <subfield code="g">19930721</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Müller-Zürich, Paul</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Zurich (Switzerland)</subfield>
+    <subfield code="b">Lucerne (Switzerland)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Music teachers</subfield>
+    <subfield code="a">Conductors (Music)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zürich, Paul Müller-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Müller, Paul,</subfield>
+    <subfield code="d">1898-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Müller, Paul,</subfield>
+    <subfield code="d">1898-1993</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Serenata turicensis Trio, 1981:</subfield>
+    <subfield code="b">t.p. (Paul Müller-Zürich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Müller, Paul, 1898- ; usage: Paul Müller-Zürich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haefeli, W. Schweizer Komponisten [SR] between 1976 and 1981:</subfield>
+    <subfield code="b">label (Paul Müller) container (b. 6/19/1898)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Müller-Zürich (Müller), Paul; b. June 19, 1898 in Zürich; Swiss composer; added Zürich to his surname to avoid confusion with other Müllers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Volkmar Andreae, Paul Müller, Richard Flury, p1997:</subfield>
+    <subfield code="b">prog. notes (b. June 19, 1898 in Zürich; d. July 21, 1993 in Lucerne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Müller-Zürich, Paul. Concerto per Violoncello ed Orchestra op. 55, 2013:</subfield>
+    <subfield code="b">page [2] (Paul Müller-Zürich; teacher, conductor and composer)</subfield>
+  </datafield>
+</record>
