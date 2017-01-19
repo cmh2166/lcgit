@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00997cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2006027454</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323092405.0</controlfield>
+  <controlfield tag="008">060317n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006027454</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06884980</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSW-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoSW-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clemens non Papa, Jacobus,</subfield>
+    <subfield code="d">approximately 1510-approximately 1555.</subfield>
+    <subfield code="t">Cantiones sacrae,</subfield>
+    <subfield code="n">liber 2.</subfield>
+    <subfield code="p">O crux benedicta.</subfield>
+    <subfield code="p">Adoramus te</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clemens non Papa, Jacobus,</subfield>
+    <subfield code="d">approximately 1510-approximately 1555.</subfield>
+    <subfield code="t">Adoramus te</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Clemens non Papa, Jacobus,</subfield>
+    <subfield code="d">ca. 1510-ca. 1555.</subfield>
+    <subfield code="t">Cantiones sacrae,</subfield>
+    <subfield code="n">liber 2.</subfield>
+    <subfield code="p">O crux benedicta.</subfield>
+    <subfield code="p">Adoramus te</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clemens non Papa, J. Adoramus te, c1949.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clemens non Papa, J. Opera omnia, 1951-1976:</subfield>
+    <subfield code="b">v. 18, contents (O crux benedicta--Adoramus te) p. 50 (O crux benedicta) p. 53 (Text after double bar begins: Adoramus te) p. ix ("The motets in this volume were first published in the Liber primus and Liber secundus Cantionum sacrarum ... 1559")</subfield>
+  </datafield>
+</record>
