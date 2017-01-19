@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01004cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  85310682 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080508075242.0</controlfield>
+  <controlfield tag="008">860418n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85310682 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01573949</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ruse, Hendrik,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ruse, Henrick,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rusenstein, Hendrik,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rysensteen, Hendrik Ruse,</subfield>
+    <subfield code="c">Baron,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rusen, Henrick,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rusen Heinricus,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rysensteen, Henrik Ruse,</subfield>
+    <subfield code="c">Baron,</subfield>
+    <subfield code="d">1624-1679</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Versterckte vesting, uytgevonden in velerley voorvallen ... 1654:</subfield>
+    <subfield code="b">t.p. (Henrick Ruse)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grote Winkler Prins</subfield>
+    <subfield code="b">(Ruse, Hendrik, or Rusenstein; in Denmark known as Baron Rysensteen; b. 1624 in Ruinen, Neth.; d. 1679 in Sauwerd)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">InU/Wing STC files</subfield>
+    <subfield code="b">(usage: Henrick Rusen; Heinricus Rusen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(Rysensteen, Henrik Ruse, Baron, 1624-1679)</subfield>
+  </datafield>
+</record>
