@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00797nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012064814</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120511075210.0</controlfield>
+  <controlfield tag="008">120509n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012064814</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09193868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bhardwaj, Anil,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Planetary science (PS), 2007:</subfield>
+    <subfield code="b">t.p. (Anil Bhardwaj, Vikram Sarabhai Space Centre, India)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIAF, May 9, 2012</subfield>
+    <subfield code="b">(Bhardwaj, Anil, 1967- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, May 9, 2012</subfield>
+    <subfield code="b">(Anil Bhardwaj; senior scientist and head of the Planetary Science Branch, Space Physics Laboratory, Vikram Sarabhai Space Centre, ISRO, Trivandrum, India; doctorate in applied physics, 2002, Institute of Technologyh, Banaras Hindu University, Varanasi; worked at Hasa Marshall Space Flight Center, 2004-2005)</subfield>
+  </datafield>
+</record>
