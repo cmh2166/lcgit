@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00976cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 91003770 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160929102619.0</controlfield>
+  <controlfield tag="008">910212n| azannaab           |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91003770 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ismattuloev, M. F.</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">tgk</subfield>
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ismatullaev, M. F.</subfield>
+    <subfield code="q">(Mukhammadi Faĭzullaevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ismatullaev, Mukhammadi Faĭzullaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ʻIṣmat Allāhʹzādah, M. F.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Allāhʹzādah, M. F. ʻIṣmat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ismatullozoda, M. F.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عصمت الله‌زاده، م. ف.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pedagog, olim va insoni komil, 1986:</subfield>
+    <subfield code="b">t.p. (M.F. Ismattuloev) verso t.p. (Ismatullaev, M.F.) Russian colophon (Mukhammadi Faĭzullaevich Ismatullaev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nāṣirjān Maʻṣūmī, 1991:</subfield>
+    <subfield code="b">t.p. (M.F. ʻIṣmat Allāhʹzādah) added t.p. (Ismatullozoda, M.F. [in rom.])</subfield>
+  </datafield>
+</record>
