@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00739nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015102141</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150805073503.0</controlfield>
+  <controlfield tag="008">150803n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015102141</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10234288</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PE-LiPUB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PE-LiPUB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vilcahuamán Brenis, Iván Carlos</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Peru</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Civil engineering</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brenis, Iván Carlos Vilcahuamán</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Concepto de medidas de prevención para reducir el riesgo de desastre por huaicos en Ica, 2015:</subfield>
+    <subfield code="b">Title page (Iván Carlos Vilcahuamán Brenis. Pontificia Universidad Católica del Perú, Facultad de Ciencias e Ingeniería: Licenciatura en Ingeniería Civil)</subfield>
+  </datafield>
+</record>
