@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00672nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015072213</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151215094419.0</controlfield>
+  <controlfield tag="008">151215n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015072213</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2010</subfield>
+    <subfield code="l">2012</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fulmer, David,</subfield>
+    <subfield code="d">1981-</subfield>
+    <subfield code="t">On night</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Chamber music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">soprano saxophone</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">flute</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">clarinet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">trumpet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">percussion</subfield>
+    <subfield code="n">2</subfield>
+    <subfield code="a">violin</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">9</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fulmer, D. On night [SR] p2013:</subfield>
+    <subfield code="b">label (On night) insert (On night : cycle for solo soprano saxophone and ensemble, 2010-12 (flute, clarinet, trumpet, percussion (2 players), piano, violin, cello))</subfield>
+  </datafield>
+</record>
