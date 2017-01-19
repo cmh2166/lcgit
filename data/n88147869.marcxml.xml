@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00440nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88147869 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880706143531.4</controlfield>
+  <controlfield tag="008">880518n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88147869 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Garg, Pulin K.,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Parikh, I.J. Symbolic role models and identity patterns of Indian women, 1987:</subfield>
+    <subfield code="b">t.p. (Pulin K. Garg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Delhi MARC file, 4/18/88</subfield>
+    <subfield code="b">(hdg.:Garg, Pulin K., 1927- )</subfield>
+  </datafield>
+</record>
