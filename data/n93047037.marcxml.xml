@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01380cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  93047037 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314090539.0</controlfield>
+  <controlfield tag="008">930519n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93047037 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Spatial Terminology Standardization Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">ComiteĚ d'uniformisation de la terminologie spatiale</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Department of the Secretary of State of Canada.</subfield>
+    <subfield code="b">Spatial Terminology Standardization Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Canadian Space Agency.</subfield>
+    <subfield code="b">Spatial Terminology Standardization Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Spar Aerospace Ltd.</subfield>
+    <subfield code="b">Spatial Terminology Standardization Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Spatial Terminology Standardization Committee (Canada)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Department of the Secretary of State of Canada</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Canadian Space Agency</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Spar Aerospace Ltd.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lexique de la station spatiale, c1992:</subfield>
+    <subfield code="b">t.p. (ComiteĚ d'uniformisation de la terminologie spatiale = Spatial Terminology Standardization Committee) p. vii (a committee of terminologists and specialist translators from the Dept. of the Secretary of State of Canada, Spar Aerospace Limited and the Canadian Space Agency)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC, 1992-09-16</subfield>
+    <subfield code="b">(Canada. Spatial Terminology Standardization Committee)</subfield>
+  </datafield>
+</record>
