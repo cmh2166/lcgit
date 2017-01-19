@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00813cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  84068147 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080827075934.0</controlfield>
+  <controlfield tag="008">840412n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84068147 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01095123</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG3482.6.I44</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kinzhalov, R. V.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kinzhalov, Rostislav Vasilʹevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Кинжалов, Р. В.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Berezkin, I︠U︡. E. Mochika, 1983:</subfield>
+    <subfield code="b">t.p. (R. V. Kinzhalov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orel, ket︠s︡alʹ i krest, 1991:</subfield>
+    <subfield code="b">t.p. (R.V. Kinzhalov) colophon (Rostislav Vasilʹevich Kinzhalov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rostislav Vasilʹevich Kinzhalov, 1996:</subfield>
+    <subfield code="b">p. 3 (b. July 15, 1920)</subfield>
+  </datafield>
+</record>
