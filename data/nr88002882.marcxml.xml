@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01245cz  a2200289n  4500</leader>
+  <controlfield tag="001">nr 88002882 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130827073714.0</controlfield>
+  <controlfield tag="008">880408n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 88002882 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02249616</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CU</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19270201</subfield>
+    <subfield code="g">19950410</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Guillaume, Günter,</subfield>
+    <subfield code="d">1926-1995</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Berlin, Germany</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Espionage</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Spies</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Guillaume, G.</subfield>
+    <subfield code="q">(Günter),</subfield>
+    <subfield code="d">1926-1995</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bröhl, Günter,</subfield>
+    <subfield code="d">1926-1995</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not same as: Bröhl, Günter (no2010041681)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giardina, R. Caccia al pama, 1976:</subfield>
+    <subfield code="b">p. opposite t.p. (Günter Guillaume)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 3/29/90</subfield>
+    <subfield code="b">(hdg.: Guillaume, Günter, 1926- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die Aussage, c1990:</subfield>
+    <subfield code="b">t.p. (G. Guillaume) verso of t.p. (Günter Guillaume)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Guillaume, der Spion, 2013:</subfield>
+    <subfield code="b">p. 20 (Günter Karl Heinz Guillaume, b. Feb. 1, 1927; became the aide of Willy Brandt; d. April 1995)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, German, via WWW, Aug. 23, 2013</subfield>
+    <subfield code="b">(Günter Guillaume; born Feb. 1, 1927 in Berlin; died Apr. 10, 1995 in Eggersdorf as Günter Bröhl; East-German spy in West-Germany)</subfield>
+  </datafield>
+</record>
