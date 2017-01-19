@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00747cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  80062376 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900530142903.6</controlfield>
+  <controlfield tag="008">800725n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80062376 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">De Jong, Marvin L.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Jong, Marvin L. De</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">DeJong, Marvin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Programming &amp; interfacing the 6502, with experiments, c1980:</subfield>
+    <subfield code="b">t.p. (Marvin L. De Jong) cover p.4 (Prof. physics, School of the Ozarks, Point Lookout, Mo.; PhD, radio astronomy, Rensselaer Polytech. Inst., 1965)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Assembly language programming with the Commodore 64, 1984:</subfield>
+    <subfield code="b">CIP t.p. (Marvin L. De Jong) data sheet (b. 1/5/39)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Computational physics, 1991:</subfield>
+    <subfield code="b">CIP t.p. (Marvin DeJong)</subfield>
+  </datafield>
+</record>
