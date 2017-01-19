@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00579cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85346946 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981204095352.5</controlfield>
+  <controlfield tag="008">861223n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85346946 </subfield>
+    <subfield code="z">n  81054874 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Marth, Marty,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Marth, Martha,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Florida horse owner's field guide, c1987:</subfield>
+    <subfield code="b">CIP t.p. (Marty Marth) data sht. (b. 10-17-47)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marth, D. Florida almanac 1982, 1981 (a.e.)</subfield>
+    <subfield code="b">t.p. (Martha Marth)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marth, D. St. Petersburg, once upon a time, c1996:</subfield>
+    <subfield code="b">t.p. (Martha J. Marth)</subfield>
+  </datafield>
+</record>
