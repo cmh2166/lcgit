@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00517nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002044446</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020523052631.0</controlfield>
+  <controlfield tag="008">020522n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002044446</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05768529</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU-FT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU-FT</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Griffith, Patrick M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Griffith, Pat</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wild Bill [MP] 1995:</subfield>
+    <subfield code="b">credits (supervising sound editor, Patrick M. Griffith, M.P.S.E.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb via WWW, 5-20-02</subfield>
+    <subfield code="b">(Patrick M. Griffith; sometimes credited as Pat Griffith)</subfield>
+  </datafield>
+</record>
