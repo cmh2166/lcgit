@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00536nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 94042589 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19941208055628.0</controlfield>
+  <controlfield tag="008">941207n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94042589 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="c">DJBF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Tuwafe, Solomon</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Tuwafe, S.</subfield>
+    <subfield code="q">(Solomon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Improvement of pigeonpea in eastern ... 1994:</subfield>
+    <subfield code="b">t.p. (S. Tuwafe) p. 146 (Senior scientist, ICRISAT Pigeonpea Project, Lilongwi, Malawi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 12/6/94</subfield>
+    <subfield code="b">(hdg.: Tuwafe, Solomon; Tuwafe, S.; usage: Solomon Tuwafe, S. Tuwafe)</subfield>
+  </datafield>
+</record>
