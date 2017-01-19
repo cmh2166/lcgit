@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01047cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  87910363 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150115073738.0</controlfield>
+  <controlfield tag="008">871223n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87910363 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02171464</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ScU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Avoli, Massimo</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Canada</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">massimo.avoli@mcgill.ca</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Epilepsy</subfield>
+    <subfield code="a">Neurology</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Montreal Neurological Institute and Hospital</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Avoli, M.</subfield>
+    <subfield code="q">(Massimo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neurotransmitters and cortical function, c1988:</subfield>
+    <subfield code="b">CIP t.p. (Massimo Avoli; McGill Univ. and Montreal Neurological Inst.) galley (Dr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Generalized epilepsy, c1990:</subfield>
+    <subfield code="b">CIP t.p. (M. Avoli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">McGill University, Montreal Neurological Institute and Hospital WWW site, January 14, 2015:</subfield>
+    <subfield code="b">(Massimo Avoli, MD, PhD ; Academic Affiliations: Neurology and Neurosurgery ; Research Group: Epilepsy ; massimo.avoli@mcgill.ca)</subfield>
+    <subfield code="u">http://www.mcgill.ca/neuro/research/researchers/avoli</subfield>
+  </datafield>
+</record>
