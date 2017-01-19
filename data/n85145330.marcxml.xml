@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85145330 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080614075139.0</controlfield>
+  <controlfield tag="008">860117n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85145330 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01486907</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Absolon, John,</subfield>
+    <subfield code="d">1815-1895</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pleasure books for children. The cat and the mouse, 1850:</subfield>
+    <subfield code="b">p. 2 (John Absolon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Houfe, S. Dict. of British book ill. and caricaturists, 1800-1914, 1978</subfield>
+    <subfield code="b">(Absolon, John, 1815-1895; illustrator)</subfield>
+  </datafield>
+</record>
