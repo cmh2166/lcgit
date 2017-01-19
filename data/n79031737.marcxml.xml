@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00883cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  79031737 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314075647.0</controlfield>
+  <controlfield tag="008">790402n| adannaab           |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79031737 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Naval Research Laboratory (U.S.).</subfield>
+    <subfield code="b">Research Department</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Naval Research Laboratory (U.S.).</subfield>
+    <subfield code="b">Research Dept.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Naval Research Laboratory, Washington, D.C.</subfield>
+    <subfield code="b">Research Dept.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Naval Research Laboratory (U.S.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Info. from GPO.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Milton, A. F. Comparison of the 3-5 micrometer and 8-12 micrometer regions</subfield>
+    <subfield code="b">for advanced thermal imaging systems, 1977 (a.e.) t.p. (Research Department, Naval Research Laboratory, Washington, D.C.)</subfield>
+  </datafield>
+</record>
