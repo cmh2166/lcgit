@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01027cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2006121348</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131115073906.0</controlfield>
+  <controlfield tag="008">061113n| azaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006121348</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07239329</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjBlaOCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjBlaOCU</subfield>
+    <subfield code="d">NjBlaOCU</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Jones and Bartlett topics in biology</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Jones &amp; Bartlett topics in biology series</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Jones &amp; Bartlett Learning topics in biology</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Jones &amp; Bartlett Learning topics in biology series</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Sudbury, Mass.</subfield>
+    <subfield code="b">Jones and Bartlett Publishers</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NjBlaOCU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NjBlaOCU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NjBlaOCU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Human embryonic stem cells, c2007:</subfield>
+    <subfield code="b">cover (Jones and Bartlett topics in biology)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AIDS, c2010:</subfield>
+    <subfield code="b">ser. t.p. (Jones and Bartlett topics in biology; The Jones &amp; Bartlett topics in biology series)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AIDS, 2014:</subfield>
+    <subfield code="b">ser.t.p. (Jones &amp; Bartlett Learning topics in biology; The Jones &amp; Bartlett Learning topics in biology series)</subfield>
+  </datafield>
+</record>
