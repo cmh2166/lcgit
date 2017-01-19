@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2008080696</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081202075047.0</controlfield>
+  <controlfield tag="008">081201n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008080696</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mann, Lucinda Maria Virginia Chandler,</subfield>
+    <subfield code="d">1840-1925</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mann, Granville B. (Granville Baber). Dear Sir-- Dear Miss--, c2007:</subfield>
+    <subfield code="b">t.p. (Lucinda Maria Virginia (Chandler) Mann) p. 10 (b. Dec. 28, 1840) p. 11 (d. May 25, 1925)</subfield>
+  </datafield>
+</record>
