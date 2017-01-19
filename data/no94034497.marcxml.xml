@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00779cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 94034497 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314093721.0</controlfield>
+  <controlfield tag="008">940930n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94034497 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">War Department.</subfield>
+    <subfield code="b">Board of Contract Adjustment</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">War Dept.</subfield>
+    <subfield code="b">Board of Contract Adjustment</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">War Department.</subfield>
+    <subfield code="b">Claims Board.</subfield>
+    <subfield code="b">Appeal Section</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">War Department</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decisions of the War Department, Board of Contract Adjustment, Jan. 22 to Oct. 10, 1919.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decisions of the Appeal Section, War Department Claims Board, 1920:</subfield>
+    <subfield code="b">t.p. (successor to the Board of Contract Adjustment)</subfield>
+  </datafield>
+</record>
