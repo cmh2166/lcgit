@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00713cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 94040929 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000404133312.0</controlfield>
+  <controlfield tag="008">941202n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94040929 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN-PD</subfield>
+    <subfield code="d">PU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abirov, Dauren,</subfield>
+    <subfield code="d">1923-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Abirov, D.</subfield>
+    <subfield code="q">(Dauren),</subfield>
+    <subfield code="d">1923-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Abirov, Dauren Tastanbekovich,</subfield>
+    <subfield code="d">1923-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Kazakhskie narodnye tant︠s︡y, 1984:</subfield>
+    <subfield code="b">t.p. (D. Abirov [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 12/2/94</subfield>
+    <subfield code="b">(hdg.: Abirov, D.; usage: D. Abirov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Istorii︠a︡ kazakhskogo tant︠s︡a, 1997:</subfield>
+    <subfield code="b">t.p. (Dauren Abirov) colophon (Abirov Dauren Tastanbekovich) p. 3 (Abirov Dauren Tastanbekovich; b. 1923 in the village of Karakemer)</subfield>
+  </datafield>
+</record>
