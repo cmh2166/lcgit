@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00916cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  87938507 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020129053018.0</controlfield>
+  <controlfield tag="008">871104n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87938507 </subfield>
+    <subfield code="z">nr 90007944 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01975224</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ7519.2.C5</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">D'Ciófalo V., Giovanni</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ciófalo V., Giovanni d'</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Ciófalo, Giovanni d'</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">D'Ciófalo, Giovanni</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vega, Giovanni d'Ciófalo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">D'Ciófalo Vega, Giovanni</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El trabajo infantil ... 1986:</subfield>
+    <subfield code="b">t.p. (Giovanni d'Ciófalo V.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 09-16-87</subfield>
+    <subfield code="b">(hdg.: Ciófalo, Giovanni d'; usage: Giovanni d'Ciófalo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Las migraciones internas, c1989:</subfield>
+    <subfield code="b">1st prelim. p. (Giovanni D'Ciofalo Vega; Director General del CETRA (Centro de Estudios del Trabajo)) p. ii (Giovanni d'Ciofalo V.)</subfield>
+  </datafield>
+</record>
