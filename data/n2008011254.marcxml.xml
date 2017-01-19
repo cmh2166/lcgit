@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2008011254</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090329184823.0</controlfield>
+  <controlfield tag="008">080214n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008011254</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07662456</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-it---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Pieve di Marebbe (Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Del tuo bel fuoco il santo amor, c2002:</subfield>
+    <subfield code="b">t.p. (Pieve di Marebbe in Val Badia) cover p. 4 (in Bolzano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Feb. 14, 2008</subfield>
+    <subfield code="b">(Marebbe. Fazioni: Corte (Curt), Mantena, Pieve di Marebbe, Pliscia, San Vigilio, Rina, Longega)</subfield>
+    <subfield code="u">http://it.wikipedia.org/wiki/Marebbe</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Italy</subfield>
+    <subfield code="z">Pieve di Marebbe</subfield>
+  </datafield>
+</record>
