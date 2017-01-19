@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01283cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2004108524</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816082020.0</controlfield>
+  <controlfield tag="008">041108n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004108524</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06489053</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">IAWQ International Symposium on Systems Analysis and Computing in Water Quality Management</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Symposium on Systems Analysis and Computing in Water Quality Management, IAWQ</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Symposium on Systems Analysis and Computing in Water Quality Management, IAWQ International</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Watermatex</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">International Conference on Systems Analysis in Water Quality Management</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">IWA International Symposium on Systems Analysis and Computing in Water Quality Management</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Watermatex '97, 1997:</subfield>
+    <subfield code="b">t.p. (IAWQ International Symposium on Systems Analysis and Computing in Water Quality Management)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Watermatex '91, 1991: t.p. (International Conference on Systems Analysis in Water Quality Management);  Watermatex 2000, 2001: t.p. (IWA International Symposium on Systems Analysis and Computing in Water Quality Management)</subfield>
+  </datafield>
+</record>
