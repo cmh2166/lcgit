@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2011186084</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111222074956.0</controlfield>
+  <controlfield tag="008">111221n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011186084</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1524118</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Watzlaf, Valerie J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Health informatics research methods, c2009:</subfield>
+    <subfield code="b">t.p. (Valerie J. Watzlaf, PhD, RHIA, FAHIMA) p. v (assoc. prof., Dept. of Health Information Management, School of Health and Rehabilitation Sciences, Univ. of Pittsburgh)</subfield>
+  </datafield>
+</record>
