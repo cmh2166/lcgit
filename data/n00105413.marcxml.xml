@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00828cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  00105413 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080130074910.0</controlfield>
+  <controlfield tag="008">001219n| acannaabn          |a anc      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00105413 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05380915</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">s-bo---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Pucarani (Los Andes, Bolivia)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Los Andes (Bolivia).</subfield>
+    <subfield code="b">Pucarani</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">PROVISIONAL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">En las rutas de la participación popular, 1999:</subfield>
+    <subfield code="b">p. 147 (Pucarani, rural y Primera Seccioń Municipal de la Provincia Los Andes, Depto. La Paz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWW, GeoNet, 12-18-00</subfield>
+    <subfield code="b">(BGN gaz. of Bolivia, 1991: Pucarani, PPL, 16°24ʹS, 68°29ʹW; 3 other municipalities with same name, 2 of which are in Depto. La Paz)</subfield>
+  </datafield>
+</record>
