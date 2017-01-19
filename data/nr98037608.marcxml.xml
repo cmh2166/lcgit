@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00438nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 98037608 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981014051255.1</controlfield>
+  <controlfield tag="008">981013n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98037608 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-Law</subfield>
+    <subfield code="c">CSt-Law</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">National Center for Automated Information Research</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">NCAIR</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the David J. Dixon Conference ... 1998:</subfield>
+    <subfield code="b">t.p. (National Center for Automated Information Research (NCAIR))</subfield>
+  </datafield>
+</record>
