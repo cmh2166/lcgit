@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00974cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2008045346</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326102716.0</controlfield>
+  <controlfield tag="008">080707n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008045346</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1929,1930]</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Qahramān, Muḥammad,</subfield>
+    <subfield code="d">1929 or 1930-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ghahraman, Mohamad,</subfield>
+    <subfield code="d">1929 or 1930-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ghahraman, Mohammad,</subfield>
+    <subfield code="d">1929 or 1930-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Qahramān, Muḥammad,</subfield>
+    <subfield code="d">1929 or 30-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">قهرمان، محمد</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dānish Mashhadī, Raz̤ī ibn Mīr Abū Turāb. Dīvān-i Mīr Raz̤ī Dānish Mashhadī, 2000:</subfield>
+    <subfield code="b">t.p. (Muḥammad Qahramān) t.p. verso (Iranian CIP data: b. 1308 [1929 or 30])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Faryādʹhā-yi Turbatī, 2004 or 2005:</subfield>
+    <subfield code="b">t.p. (محمد قهرمان = Muḥammad Qahramān) p. 4 of cover (Mohamad Ghahraman [in rom.]) colophon (Mr. Mohammad Ghahraman [in rom.])</subfield>
+  </datafield>
+</record>
