@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00707cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 99033192 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060310052419.0</controlfield>
+  <controlfield tag="008">991022n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99033192 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05093894</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU-AML</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PU-AML</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sauguet, Henri,</subfield>
+    <subfield code="d">1901-1989.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">piano, orchestra,</subfield>
+    <subfield code="n">no. 3</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sauguet, Henri,</subfield>
+    <subfield code="d">1901-1989.</subfield>
+    <subfield code="t">Concert des mondes souterrains</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sauguet, H. Works for 2 pianos [SR] p1995:</subfield>
+    <subfield code="b">label (Concert des mondes souterrains) booklet (Concert des mondes souterrains, Concerto for the undrworld, Concerto no. 3 for piano and orchestra)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Pf. Conc. no. 3 Concert des mondes souterrains 1961-63)</subfield>
+  </datafield>
+</record>
