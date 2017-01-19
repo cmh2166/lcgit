@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98090576 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980610053954.4</controlfield>
+  <controlfield tag="008">980609n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98090576 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04747142 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">LNT</subfield>
+    <subfield code="c">LNT</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wager, Sarah J.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Wager, S. J.</subfield>
+    <subfield code="q">(Sarah J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Woods, wolds and groves, 1998:</subfield>
+    <subfield code="b">t.p. (Sarah J. Wager) t.p. verso (S.J. Wager) p. iv (Ph. D. thesis, Univ. of Birmingham, 1996)</subfield>
+  </datafield>
+</record>
