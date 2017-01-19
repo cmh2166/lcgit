@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00612cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2002161979</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150115073812.0</controlfield>
+  <controlfield tag="008">021009n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002161979</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05885699</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19571007</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taylor, Susan C.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Taylor, Susan C. Brown skin : Dr. Susan Taylor's prescription for flawless skin, hair, and nails, 2003:</subfield>
+    <subfield code="b">CIP t.p. (Susan C. Taylor, M.D.) galley (pharmacist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reader's Digest guide to skin care, 2009:</subfield>
+    <subfield code="b">ECIP t.p. (Susan C. Taylor, M.D.) data view (b. Oct. 7, 1957)</subfield>
+  </datafield>
+</record>
