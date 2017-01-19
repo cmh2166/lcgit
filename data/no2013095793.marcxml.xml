@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00850nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013095793</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130906073530.0</controlfield>
+  <controlfield tag="008">130905n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013095793</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09560358</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19261128</subfield>
+    <subfield code="g">20120328</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Petersen, William O.,</subfield>
+    <subfield code="d">1926-2012</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Chicago, Ill.</subfield>
+    <subfield code="b">Hanover, N.H.</subfield>
+    <subfield code="e">Chicago, Ill.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lawyers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">William Otto</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catholic Church. Antiphonary : manuscript, between 1500 and 1550?:</subfield>
+    <subfield code="b">bookplate (gift of William O. Petersen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chicago Tribune obituaries, 6 April 2012, viewed online September 5, 2013</subfield>
+    <subfield code="b">(William Otto Petersen; born Nov. 28, 1926, Chicago; died March 28, 2012, Hanover, NH; Chicago attorney; created Black Point Historic Preserve at Lake Geneva, WI)</subfield>
+  </datafield>
+</record>
