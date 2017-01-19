@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00820cz  a2200229n  4500</leader>
+  <controlfield tag="001">no 93019103 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140520150324.0</controlfield>
+  <controlfield tag="008">930628n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93019103 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18940104</subfield>
+    <subfield code="g">19780729</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">La Violette, Wesley,</subfield>
+    <subfield code="d">1894-1978</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Saint James, Minn.</subfield>
+    <subfield code="b">Escondido, Calif.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Composition (Music)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Violette, Wesley La,</subfield>
+    <subfield code="d">1894-1978</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">LaViolette, Wesley,</subfield>
+    <subfield code="d">1894-1978</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Cicada, c1938:</subfield>
+    <subfield code="b">t.p. (Wesley La Violette)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Seven preludes, c1941:</subfield>
+    <subfield code="b">caption (Wesley LaViolette)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baker, 8th ed.</subfield>
+    <subfield code="b">(La Violette, Wesley; b. 1/4/1894, St. James, Minn.; d. 7/29/78, Escondido, Calif.; American composer)</subfield>
+  </datafield>
+</record>
