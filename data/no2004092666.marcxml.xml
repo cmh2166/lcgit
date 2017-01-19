@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004092666</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040925071032.0</controlfield>
+  <controlfield tag="008">040924n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004092666</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06452366</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MCo</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MCo</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tam, Daniel See Wai,</subfield>
+    <subfield code="d">1980-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tam, See Wai,</subfield>
+    <subfield code="d">1980-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A two-dimensional fluid-structure coupling algorithm for the interaction of high-speed flows with open shells, c2004:</subfield>
+    <subfield code="b">t.p. (Daniel See Wai Tam; Thesis (S.M.)--Massachusetts Institute of Technology, Dept. of Aeronautics and Astronautics, 2004)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MIT Registrar's Office degree list, June 2004</subfield>
+    <subfield code="b">(b. July 24, 1980)</subfield>
+  </datafield>
+</record>
