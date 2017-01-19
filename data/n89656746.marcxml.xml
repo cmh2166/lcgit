@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  89656746 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891011120050.8</controlfield>
+  <controlfield tag="008">891011n| acannaab|          |n and |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89656746 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Hong Kong Institution of Engineers.</subfield>
+    <subfield code="b">Structural Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-89959: International Conference on Tall Buildings (3rd : 1984 : Hong Kong and Canton, China). Proceedings ... c1984</subfield>
+    <subfield code="b">(hdg. on IaAS rept.: Hong Kong Institution of Engineers. Structural Division; usage: Hong Kong Institution of Engineers, Structural Division)</subfield>
+  </datafield>
+</record>
