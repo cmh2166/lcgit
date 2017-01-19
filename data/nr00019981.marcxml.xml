@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00364nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 00019981 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000622033717.0</controlfield>
+  <controlfield tag="008">000619n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00019981 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Micheletta, Luca,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Italia e Gran Bretagna nel primo dopoguerra, 1999:</subfield>
+    <subfield code="b">t.p. (Luca Micheletta) p. 4 of cover (b. 1963)</subfield>
+  </datafield>
+</record>
