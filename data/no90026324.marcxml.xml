@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00390nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 90026324 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910111140823.2</controlfield>
+  <controlfield tag="008">901206n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90026324 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Ante Italianite</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's An address to the public, in answer to two pamphlets, 1756:</subfield>
+    <subfield code="b">t.p. (an ante Italianite)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Halkett &amp; Laing;</subfield>
+    <subfield code="a">Cushing.</subfield>
+  </datafield>
+</record>
