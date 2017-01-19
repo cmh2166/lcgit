@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00725nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010169617</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101021075411.0</controlfield>
+  <controlfield tag="008">101019n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010169617</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08660339</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McKnight, William A.</subfield>
+    <subfield code="q">(William Albert),</subfield>
+    <subfield code="d">1911-1986</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A catalogue of comedias sueltas in the library of the University of North Carolina, 1965:</subfield>
+    <subfield code="b">t.p. (William A. McKnight)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who's who in the South and Southwest,1969/70</subfield>
+    <subfield code="b">(McKnight, William Albert; b. Nov. 1, 1911, Denver, N.C.; professor of Spanish at the University of North Carolina at Chapel Hill)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SSDI, Oct. 18, 2010</subfield>
+    <subfield code="b">(McKnight, William; b. Nov. 1, 1911, d. June 1986)</subfield>
+  </datafield>
+</record>
