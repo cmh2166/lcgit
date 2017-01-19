@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  93039009 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160504130503.0</controlfield>
+  <controlfield tag="008">930427n| aznnnabbn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93039009 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03361238</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Arkansas.</subfield>
+    <subfield code="b">Governor (1983-1992 : Clinton)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Chief executive:</subfield>
+    <subfield code="a">Clinton, Bill,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This access point is not valid for use as a subject. Works about this person are entered under Clinton, Bill, 1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smith, D.S. The Arkansas handbook, c1984</subfield>
+    <subfield code="b">(list of governors: Bill Clinton: 1979-1981; 1983- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times index, Dec. 1-15, 1992</subfield>
+    <subfield code="b">(Pres.-elect Bill Clinton resigns as Gov. of Arkansas)</subfield>
+  </datafield>
+</record>
