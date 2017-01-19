@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00797nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2008145962</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081008081730.0</controlfield>
+  <controlfield tag="008">081006n| acaabaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008145962</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07898926</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGU-L</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Intellectual property, theory, culture</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Aldershot, England</subfield>
+    <subfield code="a">Burlington, VT</subfield>
+    <subfield code="b">Ashgate Pub.</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DGU-L</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DGU-L</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DGU-L</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Patenting lives, c2008:</subfield>
+    <subfield code="b">ser. t.p. (Intellectual property, theory, culture: this series presents theoretical and cultural examinations of intellectual property laws, developments, and policy. Volumes in the series may be identified by their innovative and critical analyses and their original contributions to international debate.)</subfield>
+  </datafield>
+</record>
