@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00981cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2003048460</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150226051023.0</controlfield>
+  <controlfield tag="008">030515n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003048460</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06050128</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)005119257</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19620503</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dupont, Valérie</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">France</subfield>
+    <subfield code="e">Dijon (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">College teaching</subfield>
+    <subfield code="a">Art, Modern</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Université de Bourgogne</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tribus contemporaines, 2002:</subfield>
+    <subfield code="b">t.p. (Valérie Dupont)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Centre Georges Chevrier-Savoirs, normes et sensibilités www site, viewed 19 February 2015:</subfield>
+    <subfield code="b">Curriculum vitae page (Dupont Valérie, born on 3 May 1962; she lives in Dijon, France; lecturer in history of contemporary art at the Université de Bourgogne)</subfield>
+    <subfield code="u">http://tristan.u-bourgogne.fr/CGC/chercheurs/dupont/Valerie_Dupont.pdf</subfield>
+  </datafield>
+</record>
