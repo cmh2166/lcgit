@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01286cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  89621979 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160614075400.0</controlfield>
+  <controlfield tag="008">890412n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89621979 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02502356</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CU-S</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1927</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Riedel, W. R.</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Tanunda (S.A.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Micropaleontology</subfield>
+    <subfield code="a">Marine sediments--Research</subfield>
+    <subfield code="a">Radiolaria--Research</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Scripps Institution of Oceanography</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1951</subfield>
+    <subfield code="t">2001</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Paleontologists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">Males</subfield>
+    <subfield code="2">lcdgt</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">William Rex</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Riedel, William R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4-4-89</subfield>
+    <subfield code="b">(hdg.: Riedel, W. R.; usage: W.R. Riedel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-41399: Marine plankton and sediments, 1979</subfield>
+    <subfield code="b">(hdg. on CoU rept.: Riedel, William R.; usage: William R. Riedel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">William R. Riedel papers, 1965-1988:</subfield>
+    <subfield code="b">finding aid (William Rex Riedel (b. 1927) is a micropaleontologist from Tanunda, South Australia.  He was educated at the University of Adelaide.  Riedel began his decades-long career at the Scripps Institution of Oceanography (SIO) in 1951.  Riedel is distinguished for his work on taxonomy and stratigraphy of Radiolaria and marine sediments. Riedel retired from SIO In 2001.)</subfield>
+  </datafield>
+</record>
