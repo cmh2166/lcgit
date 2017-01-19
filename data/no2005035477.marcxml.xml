@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00692nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2005035477</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050416071005.0</controlfield>
+  <controlfield tag="008">050415n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005035477</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06609524</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rāmaccantiran̲, Pi.,</subfield>
+    <subfield code="d">1925-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ramachandran, P.,</subfield>
+    <subfield code="d">1925-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Pi. Ār. Ci.,</subfield>
+    <subfield code="d">1925-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ci., Pi. Ār.,</subfield>
+    <subfield code="d">1925-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oru Kamyūn̲isṭin̲ nin̲aivuk kur̲ippukaḷ, 2003:</subfield>
+    <subfield code="b">(Pi. Rāmaccantiran̲) t.p. verso (P. Ramachandran) p. 8 (popularly known as Pi. Ār. Ci.; b. Oct. 30, 1925 in Kerala; joined Indian Communist Party in 1941; member of its central committee since 1985)</subfield>
+  </datafield>
+</record>
