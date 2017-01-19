@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007159207</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071231074818.0</controlfield>
+  <controlfield tag="008">071229n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007159207</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07617250</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reed, Edward Cambridge,</subfield>
+    <subfield code="d">1793-1883</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reed,</subfield>
+    <subfield code="c">Mr.</subfield>
+    <subfield code="q">(Edward Cambridge),</subfield>
+    <subfield code="d">1793-1883</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Abijah Fisk, 1832:</subfield>
+    <subfield code="b">p. 1 (Mr. Reed, of New York, from the Committee on Invalid Pensions)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. dir. of the U.S. Cong. online, viewed Dec. 29, 2007</subfield>
+    <subfield code="b">(Reed, Edward Cambridge, a Representative from N.Y.; b. Mar. 8, 1793; d. May 1, 1883)</subfield>
+  </datafield>
+</record>
