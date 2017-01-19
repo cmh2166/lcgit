@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00900cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 99010316 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151006073844.0</controlfield>
+  <controlfield tag="008">990215n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99010316 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04921436</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UkCU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Arbeitsgemeinschaft Bronzezeit.</subfield>
+    <subfield code="b">Kolloquium</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Archaeology</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Kolloquium der Arbeitsgemeinschaft Bronzezeit</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">See also related access points for individual instances of this conference which include specific information about the number, date, or place of the individual conference</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sonderbestattungen in der Bronzezeit im oĚstlichen Mitteleuropa, 1997:</subfield>
+    <subfield code="b">t.p. (Kolloquium der Arbeitsgemeinschaft Bronzezeit; 5.-20. Juni 1990 in Pottenstein, FraĚnkische Schweiz) p. vii (earlier colloquium held 1988 in Ettlingen)</subfield>
+  </datafield>
+</record>
