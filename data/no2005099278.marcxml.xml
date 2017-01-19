@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00888cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2005099278</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080907080444.0</controlfield>
+  <controlfield tag="008">051021n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005099278</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06763879</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">HkUST</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">HkUST</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zhao, Jiaying,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">赵佳楹,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  96040556</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung-kuo chin tai wai chiao shih, 1840-1919, 1994:</subfield>
+    <subfield code="b">t.p. (Chao Chia-ying) pref. (prof. of Wai chiao hsüeh yüan, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo xian dai wai jiao shi, 2005:</subfield>
+    <subfield code="b">t.p. (Zhao Jiaying) back flap (b. 1933; native of Leting, Hebei; grad., Wai jiao xue yuan; assoc. prof., Wai jiao xue yuan; authored: Zhongguo jin dai wai jiao shi, etc.)</subfield>
+  </datafield>
+</record>
