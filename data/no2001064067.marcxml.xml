@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001064067</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814083327.0</controlfield>
+  <controlfield tag="008">010813n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001064067</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05558128</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-OB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-OB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Feldman, Walter,</subfield>
+    <subfield code="c">medical doctor</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">São Paulo, déficit zero, 1998:</subfield>
+    <subfield code="b">cover (Walter Feldman) cover p. 4 (medical doctor; deputy, PSDB-SP; former councilman in the state of São Paulo; former chief-secretary of the Casa Civil do Governo de São Paulo)</subfield>
+  </datafield>
+</record>
