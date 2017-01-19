@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00560nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 94009472 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940411181524.8</controlfield>
+  <controlfield tag="008">940323n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94009472 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="c">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Price, Jesse,</subfield>
+    <subfield code="d">1909-1974</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Price, J. Sleepy baby blues [SR] 1946:</subfield>
+    <subfield code="b">label (Jesse Price, vocal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Jump it with a shuffle [SR] p1987:</subfield>
+    <subfield code="b">label (Jesse Price, drums and vocal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove dict. of music</subfield>
+    <subfield code="b">(Price, Jesse; b. 5/1/09, Memphis; d. 4/19/74, Los Angeles; drummer, bandleader and singer)</subfield>
+  </datafield>
+</record>
