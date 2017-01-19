@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00661cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2005010700</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050211170518.0</controlfield>
+  <controlfield tag="008">050211n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005010700</subfield>
+    <subfield code="z">n  88173690 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">O'Brien, James A.</subfield>
+    <subfield code="q">(James Aloysius),</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">O'Brien, James,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">O'Brien, James A. Dazai Osamu, 1975:</subfield>
+    <subfield code="b">t.p. (James A. O'Brien)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Akutagawa and Dazai, 1988:</subfield>
+    <subfield code="b">(James O'Brien) p. 149 (prof., Univ., Wisconsin; sp. Japanese)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat., Feb. 10, 2005:</subfield>
+    <subfield code="b">(telephone call to author, Sept. 16, 1974: James Aloysius O'Brien, b. Apr. 7, 1936; author of Dazai Osamu)</subfield>
+  </datafield>
+</record>
