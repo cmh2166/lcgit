@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00739cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012146983</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121208075217.0</controlfield>
+  <controlfield tag="008">121114n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012146983</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09346680</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Winter, Marianne.</subfield>
+    <subfield code="t">Wundervoller Herbst</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">piano</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Winter, Marianne.</subfield>
+    <subfield code="t">Sonaten,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Winter, Marianne.</subfield>
+    <subfield code="t">Merveilleux automne</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Winter, Marianne.</subfield>
+    <subfield code="t">Sonates,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Winter, Marianne.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Winter, Marianne. Wundervoller Herbst, c1982:</subfield>
+    <subfield code="b">caption (Wundervoller Herbst : Sonate fuĚr Piano no. 1 = Merveilleux automne : Sonate pour piano no. 1)</subfield>
+  </datafield>
+</record>
