@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00653cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85346454 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100516081258.0</controlfield>
+  <controlfield tag="008">860130n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85346454 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0814017</subfield>
+    <subfield code="e">W0814017</subfield>
+    <subfield code="f">N0292845</subfield>
+    <subfield code="g">N0292845</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01520788</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-fl</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Welaka (Fla.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ecology of mosquitoes, c1985:</subfield>
+    <subfield code="b">t.p. verso (Welaka, Florida)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rand-McNally comm. atlas, 1979</subfield>
+    <subfield code="b">(Welaka, Putnam [County], Florida)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 29°28ʹ45ʺN 081°40ʹ17ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Florida</subfield>
+    <subfield code="z">Welaka</subfield>
+  </datafield>
+</record>
