@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00871nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2004304702</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040925063105.0</controlfield>
+  <controlfield tag="008">040924n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2004304702</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006005613</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Brixton School of Building</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">L.C.C. Brixton School of Building</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Polytechnic of the South Bank</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The first fifty years, 1955:</subfield>
+    <subfield code="b">t.p. (Brixton School of Building)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The College library, 1962:</subfield>
+    <subfield code="b">t.p. (L.C.C. Brixton School of Building)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">London South Bank University Alumni Soc. WWW site, 24 Sept. 2004:</subfield>
+    <subfield code="b">evolutionary chart (on 1 Sept. 1970 Borough Polytechnic, Brixton School of Building, City of Westminster College and the National College of Heating, Ventilating, Refrigeration &amp; Fan Engineering merged to form the Polytechnic of the South Bank)</subfield>
+  </datafield>
+</record>
