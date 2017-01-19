@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00689cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  89239233 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316085329.0</controlfield>
+  <controlfield tag="008">920103n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89239233 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shajanī, Muḥammad ibn Ḥasan,</subfield>
+    <subfield code="d">approximately 1786-approximately 1851.</subfield>
+    <subfield code="t">Tiqṣār fī jayd zamān ʻallāmat al-aqālīm wa-al-amṣār</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Shajanī, Muḥammad ibn Ḥasan,</subfield>
+    <subfield code="d">ca. 1786-ca. 1851.</subfield>
+    <subfield code="t">Tiqṣār fī jayd zamān ʻallāmat al-aqālīm wa-al-amṣār</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ḥayāt al-Imām al-Shawkānī, al-musammá Kitāb al-Tiqṣār fī jayd zamān ʻallāmat al-aqālīm wa-al-amṣār, 1990.</subfield>
+  </datafield>
+</record>
