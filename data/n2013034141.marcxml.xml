@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00473nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2013034141</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130614072617.0</controlfield>
+  <controlfield tag="008">130614n| azannaabn          |b aaa     a</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013034141</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1932</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Liu, Hongliang,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">刘鸿亮,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hu po fu ying yang hua kong zhi, 2011:</subfield>
+    <subfield code="b">t.p. (刘鸿亮, Liu Hongliang) cover flap (b. 1932)</subfield>
+  </datafield>
+</record>
