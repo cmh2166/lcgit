@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00935cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr2001012112</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151010073947.0</controlfield>
+  <controlfield tag="008">010404n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001012112</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05459055</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1958-12-17</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ford, Mark,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Richmond (Va.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of North Texas</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Percussionists</subfield>
+    <subfield code="a">Music teachers</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="a">Marimba players</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ford, M. Standup shadow, c1997:</subfield>
+    <subfield code="b">caption (Mark Ford)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Electronic correspondence with M. Ford, Apr. 4, 2001</subfield>
+    <subfield code="b">(Mark D. Ford; b. 1958; coordinator of percussion activities at The University of North Texas in Denton, Tex., marimba specialist, and composer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">TEK Percussion WWw site, October 9, 2015</subfield>
+    <subfield code="b">(Ford, Mark; born December 17, 1958, Richmond, Virginia)</subfield>
+  </datafield>
+</record>
