@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014160556</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141206073615.0</controlfield>
+  <controlfield tag="008">141205n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014160556</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10033006</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiFliG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MiFliG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caldwell, J. P.</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">McDonnell Douglas Corporation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Expected technical and economic characteristics of 1975 STOL systems, 1970:</subfield>
+    <subfield code="b">cover (J.P. Caldwell, McDonnell Douglas Corporation)</subfield>
+  </datafield>
+</record>
