@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  78008411 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120807075736.0</controlfield>
+  <controlfield tag="008">780224n| abannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78008411 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rege, P. W.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Legislation on the 20-point economic programme, 1976 (a.e.)</subfield>
+    <subfield code="b">t.p. (Dr. P. W. Rege, M.A., LL.M., Ph.D. (Lond.), Principal, New Law Coll., Bombay)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. handbook, 1975:</subfield>
+    <subfield code="b">p. 182 (Dr. P. W. Rege)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">India WW, 1975-77.</subfield>
+  </datafield>
+</record>
