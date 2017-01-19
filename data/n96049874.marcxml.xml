@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00742cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  96049874 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110423074830.0</controlfield>
+  <controlfield tag="008">960520n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96049874 </subfield>
+    <subfield code="z">no 99054663 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)003272811</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Villanueva, M. L.</subfield>
+    <subfield code="q">(María Luisa)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Villanueva, María Luisa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Villanueva Alfonso, María-Luisa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alfonso, María-Luisa Villanueva</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Primeres Jornades sobre Autoaprenentatge ... 1994:</subfield>
+    <subfield code="b">t.p. (M.L. Villanueva) t.p. verso (Spanish CIP entry: Villanueva, María Luisa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Méditerranée et la culture du dialogue, c2008:</subfield>
+    <subfield code="b">t.p. (María-Luisa Villanueva Alfonso) p.339 (María-Luisa Villanueva)</subfield>
+  </datafield>
+</record>
