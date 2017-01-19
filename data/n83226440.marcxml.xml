@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83226440 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">831103n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83226440 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">F.J. Murray Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="0" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Murray (F. J.) Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Murray Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Dearborn and Dearborn Heights map &amp; street guide, c1978:</subfield>
+    <subfield code="b">map recto (F.J. Murray Co.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11/1/83</subfield>
+    <subfield code="b">(hdg.: Murray (F.J.) Co.)</subfield>
+  </datafield>
+</record>
