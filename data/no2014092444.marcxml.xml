@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00597nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2014092444</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140712073555.0</controlfield>
+  <controlfield tag="008">140711n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014092444</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09905907</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jiang, Hong</subfield>
+    <subfield code="c">(Lecturer in tourism)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Wuhan da xue</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">姜红</subfield>
+    <subfield code="c">(Lecturer in tourism)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Xi wu dong jian yu jin dai Zhongguo de ju bian, 2013:</subfield>
+    <subfield code="b">title page (姜红  = Jiang Hong) post script (Ph.D.; lecturer in tourism, Wuhan da xue)</subfield>
+  </datafield>
+</record>
