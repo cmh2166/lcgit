@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00815nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2008173672</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081124074814.0</controlfield>
+  <controlfield tag="008">081122n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008173672</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">0921-4372</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07945165</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Uhlenbeck lectures</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Uhlenbeck lecture</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Nederlands Instituut voor Voortgezet Wetenschappelijk Onderzoek op het Gebied van de Mens- en Maatschappijwetenschappen.</subfield>
+    <subfield code="t">Uhlenbeck lectures</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">25</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">UkCU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Wassenaar</subfield>
+    <subfield code="b">NIAS, Netherlands Institute for Advanced Study in the Humanities and Social Sciences</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">UkCU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">UkCU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">UkCU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The enemy within, 2007:</subfield>
+    <subfield code="b">ser. t.p. (Uhlenbeck lectures) t.p. (Uhlenbeck lecture)</subfield>
+  </datafield>
+</record>
