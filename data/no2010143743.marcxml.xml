@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00538nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010143743</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100904075317.0</controlfield>
+  <controlfield tag="008">100902n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010143743</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08613194</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OAkU-MCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OAkU-MCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Quinsey, Robert L.</subfield>
+    <subfield code="t">Twelve-tone pieces</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Quinsey, Robert L.</subfield>
+    <subfield code="t">Three twelve-tone pieces</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Quinsey, Robert L.</subfield>
+    <subfield code="t">3 twelve-tone pieces</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Quinsey, R.L. Three twelve-tone pieces [MS] 1973?:</subfield>
+    <subfield code="b">t.p. (Three twelve-tone pieces : 1968-1973)</subfield>
+  </datafield>
+</record>
