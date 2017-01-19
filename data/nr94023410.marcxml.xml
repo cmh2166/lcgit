@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00525nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 94023410 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940813055303.9</controlfield>
+  <controlfield tag="008">940715n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94023410 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MnU</subfield>
+    <subfield code="c">MnU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">International Union of Forestry Research Organizations.</subfield>
+    <subfield code="b">P4.11 FORSEA--Forest Sector Analysis</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">FORSEA</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">IUFRO P4.11 FORSEA--Forest Sector analysis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the Forest Sector Analysis Symposium, 1989:</subfield>
+    <subfield code="b">t.p. (P4.11 FORSEA--Forest Sector Analysis--of IUFRO)</subfield>
+  </datafield>
+</record>
