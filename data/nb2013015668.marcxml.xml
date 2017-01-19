@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00562nz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2013015668</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130801050907.0</controlfield>
+  <controlfield tag="008">130731n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013015668</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008808239</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">BP Chemicals International Limited.</subfield>
+    <subfield code="b">Educational Service</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Great Britain</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Chemical industry</subfield>
+    <subfield code="a">Education</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">BP Chemicals International Limited</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chemicals at Hull, 1970:</subfield>
+    <subfield code="b">t.p. verso (Educational Service, BP Chemicals International Limited)</subfield>
+  </datafield>
+</record>
