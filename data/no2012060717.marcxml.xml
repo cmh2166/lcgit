@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2012060717</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120503075043.0</controlfield>
+  <controlfield tag="008">120501n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012060717</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09185945</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Duffy, Joe,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Just Joe : my autobiography, 2011 :</subfield>
+    <subfield code="b">t.p. (Joe Duffy) p. 5 (b. 1956) jkt. (presenter of RTEĚ Radio One's Liveline programme)</subfield>
+  </datafield>
+</record>
