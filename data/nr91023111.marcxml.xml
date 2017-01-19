@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00844cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 91023111 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011214033231.0</controlfield>
+  <controlfield tag="008">910627n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91023111 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">CMalG</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Galerien Thannhauser</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Moderne Galerie Heinrich Thannhauser</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Moderne Galerie Thannhauser</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Erste Sonderausstellung in Berlin, 1927?:</subfield>
+    <subfield code="b">t.p. (Galerien Thannhauser) p. 5 (branches in München and Luzern)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ausstellung Robert Genin, 1913:</subfield>
+    <subfield code="b">t.p. (Moderne Galerie Heinrich Thannhauser, München)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Münchener Malerei 1870-1890, 1918:</subfield>
+    <subfield code="b">t.p. Moderne Galerie Thannhauser München)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eröffnungs-Ausstellung unseres neuen Berliner Hauses, 1927:</subfield>
+    <subfield code="b">t.p. (Galerien Thannhauser, Berlin Luzern München)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Int. dir. of arts.</subfield>
+  </datafield>
+</record>
