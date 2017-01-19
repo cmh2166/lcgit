@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01096nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2004069392</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040722051831.0</controlfield>
+  <controlfield tag="008">040721n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004069392</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06398162</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Cancionero capitular de la Colombina</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Cancionero capitular of the Colombina</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Dutton SV2</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Biblioteca Colombina.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">83-6-10</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with ms. 7-1-28: Cancionero de la Colombina</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading refers to textual contents of the cancionero; for ms. as a physical entity, including its decoration, etc., use: Biblioteca Colombina. Manuscript. 83-6-10.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Two Spanish songbooks, 2000:</subfield>
+    <subfield code="b">t.p. (Cancionero capitular de la Colombina (SV2)) p. 1 (Cancionero capitular of the Colombina, II, Seville, MS (83-6-10), Dutton SV2; manuscript 83-6-10 of the Bibilioteca Colombina (in fact a manuscript of the Cabildo Library) ... the volume contains two distinct manuscripts with separate foliation ... the second work is the cancionero edited here)</subfield>
+  </datafield>
+</record>
