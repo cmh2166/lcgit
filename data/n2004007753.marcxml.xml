@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2004007753</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070309074919.0</controlfield>
+  <controlfield tag="008">041008n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004007753</subfield>
+    <subfield code="z">n  88010781 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bean, Alan,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bean, Alan L.</subfield>
+    <subfield code="q">(Alan LaVern),</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Village global, c2003:</subfield>
+    <subfield code="b">p. facing t.p. (Alan L. Bean)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His My life as an astronaut, c1988:</subfield>
+    <subfield code="b">t.p. (Alan Bean) p. 106 (b. Mar. 15, 1932 in Wheeler, Tex.; graduated from Univ. of Texas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Apollo, 1998:</subfield>
+    <subfield code="b">CIP t.p. (Alan Bean) data sheet (Bean Alan LaVern)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MuseĚe des beaux-arts de MontreĚal, Expositions: Village global Web site, Mar. 8, 2007</subfield>
+    <subfield code="b">(Capt. Alan L. Bean, astronaute de la Mission Apollo XII)</subfield>
+  </datafield>
+</record>
