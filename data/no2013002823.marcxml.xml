@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00809nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2013002823</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130111080602.0</controlfield>
+  <controlfield tag="008">130109n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013002823</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09379380</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wiprud, Theodore,</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="t">Concerto,</subfield>
+    <subfield code="m">violin, orchestra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wiprud, Theodore,</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="t">Katrina</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wiprud, Theodore,</subfield>
+    <subfield code="d">1958-</subfield>
+    <subfield code="t">Katrina concerto</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shapira, I. American violin concertos [SR] p2012:</subfield>
+    <subfield code="b">label (Violin concerto : Katrina) insert (composed 2011 as a response to Hurricane Katrina (2005))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Theodore Wiprud WWW site, Jan. 9, 2013</subfield>
+    <subfield code="b">(Violin concerto (Katrina) (2011), for violin and orchestra; reflects on the devastation of New Orleans and the musical communities of the Delta, five years later)</subfield>
+  </datafield>
+</record>
