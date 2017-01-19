@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01187cz  a2200253n  4500</leader>
+  <controlfield tag="001">no2005048444</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150421114044.0</controlfield>
+  <controlfield tag="008">050523n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005048444</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06641510</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">WaBeW</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ėnkhsaĭkhan, L.</subfield>
+    <subfield code="q">(Luvsanbaldan)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ėnkhsaĭkhan, Luvsanbaldan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Luvsanbaldan Ėnsaĭkhan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Enfusaihan, L.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Enfusaihan, Rubusanbarudan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Luvsanbaldangiĭn Ėnkhsaĭkhan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Tod ovogt Luvsanbaldangiĭn Ėnkhsaĭkhan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Энхсайхан, Л.</subfield>
+    <subfield code="q">(Лувсанбалдан)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nihongo-Mongorugo, Mongorugo-Nihongo hōritsu yōgo jiten, 2003:</subfield>
+    <subfield code="b">t.p. (L. Ėnkhsaĭkhan; L. Enfusaihan [rom and Japanese]) cover (Luvsanbaldan Ėnsaĭkhan; Rubusanbarudan Enfusaihan [Japanese])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Khaltaryn Luvsanbaldan, 2006:</subfield>
+    <subfield code="b">verso t.p. (L. Ėnkhsaĭkhan) p. 7, etc. (daughter of Kh. Luvanbaldan; Japanese instructor; Tod ovogt Luvsanbaldangiĭn Ėnkhsaĭkhan)</subfield>
+  </datafield>
+</record>
