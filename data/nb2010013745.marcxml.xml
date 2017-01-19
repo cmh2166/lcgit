@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00491cz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2010013745</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120313074958.0</controlfield>
+  <controlfield tag="008">100528n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010013745</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007812326</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army Air Forces.</subfield>
+    <subfield code="b">Bomb Group, 491st</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army Air Forces.</subfield>
+    <subfield code="b">Bombardment Group, 491st</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The 492nd and 491st bomb groups in Norfolk, [2006?]:</subfield>
+    <subfield code="b">t.p. (USAAF 491st Bombardment Group)</subfield>
+  </datafield>
+</record>
