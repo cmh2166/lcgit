@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00861nz  a2200193n  4500</leader>
+  <controlfield tag="001">n  86028780 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870404132800.6</controlfield>
+  <controlfield tag="008">870312n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86028780 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Baumgartner, Alfred,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lindberg, Carl,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Siegfried, Werner,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mortimer, Jack,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Braun, Lothar,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with Baumgartner, Alfred, author of works on music</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nacht uĚber Atlantis, c1979:</subfield>
+    <subfield code="b">t.p. (Alfred Baumgartner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KuĚrschn. Deut. Lit.-Kal., 1984</subfield>
+    <subfield code="b">(Baumgartner, Alfred; pseudonyms: Carl Lindberg, Werner Siegfried, Jack Mortimer, Lothar Braun [none in LC data base]; b. 6/11/1904; res. Wien; Dr. jur., Dr. rer. pol., Dr. phil.; author of historical works, novels; translator; wks. listed)</subfield>
+  </datafield>
+</record>
