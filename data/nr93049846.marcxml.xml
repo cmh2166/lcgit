@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00890nz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 93049846 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19931207055528.5</controlfield>
+  <controlfield tag="008">931203n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93049846 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Cayzer, Charles,</subfield>
+    <subfield code="d">1869-1917</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Wynne, Charles Whitworth,</subfield>
+    <subfield code="d">1869-1917</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Wynne, Whitworth,</subfield>
+    <subfield code="d">1869-1917</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author entered under other names, search also under</subfield>
+    <subfield code="b">Wynne, Charles Whitworth, 1869-1917 and</subfield>
+    <subfield code="b">Wynne, Whitworth, 1869-1917.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His By the way of the gate, 1911:</subfield>
+    <subfield code="b">t.p. (Charles Cayzer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Wynne, Charles Whitworth, pseud., see Cayzer, Sir CharlesWilliam, bart., 1869-1917)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">W was W</subfield>
+    <subfield code="b">(Cayzer, Charles William, b. 7-19-1869 in Bombay; M.A.; d. 7-20-1917)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Wynne, Whitworth, psend., see Cayzer, Charles William, 1869-1917)</subfield>
+  </datafield>
+</record>
