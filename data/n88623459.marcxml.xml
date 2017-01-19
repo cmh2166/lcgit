@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88623459 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880329065430.2</controlfield>
+  <controlfield tag="008">880329n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88623459 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Vošnjak, Mitja,</subfield>
+    <subfield code="d">1923-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-12681: Author's Veleposlanikovi zapiski, 1984</subfield>
+    <subfield code="b">(hdg. on WaU rept.: Vošnjak, Mitja, 1923- ; usage: Mitja Vošnjak)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3/29/88</subfield>
+    <subfield code="b">(hdg.: Vošnjak, Mitja, 1923- )</subfield>
+  </datafield>
+</record>
