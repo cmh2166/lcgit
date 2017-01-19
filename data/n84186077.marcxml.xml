@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00922cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  84186077 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120807082925.0</controlfield>
+  <controlfield tag="008">850207n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84186077 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Joint Conference on Human Factors in Control Room Design and Operation</subfield>
+    <subfield code="d">(1982 :</subfield>
+    <subfield code="c">Toronto, Ont.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Human Factors in Control Room Design and Operation, Joint</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Human Factors in Control Room Design and Operation, Joint Conference on</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its The human dimension in energy technology, 1982:</subfield>
+    <subfield code="b">t.p. (Joint Conference on Human Factors in Control Room Design and Operation, 6/23/82) cover (Toronto, Canada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC, 12-7-84</subfield>
+    <subfield code="b">(AACR 2: Joint Conference on Human Factors in Control Room Design and Operation (1982 : Toronto, Ont.))</subfield>
+  </datafield>
+</record>
