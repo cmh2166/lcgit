@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00908cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 96000107 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314094043.0</controlfield>
+  <controlfield tag="008">960102n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96000107 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03982275</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VtMiM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">VtMiM-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Berwald, Franz,</subfield>
+    <subfield code="d">1796-1868.</subfield>
+    <subfield code="t">Duets,</subfield>
+    <subfield code="m">cello, piano,</subfield>
+    <subfield code="n">op. 7,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">cello</subfield>
+    <subfield code="a">piano</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 7</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">B♭  major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Berwald, Franz,</subfield>
+    <subfield code="d">1796-1868.</subfield>
+    <subfield code="t">Duets,</subfield>
+    <subfield code="m">violin, piano,</subfield>
+    <subfield code="n">op. 7,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Berwald, Franz,</subfield>
+    <subfield code="d">1796-1868.</subfield>
+    <subfield code="t">Duets,</subfield>
+    <subfield code="m">violoncello, piano,</subfield>
+    <subfield code="n">op. 7,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Berwald, F. Duo för piano, violoncello eller violino, op. 7, 1995, c1946.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NewGrove</subfield>
+    <subfield code="b">(2 duos, D, vn, pf, 1857-60, ed. (1898), B♭, vc/vn, pf, 1858 (Hamburg, 1858))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MGG, Suppl.</subfield>
+    <subfield code="b">(Duo, B♭, Klavier und Violoncello (oder Violine), op. 7, 1858)</subfield>
+  </datafield>
+</record>
