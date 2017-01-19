@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00847nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2011172156</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111109075227.0</controlfield>
+  <controlfield tag="008">111107n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011172156</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09028058</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Intishārāt-i kitābʹshināsī-i Shīʻah.</subfield>
+    <subfield code="p">Fahāris</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Intishārāt-i Muʼassasah-i Kitābʹshināsī-i Shīʻah.</subfield>
+    <subfield code="p">Fahāris</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Nashr Muʼassasat Turāth al-Shīʻah.</subfield>
+    <subfield code="p">Fahāris</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Qum</subfield>
+    <subfield code="b">Muʼassasat Turāth al-Shīʻah</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fahāris al-Shīʻah, 1431, 2010 or 2011:</subfield>
+    <subfield code="b">facing t.p. (Nashr Muʼassasat Turāth al-Shīʻah. al-Fahāris; Iranian CIP: Intishārāt-i kitābʹshināsī-i Shīʻah. al-Fahāris)</subfield>
+  </datafield>
+</record>
