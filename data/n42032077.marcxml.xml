@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01134cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  42032077 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090102075126.0</controlfield>
+  <controlfield tag="008">830603n| acaaaaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  42032077 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00030041</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">S671</subfield>
+    <subfield code="b">.A65</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Etudes du CNEEMA</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Antony, France.</subfield>
+    <subfield code="b">Centre national d'études et d'expérimentation de machinisme agricole.</subfield>
+    <subfield code="t">Études</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Centre national d'études et d'expérimentation de machinisme agricole (France)</subfield>
+    <subfield code="t">Etudes du CNEEMA</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Etudes du C.N.E.E.M.A.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Etude (Centre national du machinisme agricole, du génie rural, des eaux et des forêts (France))</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no 471</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Antony</subfield>
+    <subfield code="b">Centre national d'études et d'expérimentation de machinisme agricole</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Collot, M. Les ventes départ. en France de moisonneuses-batteuses et de rampasseuses-presses au cours de la saison 1979-1980, 1981.</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">L'Alimenation du cerf, 1982: t.p. (Etude / CEMAGREF ; no 492)</subfield>
+  </datafield>
+</record>
