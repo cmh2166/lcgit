@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00603nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015066816</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150520073613.0</controlfield>
+  <controlfield tag="008">150519n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015066816</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10170606</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Maruyama, Ellie</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Center for a New American Security</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rosenberg, Elizabeth (Policy scientist). Crude oil export &amp; U.S. national security, 2015:</subfield>
+    <subfield code="b">title page (Ellie Maruyama) title page verso (Ellie Maruyama is a Research Associate in the Energy, Economics, and Security Program at CNAS.)</subfield>
+  </datafield>
+</record>
