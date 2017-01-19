@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01079cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 89014688 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000704082358.0</controlfield>
+  <controlfield tag="008">891025n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89014688 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02625797</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lloyd, Selwyn,</subfield>
+    <subfield code="d">1904-1978</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Lloyd, Selwyn,</subfield>
+    <subfield code="d">1904-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Selwyn-Lloyd, John Selwyn Brooke Lloyd,</subfield>
+    <subfield code="c">Baron,</subfield>
+    <subfield code="d">1904-1978</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lloyd, John Selwyn Brooke,</subfield>
+    <subfield code="d">1904-1978</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thorpe, D.R. Selwyn Lloyd, 1989:</subfield>
+    <subfield code="b">p. 2 (b. 1904)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Enc. Brit., 15th ed., Micro.</subfield>
+    <subfield code="b">(Lloyd, (John) Selwyn (Brooke); b. 7/28/04, d. 5/17/78; cr. life peer in 1976 with title Baron Selwyn-LLoyd of Wirral)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB 1971-1980</subfield>
+    <subfield code="b">(Lloyd, John Selwyn Brooke, Baron Selwyn-Lloyd, 1904-1978, Speaker of the House of Commons and politician; in text: Selwyn Lloyd, in bib. citation: J.S.B. Selwyn Lloyd; cr. life peer 1976)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 10-25-89</subfield>
+    <subfield code="b">(hdgs.: Lloyd, Selwyn, Lord, 1904-; Lloyd, Selwyn, 1904-; usage: Selwyn Lloyd [state. of resp.]; Mr. Selwyn Lloyd [in title])</subfield>
+  </datafield>
+</record>
