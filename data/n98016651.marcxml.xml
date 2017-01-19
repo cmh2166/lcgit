@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98016651 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160202095535.0</controlfield>
+  <controlfield tag="008">980220n| azannaabn           n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98016651 </subfield>
+    <subfield code="z">n 2010037521</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1955-01-12</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Durant, Judith,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The beader's companion, 1998:</subfield>
+    <subfield code="b">CIP t.p. (Judith Durant) data sheet (Judith Ann Durant; b. Jan. 12, 1955)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sock yarn one-skein wonders, 2010:</subfield>
+    <subfield code="b">e-CIP t.p. (Judith Durant)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Web site, Nov. 23, 2010</subfield>
+    <subfield code="b">(lists Sock yarn one-skein wonders as latest title)</subfield>
+  </datafield>
+</record>
