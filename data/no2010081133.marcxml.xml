@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2010081133</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327085734.0</controlfield>
+  <controlfield tag="008">100517n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010081133</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08496293</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NJQ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NJQ</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Treasurywala, Shenaz</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Shenaz</subfield>
+    <subfield code="c">(Actress)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Treasuryvala, Shenaz</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ṭrezarīvālā, Śahanāza</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Radio, 2009:</subfield>
+    <subfield code="b">title frame (Shenaz Treasuryvala)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed May 17, 2010:</subfield>
+    <subfield code="b">Shenaz Treasurywala (Shenaz Treasurywala (Hindi: Śahanāza Ṭrezarīvālā) (sometimes spelled Treasuryvala) or Shenaz is an Indian model, travel writer, and actress)</subfield>
+  </datafield>
+</record>
