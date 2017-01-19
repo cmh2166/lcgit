@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00485nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88651109 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880722155454.5</controlfield>
+  <controlfield tag="008">880722n| acannaab|          |a aad |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88651109 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Leﾌ」esque, R.</subfield>
+    <subfield code="q">(Remy),</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Leﾌ」esque, Remy,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">NLC not consulted.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-86789: Gauthier, J.P. Etudes limnologiques des lacs ... 1973</subfield>
+    <subfield code="b">(hdg. on CaQMM rept.: Leﾌ」esque, Remy, 1945- ; usage: R. Leﾌ」esque)</subfield>
+  </datafield>
+</record>
