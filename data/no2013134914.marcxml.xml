@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00945cz  a2200253n  4500</leader>
+  <controlfield tag="001">no2013134914</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131226151308.0</controlfield>
+  <controlfield tag="008">131203n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013134914</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09628992</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18140806</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burin des Roziers, H.</subfield>
+    <subfield code="q">(Hyacinthe),</subfield>
+    <subfield code="d">1814-</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Hyacinthe</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Des Roziers, H. Burin</subfield>
+    <subfield code="q">(Hyacinthe Burin),</subfield>
+    <subfield code="d">1814-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Roziers, H. Burin des</subfield>
+    <subfield code="q">(Hyacinthe Burin des),</subfield>
+    <subfield code="d">1814-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Burin des Roziers, Hyacinthe,</subfield>
+    <subfield code="d">1814-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Des Roziers, Hyacinthe Burin,</subfield>
+    <subfield code="d">1814-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Roziers, Hyacinthe Burin des,</subfield>
+    <subfield code="d">1814-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La baronnie de La Tour-d'Auvergne, 2007:</subfield>
+    <subfield code="b">title page (Hyacinthe Burin des Roziers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BNF via VIAF, Dec. 3, 2013</subfield>
+    <subfield code="b">(hdg.: Burin Des Roziers, Hyacinthe (1814-18..); b. 1814-08-06, La Tour-d'Auvergne (Puy-de-DoĚme))</subfield>
+  </datafield>
+</record>
