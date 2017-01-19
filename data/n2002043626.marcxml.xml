@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01478cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2002043626</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140111073852.0</controlfield>
+  <controlfield tag="008">021015n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002043626</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05889285</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1965</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dat︠s︡i︠u︡k, Sergeĭ</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Donet︠s︡ʹk (UKraine)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dat︠s︡i︠u︡k, Serhіĭ</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Дацюк, Сергій</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Дацюк, Сергей Аркадьевич</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dat︠s︡i︠u︡k, Sergeĭ. Sovremennoe novostnoe proizvodstvo, 2000:</subfield>
+    <subfield code="b">verso t.p. (Sergeĭ Dat︠s︡i︠u︡k)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ukrainska Pravda, website, Aug. 9, 2011:</subfield>
+    <subfield code="b">(Сергій Дацюк, консультант корпорації стратегічного консалтингу "Гардарика", експерт у сфері комунікації, управління та стратегування)</subfield>
+    <subfield code="u">http://blogs.pravda.com.ua/authors/datsuk/view=info/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Setevoĭ proektnyĭ zhurnal, website, Aug. 9, 2011:</subfield>
+    <subfield code="b">(Дацюк Сергей Аркадьевич, родился в 1965 году в городе Донецке; ... аналитическом докладе Агентства гуманитарных технологий "Современное новостное производство")</subfield>
+    <subfield code="u">http://www.uis.kiev.ua/~xyz/auto=bio.htm</subfield>
+  </datafield>
+</record>
