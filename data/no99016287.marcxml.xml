@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00541nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99016287 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990309114335.3</controlfield>
+  <controlfield tag="008">990308n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99016287 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04937540 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMU</subfield>
+    <subfield code="c">FMU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">MacDougall, Michael,</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">MacDougall, Mickey,</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Card mastery, 1944:</subfield>
+    <subfield code="b">t.p. (Michael MacDougall)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Mar. 8, 1999</subfield>
+    <subfield code="b">(hdg.: MacDougall, Michael, 1906- ; usage: Michael MacDougall; "the famous "Gambling Detective" Mickey MacDougall")</subfield>
+  </datafield>
+</record>
