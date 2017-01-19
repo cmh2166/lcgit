@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00358nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 92008671 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920410140736.8</controlfield>
+  <controlfield tag="008">920402n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92008671 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Fakenham Association Against Horse-Stealers</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Rules and orders of the Fakenham Association Against Horse-Stealers, 1783.</subfield>
+  </datafield>
+</record>
