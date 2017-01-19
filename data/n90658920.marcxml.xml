@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00432nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90658920 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900619074206.8</controlfield>
+  <controlfield tag="008">900619n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90658920 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Soewarno, Roto,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Roto Soewarno,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Suwarno, Roto,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pak Dirman menuju Sobo, 1988:</subfield>
+    <subfield code="b">t.p. (Roto Soewarno) cover p. 4 (b. 5/28/31 in Pakis, Pacitan)</subfield>
+  </datafield>
+</record>
