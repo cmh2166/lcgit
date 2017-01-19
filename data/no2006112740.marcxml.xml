@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01084nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2006112740</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061026075202.0</controlfield>
+  <controlfield tag="008">061024n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006112740</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07086718</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH-P</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH-P</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Colección Kw'anískuyarhani</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universidad Michoacana.</subfield>
+    <subfield code="b">Instituto de Investigaciones Históricas.</subfield>
+    <subfield code="t">Colección Kw'anískuyarhani</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Kw'anískuyarhani</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Morelia, Mich.</subfield>
+    <subfield code="b">Universidad Michoacana de San Nicolás de Hidalgo, Instituto de Investigaciones Históricas</subfield>
+    <subfield code="b">Gobierno del Estado de Michoacán, Secretaría de Urbanismo y Medio Ambiente</subfield>
+    <subfield code="b">Coordinación Interinstitucional para la Atención a los Pueblos y Comunidades Indígenas del Estado de Michoacán</subfield>
+    <subfield code="b">Grupo Kw'anískuyarhani de Estudiosos del Pueblo Purépecha</subfield>
+    <subfield code="b">Morevallado Editores</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">MH-P</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">MH-P</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">MH-P</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Enigmas sobre el pasado y el presente del pueblo purépecha, 2004:</subfield>
+    <subfield code="b">ser. t.p. (Colección Kw'anískuyarhani)</subfield>
+  </datafield>
+</record>
