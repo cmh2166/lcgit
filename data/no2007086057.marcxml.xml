@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00846cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2007086057</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070803075139.0</controlfield>
+  <controlfield tag="008">070727n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007086057</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07478446</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">CoU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ6651.L8192</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez Martín, María Nieves</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Martín, María Nieves Alvarez</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez Martín, Ma. Nieves</subfield>
+    <subfield code="q">(Maria Nieves)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez Martín, Nieves</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez, Nieves</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Navegando fantasmas, 2006:</subfield>
+    <subfield code="b">t.p. (Nieves Alvarez Martín)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, July 27, 2007</subfield>
+    <subfield code="b">(hdgs.: Alvarez Martín, Nieves; Alvarez Martín, María Nieves; Alvarez Martín, Ma. Nieves; Alvarez, Nieves; usage: Nieves Alvarez Martín; Ma. Nieves Alvarez Martín; María Nieves Alvarez Martín; Nieves Alvarez)</subfield>
+  </datafield>
+</record>
