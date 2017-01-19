@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00813nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013048364</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130504075410.0</controlfield>
+  <controlfield tag="008">130502n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013048364</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09464687</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MCM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MCM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20120727</subfield>
+    <subfield code="t">20120729</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Meeting on Opto-Electronics Engineering and Materials Research</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Shenyang, Liaoning Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Shenyang, Liaoning Sheng, China</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Optoelectronic devices</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">OEMR</subfield>
+    <subfield code="d">(2012 :</subfield>
+    <subfield code="c">Shenyang, Liaoning Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Opto-electronics engineering and materials research, c2012, CD-ROM:</subfield>
+    <subfield code="b">PDF t.p. (the 2012 International Meeting on Opto-Electronics Engineering and Materials Research, OEMR2012, July 27-29, 2012, Shenyang, Liaoning, China)</subfield>
+  </datafield>
+</record>
