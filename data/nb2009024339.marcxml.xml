@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00763nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2009024339</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090927075012.0</controlfield>
+  <controlfield tag="008">090925n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009024339</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007578779</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Automotive Products Group</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">AP</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Automotive Products Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">50 years of progress, 1996:</subfield>
+    <subfield code="b">t.p. (Automotive Products Group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 25 Sept. 2009</subfield>
+    <subfield code="b">(hdg.: Automotive Products Group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clutch mechanisms for road vehicles, 1968:</subfield>
+    <subfield code="b">p.4 (Automotive Products Group (AP); consists of Automotive Products Associated Limited and 11 prinicpal subsidiary companies, of which seven are in the U.K.; est. 1920 as Automotive Products Company)</subfield>
+  </datafield>
+</record>
