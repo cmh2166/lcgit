@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00532nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98112318 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981002052748.5</controlfield>
+  <controlfield tag="008">981001n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98112318 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04827911 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Curry, John,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Coverage evaluation of the 1994 federal libraries and information centers survey, 1998, surrogate:</subfield>
+    <subfield code="b">t.p. (John Curry; U.S. Bureau of the Census)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to author, by GAO Library, 9/30/1998</subfield>
+    <subfield code="b">(John L. Curry; b. 1951)</subfield>
+  </datafield>
+</record>
