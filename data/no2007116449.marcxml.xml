@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00976cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2007116449</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081010081608.0</controlfield>
+  <controlfield tag="008">071002n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007116449</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07539239</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Jāmiʻat al-Jazāʼir.</subfield>
+    <subfield code="b">Maʻhad ʻIlm al-Ijtimāʻ</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Maʻhad ʻIlm al-Ijtimāʻ li-Jāmiʻat al-Jazāʼir</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jāmiʻat al-Jazāʼir.</subfield>
+    <subfield code="b">Institut de sociologie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Institut de sociologie d'Alger</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">جامعة الجزائر.</subfield>
+    <subfield code="b">معهد علم الاجتماع</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Dafātir al-Jazāʼirīyah li-ʻilm al-ijtimāʻ, 2000:</subfield>
+    <subfield code="b">p. 1 (Maʻhad ʻIlm al-Ijtimāʻ li-Jāmiʻat al-Jazāʼir)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Al dafatir : les cahiers Algériens de sociologie, 2000:</subfield>
+    <subfield code="b">p. 1 (Institut de sociologie d'Alger)</subfield>
+  </datafield>
+</record>
