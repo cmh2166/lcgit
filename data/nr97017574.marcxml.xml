@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 97017574 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980226134419.9</controlfield>
+  <controlfield tag="008">970513n| acaacaaa|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97017574 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Textos de política social</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">10</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">NN</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Hacer</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">NN</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">NN</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">NN</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Democràcia i serveis socials, c1994:</subfield>
+    <subfield code="b">ser. t.p. (Textos de política social)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sistema penal e intervenciones sociales, c1993:</subfield>
+    <subfield code="b">tser. t.p. (Textos de política social)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">En el país de los ciegos, 1997:</subfield>
+    <subfield code="b">ser. t.p. (Textos de política social [unnumbered])</subfield>
+  </datafield>
+</record>
