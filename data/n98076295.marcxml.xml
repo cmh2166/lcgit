@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00586cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98076295 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990112051941.0</controlfield>
+  <controlfield tag="008">980825n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98076295 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04801654 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OrPOCIP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Winter, P. C.</subfield>
+    <subfield code="q">(Paul C.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Winter, Paul C.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Instant notes in genetics, 1998:</subfield>
+    <subfield code="b">CIP t.p. (P. Winter) CIP t.p. verso (P. Winter, Dept. of Haematology, Royal Victoria Hospital, Belfast, Northern Ireland) book t.p. (P.C. Winter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub. 08-25-98 (full name, Paul Winter)</subfield>
+  </datafield>
+</record>
