@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01366cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2002103694</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151006190736.0</controlfield>
+  <controlfield tag="008">021113n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002103694</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05910546</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1960-09-26</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Eden, Bradford Lee</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Valparaiso University</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Eden, Brad</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Metadata and its application, c2002:</subfield>
+    <subfield code="b">t.p. (Brad Eden) t.p. verso (head of bibliographic and metadata services at Univ. of Nevada, Las Vegas; master's and Ph.D. in musicology; publishes on medieval music and liturgy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 13, 2002</subfield>
+    <subfield code="b">(hdg.: Eden, Bradford Lee; usage: Bradford Lee Eden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. copyright file, Mar. 29, 2005</subfield>
+    <subfield code="b">(Eden, Bradford Lee, 1960- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Leadership in academic libraries today, 2014:</subfield>
+    <subfield code="b">ECIP t.p. (Bradford Lee Eden) data view (b. 9/26/1960)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Leading technical services, 2016:</subfield>
+    <subfield code="b">ECIP t.p. (Bradford Lee Eden) data view (Bradford Lee Eden; Dean of Library Services at Valparaiso University; previous positions include Associate University Librarian for Technical Services and Scholarly Communication at the University of California, Santa Barbara; Head, Web and Digitization Services, and Head, Bibliographic and Metadata Services for the University of Nevada, Las Vegas Libraries)</subfield>
+  </datafield>
+</record>
