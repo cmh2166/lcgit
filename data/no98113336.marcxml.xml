@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00444cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 98113336 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060302085949.0</controlfield>
+  <controlfield tag="008">981006n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98113336 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04831128</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="c">NcU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Beckett, Samuel,</subfield>
+    <subfield code="d">1906-1989.</subfield>
+    <subfield code="t">Molloy.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Molloy, 1970, 1955:</subfield>
+    <subfield code="b">t.p. (Samuel Beckett; translated from the French by Patrick Bowles in collaboration with the author)</subfield>
+  </datafield>
+</record>
