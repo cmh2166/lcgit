@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00971cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88187468 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130308093651.0</controlfield>
+  <controlfield tag="008">890630n| azannaab           |a anc      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88187468 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Vanuatu.</subfield>
+    <subfield code="b">Service topographique</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Vanuatu.</subfield>
+    <subfield code="b">Department of Land Surveys.</subfield>
+    <subfield code="b">Service topographique</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Vanuatu.</subfield>
+    <subfield code="b">Topographique, Service</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">New Hebrides.</subfield>
+    <subfield code="b">Service topographique</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Vanuatu.</subfield>
+    <subfield code="b">Department of Land Surveys</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Aoba (Omba), echelle 1/50 000, 1982:</subfield>
+    <subfield code="b">map recto (Service topographique du Gouvernement du Vanuatu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Vanuatu 1:50 000 topographic survey, c1994- :</subfield>
+    <subfield code="b">maps recto (Department of Land Surveys, Vanuatu; Service topographique du gouvernement, Vanuatu)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">New Hebrides. Service topographique. Ambrym, echelle 1:50 000, 1982: map recto (Service topographique du Gouvernement des Nouvelles-HeĚbrides)</subfield>
+  </datafield>
+</record>
