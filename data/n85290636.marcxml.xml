@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01182cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  84040874 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130424074808.0</controlfield>
+  <controlfield tag="008">841205n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84040874 </subfield>
+    <subfield code="z">n  85290636 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01233422</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+    <subfield code="d">MoSW-Mu</subfield>
+    <subfield code="d">OOC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">17880210</subfield>
+    <subfield code="g">18741222</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pixis, Johann Peter,</subfield>
+    <subfield code="d">1788-1874</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Mannheim, Germany</subfield>
+    <subfield code="b">Baden-Baden, Germany</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Pianists</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pixis, J. P.</subfield>
+    <subfield code="q">(Johann Peter),</subfield>
+    <subfield code="d">1788-1874</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pixis, Joh. Peter</subfield>
+    <subfield code="q">(Johann Peter),</subfield>
+    <subfield code="d">1788-1874</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pixis, P.</subfield>
+    <subfield code="q">(Peter),</subfield>
+    <subfield code="d">1788-1874</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dombrecht, P. The virtuoso romantic oboe [SR] p1983?:</subfield>
+    <subfield code="b">label (Johann Peter Pixis, 1788-1874)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pixis, J.P. A brilliant rondo, 1827:</subfield>
+    <subfield code="b">t.p. (J.P. Pixis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PazdiĚrek</subfield>
+    <subfield code="b">(Pixis, Joh. Peter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spohr, L. Faust, 1822:</subfield>
+    <subfield code="b">t.p. (P. Pixis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, April 22, 2013</subfield>
+    <subfield code="b">(under Pixis (German family of musicians): Johann Peter Pixis; born Feb. 10, 1788, Mannheim; d. Dec.  22, 1874, Baden-Baden; pianist and composer; younger son of Friedrich Wilhelm Pixis)</subfield>
+  </datafield>
+</record>
