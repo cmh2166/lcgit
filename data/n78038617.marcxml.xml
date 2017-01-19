@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01371cz  a2200301n  4500</leader>
+  <controlfield tag="001">n  78038617 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150129073715.0</controlfield>
+  <controlfield tag="008">780628n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78038617 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00174608</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1947</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG3479.6.U38</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dugarov, Bair Sonomovich,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Authors, Russian</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+    <subfield code="a">mon</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Дугаров, Баир Сономович,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dugarov, B. S.</subfield>
+    <subfield code="q">(Bair Sonomovich),</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dugarov, Bayir Sonomovich,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gornyĭ buben, 1976:</subfield>
+    <subfield code="b">t.p. (Bair Dugarov) p. 4 (Bair Dugarov, b. 1947) colophon (Dugarov Bair Sonomovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">USSR 77</subfield>
+    <subfield code="b">(Dugarov, Bair Sonomovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gėsėriada, 1991:</subfield>
+    <subfield code="b">t.p. verso (B.S. Dugarov) p. 5 (Bair Dugarov, zam. predsedateli︠a︡ pravlenii︠a︡ Soi︠u︡za pisateleĭ Buri︠a︡tii, kandidat istoricheskikh nauk)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tȯv Aziĭn nu̇u̇dėlchdiĭn ugsaatny tu̇u̇khiĭn asuudal, 2002:</subfield>
+    <subfield code="b">p. 8 (Dugarov, Bayir Sonomovich [rom])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aktualʹnye problemy Gėsėriady, 2009:</subfield>
+    <subfield code="b">t.p. verso (d-r filol. nauk B. S. Dugarov)</subfield>
+  </datafield>
+</record>
