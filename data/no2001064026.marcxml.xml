@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00668cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2001064026</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081029082551.0</controlfield>
+  <controlfield tag="008">010813n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001064026</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05558087</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sin, Kye-hun</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">신 계훈</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">신계훈</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ojik Sŏnggyŏng mani pʻantan kijun ida, 1995:</subfield>
+    <subfield code="b">t.p. (Sin Kye-hun) p. 4 of jacket (grad., Samyuk Taehakkyo Sinhakkwa; Master's in religion from the Philippines; Ph.D. in ministry from U.S.A.)</subfield>
+  </datafield>
+</record>
