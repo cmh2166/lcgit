@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00614nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2005003677</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050315033104.0</controlfield>
+  <controlfield tag="008">050208n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005003677</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kelly, M. Harding</subfield>
+    <subfield code="q">(Minnie Harding)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kelly, Minnie Harding</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shewing the white feather, 1905:</subfield>
+    <subfield code="b">t.p. (M. Harding Kelly)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The British Library general catalogue of printed books to 1975, 1979- </subfield>
+    <subfield code="b">(hdg.: Kelly (Minnie Harding))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 8, 2005</subfield>
+    <subfield code="b">(hdg.: Kelly, M. Harding; Kelly, M. Harding (Minnie Harding); usage: M. Harding Kelly)</subfield>
+  </datafield>
+</record>
