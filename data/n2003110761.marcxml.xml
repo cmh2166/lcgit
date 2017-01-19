@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00807cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2003110761</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121201074843.0</controlfield>
+  <controlfield tag="008">030818n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003110761</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kurdin, I︠U︡. A.</subfield>
+    <subfield code="q">(I︠U︡riĭ Aleksandrovich)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Russia</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Курдин, Ю. А.</subfield>
+    <subfield code="q">(Юрий Александрович)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kurdin, I︠U︡riĭ Aleksandrovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Курдин, Юрий Александрович</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Skazki v dvukh knigakh, 2002- :</subfield>
+    <subfield code="b">v. 1, t.p. (Ю.А. Курдин = I︠U︡.A. Kurdin) colophon (Курдин Юрий Александрович = Kurdin I︠U︡riĭ Aleksandrovich)</subfield>
+  </datafield>
+</record>
