@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00880cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 94038593 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050428102544.0</controlfield>
+  <controlfield tag="008">941116n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94038593 </subfield>
+    <subfield code="z">no2003050353</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR9199.3.H34598</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harris, Maureen,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harris, Maureen Scott,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A possible landscape, c1993:</subfield>
+    <subfield code="b">t.p. (Maureen Harris) p. 61 (b. in British Columbia and lives in Toronto) Can. CIP (Harris, Maureen, 1943-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Apr. 4, 2005:</subfield>
+    <subfield code="b">(hdg.: Harris, Maureen Scott; no entries in LC database)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Drowning lessons, c2004:</subfield>
+    <subfield code="b">t.p. (Maureen Scott Harris) t.p. verso (Can. CIP hdg.: Harris, Maureen, 1943- ) p. 103 (Can. poet and essayist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lib. and Arcv. of Can. database, Apr. 4, 2005</subfield>
+    <subfield code="b">(hdg.: Harris, Maureen 1943- ; ref.: Harris, Maureen Scott, 1943- )</subfield>
+  </datafield>
+</record>
