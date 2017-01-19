@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00398nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008039797</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080315080619.0</controlfield>
+  <controlfield tag="008">080304n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008039797</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07697824</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OBgU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garvey, Everett</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Garvey, Ev</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eisenhower, c1943:</subfield>
+    <subfield code="b">caption ("Ev" Garvey, Everett Garvey) cover ("Ev" Garvey)</subfield>
+  </datafield>
+</record>
