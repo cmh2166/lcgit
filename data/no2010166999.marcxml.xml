@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010166999</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327091140.0</controlfield>
+  <controlfield tag="008">101013n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010166999</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08655823</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-SB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-SB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Banks, Buddy</subfield>
+    <subfield code="c">(Bass player)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with the jazz tenor saxophonist and band leader (n  88633880)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coleman rarities, 197-?:</subfield>
+    <subfield code="b">container ("Buddy" Banks; bass)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIAF, Oct. 12, 2010</subfield>
+    <subfield code="b">(hdg: Banks, Buddy; jazz contrabass player)</subfield>
+  </datafield>
+</record>
