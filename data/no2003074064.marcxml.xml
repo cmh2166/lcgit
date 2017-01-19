@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00344nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2003074064</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030726071037.0</controlfield>
+  <controlfield tag="008">030725n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003074064</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06109866</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Phuntsok, Namgyal</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Potala Palace, c2002:</subfield>
+    <subfield code="b">t.p. (Phuntsok Namgyal)</subfield>
+  </datafield>
+</record>
