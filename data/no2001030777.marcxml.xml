@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00397cz  a2200133n  4500</leader>
+  <controlfield tag="001">no2001030777</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130110080025.0</controlfield>
+  <controlfield tag="008">010417n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001030777</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05465923</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Francesconi, Giampaolo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'attivitaĚ creditizia nella Toscana comunale, 2000:</subfield>
+    <subfield code="b">t.p. (Giampaolo Francesconi)</subfield>
+  </datafield>
+</record>
