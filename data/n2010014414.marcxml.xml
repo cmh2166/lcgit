@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00646cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2010014414</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120818075704.0</controlfield>
+  <controlfield tag="008">100310n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010014414</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Münch, Thomas,</subfield>
+    <subfield code="c">Dr.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Münch, Thomas</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zurück zur Armutspolizey?, c2007:</subfield>
+    <subfield code="b">t.p. (Thomas Münch) p. 4 of cover (Dr. Thomas Münch; Prof. für Verwaltung und Organisation im Fachbereich Sozial- und Kulturwissenschaften an der Fachhochschule Düsseldorf)</subfield>
+  </datafield>
+</record>
