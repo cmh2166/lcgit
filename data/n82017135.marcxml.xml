@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82017135 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">820218n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82017135 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Adams, J. W.</subfield>
+    <subfield code="q">(Jay Wendell),</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Adams, Jay Wendell,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Manaktala, H.K. Properties of radioactive wastes and waste containers, 1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (J. W. Adams, Nuclear Waste Management Div., Dept. of Nuclear Energy, Brookhaven Nat. Lab., Upton, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call 1/27/82</subfield>
+    <subfield code="b">(Jay Wendell Adams, b. 9/19/55)</subfield>
+  </datafield>
+</record>
