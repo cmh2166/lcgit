@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01149cz  a2200229n  4500</leader>
+  <controlfield tag="001">nr2006012494</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323101200.0</controlfield>
+  <controlfield tag="008">060508n| azaaaaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006012494</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Sangyō Gijutsu Sōgō Kenkyūjo.</subfield>
+    <subfield code="b">Gijutsu Jōhō Bumon.</subfield>
+    <subfield code="t">Chōsa hōkokusho</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">AIST.</subfield>
+    <subfield code="b">TID.</subfield>
+    <subfield code="t">Report</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">AIST TID report</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Chōsa hōkokusho (Sangyō Gijutsu Sōgō Kenkyūjo. Gijutsu Jōhō Bumon)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Institute of Advanced Industrial Science and Technology.</subfield>
+    <subfield code="b">Technology Information Department.</subfield>
+    <subfield code="t">TID report</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">AIST-TID-R2004-02</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tsukuba-shi</subfield>
+    <subfield code="b">Sangyō Gijutsu Sōgō Kenkyūjo Gijutsu Jōhō Bumon</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Autokamu shiten kara no kenkyū hyōka ni kansuru kaigai jitsujō chōsa, 2004</subfield>
+    <subfield code="b">cover (Sangyō Gijutsu Sōgō Kenkyūjo Gijutsu Jōhō Bumon chōsa hōkokusho) p. [4] of cover (Technology Information Department, National Institute of Advanced Industrial Science and Technology (AIST))</subfield>
+  </datafield>
+</record>
