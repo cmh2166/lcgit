@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00583nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  99909639 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000916045512.0</controlfield>
+  <controlfield tag="008">000807n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99909639 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Programme Education pour tous (Madagascar)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Madagascar.</subfield>
+    <subfield code="b">Ministère de l'enseignement secondaire et de l'éducation de base.</subfield>
+    <subfield code="b">Programme Education pour tous</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">UNICEF.</subfield>
+    <subfield code="b">Programme Education pour tous</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'éducation des filles et des femmes à Madagascar, 1998:</subfield>
+    <subfield code="b">t.p. (Programme Education pour tous, UNICEF/MINESEB)</subfield>
+  </datafield>
+</record>
