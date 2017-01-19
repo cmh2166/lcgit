@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00850cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2007151939</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160301073757.0</controlfield>
+  <controlfield tag="008">071121n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007151939</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07603870</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxSmSANB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxSmSANB</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ScU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1944-11-21</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carr, Jack,</subfield>
+    <subfield code="d">1944 November 21-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Norfolk (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Acting</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Carr, Jack,</subfield>
+    <subfield code="d">1944 Nov. 21-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Romeo &amp; Juliet [VR] 2002:</subfield>
+    <subfield code="b">credits (Jack Carr)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Nov. 21, 2007</subfield>
+    <subfield code="b">(Jack Carr (III); b. 21 Nov. 1944, Norfolk, England; actor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Movie Database WWW site, February 26, 2016:</subfield>
+    <subfield code="b">(Jack Carr, actor ; b. November 21, 1944 in Norfolk, England, UK)</subfield>
+  </datafield>
+</record>
