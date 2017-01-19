@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00412nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2007047540</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070502133148.0</controlfield>
+  <controlfield tag="008">070426n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007047540</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07396058</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stert, Friedemann,</subfield>
+    <subfield code="d">1971-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Powell, B. Baden Powell revisited, c2004:</subfield>
+    <subfield code="b">p. 32 (Friedemann Stert; b. 1971, Freiburg, Germany; drummer)</subfield>
+  </datafield>
+</record>
