@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88088033 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890411063929.6</controlfield>
+  <controlfield tag="008">890310n| acannaab|          |a ana ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88088033 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Boston University.</subfield>
+    <subfield code="b">Center for Technology and Policy</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Center for Technology and Policy (Boston University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Health care, technology, and the competitive environment, 1989:</subfield>
+    <subfield code="b">CIP pref. (Center for Technology and Policy, Boston University)</subfield>
+  </datafield>
+</record>
