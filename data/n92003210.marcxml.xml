@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00703cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  92003210 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920110154728.8</controlfield>
+  <controlfield tag="008">920110n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92003210 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Andrews, John S.</subfield>
+    <subfield code="q">(John Scott),</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nat. Environmental Health Conference (4th : 1989 : San Antonio, Tex.). Proceedings of the Fourth National Environmental Health Conference, 1990:</subfield>
+    <subfield code="b">t.p. (John S. Andrews, Jr., M.D., M.P.H.) p. v (Chief, Health Science Branch, Center for Environmental Health and Injury Control, Centers for Disease Contkrol, Atlanta, GA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dir. med. specialists, 1987-88, p. 3137</subfield>
+    <subfield code="b">(Andrews, John Scott; b. 12-23-46, Tifton, Ga.)</subfield>
+  </datafield>
+</record>
