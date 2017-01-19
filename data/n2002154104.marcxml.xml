@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00831cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2002154104</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815075904.0</controlfield>
+  <controlfield tag="008">020722n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002154104</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">EURESCO Conference on High Performance Fibers: Euroconference on Fiber Fracture</subfield>
+    <subfield code="d">(2000 :</subfield>
+    <subfield code="c">Mallorca, Spain)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on High Performance Fibers: Euroconference on Fiber Fracture, EURESCO</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">EURESCO Conference on High Performance Fibers: Euroconference on Fiber Fracture (2000 : Mallorca, Spain). Fiber fracture, 2002:</subfield>
+    <subfield code="b">CIP ack. (EURESCO Conference on High Performance Fibers: Euroconference on Fiber Fracture held in Cala VinĚas (Mallorca, Spain during fall 2000)</subfield>
+  </datafield>
+</record>
