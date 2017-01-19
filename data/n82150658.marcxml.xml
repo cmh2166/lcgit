@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00491cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  82150658 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141208111821.0</controlfield>
+  <controlfield tag="008">821104n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82150658 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pelletier, Guy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-63594: Hamot, C. Kime no kata, 1985</subfield>
+    <subfield code="b">(hdg. on CLU rept.: Pelletier, Guy; usage: Guy Pelletier)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Intl. Who's who, 56th ed.; Who's who in France, 1991-1992; Who's who in Science in Europe, 4th ed.</subfield>
+  </datafield>
+</record>
