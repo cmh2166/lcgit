@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002087716</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020926053310.0</controlfield>
+  <controlfield tag="008">020925n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002087716</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05871851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Helʹ, A. P.</subfield>
+    <subfield code="q">(Andriĭ Pavlovych)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Helʹ, Andriĭ Pavlovych</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gel, Andriy P.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pravookhoronni orhany Ukraïny, 2000:</subfield>
+    <subfield code="b">t.p. (A.P. Helʹ) colophon (Helʹ Andriĭ Pavlovych ; Gel, Andriy P.)</subfield>
+  </datafield>
+</record>
