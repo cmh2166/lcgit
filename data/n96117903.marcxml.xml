@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00893cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  96117903 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100517081545.0</controlfield>
+  <controlfield tag="008">961206n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96117903 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0140800</subfield>
+    <subfield code="e">E0140800</subfield>
+    <subfield code="f">N0512600</subfield>
+    <subfield code="g">N0512600</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04224659</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Schwarzkollm (Germany)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Čorny Chołmc (Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schwarzkollm, 1994:</subfield>
+    <subfield code="b">t.p. (Schwarzkollm, Čorny Chołmc) p. 6 (located in eastern part of state of Saxony, Oberlausitz region)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet Names Server, 12-06-96</subfield>
+    <subfield code="b">(Schwarzkollm; coordinates: 51°26ʹN 14°08ʹE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Deut. Bund.-Adressbuch, 1994/95</subfield>
+    <subfield code="b">(Schwarzkollm; located in Westlausitzkreis, Sachsen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 51°26ʹ00ʺN 014°08ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Germany</subfield>
+    <subfield code="z">Schwarzkollm</subfield>
+  </datafield>
+</record>
