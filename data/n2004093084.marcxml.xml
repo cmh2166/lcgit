@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01011cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  84155375 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120830074740.0</controlfield>
+  <controlfield tag="008">841022n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84155375 </subfield>
+    <subfield code="z">n 2004093084</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19540602</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Eguiguren, J. M.</subfield>
+    <subfield code="q">(Jesús M.)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Guipúzcoa, Spain</subfield>
+    <subfield code="c">Spain</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lawyer</subfield>
+    <subfield code="a">Politician</subfield>
+    <subfield code="a">Author</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Eguiguren, Jesús M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Eguiguren Imaz, Jesús</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Imaz, Jesús Eguiguren</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El PSOE en el País Vasco, 1984:</subfield>
+    <subfield code="b">t.p. (J.M. Eguiguren) cover (Jesús M. Eguiguren)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Los últimos españoles sin patria (y sin libertad), c2003:</subfield>
+    <subfield code="b">t.p. (Jesús Eguiguren Imaz) back flap (b. June 2, 1954 in Gipuzkoa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ETA, las claves de la paz, 2011:</subfield>
+    <subfield code="b">t.p. (Jesús Eguiguren) frt flap (lawyer; former president of Basque parliament; presently, head of Basque Socialist Party; published many political essays)</subfield>
+  </datafield>
+</record>
