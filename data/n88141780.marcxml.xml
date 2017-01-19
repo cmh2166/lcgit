@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00675cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88141780 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141105144521.0</controlfield>
+  <controlfield tag="008">881101n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88141780 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02393402</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1954</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Plumpe, Werner,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Vom Plan zum Markt, 1987:</subfield>
+    <subfield code="b">t.p. (Werner Plumpe) p. 4 cover (b. 1954; works at History Dept., Ruhr-Universität Bochum)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unternehmen, Fakten und Fiktionen, Historisch-biografische Studien, 2014:</subfield>
+    <subfield code="b">t.p. (Werner Plumpe) p. 372 (Professor für Wirtschafts- und Sozialgeschichte an der Goethe-Universität Frankfurt am Main)</subfield>
+  </datafield>
+</record>
