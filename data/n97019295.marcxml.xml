@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00866cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  97019295 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312092639.0</controlfield>
+  <controlfield tag="008">970225n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97019295 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1868</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shepperd, Eli,</subfield>
+    <subfield code="d">1868-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sheppard, Eli,</subfield>
+    <subfield code="d">1868-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Shepperd, Eli,</subfield>
+    <subfield code="d">b. 1868</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Young, Martha,</subfield>
+    <subfield code="d">1868-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eli Shepperd's Plantation songs, 1997:</subfield>
+    <subfield code="b">CIP t.p. (Eli Shepperd) CIP galley (Eli Shepperd, pseud.; Martha Young; born near Greensboro, Ala., in 1868; published her first title under the name, Martha Young; in 1901, she published under the name, Eli Shepperd; later returned to the name, Martha Young)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plantation songs, 1901:</subfield>
+    <subfield code="b">t.p. (Eli Shepperd)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plantation bird legends, 1971:</subfield>
+    <subfield code="b">t.p. (Martha Young; Eli Sheppard, pseud.)</subfield>
+  </datafield>
+</record>
