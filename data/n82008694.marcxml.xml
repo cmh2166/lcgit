@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00804cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  82008694 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100523074841.0</controlfield>
+  <controlfield tag="008">820129n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82008694 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0021000</subfield>
+    <subfield code="e">W0021000</subfield>
+    <subfield code="f">N0122000</subfield>
+    <subfield code="g">N0122000</subfield>
+    <subfield code="2">gnis</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00705998</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f-uv---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Nandiala (Burkina Faso)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Nandiala (Upper Volta)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Niamguiéla (Burkina Faso)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arrivets, J. Compte rendu de 4 ans ... between 1972 and 1976 (subj.)</subfield>
+    <subfield code="b">t.p. (Nandiala)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN req. 8-28-80</subfield>
+    <subfield code="b">(Nandiala, ppl 12°20ʹN, 02°10ʹW; variant: Niamgueiéla)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNS, Apr. 17, 2006</subfield>
+    <subfield code="b">(Nandiala; PPL, 12°20ʹ00ʺN 002°10ʹ00ʺW; variant: Niamguiéla)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Burkina Faso</subfield>
+    <subfield code="z">Nandiala</subfield>
+  </datafield>
+</record>
