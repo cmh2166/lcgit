@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00818nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 96058093 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961107052822.1</controlfield>
+  <controlfield tag="008">961106n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96058093 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04201140 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="c">OCl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Emanuel, V. R.</subfield>
+    <subfield code="q">(Victor Rousseau),</subfield>
+    <subfield code="d">1879-1960</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Emanuel, Victor Rousseau,</subfield>
+    <subfield code="d">1879-1960</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Rousseau, Victor,</subfield>
+    <subfield code="d">1879-1960</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Egbert, H. M.,</subfield>
+    <subfield code="d">1879-1960</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author entered under other names, search also under:</subfield>
+    <subfield code="b">Rousseau, Victor, 1879-1960;</subfield>
+    <subfield code="b">Egbert, H. M., 1879-1960</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Middle years, 1925:</subfield>
+    <subfield code="b">t.p. (V. R. Emanuel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 6, 1996</subfield>
+    <subfield code="b">(hdgs.: Emanuel, Victor Rousseau, 1879-1960; Rousseau, Victor, 1879-1960; usages: V. R. Emanuel, Victor Rousseau, H. M. Egbert)</subfield>
+  </datafield>
+</record>
