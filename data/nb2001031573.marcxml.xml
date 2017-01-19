@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2001031573</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010503064114.0</controlfield>
+  <controlfield tag="008">010502n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2001031573</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sikligar, P. C.</subfield>
+    <subfield code="q">(Poonamchand),</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Sikligar, Poonamchand,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social security, 2000:</subfield>
+    <subfield code="b">t.p. (P.C. Sikligar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DK Agencies MARC record, 2 May 2001</subfield>
+    <subfield code="b">(hdg.: Sikligar, P. C. (Poonamchand), 1954-)</subfield>
+  </datafield>
+</record>
