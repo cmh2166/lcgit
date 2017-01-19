@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00673cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82007967 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090115075408.0</controlfield>
+  <controlfield tag="008">820129n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82007967 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00705274</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Magyarországi Református Egyház.</subfield>
+    <subfield code="b">Tiszántúli Református Egyházkerület.</subfield>
+    <subfield code="b">Nagykönyvtár</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Tiszántúli Református Egyházkerület Nagykönyvtára</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fekete, Cs. A Tiszántúli Református Egyházkerület Nagykönyvtárának (Debrecen) kéziratkatalógusa, 1979 (a.e.)</subfield>
+    <subfield code="b">t.p. (Tiszántúli Református Egyházkerület Nagykönyvtárának)</subfield>
+  </datafield>
+</record>
