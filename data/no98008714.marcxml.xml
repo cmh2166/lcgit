@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00575cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89612582 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100320074816.0</controlfield>
+  <controlfield tag="008">890302n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89612582 </subfield>
+    <subfield code="z">no 98008714 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02471565</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Maîtres-Tambours du Burundi</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Tambours du Burundi</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Les Maîtres-Tambours du Burundi [SR] p1982:</subfield>
+    <subfield code="b">label (Les Maîtres-Tambours du Burundi) container (L'ensemble des Maîtres-Tambours; ensemble of 15 drummer/dancers from Burundi)</subfield>
+  </datafield>
+</record>
