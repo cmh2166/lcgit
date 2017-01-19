@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00611nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 93008918 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930415152533.7</controlfield>
+  <controlfield tag="008">930330n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93008918 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="c">ICRL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Plotkin, S. I︠A︡.</subfield>
+    <subfield code="q">(Semen I︠A︡kovlevich),</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Plotkin, Semen I︠A︡kovlevich,</subfield>
+    <subfield code="d">1906-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Petr Grigorʹevich Sobolevskiĭ, 1966:</subfield>
+    <subfield code="b">t.p. (S.I︠A︡. Plotkin) colophon (Semen I︠A︡kovlevich Plotkin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sokolovskai︠a︡, Z. K. 400 nauchnykh biografiĭ, 1988:</subfield>
+    <subfield code="b">p. 432 (Plotkin Semen I︠A︡kovlevich; b. 1906; kand. tekhn. nauk)</subfield>
+  </datafield>
+</record>
