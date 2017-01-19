@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01104nz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 97010141 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970329124353.8</controlfield>
+  <controlfield tag="008">970314n| acaaaaaa|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97010141 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Schriften der Volkskundlichen Kommission im Provinzialinstitut für Westfälische Landes- und Volkskunde</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Provinzialinstitut für Westfälische Landes- und Volkskunde.</subfield>
+    <subfield code="b">Volkskundliche Kommission.</subfield>
+    <subfield code="t">Schriften der Volkskundlichen Kommission im Provinzialinstitut für Westfälische Landes- und Volkskunde</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Schriften der Volkskundlichen Kommission des Landschaftsverbandes Westfalen-Lippe</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Heft 10</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Münster</subfield>
+    <subfield code="b">Aschendorff</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nachbarschaften im westlichen Münsterland, 1952:</subfield>
+    <subfield code="b">t.p. (Schriften der Volkskundlichen Kommission im Provinzialinstitut für Westfälische Landes- und Volkskunde)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Das Bürgerhaus in Warendorf, 1974: t.p. (Schriften der Volkskundlichen Kommission des Landschaftsverbandes Westfalen-Lippe)</subfield>
+  </datafield>
+</record>
