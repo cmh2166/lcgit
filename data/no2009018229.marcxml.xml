@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00762cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2009018229</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120323075044.0</controlfield>
+  <controlfield tag="008">090206n| acaabaaan          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009018229</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08006952</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrNL</subfield>
+    <subfield code="d">SaPrNL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Huggins-Cooper, Lynn.</subfield>
+    <subfield code="t">First-hand science.</subfield>
+    <subfield code="l">Afrikaans</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Huggins-Cooper, Lynn.</subfield>
+    <subfield code="t">Wetenskap speel-speel</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">First-hand science.</subfield>
+    <subfield code="l">Afrikaans</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Wetenskap speel-speel</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Parklands</subfield>
+    <subfield code="b">Jacklin</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Minidiertjies, c2007:</subfield>
+    <subfield code="b">t.p. (Wetenskap speel-speel)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">Huggins-Cooper, Lynn.</subfield>
+    <subfield code="t">First-hand science.</subfield>
+    <subfield code="l">Afrikaans</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
