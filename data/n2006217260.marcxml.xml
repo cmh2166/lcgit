@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00594cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2006217260</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061130122231.0</controlfield>
+  <controlfield tag="008">061128n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006217260</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kakodkar, P. G.</subfield>
+    <subfield code="q">(Pandurang Ghanasham),</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kakodkar, Pandurang Ghanasham,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Pandurang Ghanasham Kakodkar,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kakodkar, P. G. My 40 years with SBI, 2006:</subfield>
+    <subfield code="b">t.p. (P.G. Kakodkar) jkt. (Pandurang Ghanasham Kakodkar; started his career with SBI on July 1, 1957; retd. as chairman in 1995) p. 47 (b. March 10, 1937)</subfield>
+  </datafield>
+</record>
