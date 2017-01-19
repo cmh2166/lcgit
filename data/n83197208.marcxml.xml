@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00632cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83197208 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141208122032.0</controlfield>
+  <controlfield tag="008">830623n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83197208 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1948</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Allen,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Smith, Allan G.</subfield>
+    <subfield code="q">(Allan Graves),</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lyons, P. Involving parents, 1983 (a.e.)</subfield>
+    <subfield code="b">CIP t.p. (Allen Smith)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Parents and federal educ. programs, 1981:</subfield>
+    <subfield code="b">v. 5, t.p. (Allen G. Smith, Systems Development Corp., Santa Monica, Calif.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call 9/12/83 to author</subfield>
+    <subfield code="b">(Allan Graves Smith, b. 3/24/48)</subfield>
+  </datafield>
+</record>
