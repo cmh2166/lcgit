@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00939nz  a2200241n  4500</leader>
+  <controlfield tag="001">nb2013014739</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130719050909.0</controlfield>
+  <controlfield tag="008">130718n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013014739</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008797266</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1963</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wilkinson, Martin,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Wolverhampton, England</subfield>
+    <subfield code="f">Shawbury, England</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Agricultural processing</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">ADAS Consulting</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Business consultants</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Recycling agricultural waste plastic, 2005:</subfield>
+    <subfield code="b">PDF p.3 (Martin Wilkinson, ADAS Consulting Ltd., Wolverhampton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zoominfo website, 18 July 2013:</subfield>
+    <subfield code="b">Martin Wilkinson (management consultant working across the agri-food industry, director of ADAS Management Consultancy Ltd)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Company Director Check website, 18 July 2013:</subfield>
+    <subfield code="b">Martin Wilkinson (born 1963; posttown: Shawbury)</subfield>
+  </datafield>
+</record>
