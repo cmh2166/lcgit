@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00893cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2007005184</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120707075242.0</controlfield>
+  <controlfield tag="008">070314n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2007005184</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07356924</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Borisova, A. A.</subfield>
+    <subfield code="q">(Alʹbina Andrianovna)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Борисова, А. А.</subfield>
+    <subfield code="q">(Альбина Андриановна)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Borisova, Alʹbina Andrianovna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Борисова, Альбина Андриановна</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I︠A︡kutskie skazki, 2002:</subfield>
+    <subfield code="b">t.p. verso (A.A. Borisova) colophon (Borisova Alʹbina Andrianovna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Antologii︠a︡ Sakha teatra, 2010- :</subfield>
+    <subfield code="b">v. 1, t.p. verso (Борисова А.А. = Borisova A.A.) colophon (Борисова Альбина Андриановна = Borisova Alʹbina Andrianovna)</subfield>
+  </datafield>
+</record>
