@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00413cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98099387 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070812075014.0</controlfield>
+  <controlfield tag="008">980728n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98099387 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04781401</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">IAhCCS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Macdonald, Ross,</subfield>
+    <subfield code="d">1915-1983.</subfield>
+    <subfield code="t">Moving target.</subfield>
+    <subfield code="l">Polish</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Macdonald, Ross,</subfield>
+    <subfield code="d">1915-1983.</subfield>
+    <subfield code="t">Ruchomy cel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ruchomy cel, 1997.</subfield>
+  </datafield>
+</record>
