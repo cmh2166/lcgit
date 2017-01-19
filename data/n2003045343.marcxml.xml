@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00707cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2003045343</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150629112726.0</controlfield>
+  <controlfield tag="008">030604n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003045343</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06067776</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IlMchBWI</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tomasi, Peter</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Comic books, strips, etc.</subfield>
+    <subfield code="a">Graphic novels</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Comic book writer</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Robinson, James. Starman, c1999-:</subfield>
+    <subfield code="b">p. [i] (Peter Tomasi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The Mighty, c2009:</subfield>
+    <subfield code="b">vol. 1, t.p. (Peter J. Tomasi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, website, Jan. 20, 2010</subfield>
+    <subfield code="b">(Peter J. Tomasi; American comic book writer, best known for his work for DC Comics; was an editor at DC from 1993-2007)</subfield>
+  </datafield>
+</record>
