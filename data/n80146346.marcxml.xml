@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00707cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80146346 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930121062116.9</controlfield>
+  <controlfield tag="008">801209n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80146346 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Galerie des Ponchettes</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Nice (France).</subfield>
+    <subfield code="b">Galerie des Ponchettes</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Galerie municipale des Ponchettes</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Musée des Ponchettes</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Nice.</subfield>
+    <subfield code="b">Musée des Ponchettes</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Galerie-musée Raoul Dufy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Embassy. France.</subfield>
+    <subfield code="b">Le dessin contemporain aux Etats-Unis, 1955?</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Galerie-musée Raoul Dufy, c1986: p. 2 (Galerie-musée Dufy) p. 7 (Galerie des Ponchettes, henceforth Musée Dufy)</subfield>
+  </datafield>
+</record>
