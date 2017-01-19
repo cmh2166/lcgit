@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00544nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 95011525 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950329053949.5</controlfield>
+  <controlfield tag="008">950327n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95011525 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">COSPAR.</subfield>
+    <subfield code="b">Scientific Commission E</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">COSPAR Scientific Commission E</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">COSPAR.</subfield>
+    <subfield code="b">Interdisciplinary Scientific Commission E</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gamma ray astronomy, 1995:</subfield>
+    <subfield code="b">t.p. (COSPAR Scientific Commission E)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">High-energy astrophysics, 1981: t.p. (COSPAR Interdisciplinary Commission E)</subfield>
+  </datafield>
+</record>
