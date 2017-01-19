@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00662cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  81027905 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150416183454.0</controlfield>
+  <controlfield tag="008">810617n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81027905 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IEN)388261</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00573646</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MoSU-L</subfield>
+    <subfield code="d">WlAbNL</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Society of Genealogists (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Cymdeithas yr Achyddwyr (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Society of Genealogists of London</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Williams, C.J. Cofrestri plwyf Cymru, 1986:</subfield>
+    <subfield code="b">t.p. (Society of Genealogists; Chymdeithas [sic.] yr Achyddwyr)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Its The Society of Genealogists of London, 1911.</subfield>
+  </datafield>
+</record>
