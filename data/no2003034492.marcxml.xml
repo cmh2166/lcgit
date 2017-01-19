@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003034492</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161130120636.0</controlfield>
+  <controlfield tag="008">030407n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003034492</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06019346</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)005105443</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOxM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OOxM-Mu</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alexander, Christian,</subfield>
+    <subfield code="d">1964-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Finzi, G. In years defaced [SR] p2001:</subfield>
+    <subfield code="b">container (Christian Alexander, arranger)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Christian Alexander, 1993?:</subfield>
+    <subfield code="b">pp. 2-3 (born 15 Jan. 1964 in Liverpool; in 1993 employed as full-time composer-in-residence at Radley College)</subfield>
+  </datafield>
+</record>
