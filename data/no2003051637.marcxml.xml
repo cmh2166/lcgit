@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00799cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2003051637</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322093807.0</controlfield>
+  <controlfield tag="008">030527n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003051637</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06059738</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1896</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Selby, H. E.</subfield>
+    <subfield code="q">(Halbert Edgerton),</subfield>
+    <subfield code="d">1896-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Halbert Edgerton</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Selby, H. E.</subfield>
+    <subfield code="q">(Halbert Edgerton),</subfield>
+    <subfield code="d">b. 1896</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Selby, Halbert Edgerton,</subfield>
+    <subfield code="d">1896-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC 24170099: Graphic presentation of statistics of farm products, 1921</subfield>
+    <subfield code="b">(hdg.: Selby, H. E. (Halbert Edgerton), 1896- ; usage: H.E. Selby)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 27, 2003</subfield>
+    <subfield code="b">(hdgs.: Selby, H. E. (Halbert Edgerton), 1896- ; Selby, Halbert Edgerton, 1896- ; usage: H.E. Selby; Halbert Edgerton Selby)</subfield>
+  </datafield>
+</record>
