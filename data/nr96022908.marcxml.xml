@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 96022908 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960625052545.4</controlfield>
+  <controlfield tag="008">960620n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96022908 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)wb012291</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Linfield, James</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Linfeild, Ja.</subfield>
+    <subfield code="q">(James)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Idea positiva substantiæ immaterialis æquè est intelligibilis ac materialis, 1679:</subfield>
+    <subfield code="b">signed at end (Ja. Linfeild, A.M. Coll. Trin. Soc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alumni Cantab.:</subfield>
+    <subfield code="b">pt. 1 (Linfield, James; adm. Trinity 1669, BA 1673, MA 1676, Fellow 1674)</subfield>
+  </datafield>
+</record>
