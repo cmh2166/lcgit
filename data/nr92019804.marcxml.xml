@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00812cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 92019804 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000722065642.0</controlfield>
+  <controlfield tag="008">920526n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92019804 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03201817</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moffat, A. S.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">A. S. M.</subfield>
+    <subfield code="q">(A. S. Moffat)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">M., A. S.</subfield>
+    <subfield code="q">(A. S. Moffat)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Author of Only a pauper</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Only a pauper, Author of</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Sowing in new fields, 1864:</subfield>
+    <subfield code="b">t.p. (A.S.M., author of Only a pauper)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Suppl. to Allibone's crit. dict. of Eng. lit. and Brit. and Amer. authors, 1896</subfield>
+    <subfield code="b">(Moffat, Mrs. A. S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(Moffat, Mrs. A. S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Moffat, A.S.; usage: Mrs. A.S. Moffat; A.S.M.; Author of Only a pauper)</subfield>
+  </datafield>
+</record>
