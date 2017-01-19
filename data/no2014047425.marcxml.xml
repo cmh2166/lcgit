@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00826nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014047425</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140410073555.0</controlfield>
+  <controlfield tag="008">140409n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014047425</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09729945</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICrlF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Williams, Nate</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Salt Lake City (Utah)</subfield>
+    <subfield code="f">Buenos Aires (Argentina)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Illustrator</subfield>
+    <subfield code="a">Designer</subfield>
+    <subfield code="a">Artist</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Riggs, Kate. How fast can you go?, 2014 :</subfield>
+    <subfield code="b">cover (illustrated by Nate Williams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LinkedIn website, Apr. 8, 2014</subfield>
+    <subfield code="b">(Nate Williams; lives in Salt Lake City, illustrator)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pattern pulp website, Apr. 8, 2014</subfield>
+    <subfield code="b">(Nate Williams is a designer who specializes in silkscreen illustration, hand lettering and art licensing; location, Buenos Aires, Argentina)</subfield>
+  </datafield>
+</record>
