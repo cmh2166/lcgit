@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01032cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2001031473</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130424075223.0</controlfield>
+  <controlfield tag="008">010419n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001031473</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05467777</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Raji, Rasheed Ajani</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Nigeria</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Religion--Study and teaching</subfield>
+    <subfield code="a">Arabic--Study and teaching</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Ilorin. Department of Arabic</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Professor of Arabic</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Raji, R. A.</subfield>
+    <subfield code="q">(Rasheed Ajani)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not the same as Capt. Rasheed A. (Adisa) Raji, Sokoto State Military Administrator</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Perspectives in religious studies, c1995- :</subfield>
+    <subfield code="b">v. 1, t.p. (Rasheed A. Raji)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Apr. 18, 2001</subfield>
+    <subfield code="b">(hdg.: Raji, Rasheed Ajani; usage: Rasheed Ajani Raji)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tangled complexities, 2002:</subfield>
+    <subfield code="b">t.p. (Rasheed A. Raji)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Religion, ethics and population development, 2007:</subfield>
+    <subfield code="b">t.p. (R. A. Raji) p. viii (professor of Arabic, University of Ilorin, Nigeria)</subfield>
+  </datafield>
+</record>
