@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00815cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  99038766 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030930081542.0</controlfield>
+  <controlfield tag="008">990524n| acaabaaan          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99038766 </subfield>
+    <subfield code="z">n  99038752 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Klub přátel poezie.</subfield>
+    <subfield code="p">Výběrová řada (Mladá fronta (Firm))</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Praha</subfield>
+    <subfield code="b">Mladá fronta</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not treat phrase ročník 1998/1999, 1999/2000, etc. as part of the series numbering or as a subseries because numbering changes from year to year, i.e. the same phrase is used for all publications in the series issued during a particular year</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Narození Sisyfovo, 1998:</subfield>
+    <subfield code="b">colophon (Klub přátel poezie. Ročník 1998/1999. Výběrová řada)</subfield>
+  </datafield>
+</record>
