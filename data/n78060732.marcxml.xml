@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00893cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  78060732 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160823075259.0</controlfield>
+  <controlfield tag="008">780829n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78060732 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00196400</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1921-07-11</subfield>
+    <subfield code="g">1995-02-06</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Work, Telford H.,</subfield>
+    <subfield code="d">1921-1995</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Work, Telford H.,</subfield>
+    <subfield code="d">1921-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Workshop on Matching Needs ... 1975. Tracing the patterns ... 1977 (a.e.)</subfield>
+    <subfield code="b">t.p. (Telford H. Work, M. D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maturation of a medic, 1942</subfield>
+    <subfield code="b">supplied abstract (Telford H. Work)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, Jan. 6, 2000</subfield>
+    <subfield code="b">(hdg.: Work, Telford H., 1921- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Calisphere, University of California, Aug. 19, 2016</subfield>
+    <subfield code="b">(Telford H. Work; b. July 11, 1921; d. Feb. 6, 1995; virologist; Division of Infectious and Tropical Diseases at the UCLA School of Public Health, 1966-1991)</subfield>
+  </datafield>
+</record>
