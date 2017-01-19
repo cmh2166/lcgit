@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00879cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  83191173 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316082106.0</controlfield>
+  <controlfield tag="008">840210n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83191173 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01006408</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Rutgers University.</subfield>
+    <subfield code="b">Department of Geography</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Rutgers University.</subfield>
+    <subfield code="b">Dept. of Geography</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Rutgers University.</subfield>
+    <subfield code="b">Geography Department</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Rutgers University</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pacenka, S. A test of the water ... 1983:</subfield>
+    <subfield code="b">t.p. (Geography Department, Rutgers University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spacing and territoriality in man, 1972:</subfield>
+    <subfield code="b">t.p. (Rutgers University, Department of Geography)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 9/13/96</subfield>
+    <subfield code="b">(usage:  Dept. of Geography, Rutgers University; hdg.: Rutgers University, Dept. of Geography; Rutgers University, Geography Dept.)</subfield>
+  </datafield>
+</record>
