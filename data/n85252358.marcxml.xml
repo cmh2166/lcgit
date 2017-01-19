@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85252358 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080317074859.0</controlfield>
+  <controlfield tag="008">870529n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85252358 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01864517</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Phipps, Edmund,</subfield>
+    <subfield code="d">1808-1857</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Memoirs of the political and literary life of Robert Plumer Ward, Esq., 1850:</subfield>
+    <subfield code="b">t.p. (Hon. Edmund Phipps)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L/NLT files</subfield>
+    <subfield code="b">(hdg.: Phipps, Edmund, 1808-1857)</subfield>
+  </datafield>
+</record>
