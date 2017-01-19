@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00856cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2002099793</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020503131723.0</controlfield>
+  <controlfield tag="008">020424n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002099793</subfield>
+    <subfield code="z">n  93047922 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Krause, Edward,</subfield>
+    <subfield code="d">1913-1992</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Krause, Moose,</subfield>
+    <subfield code="d">1913-1992</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Krause, Ed,</subfield>
+    <subfield code="d">1913-1992</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kelly, Jason. Mr. Notre Dame, c2002:</subfield>
+    <subfield code="b">ECIP t.p. (Edward "Moose" Krause) galley (former athletic director of University of Notre Dame)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Basketball Hall of Fame website, Apr. 24, 2002</subfield>
+    <subfield code="b">(Edward "Moose" Krause, b. Feb. 2, 1913, d. Dec. 11, 1992; played for and later coached Notre Dame basketball team, athletic director of university 1949-1981)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Notre Dame's greatest coaches, 1993:</subfield>
+    <subfield code="b">CIP t.p. (Moose Krause) galley (Ed "Moose" Krause; Edward "Moose" Krause)</subfield>
+  </datafield>
+</record>
