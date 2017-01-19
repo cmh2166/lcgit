@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00653cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83131776 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060328052546.0</controlfield>
+  <controlfield tag="008">831115n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83131776 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00964725</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-mi</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Leelanau (Mich.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A History of Leelanau Township, c1982:</subfield>
+    <subfield code="b">t.p. (in title: Leelanau Township) frwd., etc. (in northwestern lower Mich.; estab. in 1853 within Grand Traverse Co.; became part of Leelanau Co. in 1863)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rand McN. commer. atlas, 1979</subfield>
+    <subfield code="b">(Leelanau (Township of), Leelanau County, Michigan)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Michigan</subfield>
+    <subfield code="z">Leelanau</subfield>
+  </datafield>
+</record>
