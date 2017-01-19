@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01525cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  86130564 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312084123.0</controlfield>
+  <controlfield tag="008">860807n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86130564 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01675452</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Agriculture.</subfield>
+    <subfield code="b">Food and Consumer Services</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Dept. of Agriculture.</subfield>
+    <subfield code="b">Food and Consumer Services</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Agriculture.</subfield>
+    <subfield code="b">Office of the Under Secretary for Food, Nutrition, and Consumer Services</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Agriculture</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">not same as United States. Dept. of Agriculture. Food and Consumer Service; see notes, below</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">United States. Joint Nutrition Monitoring Evaluation Committee. Nutrition monitoring in the ... 1986:</subfield>
+    <subfield code="b">t.p. (U.S. Department of Agriculture, Food and Consumer Services)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Food and Consumer Service office, and to USDA public affairs, 3/14/95</subfield>
+    <subfield code="b">(ca. Dec. 1994, Food and Consumer Services unit, at Asst. Sec'y level, and upper body to Food and Nutrition Service, became Food, Nutrition, and Consumer Services, at Under Sec'y level; Food and Nutrition Service unit became Food and Consumer Service)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Carroll's fed. dir., Jan./Feb. 1995</subfield>
+    <subfield code="b">(Department of Agriculture; Food, Nutrition and Consumer Services; Food and Consumer Service: office units, staff personnel, and addresses same as under previous names)</subfield>
+  </datafield>
+</record>
