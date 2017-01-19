@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00907cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  88288996 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081031080747.0</controlfield>
+  <controlfield tag="008">890510n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88288996 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02521305</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PJ7862.U944</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Suwaydāʼ, ʻAbd al-Raḥmān ibn Zayd</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">سويداء، عبد الرحمن بن زيد</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عبد الرحمن بن زيد السويداء</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Faṣīḥ al-ʻāmmī fī shamāl Najd, 1987:</subfield>
+    <subfield code="b">v. 1-2, t.p. (ʻAbd al-Raḥmān ibn Zayd al-Suwaydāʼ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ʻUqaylāt al-jabal, 1995 or 1996:</subfield>
+    <subfield code="b">t.p. (ʻAbd al-Raḥmān ibn Zayd al-Suwaydāʼ) p. 4 of cover (b. 12/28/1358 H = Jan. 7, 1940 M in Ḥāʼil region)</subfield>
+  </datafield>
+</record>
