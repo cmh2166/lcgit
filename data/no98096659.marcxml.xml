@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00633cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 98096659 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100430075253.0</controlfield>
+  <controlfield tag="008">980714n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98096659 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04770584</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NmU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NmU</subfield>
+    <subfield code="d">HU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of New Mexico.</subfield>
+    <subfield code="b">Center for Service Learning</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of New Mexico.</subfield>
+    <subfield code="b">Dean of Students Office.</subfield>
+    <subfield code="b">Center for Service Learning</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">UNM Center for Service Learning</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Praxis handbook, spring 1997:</subfield>
+    <subfield code="b">t.p. (University of New Mexico, Center for Service Learning; UNM Center for Service Learning, Dean of Students Office)</subfield>
+  </datafield>
+</record>
