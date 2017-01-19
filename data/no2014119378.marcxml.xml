@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00630cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2015048804</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150820110755.0</controlfield>
+  <controlfield tag="008">150807n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015048804</subfield>
+    <subfield code="z">n 2013045577</subfield>
+    <subfield code="z">no2014119378</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1948</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hovhaness, Alan,</subfield>
+    <subfield code="d">1911-2000.</subfield>
+    <subfield code="t">Suites,</subfield>
+    <subfield code="m">band,</subfield>
+    <subfield code="n">op. 15</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 15</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catalog of works by A. Hovhaness, viewed online July 23, 2013</subfield>
+    <subfield code="b">(Op. 15. Suite for band. 1948)</subfield>
+    <subfield code="u">http://www.musicweb-international.com/classrev/2000/feb00/hovanessworks</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Suite for band, op. 15, 1950</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">New Grove online, July 23, 2013</subfield>
+  </datafield>
+</record>
