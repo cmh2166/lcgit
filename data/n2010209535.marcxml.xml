@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00752cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2010209535</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110409074933.0</controlfield>
+  <controlfield tag="008">110408n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010209535</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">ʻAdam, ʻAlamdār</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">‏عدم، علمدار</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">ʻAlamdār ʻAdam</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">علمدار عدم</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shāh, ʻAlamdār Ḥusain</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">‏شاه، علمدار حسين</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Urdū g̲h̲azal kī tārīk̲h̲ aur tanqīd, 2008:</subfield>
+    <subfield code="b">t.p. (Ḍākṭar ʻAlamdār ʻAdam = ڈاکٹر علمدار عدم) t.p. verso ( ʻAlamdār Ḥusain Shāh = علمدار حسين شاه; Alamdar Hussain Shah)</subfield>
+  </datafield>
+</record>
