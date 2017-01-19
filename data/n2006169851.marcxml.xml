@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00677cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2006169851</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323082713.0</controlfield>
+  <controlfield tag="008">060517n| azannaabn           a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006169851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1881</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Whitman, Bernard Crosby,</subfield>
+    <subfield code="d">-1881</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Whitman, Bernard Crosby,</subfield>
+    <subfield code="d">d. 1881</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with Whitman, Bernard C.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nevada Historical Society for Adelphi Club records, 1869-1870</subfield>
+    <subfield code="b">(Bernard C. Whitman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancestry, May 17, 2006</subfield>
+    <subfield code="b">(Bernard Crosby Whitman; b. ca.1829 in Mass.; d. 1881 in Virginia City, Nev.; chief justice of the Nevada Supreme Court)</subfield>
+  </datafield>
+</record>
