@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00843nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 90021468 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901024055238.0</controlfield>
+  <controlfield tag="008">901019n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 90021468 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Fourth International.</subfield>
+    <subfield code="b">Grupo Bolchevique Leninista de España</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Grupo Bolchevique Leninista de España (Fourth International)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Fourth International.</subfield>
+    <subfield code="b">Sección Bolchevique-Leninista de España</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boletín (Fourth International. Grupo Bolchevique Leninista de España).  Boletín, enero 7, 1937, surrogate:</subfield>
+    <subfield code="b">caption p. (Grupo Bolchevique Leninista de España (IV Internacional))</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Boletín de la Sección Bolchevique-Leninista de España (IV Internacional), Feb. 1937, surrogate: caption p. (Sección Bolchevique-Leninista de España (IV Internacional))</subfield>
+  </datafield>
+</record>
