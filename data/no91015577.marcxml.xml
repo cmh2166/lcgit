@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00406nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 91015577 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910717035818.8</controlfield>
+  <controlfield tag="008">910620n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91015577 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="c">PPiU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Bueno, Héctor,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Fuegos natales, 1987:</subfield>
+    <subfield code="b">t.p. (Héctor Bueno) p. 113 (b. 1942 in La Vega)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 5/29/91</subfield>
+    <subfield code="b">(hdg.: Bueno, Héctor, 1942-)</subfield>
+  </datafield>
+</record>
