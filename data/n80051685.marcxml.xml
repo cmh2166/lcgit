@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00761cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80051685 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960213055137.8</controlfield>
+  <controlfield tag="008">800610n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80051685 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00433531 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">GU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">University of Georgia.</subfield>
+    <subfield code="b">Alumni Society</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Georgia Alumni Society</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Georgia.</subfield>
+    <subfield code="b">University.</subfield>
+    <subfield code="b">Alumni Society.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Alumni Society of the University of Georgia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Georgia alumni directory, 1953/54-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Georgia alumni record,</subfield>
+    <subfield code="b">(exclusive usage Aug. 1920-Sept. 1970: Alumni Society of the University of Georgia; simultaneous usage Nov. 1970-June 1995: Alumni Society of the University of Georgia, Georgia Alumni Society)</subfield>
+  </datafield>
+</record>
