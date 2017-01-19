@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00656nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83234120 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840420145908.8</controlfield>
+  <controlfield tag="008">840116n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83234120 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Mt</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">KEMC-FM Radio (Billings, Mont.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Eastern Montana College.</subfield>
+    <subfield code="b">KEMC-FM Radio</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">K.E.M.C.-F.M. Radio (Billings, Mont.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mont. Off. Leg. Aud. State of Montana, Eastern Montana College, KEMC-FM Radio report on audit, 1983:</subfield>
+    <subfield code="b">t.p. (Eastern Montana College, KEMC-FM Radio) p. 2 (KEMC-FM Radio a public telecommunications entity operated by Eastern Montana College) p. 5 (KEMC-FM Radio, Billings, Montana)</subfield>
+  </datafield>
+</record>
