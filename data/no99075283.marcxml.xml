@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00565cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99075283 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814082852.0</controlfield>
+  <controlfield tag="008">991015n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99075283 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05083468</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Seminario de Historia Colonial de Michoacán</subfield>
+    <subfield code="d">(1997 :</subfield>
+    <subfield code="c">Morelia, Michoacán de Ocampo, Mexico)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Historia y sociedad, c1997:</subfield>
+    <subfield code="b">t.p. (Seminario de Historia Colonial de Michoacán)</subfield>
+  </datafield>
+</record>
