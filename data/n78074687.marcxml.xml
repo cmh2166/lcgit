@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  78074687 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120807080332.0</controlfield>
+  <controlfield tag="008">781016n| aaannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78074687 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1934</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Anvari, Hossein Ali,</subfield>
+    <subfield code="d">1934-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beny, R. Iran, 1978 (a.e.)</subfield>
+    <subfield code="b">t.p. (Hossein Ali Anvari) p. 385 (Prof. Aryamehr Univ.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Iran WW, 1976</subfield>
+    <subfield code="b">(Anvari, Hossein-ali; b. 1934, Tehran; Eng., electromech., Tech. Coll. of Tehran Univ.; Ph. D., elect. eng., Geneva Univ.)</subfield>
+  </datafield>
+</record>
