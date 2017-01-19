@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00953nz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2015189558</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151028044105.0</controlfield>
+  <controlfield tag="008">151028n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015189558</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1668557</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Feleshtynsʹkyĭ, I︠A︡. P.</subfield>
+    <subfield code="q">(I︠A︡roslav Petrovych)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">I︠A︡roslav Petrovych</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Фелештинський, Я. П.</subfield>
+    <subfield code="q">(Ярослав Петрович)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Feleshtynsʹkyĭ, I︠A︡roslav Petrovych</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Фелештинський, Ярослав Петрович</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pisli︠a︡operat︠s︡iĭni hryz︠h︡i z︠h︡yvota, 2012:</subfield>
+    <subfield code="b">t.p. (Фелештинський Я.П. = Feleshtynsʹkyĭ I︠A︡.P.) p. 4 of cover (Фелештинський Ярослав Петрович = Feleshtynsʹkyĭ I︠A︡roslav Petrovych; doktor medychnykh nauk, profesor)</subfield>
+  </datafield>
+</record>
