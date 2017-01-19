@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00870cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2004052168</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081016081834.0</controlfield>
+  <controlfield tag="008">040123n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004052168</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06255287</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Miju Hanin Imin 100-chunyŏn Namgaju Kinyŏm Saŏphoe</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Miju Hanin Imin Paekchunyŏn Namgaju Kinyŏm Saŏphoe</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Centennial Committee of Korean</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">미주 한인 이민 100주년 남가주 기념 사업회</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">미주한인이민100주년남가주기념사업회</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Miju Hanin imin 100-yŏnsa, 2002:</subfield>
+    <subfield code="b">t.p. (Miju Hanin Imin 100-chunyŏn Namgaju Kinyŏm Saŏphoe) colophon (Centennial Committee of Korean)</subfield>
+  </datafield>
+</record>
