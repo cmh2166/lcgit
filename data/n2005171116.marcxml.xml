@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00839nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2005171116</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050118111123.0</controlfield>
+  <controlfield tag="008">050118n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005171116</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Credit Professionals International</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">CPI</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Credit Women-International: Credit Professionals</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Siouxland Heritage Museums for Credit Women International papers, [19--]</subfield>
+    <subfield code="b">(Credit Women's Breakfast Clubs of North America; also found: Credit Women's Breakfast Club, CWBC; founded 1930 by Edith Shaw; in 1966 name changed to Credit Women-International (CWI); bylaws changed in 1976 to allow men to join the organization; in 1987 name changed to Credit Women-International: Credit Professionals (CWICP); and in 1990 to Credit Professionals International (CPI))</subfield>
+  </datafield>
+</record>
