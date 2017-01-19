@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00514nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2015000962</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150106073639.0</controlfield>
+  <controlfield tag="008">150105n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015000962</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10052623</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Akwa Ibom State (Nigeria).</subfield>
+    <subfield code="b">Ministry of Agriculture and Natural Resources</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Guide to fertilizer use for crops in Akwa Ibom State, Nigeria, 2009:</subfield>
+    <subfield code="b">title page (Ministry of Agriculture and Natural Resources, Uyo, Akwa Ibom State, Nigeria)</subfield>
+  </datafield>
+</record>
