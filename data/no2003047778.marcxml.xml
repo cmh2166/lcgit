@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00616nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003047778</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030515052400.0</controlfield>
+  <controlfield tag="008">030514n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003047778</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06048883</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Blindsight, L. W.,</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Williams, Leonard B.</subfield>
+    <subfield code="q">(Leonard Boyer),</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Blindsight, L.W. The energy connection [SR] p1997:</subfield>
+    <subfield code="b">label (LW Blindsight) insert (Leonard B. Williams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. copyright file, May 12, 2003</subfield>
+    <subfield code="b">(Blindsight, L. W.; Williams, Leonard B., 2nd, 1972- ; Williams, Leonard Boyer, 2nd, 1972- )</subfield>
+  </datafield>
+</record>
