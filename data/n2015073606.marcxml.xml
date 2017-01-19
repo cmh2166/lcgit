@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015073606</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151222110159.0</controlfield>
+  <controlfield tag="008">151222n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015073606</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">La Ramada (Tucumán, Argentina)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Ramada (Tucumán, Argentina)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Morhell, I. San Martín : bicentenario de su estadía en La Ramada, 2014:</subfield>
+    <subfield code="b">front flap (in Tucumán province; commune)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Dec. 22, 2015</subfield>
+    <subfield code="b">(La Ramada; PPL, Tucumán, Argentina, 26°41ʹ11ʺS 064°56ʹ55ʺW; also other PPLs named La Ramada in other Argentine provinces)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Argentina</subfield>
+    <subfield code="z">La Ramada (Tucumán)</subfield>
+  </datafield>
+</record>
