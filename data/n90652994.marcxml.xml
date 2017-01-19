@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00342nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  90652994 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900605130426.3</controlfield>
+  <controlfield tag="008">900604n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90652994 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Stewart, James E.,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6-4-90</subfield>
+    <subfield code="b">(hdg.: Stewart, James E., 1927- ; usage: James E. Stewart)</subfield>
+  </datafield>
+</record>
