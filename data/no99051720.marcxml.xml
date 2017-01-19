@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00425nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 99051720 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990813142219.0</controlfield>
+  <controlfield tag="008">990721n| acannaab           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99051720 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05031497 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB-M</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB-M</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bip &amp; Bop</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aladdin rocks and rolls til midnight [SR] 1985:</subfield>
+    <subfield code="b">label (Bip &amp; Bop) container (recorded Mar. 24, 1955 in Los Angeles for Aladdin label)</subfield>
+  </datafield>
+</record>
