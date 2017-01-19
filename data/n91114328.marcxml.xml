@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01085cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91114328 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150710094439.0</controlfield>
+  <controlfield tag="008">911108n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91114328 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barker, Alex W.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barker, Alexander Wade</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lords of the Southeast, 1991:</subfield>
+    <subfield code="b">CIP t.p. (Alex W. Barker) galley (B.A., Marquette Univ., 1981; doctoral candidate, anthropology, Univ. of Michigan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chiefdoms and the economics of perversity, 1999:</subfield>
+    <subfield code="b">t.p. (Alexander Wade Barker, Ph.D., anthropology, Univ. of Michigan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anthropological ethics in context, 2015:</subfield>
+    <subfield code="b">E-CIP (Alexander W. Barker) data view (b. Apr. 12, 1960, chaired the ethics committees of the American Anthropological Association and Society for American Archaeology, and served on the American Association of Museums Ethics Task Force on Cultural Property. He currently serves on the Native American Graves Protection and Repatriation Act National Review Committee, and is past president of the Council for Museum Anthropology)</subfield>
+  </datafield>
+</record>
