@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00984nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2014005613</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140129133704.0</controlfield>
+  <controlfield tag="008">140129n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014005613</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Académie des sciences et beaux arts des États-Unis de l'Amérique (Richmond, Virginia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mémoire, statuts et prospectus, concernant l'Académie des sciences et beaux arts des États-Unis de l'Amérique, établie à Richemond, capitale de la Virginie, 1788:</subfield>
+    <subfield code="b">t.p. (Académie des sciences et beaux arts des États-Unis de l'Amérique)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">D.I. Duveen and H.S. Klickstein. "Alexandre-Marie Quesnay De Beaurepaire's: Mémoire et prospectus, concernant l'Académie des Sciences et Beaux Arts des Etats-Unis de l'Amérique ..." Virginia magazine of history and biography</subfield>
+    <subfield code="b">Vol. 63, no. 3, July 1955, p. [280]-285 (Quesnay de Beaurepaire succeeded in building a structure in Richmond, but the Académie itself failed)</subfield>
+  </datafield>
+</record>
