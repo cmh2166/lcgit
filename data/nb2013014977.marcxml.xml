@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00782nz  a2200205n  4500</leader>
+  <controlfield tag="001">nb2013014977</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130724050903.0</controlfield>
+  <controlfield tag="008">130723n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013014977</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008802339</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2004</subfield>
+    <subfield code="t">2004</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">CPM (Symposium)</subfield>
+    <subfield code="n">(15th :</subfield>
+    <subfield code="d">2004 :</subfield>
+    <subfield code="c">Istanbul, Turkey)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Istanbul, Turkey</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Combinatorial analysis</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Symposium on Combinatorial Pattern Matching, Annual</subfield>
+    <subfield code="n">(15th :</subfield>
+    <subfield code="d">2004 :</subfield>
+    <subfield code="c">Istanbul, Turkey)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Annual Symposium on Combinatorial Pattern Matching</subfield>
+    <subfield code="n">(15th :</subfield>
+    <subfield code="d">2004 :</subfield>
+    <subfield code="c">Istanbul, Turkey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Combinatorial pattern matching, 2004:</subfield>
+    <subfield code="b">t.p. (15th annual symposium, CPM 2004, Istanbul, Turkey)</subfield>
+  </datafield>
+</record>
