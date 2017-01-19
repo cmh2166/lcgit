@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00378nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2007005282</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070323075314.0</controlfield>
+  <controlfield tag="008">070315n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2007005282</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kobe, Martin,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Life after death, new Leipzig paintings ... 2005:</subfield>
+    <subfield code="b">cover (Martin Kobe) p. 126 (b. 1973 in Dresden, Germany; painter)</subfield>
+  </datafield>
+</record>
