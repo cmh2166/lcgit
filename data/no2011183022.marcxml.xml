@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00572cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011183022</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120217075335.0</controlfield>
+  <controlfield tag="008">111128n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011183022</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09046672</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Longsworth, Polly.</subfield>
+    <subfield code="t">World of Emily Dickinson.</subfield>
+    <subfield code="l">Japanese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Longsworth, Polly.</subfield>
+    <subfield code="t">Emirii Dikinsun shashinshū</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Longsworth, Polly.</subfield>
+    <subfield code="t">エミリィ・ディキンスン写真集</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Emirii Dikinsun shashinshū, 1994.</subfield>
+  </datafield>
+</record>
