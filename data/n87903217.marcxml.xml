@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  87903217 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080306075214.0</controlfield>
+  <controlfield tag="008">880105n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87903217 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02176070</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Amicale libanaise pour le développement culturel</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Université Saint-Joseph (Beirut, Lebanon).</subfield>
+    <subfield code="b">Faculté des lettres et des sciences humaines.</subfield>
+    <subfield code="b">Amicale libanaise pour le développement culturel</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ALDEC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Guerre du Liban au regard des sciences humaines, 1985:</subfield>
+    <subfield code="b">t.p. (ALDEC) p. 3 (Amicale libanaise pour le développement culturel; founded by the Faculte des lettres et des sciences Lumaines of the Université Saint-Joseph)</subfield>
+  </datafield>
+</record>
