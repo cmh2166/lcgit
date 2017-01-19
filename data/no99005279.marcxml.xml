@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00826cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 99005279 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080828081007.0</controlfield>
+  <controlfield tag="008">990126n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99005279 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04904371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)004768241</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">UkENL</subfield>
+    <subfield code="d">ViU</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6051.I78</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Aitken, Rosemary,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Rowe, Rosemary,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cornish harvest, 1998:</subfield>
+    <subfield code="b">t.p. (Rosemary Aitken) jkt. (b. in Cornwall; r. in Cheltenham; this is her third novel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Germanicus mosaic, 1999:</subfield>
+    <subfield code="b">t.p. (Rosemary Rowe) verso t.p. (Rosemary Rowe is the maiden name of Rosemary Aitken. She has written fiction for many years under her married name)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Literature Resource Center, 26 Aug. 2008:</subfield>
+    <subfield code="b">Rosemary Aitken page (born 22 Jan. 1942)</subfield>
+  </datafield>
+</record>
