@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00575nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  95026603 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950318152616.1</controlfield>
+  <controlfield tag="008">950318n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95026603 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Illinois.</subfield>
+    <subfield code="b">Governor's Workshop on the Great Flood of 1993</subfield>
+    <subfield code="d">(1994 :</subfield>
+    <subfield code="c">Springfield, Ill.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Governor's Workshop on the Great Flood of 1993 (Illinois)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Illinois.</subfield>
+    <subfield code="b">Workshop on the Great Flood of 1993, Governors</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Governor's Workshop on the Great Flood of 1993, 1994:</subfield>
+    <subfield code="b">t.p.; cover (March 1, 1994 ... Springfield, Ill.)</subfield>
+  </datafield>
+</record>
