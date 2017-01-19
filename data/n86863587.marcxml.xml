@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00909cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  86863587 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880615075654.4</controlfield>
+  <controlfield tag="008">861106n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86863587 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Stücke,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">WoO 60,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Albumblatt für Marie Szymanowska</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Bagatelles,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">WoO 60,</subfield>
+    <subfield code="r">B♭ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Klavierstück für Marie Szymanowska</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Ziemlich lebhaft</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beethoven, L.v. Lyrischer Beethoven [SR] p1985:</subfield>
+    <subfield code="b">label (Albumblatt für Marie Szymanowska)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kinsky</subfield>
+    <subfield code="b">(WoO 60; Klavierstück (B-Dur) für Marie Szymanowska (?); Ziemlich lebhaft)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(WoO 60; Bagatelle, B♭, 1818)</subfield>
+  </datafield>
+</record>
