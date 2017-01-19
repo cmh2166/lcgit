@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00699nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012121293</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120912075236.0</controlfield>
+  <controlfield tag="008">120910n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012121293</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09297941</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrPlMLA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OrPlMLA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jiang, Ming,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">江明,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">姜万敏,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jiang, Wanmin,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wang yang zhong de yi tiao chuan, 2002?:</subfield>
+    <subfield code="b">credits (江明 = Jiang Ming; cast)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bai du bai ke WWW home page, Sept. 10, 2012</subfield>
+    <subfield code="b">(b. 13 Oct. 1940 in Penglai Xian, Shandong; male; alter. name: 姜万敏 = Jiang Wanmin; actor)</subfield>
+  </datafield>
+</record>
