@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00871cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  90632492 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319165738.0</controlfield>
+  <controlfield tag="008">900417n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90632492 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MWA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1789,1790]</subfield>
+    <subfield code="g">1814</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pierce, William Leigh,</subfield>
+    <subfield code="d">1789 or 1790-1814</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Pierce, William Leigh,</subfield>
+    <subfield code="d">1789 or 90-1814</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Hdg rev per Desc Pol</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-33392: His The year [MI] 1813</subfield>
+    <subfield code="b">(hdg. on LCP rept.: Pierce, William Leigh; usage: William Leigh Pierce, Esq.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN A 18-525: His The year, 1813</subfield>
+    <subfield code="b">(hdg.: Pierce, William Leigh; usage: William Leigh Pierce, Esq.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Pierce, William Leigh, 1789 or 90-1814; note: son of William Leigh and Charlotte (Fenwick) Pierce; poet; d. Canandaigua, N.Y. Dec. 17, 1814 aged 24 of typhus fever)</subfield>
+  </datafield>
+</record>
