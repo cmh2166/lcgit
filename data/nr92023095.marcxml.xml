@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 92023095 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920627060822.1</controlfield>
+  <controlfield tag="008">920625n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92023095 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU-Ar</subfield>
+    <subfield code="c">PU-Ar</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lloyd, Ralph Waldo,</subfield>
+    <subfield code="d">1892-1986</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Lloyd, Ralph Waldo,</subfield>
+    <subfield code="d">1892-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Our children's Lloyd ancestors, 1650-1991, 1992</subfield>
+    <subfield code="b">(Ralph Waldo Lloyd) p. xxx (d. 7/7/1986, Bradenton, Fla.) p. 179 (b. 10/6/1892, Friendsville, Tenn.) p. 203 (Presbyterian minister and missionary) p. 214 (pres. of Maryville College)</subfield>
+  </datafield>
+</record>
