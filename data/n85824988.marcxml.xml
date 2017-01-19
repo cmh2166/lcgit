@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00424cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  85824988 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209085504.0</controlfield>
+  <controlfield tag="008">851114n| azannaab           |n aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85824988 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1950</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roth, Richard Lewis,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc85-71906: His Studies of the anemia ... 1978</subfield>
+    <subfield code="b">(hdg. on NjR rept.: Roth, Richard Lewis, 1950- ; usage: Richard Lewis Roth)</subfield>
+  </datafield>
+</record>
