@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  94104701 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314091013.0</controlfield>
+  <controlfield tag="008">941031n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94104701 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ross, Robert</subfield>
+    <subfield code="c">(Director)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Frontline. The election held hostage [MP] 1991-04-16:</subfield>
+    <subfield code="b">credits (directed, produced and written by Robert Ross)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Int'l. mo. pic. alm., 1994;</subfield>
+    <subfield code="a">Perf. arts biog. master index, c1981;</subfield>
+    <subfield code="a">Who's who in entertainment, 1992-1993.</subfield>
+  </datafield>
+</record>
