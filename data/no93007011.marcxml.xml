@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00873nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 93007011 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930430135705.5</controlfield>
+  <controlfield tag="008">930311n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93007011 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Presbyterian Church in the U.S.A. (Old School).</subfield>
+    <subfield code="b">Presbytery of North Alabama</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Presbytery of North Alabama (Presbyterian Church in the U.S.A. : Old School)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">North Alabama Presbytery (Presbyterian Church in the U.S.A. : Old School)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Minutes [MI] 1824-1844 (Presbytery of North Alabama; North Alabama Presbytery)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi files</subfield>
+    <subfield code="b">(Presbytery of North Alabama; also known as North Alabama Presbytery; erected in Alabama in 1824 by the Presbyterian Church in the U.S.A.; dissolved in 1844 because of the migration of its churches to a New School presbytery of the same name, estab. in 1840)</subfield>
+  </datafield>
+</record>
