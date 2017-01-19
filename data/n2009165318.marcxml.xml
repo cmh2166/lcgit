@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2009165318</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327075348.0</controlfield>
+  <controlfield tag="008">091116n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009165318</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1829~</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wood, Florinda D.,</subfield>
+    <subfield code="d">approximately 1829-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Wood, Florinda D.,</subfield>
+    <subfield code="d">b. ca. 1829</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Hist. Soc. for Belinda Wood autograph letter signed, 1849 Mar. 7</subfield>
+    <subfield code="b">(Florinda D. Wood)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancestry WWW, Nov. 16, 2009</subfield>
+    <subfield code="b">(under 1850 U.S. Federal Census: Florinda D. Wood, est. birth year: abt 1829; home in 1850: Newfield, York, Me.; family members: Belinda Wood)</subfield>
+  </datafield>
+</record>
