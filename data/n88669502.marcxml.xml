@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00433cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88669502 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150825154330.0</controlfield>
+  <controlfield tag="008">881024n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88669502 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Goody, Jack.</subfield>
+    <subfield code="t">Logic of writing and the organization of society.</subfield>
+    <subfield code="l">French</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goody, Jack.</subfield>
+    <subfield code="t">Logique de l'eĚcriture</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His La logique de l'eĚcriture, c1986.</subfield>
+  </datafield>
+</record>
