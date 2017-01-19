@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00430cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  95800904 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100727074934.0</controlfield>
+  <controlfield tag="008">950510n| acannaab           |a ana     b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95800904 </subfield>
+    <subfield code="z">nr 95001064 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Association of Radical Midwives</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ARM (Association of Radical Midwives)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Midwifery matters, summer 1994:</subfield>
+    <subfield code="b">t.p. (Association of Radical Midwives) t.p. verso (ARM)</subfield>
+  </datafield>
+</record>
