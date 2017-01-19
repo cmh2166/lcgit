@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  89142191 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080828075545.0</controlfield>
+  <controlfield tag="008">900503n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89142191 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02734717</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Okayama-ken (Japan).</subfield>
+    <subfield code="b">Kikakubu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">岡山県 (Japan).</subfield>
+    <subfield code="b">企画部</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Okayama-ken no rōdō jijō, 1988:</subfield>
+    <subfield code="b">t.p. (Okayama-ken Kikakubu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shokuinroku, 1987:</subfield>
+    <subfield code="b">v. 2, p. 2116 (Okayama-ken/Kikakubu)</subfield>
+  </datafield>
+</record>
