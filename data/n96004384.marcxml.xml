@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  96004384 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141204073737.0</controlfield>
+  <controlfield tag="008">960122n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96004384 </subfield>
+    <subfield code="z">no 98056927 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03991947</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lehmann, Markus.</subfield>
+    <subfield code="t">Sousedsky,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">WV 58/2</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="c">WV 58/2</subfield>
+    <subfield code="d">Arnold</subfield>
+    <subfield code="2">mlati</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lehmann, Markus.</subfield>
+    <subfield code="t">Sousedsky,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His SousedskaĚ I, WV 58/2 c1994.</subfield>
+  </datafield>
+</record>
