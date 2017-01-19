@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00669cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2010216439</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327081049.0</controlfield>
+  <controlfield tag="008">100519n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010216439</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1941,1942]</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Maḥbūbī, Jamshīd,</subfield>
+    <subfield code="d">1941 or 1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Maḥbūbī, Jamshīd,</subfield>
+    <subfield code="d">1941 or 2-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">محبوبى، جمشيد</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mardumān-i Miyāndūʹāb, 2009 or 2010:</subfield>
+    <subfield code="b">t.p. (جمشيد محبوبى = Jamshīd Maḥbūbī) t.p. verso (Iranian CIP data: Maḥbūbī, Jamshīd; b. 1320 [1941 or 1942])</subfield>
+  </datafield>
+</record>
