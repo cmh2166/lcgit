@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 91009672 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930610140828.1</controlfield>
+  <controlfield tag="008">910415n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91009672 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">O</subfield>
+    <subfield code="c">O</subfield>
+    <subfield code="d">O</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Silverwood, Jane</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Titchener, Louise,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under</subfield>
+    <subfield code="b">Titchener, Louise, 1941-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Bright secrets, 1991:</subfield>
+    <subfield code="b">t.p. (Jane Silverwood)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 12-24-90</subfield>
+    <subfield code="b">(Silverwood, Jane)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contemp. auth., v. 122</subfield>
+    <subfield code="b">(Titchener, Louise, 1941-; pseud.: Jane Silverwood)</subfield>
+  </datafield>
+</record>
