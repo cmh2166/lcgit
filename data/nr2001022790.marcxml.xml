@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00768nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001022790</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010620033114.0</controlfield>
+  <controlfield tag="008">010611n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001022790</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaQMCCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaQMCCA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bennett, Mark,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">TV sets, c1996:</subfield>
+    <subfield code="b">t.p. (Mark Bennett) cover (Beverly Hills postal worker on Wilshire Boulevard; young artist represented by Moore Gallery in Santa Monica, Calif.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mark Bennett, 1996:</subfield>
+    <subfield code="b">t.p. (Mark Bennett)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CaQMCCA files, June 11, 2001</subfield>
+    <subfield code="b">(Mark Bennett; b. 1956, Chattanooga, Tenn.; lives and works in Los Angeles, Calif.; artist and author of "TV Sets: Fantasy Blueprints of Classic TV Homes" and "How to Live a Sit-Com Life"; day job as mail carrier in Southern Calif.)</subfield>
+  </datafield>
+</record>
