@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00781cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  90641646 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090205081736.0</controlfield>
+  <controlfield tag="008">900508n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90641646 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02738981</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">UkCU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Association de santé mentale de Paris 13ème</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Association de santé mentale de Paris Treizième</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Association de santé mentale du 13e arrondissement de Paris</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">13e Arrondissement (Paris, France).</subfield>
+    <subfield code="b">Association de santé mentale</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Textes du Centre Alfred Binet, déc. 1982:</subfield>
+    <subfield code="b">p. 2 of cover (Association de santé mentale de Paris 13ème)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 1-22-90</subfield>
+    <subfield code="b">(hdg.: Association de santé mentale du 13e arrondissement de Paris)</subfield>
+  </datafield>
+</record>
