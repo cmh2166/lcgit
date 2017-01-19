@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01041cz  a2200241n  4500</leader>
+  <controlfield tag="001">n 2008024999</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131030073745.0</controlfield>
+  <controlfield tag="008">080405n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008024999</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07726860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CtY</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1976</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Bragi Þorgrímur Ólafsson</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Reykjavík (Iceland)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Manuscripts</subfield>
+    <subfield code="a">Cataloging of manuscripts</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Landsbókasafn Íslands-Háskólabókasafn. Handrit og bréfasöfn</subfield>
+    <subfield code="s">20031201</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ice</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Þorgrímur Ólafsson, Bragi</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bfrom</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kenningar um vald, 2004:</subfield>
+    <subfield code="b">t.p. (Bragi Þorgrímur Ólafsson) t.p. verso (b. 1976; employed in manuscript division of Landsbókasafn Íslands-Háskólabókasafn from Dec. 1, 2003)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handrit.is, viewed Oct. 29, 2013</subfield>
+    <subfield code="b">(Bragi Þorgrímur Ólafsson; b. Oct. 29, 1976; lives in Reykjavík City, Gullbringusýsla, Suðurland; cataloger)</subfield>
+    <subfield code="u">http://handrit.is/en/biography/view/BraOla001</subfield>
+  </datafield>
+</record>
