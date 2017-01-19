@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01085cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  92054474 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000722065221.0</controlfield>
+  <controlfield tag="008">920519n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92054474 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03174784</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Launit︠s︡, Vasilīĭ Ḟedorovich fon-der-,</subfield>
+    <subfield code="d">1802-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fon-der-Launit︠s︡, Vasilīĭ Ḟedorovich,</subfield>
+    <subfield code="d">1802-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fon-der-Launit︠s︡,</subfield>
+    <subfield code="c">general-adʺi︠u︡tant</subfield>
+    <subfield code="q">(Vasilīĭ Ḟedorovich),</subfield>
+    <subfield code="d">1802-1864</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russia. Armii︠a︡. Otdi︠e︡lʹnyĭ korpus vnutrennaĭ strazhi. [Prikazy po Otdelʹnomu korpusu vnutrenneĭ strazhi] [MI] 1864:</subfield>
+    <subfield code="b">(each order signed: komandir Korpusa, general-adʺi︠u︡tant fon-der-Launit︠s︡ 1-ĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russ. Brockhaus</subfield>
+    <subfield code="b">(under entry for family: Launit︠s︡ (fon-der); Vasilīĭ Ḟedorovich f.-d.-L., d. 1864, gen.-adʺi︠u︡tant, commanded Korpus vnutrenneĭ strazhi and troops in Khark. voen. okr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russ. bīog. slov.</subfield>
+    <subfield code="b">(Launit︠s︡, fon-der, Vasilīĭ Ḟedorovich; b. 1802, d. 1864)</subfield>
+  </datafield>
+</record>
