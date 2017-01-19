@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00801nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2004011955</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040210052509.0</controlfield>
+  <controlfield tag="008">040209n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004011955</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06267612</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Preservation tech notes.</subfield>
+    <subfield code="p">Windows</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">National Park Service.</subfield>
+    <subfield code="b">Technical Preservation Services Branch.</subfield>
+    <subfield code="t">Preservation tech notes.</subfield>
+    <subfield code="p">Windows</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Windows (Washington, D.C.)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 20</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DGPO</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Washington, DC</subfield>
+    <subfield code="b">National Park Service, U.S. Dept. of the Interior, Technical Preservation Services</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DGPO</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Randl, C. Aluminum replacement windows for steel projecting ... 2003:</subfield>
+    <subfield code="b">t.p. (Preservation tech notes. Windows)</subfield>
+  </datafield>
+</record>
