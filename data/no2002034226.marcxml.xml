@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00911cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002034226</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320091416.0</controlfield>
+  <controlfield tag="008">020422n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002034226</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05744186</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Commission for Review of FBI Security Programs</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Justice.</subfield>
+    <subfield code="b">Commission for Review of FBI Security Programs</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Review of FBI Security Programs, Commission for</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Justice</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its A Review of FBI security programs [ER] 2002:</subfield>
+    <subfield code="b">title screen (Commission for Review of FBI Security Programs; U.S. Department of Justice) PDF file, p. 133, 135-136 (comprised of former U.S. govt. officials, the Commission was est'd under the authority of the U.S. Attorney General in Aug. 2001)</subfield>
+  </datafield>
+</record>
