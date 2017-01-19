@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00900cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  97094933 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100517081821.0</controlfield>
+  <controlfield tag="008">970919n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97094933 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0082600</subfield>
+    <subfield code="e">E0082600</subfield>
+    <subfield code="f">N0520700</subfield>
+    <subfield code="g">N0520700</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04439809</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Bardüttingdorf (Spenge, Germany)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Spenge (Germany).</subfield>
+    <subfield code="b">Bardüttingdorf</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spuren der Geschichte in Wallenbrück und Bardüttingdorf, 1992:</subfield>
+    <subfield code="b">t.p. (Bardüttingdorf)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dt. Bundes-Adressb., 1994/95</subfield>
+    <subfield code="b">(Bardüttingdorf, under Spenge, Nordrhein-Westfalen, listed as city section)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet Names Server.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(civil; 52°07ʹ00ʺN 008°26ʹ00ʺE)</subfield>
+  </datafield>
+</record>
