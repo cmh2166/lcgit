@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00817nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014073569</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140529073613.0</controlfield>
+  <controlfield tag="008">140528n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014073569</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09866661</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-SMu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-SMu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1990</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bohemia Saxophone Quartet</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Czech Republic</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Saxofonové kvarteto Bohemia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chamber music, p2007:</subfield>
+    <subfield code="b">label (Bohemia Saxophone Quartet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bohemia Saxophone Quartet, Aug. 30, 2013:</subfield>
+    <subfield code="b">About ensemble (Bohemia Saxophone Quartet; Czech music ensemble established 1990) O souboru (BOHEMIA SAXOPHONE QUARTET je špičkové české hudební těleso) Discography (Saxofonové kvarteto Bohemia = Bohemia Saxophone Quartet)</subfield>
+    <subfield code="u">http://www.bsq.cz</subfield>
+  </datafield>
+</record>
