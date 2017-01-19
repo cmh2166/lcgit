@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00851cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2008050680</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080801075436.0</controlfield>
+  <controlfield tag="008">080728n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008050680</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Udruženje Jadranska straža</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jadranska straža (Agency)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Machiedo Mladinić, Norka. Jadranska straža 1922.-1941., 2005:</subfield>
+    <subfield code="b">t.p. (Jadranska straža) p. 7 (founded in 1921 during the Kingdom of Serbs, Croats, and Slovenes to protect the integrity of the Adriatic Coast; lasted till 1941)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KIS home page:</subfield>
+    <subfield code="b">(Udruženje Jadranska straža ; naval organization founded in 1921 in Split during the Kingdom of Serbs, Croats, and Slovenes to protect the area from further expansion by Italy; functioned till 1941</subfield>
+    <subfield code="u">http://knjiga.hr/04.asp?param=j&amp;stranica=3&amp;provjera=nav&amp;ID=23555</subfield>
+  </datafield>
+</record>
