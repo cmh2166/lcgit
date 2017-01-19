@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00757cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008178276</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081213081747.0</controlfield>
+  <controlfield tag="008">081202n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008178276</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07953486</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Raetihi (N.Z.).</subfield>
+    <subfield code="b">Borough Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Raetihi Borough Council</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Waimarino District (N.Z.).</subfield>
+    <subfield code="b">District Council</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Statement of payments, 1979</subfield>
+    <subfield code="b">t.p. (Raetihi Borough Council)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Union of Waimarino County, Ohakune Borough and Raetihi Borough, 1987</subfield>
+    <subfield code="b">t.p. (the Waimarino County Council, the Ohakune Borough Council and the Raetihi Borough Council shall be dissolved; a council for the united district to be known as Waimarino District Council)</subfield>
+  </datafield>
+</record>
