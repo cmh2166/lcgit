@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01063cz  a2200241n  4500</leader>
+  <controlfield tag="001">nr2003000882</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161007075507.0</controlfield>
+  <controlfield tag="008">030109n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003000882</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05953942</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB-Mu</subfield>
+    <subfield code="d">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1773-02-01</subfield>
+    <subfield code="g">1806-07-26</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arnold, Johann Gottfried,</subfield>
+    <subfield code="d">1773-1806</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Niedernhall (Germany)</subfield>
+    <subfield code="b">Frankfurt am Main (Germany)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Composition (Music)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Cellists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arnold, J. G.</subfield>
+    <subfield code="q">(Johann Gottfried),</subfield>
+    <subfield code="d">1773-1806</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arnold, J.G. Concerto no 5 D-Dur per viola ed orchestra, c1996:</subfield>
+    <subfield code="b">t.p. (Johann Gottfried Arnold, 1773-1806)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arnold, J.G. Premier concerto pour violoncelle, op. 37, n.d.:</subfield>
+    <subfield code="b">t.p. (compose par J. G. Arnold)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Arnold, Johann Gottfried, b. 1 Feb. 1773; d. 26 July 1806)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MGG, 2. Ausg.</subfield>
+    <subfield code="b">(born Febuary 1, 1773, Niedernhall/ WuĚrttemberg; died July 26, 1806, Frankfurt am Main; cellist and composer)</subfield>
+  </datafield>
+</record>
