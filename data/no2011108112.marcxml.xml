@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00892cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2011108112</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327092701.0</controlfield>
+  <controlfield tag="008">110714n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011108112</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08914219</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPJCB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">RPJCB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1540</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Noronha, Garcia de,</subfield>
+    <subfield code="d">-1540</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Noronha, Garcia,</subfield>
+    <subfield code="d">-1540</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Noronha, Garcia de,</subfield>
+    <subfield code="d">d. 1540</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Twee bysondere scheeps-togten na Oost-Indien, van Gonsalo de Sequeira in het jaar 1510 en Garcia de Noronha in het jaar 1511 ..., 1706 :</subfield>
+    <subfield code="b">t.p. (Garcia de Noronha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grande encic. portugueza e brasiliera, 1936-1960</subfield>
+    <subfield code="b">(Noronha, D. Garcia de, third viceroy and tenth governor of Portuguese India; d. 1540)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Portuguese Wikipedia, Jul. 14, 2011</subfield>
+    <subfield code="b">(Garcia de Noronha; b. 1479; d. 1540; third viceroy and tenth governor of Portuguese India)</subfield>
+  </datafield>
+</record>
