@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00628cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  86719965 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890812133201.0</controlfield>
+  <controlfield tag="008">870206n| acacaaaa|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86719965 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">TI (Series)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Federal Aviation Administration.</subfield>
+    <subfield code="t">TI</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">E-Systems Inc.</subfield>
+    <subfield code="b">Garland Division.</subfield>
+    <subfield code="t">TI</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Dallas, Tex.</subfield>
+    <subfield code="b">E-Systems Inc., Garland Division</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Give phrase as a quoted note, including the number, if present, e.g., "TI 6490.16."</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Instruction book, keyboard unit P/N 401-36735 ... 1984:</subfield>
+    <subfield code="b">cover</subfield>
+  </datafield>
+</record>
