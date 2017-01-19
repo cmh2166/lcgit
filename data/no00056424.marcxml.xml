@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 00056424 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140628073739.0</controlfield>
+  <controlfield tag="008">000801n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00056424 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05273366</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-SM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-SM</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1952</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bax, Arnold,</subfield>
+    <subfield code="d">1883-1953.</subfield>
+    <subfield code="t">Coronation march</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">orchestra</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 98-700476: Walton, W. Orb and sceptre, 195-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Dec. 20, 2007</subfield>
+    <subfield code="b">(Coronation march, 1952)</subfield>
+  </datafield>
+</record>
