@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00624nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015061400</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151016112159.0</controlfield>
+  <controlfield tag="008">151016n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015061400</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2009</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Riehm, Rolf,</subfield>
+    <subfield code="d">1937-</subfield>
+    <subfield code="t">Wer sind diese Kinder</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Concertos</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">orchestra</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">electronics</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Riehm, R. Hamamuth [SR] p2013:</subfield>
+    <subfield code="b">label (Wer sind diese Kinder) container (for piano, large orchestra in three groups, and electronic playbacks) insert (2009; "Riehm's piano concerto" [top of page 32 of program notes])</subfield>
+  </datafield>
+</record>
