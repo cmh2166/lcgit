@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012057169</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120425075159.0</controlfield>
+  <controlfield tag="008">120423n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012057169</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09179582</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brozi, Ed,</subfield>
+    <subfield code="d">1920-1986</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brozi, Eddy,</subfield>
+    <subfield code="d">1920-1986</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brozi, Edward,</subfield>
+    <subfield code="d">1920-1986</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Martin, M. Sun racer [SR] 2010:</subfield>
+    <subfield code="b">label (Ed Brozi) container (Ed "Eddy" Brozi; b. late Sept. 1920, Fayette Co., Pa.; vocals, guitar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social Security death index, Apr. 23, 2012</subfield>
+    <subfield code="b">(Edward Brozi; b. Oct. 2, 1920, d. May 1986; state of issue: Pennsylvania; last known residence: Bloomfield, Pittsburgh)</subfield>
+  </datafield>
+</record>
