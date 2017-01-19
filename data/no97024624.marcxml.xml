@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00682cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 97024624 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130504075156.0</controlfield>
+  <controlfield tag="008">970418n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97024624 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04321053</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DJBF</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1874</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kinloch, T. F.</subfield>
+    <subfield code="q">(Tom Fleming),</subfield>
+    <subfield code="d">1874-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Tom Fleming</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Kinloch, T. F.</subfield>
+    <subfield code="q">(Tom Fleming),</subfield>
+    <subfield code="d">b. 1874</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kinloch, Tom Fleming,</subfield>
+    <subfield code="d">1874-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kinlock, Tom Fleming,</subfield>
+    <subfield code="d">1874-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Six English economists, 1950:</subfield>
+    <subfield code="b">t.p. (T.F. Kinloch, M.A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Apr. 18, 1997</subfield>
+    <subfield code="b">(hdg.: Kinloch, Tom Fleming, 1874-; usage: T.F. Kinloch)</subfield>
+  </datafield>
+</record>
