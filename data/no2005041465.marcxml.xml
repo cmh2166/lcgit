@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00836cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2005041465</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161216074012.0</controlfield>
+  <controlfield tag="008">050502n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005041465</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06624095</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOxM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OOxM-Mu</subfield>
+    <subfield code="d">OOC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2002</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chen, Yi,</subfield>
+    <subfield code="d">1953-</subfield>
+    <subfield code="t">Tu</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">orchestra</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chen, Y. Momentum [SR] p2003:</subfield>
+    <subfield code="b">label (Tu) container (for orchestra, 2002)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chen, Yi. Music for wind band, â2015:</subfield>
+    <subfield code="b">container (Tu : for wind ensemble, 2002, rev. 2004) insert (composed July-August 2002 as a reaction to 9/11; wind ensemble version, 2004)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Theodore Presser WWW site, December 15, 2016</subfield>
+    <subfield code="b">(Tu, for orchestra, composed 2002; version for wind ensemble, 2002/2003, premiered 2004)</subfield>
+    <subfield code="u">http://www.presser.com/composer/chen-yi/</subfield>
+  </datafield>
+</record>
