@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01064cz  a2200265n  4500</leader>
+  <controlfield tag="001">no2012078160</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130524075232.0</controlfield>
+  <controlfield tag="008">120606n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012078160</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09218711</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGW-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DGW-L</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1849</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jouanneau, A.</subfield>
+    <subfield code="q">(Auguste),</subfield>
+    <subfield code="d">1849-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Vouvray, Indre-et-Loire, France</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Justices of the peace</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+    <subfield code="a">lat</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Auguste</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Jouanneau, A.</subfield>
+    <subfield code="q">(Auguste),</subfield>
+    <subfield code="d">b. 1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jouanneau, Auguste,</subfield>
+    <subfield code="d">1849-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Recueil de maximes et citations latines aĚ l'usage du monde judiciaire, 1924:</subfield>
+    <subfield code="b">t.p. (A. Jouanneau; juge de paix) p. [7] (introduction signed A. Jouanneau, Vouvray, 1er janvier 1911, with symbol for the Ordre des palmes acadeĚmiques)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC online catalog, June 6, 2012</subfield>
+    <subfield code="b">(hdg.: Jouanneau, Auguste, 1849-; usage not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BNF online catalog, June 6, 2012</subfield>
+    <subfield code="b">(hdg.: Jouanneau, A.; usage: A. Jouanneau)</subfield>
+  </datafield>
+</record>
