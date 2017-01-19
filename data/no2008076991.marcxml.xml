@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00859nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008076991</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080525075148.0</controlfield>
+  <controlfield tag="008">080513n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008076991</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07776036</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Committee on Review of DOE's Nuclear Energy Research and Development Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Board on Energy and Environmental Systems.</subfield>
+    <subfield code="b">Committee on Review of DOE's Nuclear Energy Research and Development Program</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Review of DOE's nuclear energy research and development program, c2008:</subfield>
+    <subfield code="b">t.p. (Committee on Review of DOE's Nuclear Energy Research and Development Program, Board on Energy and Environmental Systems, Division on Engineering and Physical Sciences, National Research Council of the National Academies)</subfield>
+  </datafield>
+</record>
