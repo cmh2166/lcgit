@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00704cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2009008808</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100316074849.0</controlfield>
+  <controlfield tag="008">090210n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009008808</subfield>
+    <subfield code="z">no2003017105</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Garcés, Eliana,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Garcés Tolón, Eliana,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tolón, Eliana Garcés,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Quantitative techniques for competition and antitrust analysis, c2010:</subfield>
+    <subfield code="b">eCIP t.p. (Eliana Garcés) data view (b. July 12, 1968)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The effects of social programs on education and employment outcomes, 2001:</subfield>
+    <subfield code="b">t.p. (Eliana Garces Tolon; Ph. D. in Economics, UCLA) vita (b. July 12, 1968, in Madrid, Spain)</subfield>
+  </datafield>
+</record>
