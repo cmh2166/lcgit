@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01259cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  83175862 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140529073735.0</controlfield>
+  <controlfield tag="008">830913n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83175862 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00995256</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1752</subfield>
+    <subfield code="g">17901216</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lebrun, Ludwig August,</subfield>
+    <subfield code="d">1752-1790</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Mannheim (Germany)</subfield>
+    <subfield code="b">Berlin (Germany)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Oboe players</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lebrun, L. A.</subfield>
+    <subfield code="q">(Ludwig August),</subfield>
+    <subfield code="d">1752-1790</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Le Brun, Ludwig August,</subfield>
+    <subfield code="d">1752-1790</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brun, Ludwig August Le,</subfield>
+    <subfield code="d">1752-1790</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Konzerte für Oboe und Orchester [SR] p1982:</subfield>
+    <subfield code="b">labels (Ludwig August Lebrun) container (1752-1790)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Ludwig August (Ludwig Karl Maria) Lebrun; b. Mannheim, baptized 5-2-1752; d. Berlin, 12/16/1790)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Concerto no. 3 in C minor for oboe and orchestra, c1988:</subfield>
+    <subfield code="b">caption (L.A. Lebrun) pref. (Ludwig August (Ludwig Karl Maria) Le Brun (Lebrun; date of birth uncertain; Fétis and Gerber mention 1746)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lebrun, Ludwig August. 7. Concerto in F-dur für Oboe und Streichorchester, 2013:</subfield>
+    <subfield code="b">page 2 of cover (Ludwig August Lebrun, composer and oboe virtuoso)</subfield>
+  </datafield>
+</record>
