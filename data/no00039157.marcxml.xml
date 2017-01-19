@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00467nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00039157 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000603064037.0</controlfield>
+  <controlfield tag="008">000602n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00039157 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05231422</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NbU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NbU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Massachusetts State Archery Association</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MSAA</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Mass. State AA</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MSAA Bulletin, July 12, 1939:</subfield>
+    <subfield code="b">cover (Massachusetts State Archery Associa.) (MSAA) (Mass. State AA)</subfield>
+  </datafield>
+</record>
