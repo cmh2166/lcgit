@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00737nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2008030358</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080425075942.0</controlfield>
+  <controlfield tag="008">080424n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008030358</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Halévy, F.,</subfield>
+    <subfield code="d">1799-1862.</subfield>
+    <subfield code="t">Guido et Ginévra.</subfield>
+    <subfield code="p">Quand renaîtra la pâle aurore</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Halévy, F.,</subfield>
+    <subfield code="d">1799-1862.</subfield>
+    <subfield code="t">Quand renaîtra la pâle aurore</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Halévy, F.,</subfield>
+    <subfield code="d">1799-1862.</subfield>
+    <subfield code="t">Grand air chanté par Mr. Duprez</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Halévy, F.,</subfield>
+    <subfield code="d">1799-1862.</subfield>
+    <subfield code="t">Dans ces lieux</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Halévy, F. Guido et Ginévra. No. 9, Grand air chanté par Mr. Duprez, 1838:</subfield>
+    <subfield code="b">p. 2 (first words of preceding recitative: Dans ces lieux) p. 3 (first words of aria: Quand renaîtra la pâle aurore)</subfield>
+  </datafield>
+</record>
