@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00422nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2007164732</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071031075104.0</controlfield>
+  <controlfield tag="008">071030n| acannaabn           n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007164732</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stephens, Carl</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Museum of the Great Plains for Carl Stephens family history tracing the Stephens and Tinkle family, 1810-2002</subfield>
+    <subfield code="b">(Carl Stephens; prob. of Lawton, Okla.)</subfield>
+  </datafield>
+</record>
