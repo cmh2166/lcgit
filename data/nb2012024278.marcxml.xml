@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00843cz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2012024278</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140123153221.0</controlfield>
+  <controlfield tag="008">121018n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012024278</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008605024</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2010-08</subfield>
+    <subfield code="t">2010-08</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">FG (Conference)</subfield>
+    <subfield code="n">(15th :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Copenhagen, Denmark)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Conference</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Copenhagen, Denmark</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Formal languages</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Conference on Formal Grammar</subfield>
+    <subfield code="n">(15th :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Copenhagen, Denmark)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Formal Grammar, International</subfield>
+    <subfield code="n">(15th :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Copenhagen, Denmark)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Formal grammar, c2012:</subfield>
+    <subfield code="b">t.p. (15th and 16th international conferences : FG 2010, Copenhagen, Denmark, August 2010 : FG 2011, Lubljana, Slovenia, August 2011)</subfield>
+  </datafield>
+</record>
