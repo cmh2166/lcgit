@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00821cz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2010021813</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130425072349.0</controlfield>
+  <controlfield tag="008">100820n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010021813</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007892140</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20080908</subfield>
+    <subfield code="t">20080910</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">UTP (Symposium)</subfield>
+    <subfield code="n">(2nd :</subfield>
+    <subfield code="d">2008 :</subfield>
+    <subfield code="c">Dublin, Ireland)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Dublin, Ireland</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Computer programming</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Symposium on Unifying Theories of Programming</subfield>
+    <subfield code="n">(2nd :</subfield>
+    <subfield code="d">2008 :</subfield>
+    <subfield code="c">Dublin, Ireland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unifying theories of programming, c2010:</subfield>
+    <subfield code="b">t.p. (UTP 2008, Dublin, Ireland, September 8-10, 2008)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">preface (Second International Symposium on Unifying Theories of Programming, UTP 2008)</subfield>
+  </datafield>
+</record>
