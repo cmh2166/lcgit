@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01079cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007071196</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120817082529.0</controlfield>
+  <controlfield tag="008">070626n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007071196</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07447609</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">NATO Advanced Study Institute on Thermal Energy Storage for Sustainable Energy Consumption--Fundamentals, Case Studies and Design</subfield>
+    <subfield code="d">(2005 :</subfield>
+    <subfield code="c">IĚzmir, Turkey)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Advanced Study Institute on Thermal Energy Storage for Sustainable Energy Consumption--Fundamentals, Case Studies and Design, NATO</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Institute on Thermal Energy Storage for Sustainable Energy Consumption--Fundamentals, Case Studies and Design, NATO Advanced Study</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thermal energy storage for sustainable energy consumption, 2007:</subfield>
+    <subfield code="b">t.p. verso (NATO Advanced Study Institute on Thermal Energy Storage for Sustainable Energy Consumption--Fundamentals, Case Studies and Design, Izmir, Turkey, June 6-17, 2005)</subfield>
+  </datafield>
+</record>
