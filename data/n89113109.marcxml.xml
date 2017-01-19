@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00887cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89113109 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900809053305.3</controlfield>
+  <controlfield tag="008">900710n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89113109 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Citrācārya, Jagadīśa,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Jagadīśācārya,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Citrācāryya, Jagadīśācāryya,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Jagadīśācāryya Citrācāryya,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ṿr̥ddhaśikṣāśāstram, 1986:</subfield>
+    <subfield code="b">t.p. (Citropanāmnā Jagadīśācāryeṇa [i.e. Jagadīśa Citrācārya]; Jagadīsācāryaḥ, hd., Saṃskr̥tānusandhānāśrmaḥ Bālārkaveda Mandiram Jagadīśāryamaṭhaṇ, Mahasī, Baharāica U. Pra., Bhāratam)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Delhi non-MARC file</subfield>
+    <subfield code="b">(hdg.: Citrācārya, Jagadīśa, 1926- ; usage: Citrācāryyopanāmnā Jagadīśācāryyeṇa)</subfield>
+  </datafield>
+</record>
