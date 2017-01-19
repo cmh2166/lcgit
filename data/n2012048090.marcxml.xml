@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00458nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2012048090</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120726074929.0</controlfield>
+  <controlfield tag="008">120725n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012048090</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Spain.</subfield>
+    <subfield code="b">Jefatura de Sanidad del Ejercito de Tierra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Disposiciones oficiales publicadas en el Diario oficial del Ministerio de defensa nacional, 1937?</subfield>
+    <subfield code="b">at head of title, p. 3 (Jefatura de Sanidad del Ejercito de Tierra)</subfield>
+  </datafield>
+</record>
