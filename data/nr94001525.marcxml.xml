@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00761cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 94001525 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081113081831.0</controlfield>
+  <controlfield tag="008">940113nc acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94001525 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03529718</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Xu, Shangce</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hsü, Shang-tsʻe</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">許上策</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tʻang-chʻang Hsiao-chʻuan Hsü shih tsu pʻu, 1891:</subfield>
+    <subfield code="b">chüan chih 9, Chih shih ming tzʻu, l. 1 (Shang-tsʻe)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Li tai ming jen nien li pei chuan tsung piao, 1965;</subfield>
+    <subfield code="a">Chʻing tai pei chuan wen tʻung chien, 1959;</subfield>
+    <subfield code="a">Eminent Chinese of the Chʻing Period, 1943.</subfield>
+  </datafield>
+</record>
