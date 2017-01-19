@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01020cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  94054333 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160711112848.0</controlfield>
+  <controlfield tag="008">940607n| azannaabn           a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94054333 </subfield>
+    <subfield code="z">n 2007035122</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03618890</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19671127</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, Robert David,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, KC,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, K. C.,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The peace progressives and American foreign relations, 1995:</subfield>
+    <subfield code="b">CIP t.p. (Robert David Johnson) data sheet (b. Nov. 27, 1967)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brooklyn College, History Dept. faculty Web site, Feb. 27, 2003</subfield>
+    <subfield code="b">(Johnson, KC (Associate Prof.); CV: Ph. D., Harvard University, 1993; lists works)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Taylor, Stuart Jr. Until proven innocent, c2007:</subfield>
+    <subfield code="b">ECIP  t.p. (K.C. Johnson) bk t.p. (KC Johnson) per publisher (Mr Johnson has an aversion to punctuation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Until proven innocent, 2007:</subfield>
+    <subfield code="b">t.p. (KC Johnson) dust jtk. (hist. prof. at Brooklyn Coll. and CUNY)</subfield>
+  </datafield>
+</record>
