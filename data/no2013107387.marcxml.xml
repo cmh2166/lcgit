@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01110cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2013107387</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150105132858.0</controlfield>
+  <controlfield tag="008">131001n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013107387</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09582325</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1925</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Seneca, Lucius Annaeus,</subfield>
+    <subfield code="d">approximately 4 B.C.-65 A.D.</subfield>
+    <subfield code="t">De clementia.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Préchac)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Préchac</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Seneca, Lucius Annaeus,</subfield>
+    <subfield code="d">approximately 4 B.C.-65 A.D.</subfield>
+    <subfield code="t">De clementia.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Collection des universités de France)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Seneca, Lucius Annaeus,</subfield>
+    <subfield code="d">approximately 4 B.C.-65 A.D.</subfield>
+    <subfield code="t">De la clémence</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">r</subfield>
+    <subfield code="i">In series:</subfield>
+    <subfield code="a">Collection des universités de France</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translation of:</subfield>
+    <subfield code="a">Seneca, Lucius Annaeus,</subfield>
+    <subfield code="d">approximately 4 B.C.-65 A.D.</subfield>
+    <subfield code="t">De clementia.</subfield>
+    <subfield code="l">Latin</subfield>
+    <subfield code="s">(Préchac)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translator:</subfield>
+    <subfield code="a">Préchac, François</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Accompanied by Latin text.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seneca, Lucius Annaeus. De la clémence, 1925:</subfield>
+    <subfield code="b">title page (texte établi et traduit par Franc̦ois Préchac; Collection des universités de France)</subfield>
+  </datafield>
+</record>
