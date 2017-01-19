@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00663nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2001048305</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011122033126.0</controlfield>
+  <controlfield tag="008">011120n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001048305</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gates, Mary Minerva Snow,</subfield>
+    <subfield code="d">1813-1891</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Snow, Mary Minerva,</subfield>
+    <subfield code="d">1813-1891</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Snow, W. Autobiography, ca. 1850</subfield>
+    <subfield code="b">(Mary M; b. July 30 181)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Familysearch, via WWW, Nov. 20, 2001</subfield>
+    <subfield code="b">(Mary Minerva (Millie) Snow; b. 30 Jul 1813, St. Johnsbury, Vt.; d. 9 Feb 1891 Salt Lake City, Ut.; married Jacob Gates 21 Jan 1846 Nauvoo, IL)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Overland Trails Digital Library Collection, 2001</subfield>
+    <subfield code="b">(Snow, Mary M.)</subfield>
+  </datafield>
+</record>
