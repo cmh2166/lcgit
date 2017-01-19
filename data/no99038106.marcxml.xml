@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01147cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 99038106 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090122082024.0</controlfield>
+  <controlfield tag="008">990527n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99038106 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04995422</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">NN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Université de Caen.</subfield>
+    <subfield code="b">Maison de la recherche en sciences humaines</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Maison de la recherche en sciences humaines de l'Université de Caen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MRSH-Caen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">M.R.S.H.-Caen</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Université de Caen Basse-Normandie.</subfield>
+    <subfield code="b">Maison de la recherche en sciences humaines</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Célestine, comedia o tragicomedia de Calisto y Melibea, 1993?:</subfield>
+    <subfield code="b">t.p. (Maison de la recherche en sciences humaines; Université de Caen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, May 27, 1999</subfield>
+    <subfield code="b">(usage: Maison de la recherche en sciences humaines de l'Université de Caen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Therriers et plans parcellaires de Basse-Normandie, 1998:</subfield>
+    <subfield code="b">p. 2 of cover (MRSH-Caen)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Cahiers de la Maison de la recherche en sciences humaines, no. 47 (Avril 2007): p. 2 of cover (Université de Caen Basse-Normandie, Maison de la recherche en sciences humaines)</subfield>
+  </datafield>
+</record>
