@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00879nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2014058937</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140507073608.0</controlfield>
+  <controlfield tag="008">140506n| azabaaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014058937</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09751955</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tessenow, Heinrich,</subfield>
+    <subfield code="d">1876-1950.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">2008</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tessenow, Heinrich,</subfield>
+    <subfield code="d">1876-1950.</subfield>
+    <subfield code="t">Gesamtausgabe</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Heinrich Tessenow Gesamtausgabe</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">HTGA (Series)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Bd. 2</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Weimar</subfield>
+    <subfield code="b">Edition M</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tessenow, Heinrich. Hausbau und dergleichen, 2011:</subfield>
+    <subfield code="b">series title page (Heinrich Tessenow Gesamtausgabe, Band 2) book jacket (HTGA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tessenow, Heinrich. Wohnhausbau, 2008:</subfield>
+    <subfield code="b">series title page (Heinrich Tessenow Gesamtausgabe, Band 1)</subfield>
+  </datafield>
+</record>
