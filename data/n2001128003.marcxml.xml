@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2001128003</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010507040114.0</controlfield>
+  <controlfield tag="008">010507n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001128003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1139641</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Baird, Bruce</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Implant dentistry, 1997:</subfield>
+    <subfield code="b">credit frame (Bruce Baird, DDS)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ADA member directory website, Apr. 25, 2001</subfield>
+    <subfield code="b">(Dr. Bruce B. Baird, Granbury, TX)</subfield>
+  </datafield>
+</record>
