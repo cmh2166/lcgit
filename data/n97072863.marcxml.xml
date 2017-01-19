@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00591cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  97072863 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100517081751.0</controlfield>
+  <controlfield tag="008">970718n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97072863 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0824543</subfield>
+    <subfield code="e">W0824543</subfield>
+    <subfield code="f">N0224847</subfield>
+    <subfield code="g">N0224847</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04389556</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">nwcu---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Artemisa (Havana, Cuba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cuba city graphic 1:7,500. Artemisa, c1997</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet 7-18-97</subfield>
+    <subfield code="b">(Artemisa, ppl, 22°48ʹ47ʺN 82°45ʹ43ʺW, La Habana; cites another in Matanzas)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Cuba</subfield>
+    <subfield code="z">Artemisa (Havana)</subfield>
+  </datafield>
+</record>
