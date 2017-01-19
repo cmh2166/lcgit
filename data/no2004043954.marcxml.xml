@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004043954</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040508071019.0</controlfield>
+  <controlfield tag="008">040507n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004043954</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06341931</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NRU-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NRU-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schlee, Thomas Daniel.</subfield>
+    <subfield code="t">Preludes,</subfield>
+    <subfield code="m">organ,</subfield>
+    <subfield code="n">op. 6.</subfield>
+    <subfield code="n">No. 4</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die Silbermann-Orgel von St. Petri in Freiberg, p1995:</subfield>
+    <subfield code="b">container (PreĚlude op. 6/IV)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, May 7, 2004</subfield>
+    <subfield code="b">(hdg.: Schlee, Thomas Daniel. Preludes, organ, op. 6)</subfield>
+  </datafield>
+</record>
