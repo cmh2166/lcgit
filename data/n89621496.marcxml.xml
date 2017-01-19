@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00484cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89621496 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000701064304.0</controlfield>
+  <controlfield tag="008">890411n| acannaabn          |a aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89621496 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02499951</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stephens-Jarnagin, Alisha</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jarnagin, Alisha Stephens-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-39067: Her The biological activity of ... 1984</subfield>
+    <subfield code="b">(hdg. on WU rept.: Stephens-Jarnagin, Alisha; usage: Alisha Stephens-Jarnagin)</subfield>
+  </datafield>
+</record>
