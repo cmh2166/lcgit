@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01279cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 88000409 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080316080611.0</controlfield>
+  <controlfield tag="008">880517n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 88000409 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02422327</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Institute of Electrical and Electronics Engineers.</subfield>
+    <subfield code="b">Professional Technical Group on Industrial Electronics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">IEEE Professional Technical Group on Industrial Electronics</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Institute of Radio Engineers.</subfield>
+    <subfield code="b">Professional Group on Industrial Electronics</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Institute of Electrical and Electronics Engineers.</subfield>
+    <subfield code="b">Professional Technical Group on Industrial Electronics and Control Instrumentation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IEEE transactions on industrial electronics (New York, N.Y. : 1963).  IEEE transactions on industrial electronics, May 1963:</subfield>
+    <subfield code="b">t.p. (Professional Technical Group on Industrial Electronics) t.p. verso (IEEE Professional Technical Group on Industrial Electronics)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">IRE transactions on industrial electronics, Mar. 1955: t.p. (Professional Group on Industrial Electronics);</subfield>
+    <subfield code="a">IEEE transactions on industrial electronics and control instrumentation, Feb. 1964: t.p. (Professional Technical Group on Industrial Electronics and Control Instrumentation)</subfield>
+  </datafield>
+</record>
