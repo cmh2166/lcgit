@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00353nz  a2200133n  4500</leader>
+  <controlfield tag="001">nb2011000380</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110108074936.0</controlfield>
+  <controlfield tag="008">110106n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2011000380</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008016283</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Tarayana Foundation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bhutan : a sketchbook, 2009:</subfield>
+    <subfield code="b">t.p. (Tarayana Foundation, Bhutan)</subfield>
+  </datafield>
+</record>
