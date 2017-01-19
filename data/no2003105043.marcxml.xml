@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00575nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003105043</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031019081510.0</controlfield>
+  <controlfield tag="008">031018n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003105043</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06181629</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiDU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiDU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chambers, Jeff M.</subfield>
+    <subfield code="q">(Jeffrey Max)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chambers, Jeffrey Max</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Community correlates of rural youth violence ... [ER], [2003]:</subfield>
+    <subfield code="b">title screen (Jeff M. Chambers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 10/18/2003:</subfield>
+    <subfield code="b">(hdg.: Chambers, Jeff M., Chambers, Jeffrey Max; usage: Jeff M. Chambers, Jeffrey Max Chambers)</subfield>
+  </datafield>
+</record>
