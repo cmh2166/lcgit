@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00849cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  82154935 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141212071433.0</controlfield>
+  <controlfield tag="008">830209n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82154935 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00850932</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kokhtev, N. N.</subfield>
+    <subfield code="q">(Nikolaĭ Nikolaevich)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kokhtev, N.</subfield>
+    <subfield code="q">(Nikolaĭ)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Kokhtev, Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Belʹchikov, I︠U︡. A. Lektoru o slove, 1973.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ėmot︠s︡ionalʹnoe vozdeĭstvie propagand. slova, 1981:</subfield>
+    <subfield code="b">t.p. (N. N. Kokhtev) cover (N. Kokhtev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russkiĭ i︠a︡zyk, 1998:</subfield>
+    <subfield code="b">t.p. (N.N. Kokhtev) colophon (Kokhtev Nikolaĭ Nikolaevich; [obit.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 12, 2014</subfield>
+    <subfield code="b">(kandidat filologicheskikh nauk)</subfield>
+  </datafield>
+</record>
