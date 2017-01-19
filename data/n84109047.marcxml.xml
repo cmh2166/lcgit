@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01019cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  84109047 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020116052755.0</controlfield>
+  <controlfield tag="008">890109n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84109047 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02435330</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL4718.9.R2445</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rāmavarmma, Vayalār,</subfield>
+    <subfield code="d">1928-1975</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rama Varma, Vayalar,</subfield>
+    <subfield code="d">1928-1975</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Varma, Vayalar Rama,</subfield>
+    <subfield code="d">1928-1975</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Vayalar Rama Varma,</subfield>
+    <subfield code="d">1928-1975</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Vayalār Rāmavarmma,</subfield>
+    <subfield code="d">1928-1975</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Rama Varma, Vayalar,</subfield>
+    <subfield code="d">1929-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Śaśidharan, Ke. Pi. Maraṇamillātta Vayalār, 1984:</subfield>
+    <subfield code="b">t.p. (Vayalār) p. 63 (Vayalār Rāmavarmma)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Delhi non-MARC file, 11/15/84</subfield>
+    <subfield code="b">(hdg.: Rama Varma, Vayalar, 1929- ; usage: Vayalār Rāmavarmma)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sāhityakāra ḍayar̲aktar̲i, 1976:</subfield>
+    <subfield code="b">p. 479 (Rāmavarmma, Vayalār; b. 3/25/1928; d. 10/27/1975)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 1/5/89</subfield>
+    <subfield code="b">(hdg.: Rama Varma, Vayalar, 1929- )</subfield>
+  </datafield>
+</record>
