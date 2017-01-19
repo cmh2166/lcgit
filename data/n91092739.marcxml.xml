@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  91092739 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313094313.0</controlfield>
+  <controlfield tag="008">910912n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91092739 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1879</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zarochent︠s︡ev, M. T.</subfield>
+    <subfield code="q">(Mikhail Trofimovich),</subfield>
+    <subfield code="d">1879-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Mikhail Trofimovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Zarochent︠s︡ev, M. T.</subfield>
+    <subfield code="q">(Mikhail Trofimovich),</subfield>
+    <subfield code="d">b. 1879</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zarochent︠s︡ev, Mikhail Trofimovich,</subfield>
+    <subfield code="d">1879-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zarotschenzeff, M. T.</subfield>
+    <subfield code="q">(Mihail T.),</subfield>
+    <subfield code="d">1879-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Between two oceans, c1930:</subfield>
+    <subfield code="b">t.p. (M.T. Zarotschenzeff)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Zarotschenzeff, Mihail T. x-ref. from Zarochent︠s︡ev, Mikhail Trofimovich, 1879- ; usage: M.T. Zarochent︠s︡ev [in Cyrillic])</subfield>
+  </datafield>
+</record>
