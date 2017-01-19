@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00491cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 94027861 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090403081211.0</controlfield>
+  <controlfield tag="008">940823nc acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94027861 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03668375</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-cc-kn</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Fengshun Xian (China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Feng-shun hsien (China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chieh Feng Hua Su chĘťuĚ shih liao hui pien, 1993:</subfield>
+    <subfield code="b">p. 50 (Feng-shun hsien)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">China</subfield>
+    <subfield code="z">Fengshun Xian</subfield>
+  </datafield>
+</record>
