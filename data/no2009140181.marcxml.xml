@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00512nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009140181</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090905075438.0</controlfield>
+  <controlfield tag="008">090903n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009140181</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08228860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jouvion-Kaehrling, Jean-Françoise</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jouvion-Kaehrling, J.-F.</subfield>
+    <subfield code="q">(Jean-Françoise)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Suzanne Kaehrling, 1902-1985:</subfield>
+    <subfield code="b">p. 11(Jean-Françoise Jouvion-Kaehrling; son of painter Suzanne Kaehrling) p. 19 (J.F. Jouvion-Kaehrling)</subfield>
+  </datafield>
+</record>
