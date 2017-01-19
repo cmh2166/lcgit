@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00543cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  93089758 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150321073833.0</controlfield>
+  <controlfield tag="008">930914n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93089758 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03453373</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Debeli︠a︡nov, Dimcho,</subfield>
+    <subfield code="d">1887-1916.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Debeli︠a︡nov, Dimcho,</subfield>
+    <subfield code="d">1887-1916.</subfield>
+    <subfield code="t">Stikhotvorenii︠a︡</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stikhotvorenii︠a︡, 1983.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stikhotvorenii︠a︡, 1957.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stikhotvorenii︠a︡, 1927.</subfield>
+  </datafield>
+</record>
