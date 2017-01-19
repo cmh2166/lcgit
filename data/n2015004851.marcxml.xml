@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01103nz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2015004851</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150123084804.0</controlfield>
+  <controlfield tag="008">150123n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015004851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gavri︠u︡shkin, I︠U︡. B.</subfield>
+    <subfield code="q">(I︠U︡riĭ Borisovich)</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gavri︠u︡shkin, I︠U︡riĭ Borisovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Гаврюшкин, Ю. Б.</subfield>
+    <subfield code="q">(Юрий Борисович)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Гаврюшкин, Юрий Борисович</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Komparativnyĭ analiz ugolovno-pravovogo protivodeĭstvii︠a︡ posrednichestvu vo vzi︠a︡tochnichestve, 2014:</subfield>
+    <subfield code="b">t.p. (Ю.Б. Гаврюшкин = I︠U︡.B. Gavri︠u︡shkin) colophon (Гаврюшкин Юрий Борисович = Gavri︠u︡shkin I︠U︡riĭ Borisovich) t.p. verso (kandidat i︠u︡ridicheskikh nauk, dot︠s︡ent kafedry protivodeĭstvii︠a︡ nezakonnomu oborotu narkotikov Vserossiĭskogo instituta povyshenii︠a︡ kvalifikat︠s︡ii sotrudnikov MVD Rossii)</subfield>
+  </datafield>
+</record>
