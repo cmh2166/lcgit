@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00827cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  00063820 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319154944.0</controlfield>
+  <controlfield tag="008">000112n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00063820 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1771?</subfield>
+    <subfield code="g">1797</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, W. M.</subfield>
+    <subfield code="q">(William Martin),</subfield>
+    <subfield code="d">1771?-1797</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">William Martin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, W. M.,</subfield>
+    <subfield code="d">active 1795</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, William Martin,</subfield>
+    <subfield code="d">1771?-1797</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rabaut, Jean-Paul. The history of the revolution of France, 1794:</subfield>
+    <subfield code="b">v. 2, p. 367 (translated from the French by W. Martin Johnson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World Biog. Index:</subfield>
+    <subfield code="b">(hdg.: Johnson, William Martin, 1771?-1797)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Jan. 11, 2000</subfield>
+    <subfield code="b">(hdg.: Johnson, William Martin, 1771?-1797)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Jan. 12, 2000</subfield>
+    <subfield code="b">(hdg.: Johnson, W. M., fl. 1795)</subfield>
+  </datafield>
+</record>
