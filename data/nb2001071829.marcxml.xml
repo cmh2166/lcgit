@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00537cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2001071829</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011003060536.0</controlfield>
+  <controlfield tag="008">010925n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2001071829</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hall, Mike,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Hall, Michael Bruce,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record nb90296755</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social isues facing Christians today, c1999:</subfield>
+    <subfield code="b">t.p. (Mike Hall) BL AL sent 3 Aug. 2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 25 Sept. 2001</subfield>
+    <subfield code="b">(Michael Bruce Hall, born 11 May 1963)</subfield>
+  </datafield>
+</record>
