@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00497nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2002051952</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020614052548.0</controlfield>
+  <controlfield tag="008">020613n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002051952</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05786534</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Socijaldemokratska partija Bosne i Hercegovine</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">SDP BiH</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Socijal demokrat (Sarajevo, Bosnia and Hercegovina), 2000, 2:</subfield>
+    <subfield code="b">verso t.p. (... Socijaldemokratske partije Bosne i Hercegovine), colophon (SDP BiH)</subfield>
+  </datafield>
+</record>
