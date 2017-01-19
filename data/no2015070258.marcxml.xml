@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01457nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2015070258</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150529073506.0</controlfield>
+  <controlfield tag="008">150528n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015070258</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10177164</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1974</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Investec (South Africa)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">South Africa</subfield>
+    <subfield code="e">Sandton (South Africa)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">100 Grayston Drive</subfield>
+    <subfield code="b">Sandown</subfield>
+    <subfield code="c">Sandton</subfield>
+    <subfield code="d">South Africa</subfield>
+    <subfield code="e">2196</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Finance</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual report, 2014:</subfield>
+    <subfield code="b">cover (Investec) page 2 of cover (Internet address: www.investec.com)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Investec WWW site, viewed May 28, 2015</subfield>
+    <subfield code="b">Who we are (Investec is an international specialist bank and asset manager that provides a diverse range of financial products and services to a niche client base in three principal markets, the United Kingdom, South Africa and Australia as well as certain other countries. The group was established in 1974. Investec focuses on delivering distinctive profitable solutions for its clients in three core areas of activity namely, Asset Management, Wealth &amp; Investment and Specialist Banking)</subfield>
+    <subfield code="u">https://www.investec.co.za/about-investec/who-we-are.html</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia web site, viewed May 28, 2015</subfield>
+    <subfield code="b">(Investec was founded as a small leasing and financing company in 1974 in Johannesburg. Investec's South African headquarters are at 100 Grayston Drive, Sandown, Sandton)</subfield>
+    <subfield code="u">http://en.wikipedia.org/wiki/Investec</subfield>
+  </datafield>
+</record>
