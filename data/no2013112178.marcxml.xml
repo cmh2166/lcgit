@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00610nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013112178</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131012073537.0</controlfield>
+  <controlfield tag="008">131011n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013112178</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09588844</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KsOpJCL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">KsOpJCL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1952</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Braun, Pam,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Cancer survivor</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Chef</subfield>
+    <subfield code="a">Restaurant owner</subfield>
+    <subfield code="a">Author</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ultimate anti-cancer cookbook</subfield>
+    <subfield code="b">t.p. (Pam Braun)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Website, viewed October 11, 2013</subfield>
+    <subfield code="b">(Pam Braun, former chef, restaurant owner, developed cancer in 2004 at age 52 and still cancer free)</subfield>
+  </datafield>
+</record>
