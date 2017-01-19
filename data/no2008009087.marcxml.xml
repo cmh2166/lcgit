@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008009087</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080120075543.0</controlfield>
+  <controlfield tag="008">080117n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008009087</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07633449</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kann, Frederick,</subfield>
+    <subfield code="d">1884-1965</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Frederick Kann, c2007:</subfield>
+    <subfield code="b">p. 21 (b. May 25, 1884, Jablonec (Gablonz), Czechoslovakia) p. 23 (d. July 6, 1965, Los Angeles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The artists of the world, 1999-2000</subfield>
+    <subfield code="b">(Kann, Frederick (Kann, Frederick I.); painter, designer, sculptor; b. May 25, 1884 or May 25, 1894 or May 25, 1896, Gablonz; last mentioned 1947)</subfield>
+  </datafield>
+</record>
