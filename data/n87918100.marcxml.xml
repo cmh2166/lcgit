@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00432nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87918100 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880316084438.3</controlfield>
+  <controlfield tag="008">880105n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87918100 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Robinson, Paul,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wilson, D. Big shots II, 1987:</subfield>
+    <subfield code="b">t.p. (Paul Robinson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aus CIP data</subfield>
+    <subfield code="b">(Robinson, Paul, 1952- ) p. 4 of cover (former cheif industrial reporter for The Age)</subfield>
+  </datafield>
+</record>
