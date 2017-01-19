@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2005071543</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323075925.0</controlfield>
+  <controlfield tag="008">050923n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005071543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lanskiĭ, Lev,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lanskiĭ, Lev,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">Gift of language is magnificent</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Lanskiĭ, Lev,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="l">English.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lanskiĭ, Lev. Rechʹ poi︠a︡vilasʹ dli︠a︡ prekrasnogo, 2004:</subfield>
+    <subfield code="b">added t.p. (Gift of language is magnificent)</subfield>
+  </datafield>
+</record>
