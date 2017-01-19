@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00671cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85118652 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041022052327.0</controlfield>
+  <controlfield tag="008">850415n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85118652 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01311121</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brash, Donald T.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brash, D. T.</subfield>
+    <subfield code="q">(Donald T.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brash, Don</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Investment issues, 1980:</subfield>
+    <subfield code="b">t.p. (Donald T. Brash)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4/9/85</subfield>
+    <subfield code="b">(hdg.: Brash, Donald T.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ database, Oct. 18, 2004</subfield>
+    <subfield code="b">(usage: Donald T. Brash, D.T. Brash, Don Brash, Donald Brash)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ files, Oct. 18, 2004</subfield>
+    <subfield code="b">(hdg: Brash, Donald T. (Donald Thomas), 1940-)</subfield>
+  </datafield>
+</record>
