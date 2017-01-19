@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00381nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 88005586 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890111055503.3</controlfield>
+  <controlfield tag="008">881123n| acannaab|          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 88005586 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Addis Ababa University.</subfield>
+    <subfield code="b">Academic Programmes Office</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Academic staff list, 1986-1987:</subfield>
+    <subfield code="b">(Addis Ababa University, Academic Programmes Office)</subfield>
+  </datafield>
+</record>
