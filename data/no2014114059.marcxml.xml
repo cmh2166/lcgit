@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00675cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014114059</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160601140242.0</controlfield>
+  <controlfield tag="008">140827n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014114059</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09946599</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ak</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Native Village of Kobuk</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="b">Federally recognized Indian tribes</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kobuk, Native Village of</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with the populated place: Kobuk (Alaska) (n  83209960)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BIA Indian entities, Native entities within the state of Alaska, January 29, 2014</subfield>
+    <subfield code="b">(Native Village of Kobuk)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Native Village of Kobuk</subfield>
+  </datafield>
+</record>
