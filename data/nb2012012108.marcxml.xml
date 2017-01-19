@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00485cz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2012012108</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120604074709.0</controlfield>
+  <controlfield tag="008">120515n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012012108</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09202347</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hermitage Medical Clinic (Dublin, Ireland)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">HMC (Hermitage Medical Clinic)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hermitage Medical Clinic, issue 2012:</subfield>
+    <subfield code="b">p. 4 (HMC) p. 8 (HMC is a private hospital in west Dublin; inception in 2006)</subfield>
+  </datafield>
+</record>
