@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00605cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00050839 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080412080326.0</controlfield>
+  <controlfield tag="008">000718n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00050839 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05261289</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Senevi, Hiniduma Sunil</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hiniduma Sunil Senevi</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Koḷamba kaviya saha Ec. Ăm. Kuḍaligama, 2000:</subfield>
+    <subfield code="b">t.p. (Hiniduma Sunil Senevi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Siṃhala keṭikatāvē sinamāvataraṇaya, 2007:</subfield>
+    <subfield code="b">t.p. (Hiniduma Sunil Senevi) t.p. verso (M. Phil.; currently lect., Sabaragamauwa U. of Sri Lanka)</subfield>
+  </datafield>
+</record>
