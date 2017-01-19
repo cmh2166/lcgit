@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00451cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81086159 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920109091750.8</controlfield>
+  <controlfield tag="008">810811n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81086159 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Larrieux, Juan Carlos</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Larrieux, J.</subfield>
+    <subfield code="q">(Juan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uruguay. CoĚdigo del proceso penal ... 1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (Juan Carlos Larrieux)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Temas de derecho penal, 1977:</subfield>
+    <subfield code="b">spine (J. Larrieux)</subfield>
+  </datafield>
+</record>
