@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00520cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  93023679 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000719080542.0</controlfield>
+  <controlfield tag="008">930315n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93023679 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Aprahamian, Peter</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Botey, J.M. Interiores de Barcelona, 1992:</subfield>
+    <subfield code="b">t.p. (Peter Aprahamian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gore, Alan. The history of English interiors, 1999:</subfield>
+    <subfield code="b">t.p. (Peter Aprahamian) cover p. 3 (freelance photographer based in North London specializing in architecture and interiors)</subfield>
+  </datafield>
+</record>
