@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 91029934 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911223094159.7</controlfield>
+  <controlfield tag="008">911213n| acacbaaa|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91029934 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Publication of the Fetzer Institute</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Fetzer Institute.</subfield>
+    <subfield code="t">Publication of the Fetzer Institute</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Kalamazoo, Mich.</subfield>
+    <subfield code="b">Fetzer Institute</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Give as a quoted note if the phrase is not already included in the body of the entry</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Advances (New York, N.Y.).  Advances, spring 1991:</subfield>
+    <subfield code="b">t.p. (A Publication of the Fetzer Institute)</subfield>
+  </datafield>
+</record>
