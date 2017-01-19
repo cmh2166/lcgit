@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 95055742 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19951128055641.2</controlfield>
+  <controlfield tag="008">951127n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95055742 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03962963 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="c">ViU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gay, Frederick Lewis,</subfield>
+    <subfield code="d">1856-1916</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Winship, G.P., Letter, 1918 Jan. 10</subfield>
+    <subfield code="b">(Frederick Lewis Gay)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 10/27/95</subfield>
+    <subfield code="b">(hdg.: Gay, Frederick Lewis, 1856-1916, Gay, Frederick Lewis, b. 1856; usage: Frederick Lewis Gay)</subfield>
+  </datafield>
+</record>
