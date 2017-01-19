@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00783nz  a2200169n  4500</leader>
+  <controlfield tag="001">ns2014003898</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140828060502.0</controlfield>
+  <controlfield tag="008">140827n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">ns2014003898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaEvSKY)skya10564366</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiEM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MiEM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arumugam, Umamaheswaran</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Michigan State University</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Collision-free communication in sensor networks, 2003</subfield>
+    <subfield code="b">pdf title page (Umamaheswaran Arumugam; master of science, Department of Computer Science and Engineering, Michigan State University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rapid prototyping and quick deployment of sensor networks, 2006</subfield>
+    <subfield code="b">pdf title page (Umamaheswaran Arumugam; doctor of philosophy, Department of Computer Science and Engineering, Michigan State University)</subfield>
+  </datafield>
+</record>
