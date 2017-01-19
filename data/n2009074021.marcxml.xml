@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00489cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2009074021</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091119075423.0</controlfield>
+  <controlfield tag="008">091118n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009074021</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gong, Xian,</subfield>
+    <subfield code="d">1971-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">龚贤,</subfield>
+    <subfield code="d">1971-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fo dian yu Nan chao wen xue, 2008:</subfield>
+    <subfield code="b">t.p. (龚贤 = Gong Xian) cover flap (b. 1971, Ph.D. in literature; teaching at Jiangxi cai jing da xue)</subfield>
+  </datafield>
+</record>
