@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00385nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2006039330</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060517154626.0</controlfield>
+  <controlfield tag="008">060517n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006039330</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Thunderbirds (Motion picture : 2004)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Figueroa, Acton. Trouble on Tracy Island, c2004</subfield>
+    <subfield code="b">Copyright page (... a Jonathan Frakes film "Thunderbirds")</subfield>
+  </datafield>
+</record>
