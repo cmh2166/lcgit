@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00937cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  83137221 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080227071628.0</controlfield>
+  <controlfield tag="008">830621n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83137221 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00968458</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DGU</subfield>
+    <subfield code="d">TxHU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bender, M. Lionel</subfield>
+    <subfield code="q">(Marvin Lionel),</subfield>
+    <subfield code="d">1934-2008</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Bender, Marvin Lionel,</subfield>
+    <subfield code="d">1934-2008</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bender, M. L.</subfield>
+    <subfield code="q">(Marvin Lionel),</subfield>
+    <subfield code="d">1934-2008</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bender, Lionel M.,</subfield>
+    <subfield code="d">1934-2008</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nilo-Saharan Ling. Colloq. (1st : 1980 : Leiden, Netherlands). Nilo-Saharan, 1981 (a.e.)</subfield>
+    <subfield code="b">t.p. (M. Lionel Bender)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6/15/83</subfield>
+    <subfield code="b">(hdg.: Bender, Marvin Lionel, 1934-; usage: M. Lionel Bender; M.L. Bender)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Nilo-Saharan languages, 1997:</subfield>
+    <subfield code="b">t.p. (Lionel M. Bender)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Linguist, Feb. 25, 2008</subfield>
+    <subfield code="b">(Marvin Lionel Bender, b. Aug. 18, 1934, Mechanicsburg, Pa.; d. Feb. 19, 2008, Cape Girardeau, Mo.)</subfield>
+  </datafield>
+</record>
