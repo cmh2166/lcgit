@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00454nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 93022127 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930726120938.8</controlfield>
+  <controlfield tag="008">930726n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93022127 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Federal Highway Administration.</subfield>
+    <subfield code="b">Eastern Federal Lands Highway Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bridging time and technology, 1993:</subfield>
+    <subfield code="b">p. 5 (Federal Highway Administration, Eastern Federal Lands Highway Division; Sterling, VA)</subfield>
+  </datafield>
+</record>
