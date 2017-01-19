@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01147nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 93015087 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930930163329.3</controlfield>
+  <controlfield tag="008">930525n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93015087 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Synod of Kentucky (1866-1869).</subfield>
+    <subfield code="b">Presbytery of Ebenezer</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Synod of Kentucky (1866-1869).</subfield>
+    <subfield code="b">Ebenezer Presbytery</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Presbytery of Ebenezer (Synod of Kentucky : 1866-1869)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Ebenezer Presbytery (Synod of Kentucky : 1866-1869)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Presbyterian Church in the U.S.A.</subfield>
+    <subfield code="b">Presbytery of Ebenezer</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Presbyterian Church in the U.S.</subfield>
+    <subfield code="b">Presbytery of Ebenezer</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Minutes, 1867-1869</subfield>
+    <subfield code="b">(Presbytery of Ebenezer ; Ebenezer Presbytery)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi files</subfield>
+    <subfield code="b">(Presbytery of Ebenezer; also known as Ebenezer Presbytery; erected in Kentucky, 1820 by the Presbyterian Church in the U.S.A.; part of the presbytery broke away in 1867 and remained under the independent Synod of Kentucky (1866-1869) until 1869, when it joined the Presbyterian Church in the U.S.; merged with West Lexington Presbytery in 1935 to form the Presbytery of Lexington-Ebenezer)</subfield>
+  </datafield>
+</record>
