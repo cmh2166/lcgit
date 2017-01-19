@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00588nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009119693</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090806075429.0</controlfield>
+  <controlfield tag="008">090804n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009119693</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08193360</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCU-Mu</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">English Philharmonia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Williams, C. Songs of the Coromandel coast [SR] p2008:</subfield>
+    <subfield code="b">container (English Philharmonia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">English Philharmonia WWW site, Aug. 4, 2009</subfield>
+    <subfield code="b">(English Philharmonia; freelance orchestra, composed primarily of musicians from the London area)</subfield>
+    <subfield code="u">http://www.englishphilharmonia.co.uk</subfield>
+  </datafield>
+</record>
