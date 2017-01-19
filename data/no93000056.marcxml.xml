@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00425nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 93000056 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930128095222.7</controlfield>
+  <controlfield tag="008">930104n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93000056 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ATLA</subfield>
+    <subfield code="c">ATLA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Urmy, William S.</subfield>
+    <subfield code="q">(William Smith)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Christ came again [MI] 1900:</subfield>
+    <subfield code="b">t.p. (William S. Urmy, D.D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 1/4/93</subfield>
+    <subfield code="b">(hdg.: Urmy, William Smith; usage: William S. Urmy)</subfield>
+  </datafield>
+</record>
