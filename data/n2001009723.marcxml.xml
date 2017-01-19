@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00746cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2001009723</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320075836.0</controlfield>
+  <controlfield tag="008">010530n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001009723</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Filarete,</subfield>
+    <subfield code="d">approximately 1400-approximately 1469.</subfield>
+    <subfield code="t">Trattato di architettura.</subfield>
+    <subfield code="l">Latin</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Filarete,</subfield>
+    <subfield code="d">approximately 1400-approximately 1469.</subfield>
+    <subfield code="t">Architectura</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Filarete,</subfield>
+    <subfield code="d">approximately 1400-approximately 1469.</subfield>
+    <subfield code="t">Latinizzazione del Trattato d'architettura di Filarete</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Filarete,</subfield>
+    <subfield code="d">ca. 1400-ca. 1469.</subfield>
+    <subfield code="t">Trattato di architettura.</subfield>
+    <subfield code="l">Latin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La latinizzazione del Trattato d'architettura di Filarete, 2000:</subfield>
+    <subfield code="b">p. 1 (Antonii Averulini Architectura)</subfield>
+  </datafield>
+</record>
