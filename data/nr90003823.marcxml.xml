@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 90003823 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950721123816.2</controlfield>
+  <controlfield tag="008">900312n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 90003823 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Bitovt, I︠U︡rīĭ</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Bitovt, I︠U︡riĭ I︠U︡līanovich</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Reprint. Originally published: Moskva : Tip. S.P. Semenova, 1905.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ri︠e︡dkīi︠a︡ russkīi︠a︡ knigi i letuchīi︠a︡ izdanīi︠a︡ XVIII vi︠e︡ka, 1989:</subfield>
+    <subfield code="b">t.p. (I︠U︡rīĭ Bitovt) t.p. verso (I︠U︡riĭ I︠U︡līanovich Bitovt)</subfield>
+  </datafield>
+</record>
