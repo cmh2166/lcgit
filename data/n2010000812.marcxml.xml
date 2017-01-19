@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01305cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2010000812</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130304142356.0</controlfield>
+  <controlfield tag="008">100106n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010000812</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08352724</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UkCU</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Z︠h︡abinkaŭski rai︠o︡n (Belarus)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Жабінкаўскі раён (Belarus)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Z︠h︡abynkivsʹkiĭ raĭon (Belarus)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Жабинківський район (Belarus)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Zhabinkawski rayon (Belarus)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Benzi︠a︡ruk, Rastsislaŭ. Sorak daroh, 2007:</subfield>
+    <subfield code="b">p. 3 (Zhabinkaŭski rai︠o︡n, utvorany ŭ 1940 hodze ... ŭ Brėstskaĭ voblastsi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vikipedii︠a︡ viewed Jan. 6, 2010:</subfield>
+    <subfield code="b">(Жабинківський район; Жабінкаўскі раён; адміністративно-територіальна одиниця у складі Берестейської області Білорусі; Адміністративний центр--місто Жабинка)</subfield>
+    <subfield code="u">http://uk.wikipedia.org</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, Mar. 2, 2013</subfield>
+    <subfield code="b">(Zhabinkawski Rayon; in Brestskaya Voblastsʹ, Belarus; ADM2; 52°10'N, 024°05'E)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Belarus</subfield>
+    <subfield code="z">Z︠h︡abinkaŭski rai︠o︡n</subfield>
+  </datafield>
+</record>
