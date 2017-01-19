@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01094cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2004011971</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322100749.0</controlfield>
+  <controlfield tag="008">040209n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004011971</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06267628</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">New Zealand School Dental Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Department of Health.</subfield>
+    <subfield code="b">School Dental Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Division of Dental Health.</subfield>
+    <subfield code="b">School Dental Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Division of Dental Hygiene.</subfield>
+    <subfield code="b">School Dental Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">New Zealand School Dental Nurses</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">School Dental Service</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The New Zealand School Dental Service, 1963?</subfield>
+    <subfield code="b">pref. (Division of Dental Hygiene; renamed Division of Dental Health in 1960; its major activity, the School Dental Service)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The public health, 1989</subfield>
+    <subfield code="b">t.p. (Department of Health) p. 33 (the dept. directly administers the School Dental Service)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lecture notes for student dental nurses. Anatomy and physiology, 1980</subfield>
+    <subfield code="b">t.p. (The New Zealand School Dental Nurses)</subfield>
+  </datafield>
+</record>
