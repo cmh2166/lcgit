@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00432nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2001067713</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010606100801.0</controlfield>
+  <controlfield tag="008">010606n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001067713</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Round Hill School (Round Hill, Va.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Round Hill (Va.).</subfield>
+    <subfield code="b">Round Hill School</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Thomas Balch Library for Its Register, 1890-1895</subfield>
+    <subfield code="b">(Round Hill School; Round Hill, Va.)</subfield>
+  </datafield>
+</record>
