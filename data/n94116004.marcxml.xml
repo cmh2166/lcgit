@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00808cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  94116004 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312091922.0</controlfield>
+  <controlfield tag="008">941202n| azabbaaan          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94116004 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03732176</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NIC</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1994</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Verma, H. N.</subfield>
+    <subfield code="q">(Hari Narain),</subfield>
+    <subfield code="d">1926-</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="f">1994</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Selections</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Selected works of H.N. Verma and Amrit Verma</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Verma, Amrit.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="f">1994</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Verma, H. N.</subfield>
+    <subfield code="q">(Hari Narain),</subfield>
+    <subfield code="d">1926-</subfield>
+    <subfield code="t">Selections.</subfield>
+    <subfield code="f">1994</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Campbell, Calif. :</subfield>
+    <subfield code="b">GIP Books</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decisive battles of India, c1994:</subfield>
+    <subfield code="b">ser. t.p. (Selected works of H.N. Verma and Amrit Verma)</subfield>
+  </datafield>
+</record>
