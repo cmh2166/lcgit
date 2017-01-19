@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01318cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 99045380 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316100500.0</controlfield>
+  <controlfield tag="008">990624n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99045380 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05013947</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">O</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">O</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Ohio.</subfield>
+    <subfield code="b">Bureau of Labor Statistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Ohio.</subfield>
+    <subfield code="b">Bureau of Statistics of Labor</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Ohio.</subfield>
+    <subfield code="b">Bureau of the Statistics of Labor</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Ohio.</subfield>
+    <subfield code="b">Labor Statistics, Bureau of</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Industrial Commission of Ohio.</subfield>
+    <subfield code="b">Department of Investigation and Statistics</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual rept. of the Bureau of Labor Statistics made to the General Assembly of Ohio for the year ... 1877-1912:</subfield>
+    <subfield code="b">p. 520 of 1st rept. (the Bureau of Statistics of Labor); t.p. of 12th rept. (Bureau of the Statistics of Labor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Union bib. of Ohio print. state doc. ... 1973</subfield>
+    <subfield code="b">(under Industrial Relations, Dept. of: Labor Statistics, Division of (1877-1965); the Ohio Bureau of Statistics on [sic] Labor; a separate agency until 1913, when it was incorp. into the Industrial Commission as the Division [sic] of Investigation and Statistics)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Industrial Commission of Ohio. Dept. of Investigation and Statistics. Report, 1914- : t.p. of no. 1 (The Industrial Commission of Ohio, Department of Investigation and Statistics)</subfield>
+  </datafield>
+</record>
