@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00670cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007154481</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140806140120.0</controlfield>
+  <controlfield tag="008">071214n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007154481</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07608732</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Bill,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Evans, William Germaine,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Evans, B. Absolute beginners. Banjo, c2007:</subfield>
+    <subfield code="b">p. 39 (Bill Evans; bluegrass banjo player and teacher; instructional columnist for Banjo newsletter; CDs: Native and fine, Bill Evans plays banjo; San Francisco Bay Area resident)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. copyright file, Dec. 14, 2007</subfield>
+    <subfield code="b">(Evans, William Germaine, 1956- )</subfield>
+  </datafield>
+</record>
