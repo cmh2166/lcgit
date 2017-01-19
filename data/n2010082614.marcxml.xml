@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00553nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2010082614</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101224074830.0</controlfield>
+  <controlfield tag="008">101223n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010082614</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Xianggang shi jue yi shu za zhi she</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Shi jue yi shu za zhi she</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">香港視覺藝術雜誌社</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yi hai guan lan, 2009:</subfield>
+    <subfield code="b">colophon (香港視覺藝術雜誌社 = Xianggang shi jue yi shu za zhi she) t.p. (Shi jue yi shu za zhi she)</subfield>
+  </datafield>
+</record>
