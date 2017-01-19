@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00729cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 94028397 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314101526.0</controlfield>
+  <controlfield tag="008">940826n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94028397 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1527</subfield>
+    <subfield code="t">1536</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Davoust, Guillaume,</subfield>
+    <subfield code="d">active 1527-1536</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">D'Avost, Guillaume,</subfield>
+    <subfield code="d">active 1527-1536</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Davoust, Guillaume,</subfield>
+    <subfield code="d">fl. 1527-1536</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Davoust, Gulielmus,</subfield>
+    <subfield code="d">active 1527-1536</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Methodus confessionalis in compendium redacta, 1533:</subfield>
+    <subfield code="b">t.p. (Gulielmum Dauoust; Paris publisher, associated with Simon de Colines)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ReĚpertoire des imprimeurs parisiens, 1965:</subfield>
+    <subfield code="b">p. 107-108 (Davoust, D'Avost (Guillaume); fl. 1527-1536)</subfield>
+  </datafield>
+</record>
