@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00568cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 98009905 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050310090518.0</controlfield>
+  <controlfield tag="008">980317n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98009905 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS2904.S2</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Stanley, Caroline Abbot,</subfield>
+    <subfield code="d">1849-1919</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The pink tulip, [1898?]:</subfield>
+    <subfield code="b">t.p. (Caroline Stanley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 3/16/98 (hdg.: Stanley, Caroline Abbot, 1849-1919; variants: Stanley, Caroline (Abbot), Mrs., 1849- ; Stanley, Caroline H. Abbot, 1849-1919 ; usage: Caroline Abbot Stanley; Caroline H. Stanley)</subfield>
+  </datafield>
+</record>
