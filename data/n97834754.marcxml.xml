@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00685nz  a2200181n  4500</leader>
+  <controlfield tag="001">n  97834754 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970926071002.9</controlfield>
+  <controlfield tag="008">970926n| acannaab|           n and     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97834754 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 301217584</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="c">NN-PD</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Carib Pedlar (Choreographic work : Maule)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Chor: Michael Maule; mus: Darius Milhaud (Scaramouche)  First perf: 1954.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Perf: New York, Juilliard School, Mar 20, 1983; Juilliard Dance Ensemble.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MGZHB 4-2264.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NYPL Dict. Cat. of the Dance Coll., 1974-</subfield>
+  </datafield>
+</record>
