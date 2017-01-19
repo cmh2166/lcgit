@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01081cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  84068352 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160611075405.0</controlfield>
+  <controlfield tag="008">840409n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84068352 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01107130</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MoSU-L</subfield>
+    <subfield code="d">TNJ</subfield>
+    <subfield code="d">ViRU-L</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1951-</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Craig, P. P.</subfield>
+    <subfield code="q">(Paul P.)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Administrative law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Oxford</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lawyers</subfield>
+    <subfield code="a">Law teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Craig, Paul,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Administrative law, 1983:</subfield>
+    <subfield code="b">title page (P. P. Craig, fellow and tutor in law, Worcester College, Oxford) Brit. CIP (Craig, Paul)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Public law and democracy in the U.K. and the U.S.A., 1990</subfield>
+    <subfield code="b">title page (P.P. Craig) Brit. CIP (Craig, P. P. (Paul P.), 1951- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">UK, EU and global administrative law, 2015</subfield>
+    <subfield code="b">(Professor of English Law at the University of Oxford and a Fellow of St. John's College. He specialises in administrative and EU law, and has authored leading works in these area)</subfield>
+  </datafield>
+</record>
