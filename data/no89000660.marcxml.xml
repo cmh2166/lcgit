@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 89000660 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020404053317.0</controlfield>
+  <controlfield tag="008">890119n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89000660 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02442299</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">WaOLN</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL76.9.A86</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Asylbekov, Serīk</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Asylbekūly, Serīk</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Mūghalīmder ku̇nī, 1986:</subfield>
+    <subfield code="b">t.p. (Serīk Asylbekov) Russian colophon (Serik Asylbekov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baspasȯz, poligrafii︠a︡ zhăne būqaralyq aqparat qūraldary terminderīnīn︠g︡ ryssha-qazaqsha sȯzdīgī, 1995:</subfield>
+    <subfield code="b">verso (Serīk Asylbekūly)</subfield>
+  </datafield>
+</record>
