@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00586cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 90014641 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314092848.0</controlfield>
+  <controlfield tag="008">900717n| azannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90014641 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wagner, Karl</subfield>
+    <subfield code="c">(Tenor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stravinsky, I. Les noces [SR] 1954?:</subfield>
+    <subfield code="b">label (Karl Wagner, tenor)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Kutsch/Riemens, 1987;</subfield>
+    <subfield code="a">KuĚrschners deutscher Musiker-Kalendar, 1954;</subfield>
+    <subfield code="a">Int. ww in music, 7th-11th eds.;</subfield>
+    <subfield code="a">Ww in music, 4th-6th eds.;</subfield>
+    <subfield code="a">Baker, 5th-7th eds.;</subfield>
+    <subfield code="a">Altmann, W. Kurzgefasstes TonkuĚnstler-Lexikon, 15. Aufl.;</subfield>
+    <subfield code="a">New Grove.</subfield>
+  </datafield>
+</record>
