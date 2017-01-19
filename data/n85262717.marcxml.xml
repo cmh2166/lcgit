@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00511cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85262717 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080316075013.0</controlfield>
+  <controlfield tag="008">870619n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85262717 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01880395</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lawrence, Reginald,</subfield>
+    <subfield code="d">1900-1967</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hallmark hall of fame. Dinner for the general [MP] 1953-02-22:</subfield>
+    <subfield code="b">credits (by Reginald Lawrence)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Notable names in the American theatre, 1976</subfield>
+    <subfield code="b">(Reginald Lawrence; b. 1900 d. 1967)</subfield>
+  </datafield>
+</record>
