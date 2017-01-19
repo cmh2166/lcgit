@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00567cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  89125950 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901023053502.8</controlfield>
+  <controlfield tag="008">900921n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89125950 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Renardy, M.</subfield>
+    <subfield code="q">(Monika),</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Renardy, Monika,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">International ITV Conference on Biomaterials (3rd : 1989 : Stuttgart, Germany). Medical textiles for implantation, c1990:</subfield>
+    <subfield code="b">CIP t.p. (M. Renardy) t.p. verso, etc. (Dipl. Biol. Monika Renardy; Institut fuĚr Textil- und Verfahrenstechnik, Denkendorf; b. 9/26/58)</subfield>
+  </datafield>
+</record>
