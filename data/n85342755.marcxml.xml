@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00903cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  85342755 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130502074815.0</controlfield>
+  <controlfield tag="008">870310n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85342755 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01804694</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TxSmTSU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1937</subfield>
+    <subfield code="t">1976</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hutchinson, W. E.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Motion picture art directors</subfield>
+    <subfield code="2">lcsh</subfield>
+    <subfield code="s">1937</subfield>
+    <subfield code="t">1976</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">William E.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hutchinson, Bill</subfield>
+    <subfield code="q">(William E.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hutchinson, William E.</subfield>
+    <subfield code="q">(Bill)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Dirty dozen [MP] 1967:</subfield>
+    <subfield code="b">credits (art director, W.E. Hutchinson)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Performing arts biog. master index, 1981.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, April 30, 2013</subfield>
+    <subfield code="b">(William Hutchinson (II); also credited as Bill Hutchinson, W.E. Hutchinson, William E. Hutchinson; Art director, Art dept., Production designer 1937-1976)</subfield>
+  </datafield>
+</record>
