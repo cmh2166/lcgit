@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00811cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80045319 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090307081312.0</controlfield>
+  <controlfield tag="008">800522n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80045319 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00427295</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bastos, Aurélio Wander</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wander Bastos, Aurélio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wander Chaves Bastos, Aurélio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chaves Bastos, Aurélio Wander</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Os Cursos jurídicos e as elites políticas brasileiras, 1978 (a.e.)</subfield>
+    <subfield code="b">t.p. (Aurélio Wander Bastos)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">O Balanço do poder, c1990:</subfield>
+    <subfield code="b">t.p. (Aurélio Wander Bastos) p. 7 (Aurélio Wander Chaves Bastos; lawyer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A OAB e a UnB, 2009:</subfield>
+    <subfield code="b">t.p. (Aurélio Wander Bastos) t.p. verso (Braz. CIP hdg.: Bastos, Aurélio Wander, 1943- )</subfield>
+  </datafield>
+</record>
