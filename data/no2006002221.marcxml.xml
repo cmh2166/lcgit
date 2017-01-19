@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00427nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006002221</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060111052222.0</controlfield>
+  <controlfield tag="008">060105n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006002221</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06823203</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rosasco, José Luis.</subfield>
+    <subfield code="t">Prose works.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosasco, José Luis.</subfield>
+    <subfield code="t">Dónde estás, Constanza--</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dónde estás, Constanza--, 2004.</subfield>
+  </datafield>
+</record>
