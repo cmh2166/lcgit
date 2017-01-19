@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00921cz  a2200241n  4500</leader>
+  <controlfield tag="001">n 2013003204</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130123074849.0</controlfield>
+  <controlfield tag="008">130122n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013003204</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1568</subfield>
+    <subfield code="g">1640</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL314.G7</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Qövsi Täbrizi,</subfield>
+    <subfield code="d">1568-1640</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Qövsi Täbrizi, Älican,</subfield>
+    <subfield code="d">1568-1640</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Gȯvsi Tăbrizi,</subfield>
+    <subfield code="d">1568-1640</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tăbrizi, Gȯvsi,</subfield>
+    <subfield code="d">1568-1640</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Qawsī Tabrīzī,</subfield>
+    <subfield code="d">1568-1640</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">قوسى تبريزى</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Qövsi Täbrizi, 2006:</subfield>
+    <subfield code="b">v. 1, t.p. (Qövsi Täbrizi; Älican Qövsi Täbrizi) v. 2, added t.p. (قوسى تبريزى = Qawsī Tabrīzī)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seĭ̇dov, M. Gȯvsi Tăbrizi, 1963.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Azerbaiyán, via www, 22 Jan 2013:</subfield>
+    <subfield code="b">(Qovsi Tabrizi; 1568-1640; Azerbaijani poet)</subfield>
+  </datafield>
+</record>
