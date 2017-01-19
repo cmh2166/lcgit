@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00842cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  81124875 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080220092020.0</controlfield>
+  <controlfield tag="008">811208n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81124875 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00669790</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rogers, Colin,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rogers, Colin D.</subfield>
+    <subfield code="q">(Colin Darlington),</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rogers, C. D.</subfield>
+    <subfield code="q">(Colin Darlington),</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The Lancashire population crisis of 1623, 1975:</subfield>
+    <subfield code="b">t.p. (C.D. Rogers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The family tree detective, 1985:</subfield>
+    <subfield code="b">CIP t.p. (Colin D. Rogers) data sheet (b. 1936)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brit. Libr. database, Feb. 16, 2008</subfield>
+    <subfield code="b">(auth. hdg.: Rogers, Colin, 1936-; Colin Darlington Rogers; b. Jan. 12, 1936; usage: Colin Rogers; Colin D. Rogers; C.D. Rogers)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog hdg.: Rogers, Colin Darlington</subfield>
+  </datafield>
+</record>
