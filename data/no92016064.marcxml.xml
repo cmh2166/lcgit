@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00972cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 92016064 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312094245.0</controlfield>
+  <controlfield tag="008">920625n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92016064 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Labor.</subfield>
+    <subfield code="b">Office of Program Economics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Labor.</subfield>
+    <subfield code="b">Office of the Assistant Secretary for Policy.</subfield>
+    <subfield code="b">Office of Program Economics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Dept. of Labor.</subfield>
+    <subfield code="b">Office of Program Economics</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Labor.</subfield>
+    <subfield code="b">Office of the Assistant Secretary for Policy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mines, R. Findings from the National Agricultural Workers Survey (NAWS) 1989, 1991:</subfield>
+    <subfield code="b">t.p. (Office of Program Economics, U.S. Department of Labor, Office of the Assistant Secretary for Policy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fed. exec. dir., Mar./Apr. 1992</subfield>
+    <subfield code="b">(Department of Labor; Policy, Assistant Secretary; Program Economics Ofc.)</subfield>
+  </datafield>
+</record>
