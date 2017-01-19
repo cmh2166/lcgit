@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2005002655</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050112052144.0</controlfield>
+  <controlfield tag="008">050111n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005002655</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06532938</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Scott, Lucius H.</subfield>
+    <subfield code="q">(Lucius Hubbard),</subfield>
+    <subfield code="d">1794-1875</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Scott, Lucius Hubbard,</subfield>
+    <subfield code="d">1794-1875</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Letter from the right worshipful grand officers of the Grand Lodge of Penna. ..., 1865:</subfield>
+    <subfield code="b">p. 7 (Lucius H. Scott, Grand Master of Masons of Penna.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tribune Star [Terre Haute, Ind.] WWW page, Jan. 10, 2005</subfield>
+    <subfield code="b">(Lucius Hubbard Scott, b. Weatherfield, Windsor Co., Vt., Mar. 29, 1794; d. Bristol, Bucks Co., Pa., Apr. 22, 1875; businessman, politician, Freemason in Terre Haute, Ind. and from 1847 onward in Bristol, Pa.)</subfield>
+  </datafield>
+</record>
