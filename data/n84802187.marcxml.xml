@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84802187 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081205081557.0</controlfield>
+  <controlfield tag="008">840614n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84802187 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01114182</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boussinesq, Georges,</subfield>
+    <subfield code="d">1886-1914</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Histoire de Reims depuis les origines jusqu'aĚ nos jours, 1980:</subfield>
+    <subfield code="b">t.p. (Georges Boussinesq)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC, pre-1956</subfield>
+    <subfield code="b">(hdg.: Boussinesq, Georges, 1886-1914)</subfield>
+  </datafield>
+</record>
