@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00927cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2002034820</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130728234308.0</controlfield>
+  <controlfield tag="008">020423n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002034820</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05744781</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">San Juan, Thelma Sioson</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Philippines</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Journalism</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Philippine Daily Inquirer</subfield>
+    <subfield code="a">St. Theresa's College</subfield>
+    <subfield code="a">LOOK Magazine</subfield>
+    <subfield code="a">Cocoon Magazine</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Editor</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">tgl</subfield>
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Juan, Thelma Sioson San</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sioson San Juan, Thelma</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">People power 2, c2001:</subfield>
+    <subfield code="b">t.p. (Thelma Sioson San Juan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I'm afraid of heights, c2012:</subfield>
+    <subfield code="b">t.p. (Thelma Sioson San Juan) back flap (lifestyle editor of Philippine Daily Inquirer ; journalism graduate of St. Theresa's College ; editorial director of LOOK Magazine ; editor in chief of Cocoon Magazine)</subfield>
+  </datafield>
+</record>
