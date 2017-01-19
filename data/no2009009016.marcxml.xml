@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00638nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009009016</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090123082546.0</controlfield>
+  <controlfield tag="008">090121n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009009016</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07991733</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DFo</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DFo</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-uk-en</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">East Worlington (England)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Assignment of mortgage from Richard Radford of East Worlington, Gent., to William Rosier of Northam, Gent., 1732 August 1</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ordnance Survey, [via www, 30 Dec. 2008]</subfield>
+    <subfield code="b">(East Worlington, Devon, SS 770 140, not to be confused with Worlington, Devon, SS 485 305)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">England</subfield>
+    <subfield code="z">East Worlington</subfield>
+  </datafield>
+</record>
