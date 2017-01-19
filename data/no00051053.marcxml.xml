@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00449nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 00051053 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000720064043.0</controlfield>
+  <controlfield tag="008">000719n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00051053 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05261807</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC-P</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCoLC-P</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bredland, Ebba Langum</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Langum Bredland, Ebba</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Det handler om verdighet, c1996:</subfield>
+    <subfield code="b">t.p. (Ebba Langum Bredland) p. 4 of cover (er ledende fysioterapeut...)</subfield>
+  </datafield>
+</record>
