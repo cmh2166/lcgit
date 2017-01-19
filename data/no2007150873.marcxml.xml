@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2007150873</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140429141407.0</controlfield>
+  <controlfield tag="008">071207n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007150873</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07602140</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OOC</subfield>
+    <subfield code="d">OOC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Buxtehude, Dietrich,</subfield>
+    <subfield code="d">1637-1707.</subfield>
+    <subfield code="t">Es ist das Heil uns kommen her</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Buxtehude, D. The Bach perspective [SR] p2007:</subfield>
+    <subfield code="b">container (Es ist das Heil uns kommen her' : BuxWV 186)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KarstaĚdt, 2. Aufl.</subfield>
+    <subfield code="b">(Werke fuĚr Orgel: 186, Es ist das Heil uns kommen her)</subfield>
+  </datafield>
+</record>
