@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00983nz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2015006005</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150128113406.0</controlfield>
+  <controlfield tag="008">150128n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015006005</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smirnova, K. N.</subfield>
+    <subfield code="q">(Ksenii︠a︡ Nikolaevna)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Judges</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Smirnova, Ksenii︠a︡ Nikolaevna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Смирнова, К. Н.</subfield>
+    <subfield code="q">(Ксения Николаевна)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Смирнова, Ксения Николаевна</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Osnovnye poni︠a︡tii︠a︡ Ugolovno-prot︠s︡essualʹnogo kodeksa Rossiĭskoĭ Federat︠s︡ii, 2015:</subfield>
+    <subfield code="b">t.p. (К.Н. Смирнова = K.N. Smirnova) colophon (Смирнова Ксения Николаевна = Smirnova Ksenii︠a︡ Nikolaevna) t.p. verso (kandidat i︠u︡ridicheskikh nauk, sudʹi︠a︡ Okti︠a︡brʹskogo raĭonnogo suda g. Omska)</subfield>
+  </datafield>
+</record>
