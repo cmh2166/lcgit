@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2004021911</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040629085357.0</controlfield>
+  <controlfield tag="008">040629n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004021911</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Liberal Federation of Canada</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Fédération libérale du Canada</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">National Liberal Federation of Canada</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Liberal Party of Canada</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amicus, June 29, 2004</subfield>
+    <subfield code="b">(Liberal Federation of Canada; Name of the National Liberal Federation of Canada changed 1964 to Liberal Federation of Canada.  In 1970 the name changed again to Liberal Party of Canada; equivalent: Fédération libérale du Canada)</subfield>
+  </datafield>
+</record>
