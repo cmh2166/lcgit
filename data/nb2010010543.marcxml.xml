@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2010010543</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100425074934.0</controlfield>
+  <controlfield tag="008">100423n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010010543</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007777615</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zink, Michael,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n86848588</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marcel van Eeden : wird die moderne Kunst "gemanagt"? : Zeichnungen und Malerei 1992-2009, 2009:</subfield>
+    <subfield code="b">t.p. (Michael Zink) BL e-mail sent 13 Apr. 2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from author, 21 Apr. 2010</subfield>
+    <subfield code="b">(Michael Zink, born 16 Oct. 1968)</subfield>
+  </datafield>
+</record>
