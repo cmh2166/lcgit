@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01226cz  a2200253n  4500</leader>
+  <controlfield tag="001">no2015104319</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161208073736.0</controlfield>
+  <controlfield tag="008">150807n| azaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015104319</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10238386</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DGPO</subfield>
+  </datafield>
+  <datafield tag="086" ind1="0" ind2=" ">
+    <subfield code="a">Y 3.N 88:63/</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Evaluation report (U.S. Nuclear Regulatory Commission. Office of Inspector General)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series (Publications)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">U.S. Nuclear Regulatory Commission.</subfield>
+    <subfield code="b">Office of Inspector General.</subfield>
+    <subfield code="t">Evaluation report</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Washington, D.C.</subfield>
+    <subfield code="b">U.S. Nuclear Regulatory Commission, Office of the Inspector General</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DGPO</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DGPO</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">DGPO</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SuDoc stem classes all U.S. NRC OIG reports from various series by OIG report no., e.g., OIG-08-A-18.  Other series classed with this one include the Office's Audit report (no2014124583) and Memorandum report (no2015128137).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Nuclear Regulatory Commission. Office of Inspector General. Office of the Inspector General information security evaluation of Region II - Atlanta, GA, 2009:</subfield>
+    <subfield code="b">PDF title page (Evaluation report)</subfield>
+  </datafield>
+</record>
