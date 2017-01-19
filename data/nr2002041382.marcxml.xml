@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00345nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2002041382</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021113033116.0</controlfield>
+  <controlfield tag="008">021108n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002041382</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Breier, Zeev</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Even in the darkest moments, 2002:</subfield>
+    <subfield code="b">t.p. (Zeev Breier) p. 4 (Mr. Zeev Breier ... Jerusalem)</subfield>
+  </datafield>
+</record>
