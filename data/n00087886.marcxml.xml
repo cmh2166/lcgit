@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01000cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  00087886 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160504075327.0</controlfield>
+  <controlfield tag="008">000810n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00087886 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0041900</subfield>
+    <subfield code="e">E0041900</subfield>
+    <subfield code="f">N0504800</subfield>
+    <subfield code="g">N0504800</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05287375</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-be---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Forest (Brabant, Belgium)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Forest-lez-Bruxelles (Belgium)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Vorst (Belgium)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Vorst bij Brussel (Belgium)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Goldberg, Martine. 346 chaussee d'Alsemberg, c1996:</subfield>
+    <subfield code="b">t.p. (Forest) p. 4 (Forest-lez-Bruxelles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNet WWW p., 8-10-00</subfield>
+    <subfield code="b">(Forest; ppl, 50°48ʹ00ʺN; 4°19ʹ00ʺE; variant: Vorst; in Brabant; also lists ppl called Forest in Hainaut)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seyn, E. de. Dict. hist. et géog. des communes belges, 194-?- :</subfield>
+    <subfield code="b">v. 1, p. 410 (Forest (lez-Bruxelles), Vorst (bij Brussel); commune de la province de Brabant)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Belgium</subfield>
+    <subfield code="z">Forest (Brabant)</subfield>
+  </datafield>
+</record>
