@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  88297181 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080811162209.0</controlfield>
+  <controlfield tag="008">890316n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88297181 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02481277</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Met︠s︡ik, M. S.</subfield>
+    <subfield code="q">(Mikhail Stepanovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Met︠s︡ik, Mikhail Stepanovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Мецик, М. С.</subfield>
+    <subfield code="q">(Михаил Степанович)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Potapov, A. A. Diėlektricheskai︠a︡ poli︠a︡rizat︠s︡ii︠a︡, 1986:</subfield>
+    <subfield code="b">t.p. (M. S. Met︠s︡ik) colophon (Mikhail Stepanovich Met︠s︡ik)</subfield>
+  </datafield>
+</record>
