@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00935cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88167442 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070508074825.0</controlfield>
+  <controlfield tag="008">890214n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88167442 </subfield>
+    <subfield code="z">n  91021163 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Korolev, V.</subfield>
+    <subfield code="q">(Vladimir)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Korolev, Vladimir Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Rossii bespokoĭnyĭ grazhdanin, 1987:</subfield>
+    <subfield code="b">t.p. (V. Korolev) colophon (Vladimir Nikolaevich Korolev) USSR CIP data (Korolev V.N.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mezhdunarodnye otnosh. v basseĭne Chernogo mori︠a︡ v drevnosti i srednie veka, 1986:</subfield>
+    <subfield code="b">verso t.p. (V.N. Korolev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Istoricheskai︠a︡ geografii︠a︡ Dona i Severnogo Kavkaza, 1992:</subfield>
+    <subfield code="b">t.p. (... kandidata istoricheskikh nauk V.N. Koroleva)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vladimir Korolev (Ėzhʹes Mikol Mikol Volodʹ), 1999:</subfield>
+    <subfield code="b">t.p. (Vladimir Korolev; Ėzhʹes Mikol Mikol Volodʹ) p. [4] ( Vladimir Korolev, b. Oct. 17, 1948 Keres village, Komi Republic)</subfield>
+  </datafield>
+</record>
