@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00571nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012023724</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120219075035.0</controlfield>
+  <controlfield tag="008">120217n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012023724</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09119454</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Historia del abad don Juan, senﾌバr de Montemayor</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Abad don Juan, senﾌバr de Montemayor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El abad don Juan, senﾌバr de Montemayor, 2012:</subfield>
+    <subfield code="b">t.p. ; p. 85, etc. (Historia del abad don Juan, senﾌバr de Montemayor; a medieval legend, first attested in written form in the 15th cent.)</subfield>
+  </datafield>
+</record>
