@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00396nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2009156604</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091003075505.0</controlfield>
+  <controlfield tag="008">091001n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009156604</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08258415</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Waltschenko, Vitaliy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Griechisch-RoĚmisches und Verwandtes, c1997:</subfield>
+    <subfield code="b">verso t.p. (herausgegeben von Vitaliy Waltschenko)</subfield>
+  </datafield>
+</record>
