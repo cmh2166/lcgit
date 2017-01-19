@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00725nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007075999</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070711075258.0</controlfield>
+  <controlfield tag="008">070524n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007075999</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07458132</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">KU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Honduras.</subfield>
+    <subfield code="b">Dirección del Folklore Nacional</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Honduras.</subfield>
+    <subfield code="b">Folklore Nacional, Dirección del</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Honduras.</subfield>
+    <subfield code="b">Dirección General de Educación Artística y Extensión Cultural.</subfield>
+    <subfield code="b">Dirección del Folklore Nacional</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Música y canciones de Honduras. Tomo 1, 1971:</subfield>
+    <subfield code="b">cover (Honduras Dirección del Folklore Nacional) p. 1 (Dirección General de Educación Artística y Extensión Cultural, Dirección del Folklore Nacional)</subfield>
+  </datafield>
+</record>
