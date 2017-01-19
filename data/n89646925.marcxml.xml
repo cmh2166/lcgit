@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01224cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  89646925 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910422124427.7</controlfield>
+  <controlfield tag="008">890822n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89646925 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Siebert, Fred S.</subfield>
+    <subfield code="q">(Fred Seaton),</subfield>
+    <subfield code="d">1902?-1982</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Siebert, Fredrick Seaton,</subfield>
+    <subfield code="d">1902-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Siebert, Fredrick Seaton,</subfield>
+    <subfield code="d">1902?-1982</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Seibert, Frederick Seaton,</subfield>
+    <subfield code="d">1902?-1982</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-91494: His Four theories of the press, 1963</subfield>
+    <subfield code="b">(hdg. on NcGU rept.: Siebert, Fredrick Seaton, 1902- ; usage: Fred S. Siebert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8/22/89</subfield>
+    <subfield code="b">(hdg.: Siebert, Fredrick Seaton, 1902- ; usage: Fred S. Siebert) LC manual auth. cd. (some sources give birthdate as 1901, others give it as 1902; some sources give forename as Fredrick, others give it as Frederick)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Univ. of Ill. at Urbana-Champaign Archives for His Papers, 1932-1979</subfield>
+    <subfield code="b">(Siebert, Frederick S., 1901-1982; professor of journalism at Univ. of Ill. (Urbana-Champaign campus))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bio. and gen. master index, c1980</subfield>
+    <subfield code="b">(Siebert, Fred Seaton, 1901- ; Siebert, Frederick Seaton, 1902- ; Siebert, Fredrick Seaton, 1901- ; Siebert, Fredrick Seaton, 1902- )</subfield>
+  </datafield>
+</record>
