@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00545nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 95030216 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950623055050.8</controlfield>
+  <controlfield tag="008">950622n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95030216 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03862230 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="c">DJBF</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Independent Review of the Sardar Sarovar Projects</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Sardar Sarovar Projects Independent Review</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sardar Sarovar, 1992:</subfield>
+    <subfield code="b">p. xi (Sardar Sarovar Projects Independent Review)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC, 11/26/92</subfield>
+    <subfield code="b">(hdg.: Independent Review of the Sardar Sarovar Projects)</subfield>
+  </datafield>
+</record>
