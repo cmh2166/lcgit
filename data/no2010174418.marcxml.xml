@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00847cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2010174418</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120315075152.0</controlfield>
+  <controlfield tag="008">101027n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010174418</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08669105</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">HkUST</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">HkUST</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shao, Qitao,</subfield>
+    <subfield code="d">1718-1769</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">邵齊燾,</subfield>
+    <subfield code="d">1718-1769</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shao, Xunci,</subfield>
+    <subfield code="d">1718-1769</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">邵荀慈,</subfield>
+    <subfield code="d">1718-1769</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shao, Shushan,</subfield>
+    <subfield code="d">1718-1769</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">邵叔山,</subfield>
+    <subfield code="d">1718-1769</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yu zhi tang wen ji [in Si ku quan shu cun mu cong shu. Ji bu, v. 281], 1997:</subfield>
+    <subfield code="b">t.p. (邵齊燾 = Shao Qitao) p. 560 (zi: 荀慈 = Xunci)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wei ji bai ke WWW site, Oct. 26, 2010</subfield>
+    <subfield code="b">(邵齊燾 = Shao Qitao; 1718-1769; zi: 荀慈 = Xunci; hao: 叔山 = Shushan; 1742 jin shi)</subfield>
+  </datafield>
+</record>
