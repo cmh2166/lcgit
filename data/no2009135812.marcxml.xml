@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00452nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2009135812</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090829075522.0</controlfield>
+  <controlfield tag="008">090827n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009135812</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08221032</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Savarenskai︠a︡, Olʹga,</subfield>
+    <subfield code="d">1948-2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Teatr Olʹgi Savarenskoĭ, 2008:</subfield>
+    <subfield code="b">p. 261 (b. Jan. 15, 1948 in Moscow) p. 263, etc. (d. Jan. 4, 2000 in St. Petersburg; costume designer)</subfield>
+  </datafield>
+</record>
