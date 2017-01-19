@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00790cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 92002625 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120309075301.0</controlfield>
+  <controlfield tag="008">920121n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92002625 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03094697</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CaLaUCEA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tsuchiya, Shun,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">土屋俊,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">土屋悛,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tutiya, Syun,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Witogenshutain igo, 1991:</subfield>
+    <subfield code="b">t.p. (Tsuchiya Shun) colophon (r; b. 1952; asst. prof., Chiba Daigaku Bungakubu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shin no hōkatsuteki na gengo no kagaku, 2008:</subfield>
+    <subfield code="b">t.p., colophon (土屋俊 = Tsuchiya Shun; Syun Tutiya [in rom.])</subfield>
+  </datafield>
+</record>
