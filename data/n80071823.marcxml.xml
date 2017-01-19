@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00673cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  87932420 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030614071307.0</controlfield>
+  <controlfield tag="008">870710n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87932420 </subfield>
+    <subfield code="z">n  80071823 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01893232</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NmU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3556.O827</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fowler, Gene,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fowler, David Gene,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fowler, David Eugene,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Border radio, c1987:</subfield>
+    <subfield code="b">CIP t.p. (Gene Fowler) data sheet (b. 7/18/50)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Briefcase, c1979:</subfield>
+    <subfield code="b">t.p. (David Gene Fowler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Crazy water, c1991:</subfield>
+    <subfield code="b">CIP t.p. (Gene Fowler) t.p. verso (copyr., David Eugene Fowler)</subfield>
+  </datafield>
+</record>
