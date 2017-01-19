@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00725cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 98109055 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130321075307.0</controlfield>
+  <controlfield tag="008">980917n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98109055 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04817102</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSf</subfield>
+    <subfield code="c">CSf</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1993</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Qcc</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Queer Cultural Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Lesbian Gay Bi Transgender Center for Art and Culture</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Center for Lesbian Gay Bi Transgender Art and Culture</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Face, c1998:</subfield>
+    <subfield code="b">t.p. (Qcc) p. 2 (The Lesbian Gay Bi Transgender Center for Art and Culture) p. 24 (Queer Culture Center; founded in 1993)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Qcc home page, Aug. 31, 1998</subfield>
+    <subfield code="b">(The Center for Lesbian Gay Bi Transgender Art and Culture)</subfield>
+  </datafield>
+</record>
