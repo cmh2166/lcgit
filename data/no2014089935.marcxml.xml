@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00971cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2014089935</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140817122638.0</controlfield>
+  <controlfield tag="008">140707n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014089935</subfield>
+    <subfield code="z">n  88656776 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09901291</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICrlF</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">White, Lynn</subfield>
+    <subfield code="q">(Lynn Russell)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Illinois</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Arts</subfield>
+    <subfield code="a">Writing</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Artists</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Lynn Russell</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  88656776</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">White, Lynn. A day with Vincent van Gogh, 2006:</subfield>
+    <subfield code="b">t.p. (Lynn White) cover p. 4 (artist, former educator and head of school; in Amsterdam, she headed the Fine Arts Dept. at the International School and studied with Dutch artist Jan van der Veen; currently lives in Illinois)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">White, Lynn. A day with Vincent Van Gogh, 2006 :</subfield>
+    <subfield code="b">t.p. (Lynn White) p. 3 (Lynn Russell White)</subfield>
+  </datafield>
+</record>
