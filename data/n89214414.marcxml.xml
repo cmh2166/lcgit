@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01009cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  89214414 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312085610.0</controlfield>
+  <controlfield tag="008">920306n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89214414 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03124378</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-OI</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1900</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Mat Salleh,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Balu, Datu Mohamed Salleh bin Datu,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Datu Mohamed Salleh bin Datu Balu,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Datu Paduka Mat Salleh,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Mat Salleh,</subfield>
+    <subfield code="d">d. 1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Mohamed Salleh bin Datu Balu,</subfield>
+    <subfield code="c">Datu,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Muhammad Salleh,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Salleh, Datu Paduka Mat,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Salleh, Mat,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Salleh, Muhammad,</subfield>
+    <subfield code="d">-1900</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">R. M. Jasni. Pemberontakan pahlawan Mat Salleh, 1981:</subfield>
+    <subfield code="b">t.p. (Mat Salleh) p. ii (Muhammad Salleh) p. 7 (d. Jan. 30, 1900)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Datu Paduka Mat Salleh, 2007:</subfield>
+    <subfield code="b">t.p. (Datu Paduka Mat Salleh) p. 8 (Datu Mohamed Salleh bin Datu Balu)</subfield>
+  </datafield>
+</record>
