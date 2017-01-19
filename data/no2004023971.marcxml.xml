@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00703nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004023971</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040313071043.0</controlfield>
+  <controlfield tag="008">040312n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004023971</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06295289</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Viola da Gamba Society-Pacific Northwest</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">VdGS-PNW</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Pacific Northwest Viols</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Viola da Gamba Society-Pacific Northwest : [newsletter], Sept. 2003:</subfield>
+    <subfield code="b">t.p. (Viola da Gamba Society-Pacific Northwest) p. 2 (VdGS-PNW)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pacific Northwest Viols : [newsletter], Nov. 2003:</subfield>
+    <subfield code="b">t.p. (Pacific Northwest Viols) p. 2 (Pacific Northwest Viols, formerly the Viola da Gamba Society-Pacific Northwest)</subfield>
+  </datafield>
+</record>
