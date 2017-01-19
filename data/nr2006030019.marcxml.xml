@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00514nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2006030019</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070117075235.0</controlfield>
+  <controlfield tag="008">061110n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006030019</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkOxU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Orbis (Organization)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual report &amp; accounts, 2004/2005:</subfield>
+    <subfield code="b">t.p. (Orbis, working to eliminate avoidable blindness in the developing world)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orbis WWW pages, Nov. 10, 2006</subfield>
+    <subfield code="b">(Orbis, working to eliminate avoidable blindness in the developing world; Orbis UK)</subfield>
+  </datafield>
+</record>
