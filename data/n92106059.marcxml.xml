@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00382cz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 92038621 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930513080210.0</controlfield>
+  <controlfield tag="008">921030n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92038621 </subfield>
+    <subfield code="z">n  92106059 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Halpern, Sylvie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Morgentaler, l'obstineĚ, 1992::</subfield>
+    <subfield code="b">t.p. (Sylvie Halpern) Can. CIP (Halpern, Sylvie) cover p. 4 (journaliste)</subfield>
+  </datafield>
+</record>
