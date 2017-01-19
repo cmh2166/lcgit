@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00881cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  83187181 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090101080901.0</controlfield>
+  <controlfield tag="008">830708n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83187181 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01003417</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yu, Tŭk-kong</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ryu, Deuk-Kong</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">柳得恭</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">유 득공</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">유득공</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kang, M.H. Hanʼguk sesi pʻungsokki, 1981 (a.e.)</subfield>
+    <subfield code="b">p. 223 (Yu Tŭk-kong, author of Kyŏngdo chapchi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Song, C.H. Yu Tŭk-kong ŭi simunhak yŏnʼgu, 1985:</subfield>
+    <subfield code="b">t.p. (Yu Tŭk-kong) p. 20, etc. (b. 1748; d. 9-1-1807; Ryu Deuk-Kong [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inmyŏng tsj., 1967</subfield>
+    <subfield code="b">(Yu Tŭk-kong; b. 1749; death date uncertain)</subfield>
+  </datafield>
+</record>
