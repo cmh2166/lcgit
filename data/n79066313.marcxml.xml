@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01315cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  79066313 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810081007.0</controlfield>
+  <controlfield tag="008">790627n| abannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79066313 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00299204</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Women's Campus Ministry Caucus</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">nnnd</subfield>
+    <subfield code="a">Campus Ministry Women (Organization)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">nnnd</subfield>
+    <subfield code="a">Women in Campus Ministry (Organization)</subfield>
+  </datafield>
+  <datafield tag="665" ind1=" " ind2=" ">
+    <subfield code="a">The Women's Campus Ministry Caucus, established in 1970, changed its name in 1974 to Women in Campus Ministry, and later, to Campus Ministry Women.</subfield>
+    <subfield code="a">Works by these bodies are found under the following headings according to the name used at the time of publication:</subfield>
+    <subfield code="a">Women's Campus Ministry Caucus.</subfield>
+    <subfield code="a">Women in Campus Ministry (Organization).</subfield>
+    <subfield code="a">Campus Ministry Women (Organization).</subfield>
+    <subfield code="a">SUBJECT ENTRY: Works about these bodies are entered under the name used during the latest period covered.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Newsletter ... May 1974, surrogate:</subfield>
+    <subfield code="b">caption t.p. (Women's Campus Ministry Caucus)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Women in Campus Ministry (Organization). Women in Campus Ministry newsletter, June 1975, surrogate: p. 1 (We recently changed our name to Women in Campus Ministry)</subfield>
+  </datafield>
+</record>
