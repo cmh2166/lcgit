@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00873nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012121725</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120913075258.0</controlfield>
+  <controlfield tag="008">120911n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012121725</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09298837</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Historické muzeum (Národní muzeum v Praze).</subfield>
+    <subfield code="b">Oddělení pravěku a antického starověku.</subfield>
+    <subfield code="b">Sbírka klasické archeologie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Historické muzeum (Národní muzeum v Praze).</subfield>
+    <subfield code="b">Sbírka klasické archeologie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Egyptské terakoty, 2010:</subfield>
+    <subfield code="b">p. 4 (sbírky klasické archeologie, Oddělení pravěku a antického starověku Historického muzea Národního muzea)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its website (http://www.nm.cz/Historicke-muzeum/Oddeleni-HM/Oddeleni-praveku-a-antickeho-staroveku/Sbirka-klasicke-archeologie/ viewed 11 Sept. 2012):</subfield>
+    <subfield code="b">(Sbírka klasické archeologie)</subfield>
+  </datafield>
+</record>
