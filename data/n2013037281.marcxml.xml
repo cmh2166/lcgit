@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00447nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2013037281</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130626091409.0</controlfield>
+  <controlfield tag="008">130625n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013037281</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barlow, A. R.</subfield>
+    <subfield code="q">(Alice R.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barlow, Alice R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lest we forget, 1921:</subfield>
+    <subfield code="b">t.p. (A.R. Barlow)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Copyright Catalog, accessed via Google Books, June 25, 2013:</subfield>
+    <subfield code="b">(Alice R. Barlow)</subfield>
+  </datafield>
+</record>
