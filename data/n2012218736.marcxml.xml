@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00473nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2012218736</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130906032301.0</controlfield>
+  <controlfield tag="008">130906n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012218736</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20121002</subfield>
+    <subfield code="t">20121002</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">TB Seal Campaign</subfield>
+    <subfield code="n">(63rd :</subfield>
+    <subfield code="d">2012 :</subfield>
+    <subfield code="c">India)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">India</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">63rd TB Seal Campaign 2012, 2012:</subfield>
+    <subfield code="b">t.p. (63rd TB Seal Campaign) prelim. p. ii (launched on 2nd October 2012)</subfield>
+  </datafield>
+</record>
