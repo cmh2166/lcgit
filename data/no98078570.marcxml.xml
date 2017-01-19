@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00710nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98078570 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980415051827.2</controlfield>
+  <controlfield tag="008">980414n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98078570 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04705704 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DSI</subfield>
+    <subfield code="c">DSI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ronnebeck, Arnold,</subfield>
+    <subfield code="d">1885-1947</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arnold RoĚnnebeck, 1991.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wwho in Amer. art, 1947:</subfield>
+    <subfield code="b">(Ronnebeck, Arnold H.; b. May 8, 1885 in Nassau, Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WwasWho in Amer. art:</subfield>
+    <subfield code="b">(Ronnebeck, Arnold H.; b. May 8, 1885 in Nassau, Germany; d. Nov. 14, 1947)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fielding's dict. of Amer. painters ... 1986:</subfield>
+    <subfield code="b">(Ronnebeck, Arnold; b. May 8, 1885 in Nassau, Germany; sculptor, lithographer, teacher, writer, lecturer)</subfield>
+  </datafield>
+</record>
