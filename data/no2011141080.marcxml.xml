@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011141080</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110912112205.0</controlfield>
+  <controlfield tag="008">110909n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011141080</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08972017</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Warner, Hoyt D.</subfield>
+    <subfield code="q">(Hoyt Dinsmore),</subfield>
+    <subfield code="d">1938-1998</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Value theoretic decompositions of quadratic forms over a linearly compact field, 1975:</subfield>
+    <subfield code="b">t.p. (Hoyt D. Warner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 9, 2011</subfield>
+    <subfield code="b">(hdg.: Warner, Hoyt Dinsmore, 1938- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hartford Courant, viewed online Sept. 9, 2011:</subfield>
+    <subfield code="b">Sept. 11, 1998 (Warner, Hoyt D.;  died Thursday (Sept. 10, 1998) at Hartford Hospital; earned his Doctorate from the University of Oregon in 1968. In 1984 Professor Warner joined the faculty of Western New England College...)</subfield>
+  </datafield>
+</record>
