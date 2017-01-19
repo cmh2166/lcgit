@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2013025651</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130531075154.0</controlfield>
+  <controlfield tag="008">130506n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013025651</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09467338</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">17130514</subfield>
+    <subfield code="g">1793-04</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Spitzer, Johann Heinrich,</subfield>
+    <subfield code="d">1713-1793</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Spitzer, Johanne Heinrich,</subfield>
+    <subfield code="d">1713-1793</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Spitzer, John Henry,</subfield>
+    <subfield code="d">1713-1793</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Johann Heinrich Spitzer, 2012:</subfield>
+    <subfield code="b">p. 4 &amp; 5 (b. May 14, 1713 in Neckargemund, Baden, Germany; d. April 1793  in Lancaster, PA; immigrated Sept. 1764; Johann Henrich Spitzer; Johann Hennerrich Spitzer; Johanne Heinrich (John Henry) Spitzer)</subfield>
+  </datafield>
+</record>
