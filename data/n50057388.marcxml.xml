@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  50057388 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100512075037.0</controlfield>
+  <controlfield tag="008">801007n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50057388 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0150900</subfield>
+    <subfield code="e">E0150900</subfield>
+    <subfield code="f">N0480800</subfield>
+    <subfield code="g">N0480800</subfield>
+    <subfield code="2">other</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00092004</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-au---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Petzenkirchen (Austria)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Petzenkirchen, Austria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN 5/4/82</subfield>
+    <subfield code="b">(Petzenkirchen, Austria; ppl. 48 08 N, 15 09 E; no variants)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Austria</subfield>
+    <subfield code="z">Petzenkirchen</subfield>
+  </datafield>
+</record>
