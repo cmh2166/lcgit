@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00761cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2007054086</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090329184536.0</controlfield>
+  <controlfield tag="008">070801n| acannaabn           a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007054086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07481835</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-mv---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Hîrtopul Mic (Moldova)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Malyy Girtop (Moldova)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Hârtopul Mic (Moldova)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Gyrtopul-Mik (Moldova)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Gerto-Mik (Moldova)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hârtopul Mic, 2003:</subfield>
+    <subfield code="b">t.p. (Hârtopul Mic)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Aug. 1, 2007:</subfield>
+    <subfield code="b">(Hîrtopul Mic; PPL; MD69 [i.e., Criuleni, Moldova] 47° 14' 49" N  028° 55' 42" E; variants, Malyy Girtop, Hârtopul Mic, Gyrtopul-Mik, Gerto-Mik)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Moldova</subfield>
+    <subfield code="z">Hîrtopul Mic</subfield>
+  </datafield>
+</record>
