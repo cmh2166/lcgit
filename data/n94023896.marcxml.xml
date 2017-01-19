@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00640cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  94023896 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940311124949.3</controlfield>
+  <controlfield tag="008">940311n| acabaaaa|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94023896 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Adorno, Theodor W.,</subfield>
+    <subfield code="d">1903-1969.</subfield>
+    <subfield code="t">Nachgelassene Schriften.</subfield>
+    <subfield code="n">Abteilung I,</subfield>
+    <subfield code="p">Fragment gebliebene Schriften</subfield>
+  </datafield>
+  <datafield tag="640" ind1="1" ind2=" ">
+    <subfield code="a">Complete in 3 v.</subfield>
+    <subfield code="z">Bd. 1, jkt.</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Bd. 1</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Frankfurt am Main</subfield>
+    <subfield code="b">Suhrkamp</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adorno, T.W. Beethoven, 1993:</subfield>
+    <subfield code="b">ser. t.p. (Nachgelassene Schriften. Abteilung I, Fragment gebliebene Schriften)</subfield>
+  </datafield>
+</record>
