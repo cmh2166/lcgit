@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00924cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2007028550</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160411075123.0</controlfield>
+  <controlfield tag="008">070314n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007028550</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07354592</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IWhI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IWhI</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UOr</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2000</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Demon Hunter (Musical group)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Musical groups</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Seattle (Wash.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Christian rock music</subfield>
+    <subfield code="a">Heavy metal (Music)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Member:</subfield>
+    <subfield code="a">Clark, Don,</subfield>
+    <subfield code="d">1975-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">X worship. 2007, 2007:</subfield>
+    <subfield code="b">container insert (Demon Hunter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Mar. 20, 2015</subfield>
+    <subfield code="b">(Demon Hunter; Christian metal band from Seattle, Wash.; formed 2000 by brothers Don Clark and Ryan Clark; current members: Ryan Clark, Jon Dunn, Patrick Judge, Timothy Watts, Jeremiah Scott; genres: Christian metal, metalcore, nu metal, groove metal, alternative metal; years active: 2000-present)</subfield>
+  </datafield>
+</record>
