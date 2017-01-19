@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00697cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85352234 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890731131542.6</controlfield>
+  <controlfield tag="008">861212n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85352234 </subfield>
+    <subfield code="z">n  85185692 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Smith, Samuel,</subfield>
+    <subfield code="d">1720-1776</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The history of the colony of Nova-Caesaria, or New-Jersey, 1765:</subfield>
+    <subfield code="b">t.p. (Samuel Smith)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The history of the colony of Nova Caesaria, or New-Jersey, 1877:</subfield>
+    <subfield code="b">p. 3, etc. (Samuel Smith; merchant at Phila. and Burlington, N.J.; author and historian; secretary of the King's Council and treasurer of N.J.; b. 12/13/1720; d. 1776)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 12-10-86</subfield>
+    <subfield code="b">(hdg.: Smith, Samuel, 1720-1776)</subfield>
+  </datafield>
+</record>
