@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00504cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 00000872 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050924071313.0</controlfield>
+  <controlfield tag="008">000110n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00000872 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05423960</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carter, Maryce</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Urban Arts Corps. (New York, N.Y.) photograph collection, 194?-199? [GR]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dictionary of the Black Theatre,  1983:</subfield>
+    <subfield code="b">p. 109 (Maryce Carter; actor; cast member in Moon on a Rainbow Shawl, 1962 play)</subfield>
+  </datafield>
+</record>
