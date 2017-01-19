@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00701cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  79009486 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011101115737.0</controlfield>
+  <controlfield tag="008">790208n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79009486 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00243585</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Madrasah al-Ṣādiqīyah</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Collège Sadiki</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Sadiki (School)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Collège Sadiki de Tunis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ʻAbd al-Salām, A. Sadiki et les sadikiens, c1975 (subj.)</subfield>
+    <subfield code="b">p. 13, etc. (Collège Sadiki; al-Madrasah al-Ṣādiqīyah; f. 1875; Tunis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le Collège Sadiki de Tunis, 1875-1956, 1995.</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">World of learn., 1977-1978;</subfield>
+    <subfield code="a">ME &amp; N.Afr., 1977-1978.</subfield>
+  </datafield>
+</record>
