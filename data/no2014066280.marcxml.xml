@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00757nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2014066280</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140514073502.0</controlfield>
+  <controlfield tag="008">140513n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014066280</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09854385</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ItFiC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Guario, Mariagiovanna</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Polish language</subfield>
+    <subfield code="a">Greek language</subfield>
+    <subfield code="a">French language</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ita</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Guario, Maria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Polonia come Messia dell'Europa nell'opera di Adam Mickiewicz, 2013:</subfield>
+    <subfield code="b">t.p. (Mariagiovanna Guario) p. 4 of cover (Maria Guario; Ph. D. candidate in scienze eurolinguistiche, letterarie e terminologiche, indirizzo francesistica; degree in foreign languages; specialized in Polish, Modern Greek and French)</subfield>
+  </datafield>
+</record>
