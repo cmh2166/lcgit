@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 97069775 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971204053858.4</controlfield>
+  <controlfield tag="008">971203n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97069775 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04544678 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="c">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Beaser, Robert.</subfield>
+    <subfield code="t">Il est né, le Divin Enfant</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Consider this work an adaptation.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beaser, R. Il est né, le Divin Enfant, 1992, c1982:</subfield>
+    <subfield code="b">t.p. (Il est né, le Divin Enfant : (traditional French carol) : for flute and guitar)</subfield>
+  </datafield>
+</record>
