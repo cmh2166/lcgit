@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2009137599</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090902075400.0</controlfield>
+  <controlfield tag="008">090831n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009137599</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08224047</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">National Agricultural Statistics Service.</subfield>
+    <subfield code="b">Wisconsin Field Office</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wisconsin crop weather [ER] December 19, 2006:</subfield>
+    <subfield code="b">PDF t.p. (Wisconsin Field Office of USDA's National Agricultural Statistics Service; Madison, WI)</subfield>
+  </datafield>
+</record>
