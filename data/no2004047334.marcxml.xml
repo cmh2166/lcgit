@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00704nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004047334</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040518052042.0</controlfield>
+  <controlfield tag="008">040517n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004047334</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06349380</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meaños, Manuel,</subfield>
+    <subfield code="d">1902-1959</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meaños,</subfield>
+    <subfield code="d">1902-1959</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Méndez, Marcos A.,</subfield>
+    <subfield code="d">1902-1959</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marcucci, C. Si supieras, 193-?:</subfield>
+    <subfield code="b">caption (letra de Meaños)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Todo tango WWW site, May 17, 2004:</subfield>
+    <subfield code="b">Carlos Gardel, Los autores de sus canciones (Manuel Meaños; full name: Meaños, Manuel Andrés; pseudonym: Marcos A. Méndez; lyricist; b. Oct. 21, 1902, Avellaneda, d. there Apr. 29, 1959)</subfield>
+  </datafield>
+</record>
