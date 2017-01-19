@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2012067880</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121020075138.0</controlfield>
+  <controlfield tag="008">121019n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012067880</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ruan, Juan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">阮娟</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sanshan Ye shi jia zu ji qi wen xue yan jiu, 2011:</subfield>
+    <subfield code="b">t.p. (阮娟 = Ruan Juan) p. 424 (MA., Ph.D., Fujian shi fan da xue wen xue yuan)</subfield>
+  </datafield>
+</record>
