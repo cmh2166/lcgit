@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00444cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  95069973 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950720100610.5</controlfield>
+  <controlfield tag="008">950717n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95069973 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Dodds, Dick</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dodds, R. A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The first 120 minutes, c1994:</subfield>
+    <subfield code="b">t.p. (Dick Dodds) pref. (R.A. (Dick) Dodds) t.p. verso (pres. of Dodds Associates, Scarborough, Ont.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">NLC 03-15-95.</subfield>
+  </datafield>
+</record>
