@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01081cz  a2200253n  4500</leader>
+  <controlfield tag="001">nr2001005251</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320094130.0</controlfield>
+  <controlfield tag="008">010214n| azannaabn          |b aac      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001005251</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05419912</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1797</subfield>
+    <subfield code="t">1830</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fujinami, Masaharu,</subfield>
+    <subfield code="d">active 1797-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Fujinami, Masaharu,</subfield>
+    <subfield code="d">fl. 1797-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fujinami, Seiyū,</subfield>
+    <subfield code="d">active 1797-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fujinami, Shōseiken,</subfield>
+    <subfield code="d">active 1797-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">藤南正治,</subfield>
+    <subfield code="d">active 1797-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">藤浪正治,</subfield>
+    <subfield code="d">active 1797-1830</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sa-shi den basshō. Kon, 1830?:</subfield>
+    <subfield code="b">postscript (Fujinami Shōseiken Seiyū Masaharu[?], dated Tenpō kōin [1830])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fūkō akukikyō genkai, 1797:</subfield>
+    <subfield code="b">postscript (Fujinami [different character from the above work] Seiyū Masaharu[?], dated Kansei teishi [1797])</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Kokusho jinmei j.;</subfield>
+    <subfield code="a">Dai jinmei j.</subfield>
+  </datafield>
+</record>
