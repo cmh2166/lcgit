@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010145942</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100912075001.0</controlfield>
+  <controlfield tag="008">100908n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010145942</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08617673</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tomasini, Luigi,</subfield>
+    <subfield code="d">1741-1808.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">violin, orchestra,</subfield>
+    <subfield code="n">K. 1,</subfield>
+    <subfield code="r">A major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haydn, J. Concerto in G major for violin and orchestra, H. VIIa. 4 [SR] 1973:</subfield>
+    <subfield code="b">label (Concerto in A major for violin and orchestra)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DenkmaĚler der Tonkunst in OĚsterreich, 1972:</subfield>
+    <subfield code="b">Bd. 124, p. 125 (Violinkonzert in A-Dur, Korcak 1)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Sept. 10, 2010</subfield>
+    <subfield code="b">(composed 3 violin concertos in G major, A major, and F major, respectively)</subfield>
+  </datafield>
+</record>
