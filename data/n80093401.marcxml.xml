@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00949cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  80093401 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161007083444.0</controlfield>
+  <controlfield tag="008">801003n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80093401 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00474482</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TxU-Mu</subfield>
+    <subfield code="d">NcU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1907-03-15</subfield>
+    <subfield code="g">1981-06-23</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leander, Zarah,</subfield>
+    <subfield code="d">1907-1981</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Stockholm, Sweden</subfield>
+    <subfield code="b">Stockholm, Sweden</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Motion pictures</subfield>
+    <subfield code="a">Popular music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Motion picture actors and actresses</subfield>
+    <subfield code="a">Singers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hedberg, Sara Stina,</subfield>
+    <subfield code="d">1907-1981</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Vill Ni se en diva? 1958.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seiler, P. Wollt ihr einen Star sehen? 1982:</subfield>
+    <subfield code="b">t.p. (Zarah Leander) p. 164, etc. (b. 3/15/07; d. 6/23/81)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Dec. 17, 2012</subfield>
+    <subfield code="b">(Zarah Leander; born Sara Stina Hedberg; b. Mar. 15, 1907, d. June 23, 1981, Stockholm; Swedish actress and singer)</subfield>
+    <subfield code="u">http://en.wikipedia.org/wiki/Zarah_Leander</subfield>
+  </datafield>
+</record>
