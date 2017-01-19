@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00966nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2012071144</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120524075153.0</controlfield>
+  <controlfield tag="008">120522n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012071144</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09205651</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGW-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGW-L</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">17811017</subfield>
+    <subfield code="g">18601123</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Serieys, J.-J.-S.</subfield>
+    <subfield code="q">(Joseph-Jude-Simon),</subfield>
+    <subfield code="d">1781-1860</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Aurillac, France</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Notaries</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Serieys, Joseph-Jude-Simon,</subfield>
+    <subfield code="d">1781-1860</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nouveau reĚpertoire de la jurisprudence et de la science du notariat, 1828:</subfield>
+    <subfield code="b">t.p. (J.-J.-S. Serieys)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BNF online catalog, May 22, 2012</subfield>
+    <subfield code="b">(hdg.: Serieys, Joseph Jude Simon, 1781-1860; usage: J.-J.-S. Serieys)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AutoriteĚs BNF, May 22, 2012</subfield>
+    <subfield code="b">(hdg.: Serieys, Joseph Jude Simon, 1781-1860; b. 1781-10-17; d. 1860-11-23; notary in Aurillac)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">LC online catalog, May 22, 2012.</subfield>
+  </datafield>
+</record>
