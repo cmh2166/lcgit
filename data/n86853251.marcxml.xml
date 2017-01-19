@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00534cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  86853251 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930402095719.8</controlfield>
+  <controlfield tag="008">860922n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86853251 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wenger, Linden M.</subfield>
+    <subfield code="q">(Linden Milo),</subfield>
+    <subfield code="d">1912-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-86273: Mennonite Church. Virginia Mennonite Conf. Minister's manual, 1982</subfield>
+    <subfield code="b">(hdg. on ViHarEM rept.: Wenger, Linden M. (Linden Milo), 1912- ; usage: Linden M. Wenger)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Climbing down the ladder, c1993:</subfield>
+    <subfield code="b">CIP t.p. (Linden M. Wenger)</subfield>
+  </datafield>
+</record>
