@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00436cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  00033488 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090407074804.0</controlfield>
+  <controlfield tag="008">000717n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00033488 </subfield>
+    <subfield code="z">n 2009014787</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Christian, Peter</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Web publishing for genealogy, 1999:</subfield>
+    <subfield code="b">t.p. (Peter Christian) p. 2 (Goldsmith College, London)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wer kennt schon sein Herz, 1956</subfield>
+    <subfield code="b">(Peter Christian)</subfield>
+  </datafield>
+</record>
