@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00673nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2006083978</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060814051716.0</controlfield>
+  <controlfield tag="008">060807n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006083978</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07021317</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Dunedin Regional Office of National Archives</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Archives of New Zealand.</subfield>
+    <subfield code="b">Dunedin Regional Office</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Archives New Zealand.</subfield>
+    <subfield code="b">Dunedin Regional Office</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A guide to family history sources at the Dunedin Regional Office of National Archives, 1998</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Archives New Zealand WWW home page, Aug. 3, 2006: Dunedin (Archives New Zealand; Dunedin Regional Office)</subfield>
+  </datafield>
+</record>
