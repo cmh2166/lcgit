@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00840cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2004119243</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150109073855.0</controlfield>
+  <controlfield tag="008">040206n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004119243</subfield>
+    <subfield code="z">nr 00004968 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06266621</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">NcU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19420708</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taylor, Thomas C.</subfield>
+    <subfield code="q">(Thomas Charles),</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Thomas Charles</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Taylor, Thomas T.,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lofftus, Maria. Get into med school, 2003:</subfield>
+    <subfield code="b">t.p. (Thomas C. Taylor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from Kaplan Books, Jan. 20, 2004:</subfield>
+    <subfield code="b">(Full name: Thomas Charles Taylor, b. Jul. 8, 1942)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Medical school admissions adviser 2000, 1999:</subfield>
+    <subfield code="b">t.p. (Thomas T. Taylor) p. vii (Thomas C. Taylor, Mr. Taylor; joined Kaplan team, 1998; was director of admissions, Univ. of Iowa Coll. of Med.)</subfield>
+  </datafield>
+</record>
