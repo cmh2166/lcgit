@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00996cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  82164011 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804081638.0</controlfield>
+  <controlfield tag="008">830323n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82164011 </subfield>
+    <subfield code="z">n  83049880 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Conference for Suicide Prevention</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference for Suicide Prevention, International</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Congress for Suicide Prevention</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Congress for the Prevention of Suicide</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">International Congress on Suicide Prevention and Crisis Intervention</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its 6th, Mexico City, 1971. Proceedings, 1972.</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">International Congress on Suicide Prevention and Crisis Intervention (9th : 1977 : Helsinki, Finland). Proceedings ... 1978: t.p. (IX International Congress on Suicide Prevention and Crisis Intervention) pref. (held in Helsinki, 6/77)</subfield>
+  </datafield>
+</record>
