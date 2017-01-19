@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01650cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  81070298 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322074815.0</controlfield>
+  <controlfield tag="008">810715n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81070298 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00615626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">MeLeBNM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19290717</subfield>
+    <subfield code="g">19941026</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ashwander, Donald</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Birmingham, Ala.</subfield>
+    <subfield code="b">Manhattan, New York, N.Y.</subfield>
+    <subfield code="e">Brooklyn, New York, N.Y.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Children's theater</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Paper Bag Players</subfield>
+    <subfield code="s">1966</subfield>
+    <subfield code="t">1994</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Musicians</subfield>
+    <subfield code="a">Pianists</subfield>
+    <subfield code="a">Musical theater producers and directors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Donald J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Martin, J. Everybody, everybody, 1981 (a.e.)</subfield>
+    <subfield code="b">t.p. (Donald Ashwander)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bogdan, T. For your delight-- [SR] p2002:</subfield>
+    <subfield code="b">container (Donald Ashwander) insert (d. 1994)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. copyright file, June 16, 2003</subfield>
+    <subfield code="b">(Ashwander, Donald, 1929- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RootsWeb.com WWW site, June 16, 2003:</subfield>
+    <subfield code="b">Social Security death index (Donald J. Ashwander; b. July 17, 1929, d. Oct. 26, 1994)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times obituary, October 29, 1994 (viewed March 13, 2013)</subfield>
+    <subfield code="b">(Donald Ashwander; composer and musician; was musical director of the children's theater Paper Bag Players, which he joined in 1966, composing music for it as well; his compositions "are also in the repertory of the Canadian Ballet and the Royal Ballet in London"; self-described ragtime piano player; born in Birmingham, Alabama; lived in Brooklyn; died Wednesday [October 26] in Manhattan)</subfield>
+    <subfield code="u">http://www.nytimes.com/1994/10/29/obituaries/donald-ashwander-65-is-dead-composer-for-children-s-troupe.html</subfield>
+  </datafield>
+</record>
