@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00574cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90627968 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900815081546.1</controlfield>
+  <controlfield tag="008">900404n| acannaab|          |a ana ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90627968 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">IUIS.</subfield>
+    <subfield code="b">Veterinary Immunology Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">IUIS.</subfield>
+    <subfield code="b">VIC</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">VIC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">International Veterinary Immunology Symposium (2nd : 1989 : Hannover, Germany). Second International Veterinary Immunology Symposium, 1989:</subfield>
+    <subfield code="b">t.p. (Veterinary Immunology Committee (VIC) of the International Union of Immunological Societies (IUIS))</subfield>
+  </datafield>
+</record>
