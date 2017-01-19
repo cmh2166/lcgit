@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00834nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014072971</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141124113253.0</controlfield>
+  <controlfield tag="008">141124n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014072971</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Kwach'ŏn Hyangt'o Saryojŏn</subfield>
+    <subfield code="n">(12th :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Kwach'ŏn-si, Korea)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">과천 향토 사료전</subfield>
+    <subfield code="n">(12th :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Kwach'ŏn-si, Korea)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maekkye Ch'oe Ssi, ham ŭl yŏlda, 2010:</subfield>
+    <subfield code="b">pref. (제 12회 과천 향토 사료전 = Che 12-hoe Kwach'ŏn Hyangt'o Saryojŏn) t.p. (kigan 2010. 10. 12 (Hwa) - 18 (Wŏl) ; changso, Kwach'ŏn Simin Hoegwan 2-ch'ŭng hŏnsisil ; chuch'oe, Kwach'ŏn-si ; chugwan, Kwach'ŏn Munhwawŏn, Kwach'ŏn Hyangt'osa Yŏn'guhoe ; hyŏpch'an, Kwach'ŏn Nonghyŏp, Han'gu Masahoe)</subfield>
+  </datafield>
+</record>
