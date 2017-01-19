@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00538nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00031196 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001102034016.0</controlfield>
+  <controlfield tag="008">001003n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00031196 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bibliothèque Durrell (Université de Paris X: Nanterre)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Université de Paris X: Nanterre.</subfield>
+    <subfield code="b">Bibliothèque Durrell</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lawrence Durrell : actes du colloque pour l'inauguration de la Bibliothèque Durrell), 1998:</subfield>
+    <subfield code="b">p. 20 (la Bibliothèque Durrell de l'Université Paris X-Nanterre)</subfield>
+  </datafield>
+</record>
