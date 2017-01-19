@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00900cz  a2200253n  4500</leader>
+  <controlfield tag="001">nr 95025092 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080904082254.0</controlfield>
+  <controlfield tag="008">950711n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95025092 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03893398</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNYI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNYI</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rosin, Sh.</subfield>
+    <subfield code="q">(Shemuʼel),</subfield>
+    <subfield code="d">1890-1941</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosin, Shemuʼel,</subfield>
+    <subfield code="d">1890-1941</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosin, Samuil,</subfield>
+    <subfield code="d">1890-1941</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ראסין, שמואל</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ראסין, ש.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ראסין, ש.,</subfield>
+    <subfield code="d">1890־1941</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tsu der tsayṭ, 1939:</subfield>
+    <subfield code="b">t.p. (Sh. Rosin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Leḳsiḳon fun der nayer Yidisher liṭ., c1956-1981</subfield>
+    <subfield code="b">(Rosin, Shemuʼel; b. 08-30-1890; d. 1941)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 07-11-95</subfield>
+    <subfield code="b">(Rosin, Samuil, 1890-)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Encyc. Judaica, c1972.</subfield>
+  </datafield>
+</record>
