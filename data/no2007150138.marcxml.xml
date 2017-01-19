@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00892nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2007150138</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071208075353.0</controlfield>
+  <controlfield tag="008">071204n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007150138</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07600953</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nj</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nj</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">New Jersey.</subfield>
+    <subfield code="b">Interagency Working Group on School Construction</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Jersey.</subfield>
+    <subfield code="b">Working Group on School Construction, Interagency</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Jersey.</subfield>
+    <subfield code="b">School Construction, Interagency Working Group on</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Interagency Working Group on School Construction (N.J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Second report to the Governor, 2006:</subfield>
+    <subfield code="b">p. 1 (Interagency Working Group on School Construction)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NJ Office of the Governor website, Dec. 4, 2007:</subfield>
+    <subfield code="b">press releases web page for March 15, 2006 (Gov. Corzine issued Executive Order #3 on February 7, 2006, creating the Interagency Working Group on School Construction)</subfield>
+  </datafield>
+</record>
