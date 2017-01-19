@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00076575 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000921064531.0</controlfield>
+  <controlfield tag="008">000920n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00076575 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05315500</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gascó García, Enrique</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">García, Enrique Gascó</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gascó, Enrique</subfield>
+    <subfield code="q">(Gascó García)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La reforma laboral de 1994, 1996:</subfield>
+    <subfield code="b">p. 13 (Enrique Gascó García) p. 5 (Enrique Gascó (C.U. Gil de Albornoz; EURL, Cuenca)</subfield>
+  </datafield>
+</record>
