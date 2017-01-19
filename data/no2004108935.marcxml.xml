@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00475nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2004108935</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041110052149.0</controlfield>
+  <controlfield tag="008">041109n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004108935</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06489464</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Knights of Labor.</subfield>
+    <subfield code="b">District Assembly No. 3</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eberhardt and Ober Brewing Company records, 1882-1906 (bulk 1886-1897)</subfield>
+    <subfield code="b">(Knights of Labor, District Assembly No. 3; brewery workers' union, Pittsburgh, Pa.)</subfield>
+  </datafield>
+</record>
