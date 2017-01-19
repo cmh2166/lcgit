@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00737cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2007054998</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140326073810.0</controlfield>
+  <controlfield tag="008">070517n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007054998</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07412995</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1954</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Butterworth, Arthur.</subfield>
+    <subfield code="t">Romance,</subfield>
+    <subfield code="m">horn, string ensemble,</subfield>
+    <subfield code="n">op. 12</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="b">horn</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">violin</subfield>
+    <subfield code="n">2</subfield>
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">5</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="b">horn</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">string orchestra</subfield>
+    <subfield code="n">1</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 12</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Butterworth, Arthur.</subfield>
+    <subfield code="t">Romance,</subfield>
+    <subfield code="m">horn, string orchestra,</subfield>
+    <subfield code="n">op. 12</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hackleman, M. Romanza [SR] p1998:</subfield>
+    <subfield code="b">container (Romanza)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, May 17, 2007</subfield>
+    <subfield code="b">(Romanza, op.12, hn, str qt/pf/orch, 1954)</subfield>
+  </datafield>
+</record>
