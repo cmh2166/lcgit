@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 94042380 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950110060551.4</controlfield>
+  <controlfield tag="008">941213n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94042380 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU</subfield>
+    <subfield code="c">PU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Disselnkötter, H.</subfield>
+    <subfield code="q">(Heinrich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Disselnkötter, Heinrich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beiträge zur Kritik der Histoire de mon temps ... 1885:</subfield>
+    <subfield code="b">t.p. (H. Disselnkötter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(hdg.: Disselnkötter, Heinrich)</subfield>
+  </datafield>
+</record>
