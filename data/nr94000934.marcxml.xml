@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00511cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 94000934 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120802084117.0</controlfield>
+  <controlfield tag="008">940110n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94000934 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Horowitz, Phinehas ben Ẓevi Hirsch,</subfield>
+    <subfield code="c">ha-Levi,</subfield>
+    <subfield code="d">1730-1805.</subfield>
+    <subfield code="t">Panim yafot (Musar ṿe-hadrakhah)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Panim yafot, 1992:</subfield>
+    <subfield code="b">t.p. (Musar ṿe-hadrakhah)</subfield>
+  </datafield>
+</record>
