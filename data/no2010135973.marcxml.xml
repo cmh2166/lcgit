@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00864nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2010135973</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100822075128.0</controlfield>
+  <controlfield tag="008">100820n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010135973</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08599122</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdSsNOAA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdSsNOAA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Christensen, Tyler</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Christensen, Tyler R. L.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Project aware, 2008:</subfield>
+    <subfield code="b">t.p. (Tyler Christensen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 14, 2009:</subfield>
+    <subfield code="b">(hdg.: Christensen, Tyler R. L.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NSTA Learning Center website, viewed Aug. 20, 2010</subfield>
+    <subfield code="b">(Tyler Christensen is a coral reef scientist, a contractor with NOAA's Coral Reef Watch program. She holds an M.S. in marine science from the Virginia Institute of Marine Science and a B.A. in biology from St. Mary's College of Maryland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NOAA staff directory website, viewed Aug. 20, 2010</subfield>
+    <subfield code="b">(Christensen, Tyler R. L.)</subfield>
+  </datafield>
+</record>
