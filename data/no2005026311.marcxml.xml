@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00566cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2005026311</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100526075739.0</controlfield>
+  <controlfield tag="008">050318n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005026311</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0171000</subfield>
+    <subfield code="e">E0171000</subfield>
+    <subfield code="f">N0484800</subfield>
+    <subfield code="g">N0484800</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06587299</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xo---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Holíč (Slovakia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atlantida holíčských židů, 2003.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Mar. 18, 2005</subfield>
+    <subfield code="b">(Holíč, Slovakia; PPL, 48°48ʹ00ʺN, 017°10ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Slovakia</subfield>
+    <subfield code="z">Holíč</subfield>
+  </datafield>
+</record>
