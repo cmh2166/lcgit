@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00867cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 99007548 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731083753.0</controlfield>
+  <controlfield tag="008">990204n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99007548 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04912773</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">RPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">ACM Workshop on Role-Based Access Control</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on Role-Based Access Control, ACM</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">ACM Symposium on Access Control Models and Technologies</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings, 1998:</subfield>
+    <subfield code="b">t.p. (Third ACM Workshop on Role-Based Access Control; Fairfax, Virgina, Oct. 22-23, 1998).</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">6th ACM Symposium on Access Control Models and Technologies, WWW home page viewed May 10, 2001 (SACMAT is the successor to the ACM Symposium on Role-Based Access Control)</subfield>
+  </datafield>
+</record>
