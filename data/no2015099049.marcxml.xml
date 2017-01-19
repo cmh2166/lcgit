@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00831nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015099049</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150729073558.0</controlfield>
+  <controlfield tag="008">150728n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015099049</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10229211</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2015</subfield>
+    <subfield code="o">09uu</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Suda lexicon.</subfield>
+    <subfield code="k">Selections (Lives of the Attic orators)</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Anthologies</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Compiler:</subfield>
+    <subfield code="a">Roisman, Joseph,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Compiler:</subfield>
+    <subfield code="a">Worthington, Ian</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lives of the Attic orators, 2015.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lives of the Attic orators, 2015:</subfield>
+    <subfield code="b">title page (introduction and commentary [and selection] by Joseph Roisman and Ian Worthington) table of contents (contains the sections on Andocides, Antiphon, Aeschines, Dinarchus, Demosthenes, Isaeus, Isocrates, Lycurgus, Lysias, Hyperides)</subfield>
+  </datafield>
+</record>
