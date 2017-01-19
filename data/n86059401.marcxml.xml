@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00895cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  86059401 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080518074833.0</controlfield>
+  <controlfield tag="008">870113n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86059401 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01768114</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)001756048</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3553.A718</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carlisle, Carris</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Pemberton, Margaret</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under:</subfield>
+    <subfield code="b">Pemberton, Margaret</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Party in Peking, 1987:</subfield>
+    <subfield code="b">CIP t.p. (Carris Carlisle)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">From China with love, 2000:</subfield>
+    <subfield code="b">t.p. (Margaret Pemberton) verso (originally published as Party in Peking under the pseudonym Carris Carlisle)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Letter from author, 16 May 2008</subfield>
+    <subfield code="b">(real name: Margaret Pemberton, born 10 Apr. 1943)</subfield>
+  </datafield>
+</record>
