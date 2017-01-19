@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00691cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2002026876</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320081600.0</controlfield>
+  <controlfield tag="008">020131n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002026876</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1827</subfield>
+    <subfield code="t">1829</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Navarro, Francisca,</subfield>
+    <subfield code="d">active 1827-1829</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Navarro, Francisca,</subfield>
+    <subfield code="d">fl. 1827-1829</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Navarro, Francisca. Una noche de tertulia, o, El coronel don Raimundo, 1995?:</subfield>
+    <subfield code="b">t.p. (Francisca Navarro) p. 6 (wrote a series of 12 plays published in Barcelona from 1827 to 1829)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ind. bio. de EspanĚa, Port. e IberoameĚrica, 1990</subfield>
+    <subfield code="b">(Francisca Navarro; comedic playwright whose works were cited in 1828)</subfield>
+  </datafield>
+</record>
