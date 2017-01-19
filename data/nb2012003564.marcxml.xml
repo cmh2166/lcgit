@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01294cz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2014022020</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141006164450.0</controlfield>
+  <controlfield tag="008">140925n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014022020</subfield>
+    <subfield code="z">nb2012003564</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009143177</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Cleckheaton (England)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="b">Cities and towns</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">England</subfield>
+    <subfield code="f">West Yorkshire (England)</subfield>
+    <subfield code="f">Kirklees (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grace's Guide website, viewed 25 Sept. 2014</subfield>
+    <subfield code="b">(British Belting and Asbestos; of Cleckheaton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed 25 Sept. 2014</subfield>
+    <subfield code="b">(Cleckheaton is a town in the Metropolitan borough of Kirklees, in West Yorkshire, England. Historically part of the West Riding of Yorkshire; it is at the centre of the Spen Valley and was the major town in the former borough of Spenborough; Cleckheaton has a history as a mill town, although this industry has now all but vanished)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Collins Britain atlas and gazetteer, 1999</subfield>
+    <subfield code="b">(Cleckheaton, W. Yorks.; town, 4m/7km NW of Dewsbury; formerly a Roman iron-working area)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ord. Sur. gaz. GB, 1992</subfield>
+    <subfield code="b">(Cleckheaton, West Yorkshire, 53°43.6ʹN, 1°43.2ʹW)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, 8 Feb. 2012</subfield>
+    <subfield code="b">(Cleckheaton, Kirklees, United Kingdom, 53°43ʹ00ʺN, 01°43ʹ00ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">England</subfield>
+    <subfield code="z">Cleckheaton</subfield>
+  </datafield>
+</record>
