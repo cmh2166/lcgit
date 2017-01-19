@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2006079945</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080201080306.0</controlfield>
+  <controlfield tag="008">060731n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006079945</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07010923</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-va</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Ziontown (Va.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zion Town, 1934.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, July 31, 2006</subfield>
+    <subfield code="b">(Ziontown (Va., Henrico Cty.) ppl. 37°35ʹ17ʺN 77°33ʹ39ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Virginia</subfield>
+    <subfield code="z">Ziontown</subfield>
+  </datafield>
+</record>
