@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00798cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  94090854 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010104132052.0</controlfield>
+  <controlfield tag="008">940921n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94090854 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Solodkov, G. P.</subfield>
+    <subfield code="q">(Gennadiĭ Pavlovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Solodkow, G.</subfield>
+    <subfield code="q">(Gennadij)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Solodkow, Gennadij</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Solodkov, G.</subfield>
+    <subfield code="q">(Gennadiĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wer sind wir und wohin gehen wir? 1993:</subfield>
+    <subfield code="b">t.p. (G. Solodkow, Professor am Institut für Volkswirtschaft d. Univ. Rostow am Don, Lehrstuhl Internationale Wirtschaftsbeziehungen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vneshneėkonomicheskai︠a︡ dei︠a︡telʹnostʹ Rostovskoĭ oblasti, 1999:</subfield>
+    <subfield code="b">t.p. (Solodkov G.P.) colophon (Solodkov Gennadiĭ Pavlovich)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">LC Russian books file;</subfield>
+    <subfield code="a">LC in OCLC files</subfield>
+  </datafield>
+</record>
