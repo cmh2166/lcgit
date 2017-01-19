@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00868cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99036325 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801082939.0</controlfield>
+  <controlfield tag="008">990514n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99036325 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">NATO Advanced Research Workshop on the Chloroplast: From Molecular Biology to Biotechnology</subfield>
+    <subfield code="d">(1998 :</subfield>
+    <subfield code="c">Crete, Greece)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Advanced Research Workshop on the Chloroplast: From Molecular Biology to Biotechnology, NATO</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on the Chloroplast: From Molecular Biology to Biotechnology, NATO Advanced Research</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The chloroplast, c1999:</subfield>
+    <subfield code="b">t.p. verso (NATO Advanced Research Workshop on the Chloropast: From Molecular Biology to Biotechnology, Kolymbari-Chania, Crete, Greece, 10-15 August 1998)</subfield>
+  </datafield>
+</record>
