@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00941cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 97007698 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150520162604.0</controlfield>
+  <controlfield tag="008">970205n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97007698 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04264031</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Universidad de Quintana Roo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">UQRoo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universidad del Estado de Quintana Roo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Quintana Roo (Mexico : State).</subfield>
+    <subfield code="b">Universidad</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Revista mexicana del Caribe, Año 1, núm. 1 (1996):</subfield>
+    <subfield code="b">verso t.p. (Universidad de Quintana Roo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cancún, 2009:</subfield>
+    <subfield code="b">t.p. (UQRoo, Universidad de Quintana Roo) t.p. verso (Universidad del Estado de Quintana Roo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Quintana Roo (Mexico : State). Periódico oficial, 31 de mayo de 1991, via WWW, Feb. 1, 2011</subfield>
+    <subfield code="b">(decree: by which is established the Universidad de Quintana Roo, as a decentralized agency of public and social interest of the state of Quintana Roo)</subfield>
+  </datafield>
+</record>
