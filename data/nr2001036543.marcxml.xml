@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00585nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001036543</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020305033108.0</controlfield>
+  <controlfield tag="008">010907n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001036543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meeker, Obediah,</subfield>
+    <subfield code="d">1738-1829</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meeker, Obadiah,</subfield>
+    <subfield code="d">1738-1829</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His ... the beautiful and ... Jersey farmer, fifteen hands and an half high, eight years old ... Good pasture will be provided for mares ... by Obediah Meeker, 1776.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DAR patriot index</subfield>
+    <subfield code="b">(Meeker, Obadiah; b. 1738; d. 1829; m. Comfort Johnson; capt. N.J.)</subfield>
+  </datafield>
+</record>
