@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01081cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2009162571</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150831133836.0</controlfield>
+  <controlfield tag="008">090505n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009162571</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cleaves, George</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cleeve, George</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cleeves, George</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cleve, George</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not the same as: Cleeve, George, approximately 1586-1666?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Hist. Soc. for His Deed, 1686</subfield>
+    <subfield code="b">(George Cleaves; of Casco, [Me.]; sells 100 acres of land on Casco Bay to Nathaniel Mitten)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Archive WWW, May 5, 2009</subfield>
+    <subfield code="b">(under "The pioneers of Maine and New Hampshire, 1623 to 1660": CLEVE, CLEEVE, CLEAVES, CLEEVES, Mr. George, Esquire, as designated in the patent of Gorges to him 27 Jan. 1636, came to New England about 1630; settled at Spurwink, built a house, planted, etc. having a promise from Gorges of 200 acres of land, as he claimed; he deeded 20 May, 1658, to his grandchild Nathaniel Mitten, land adjoining that formerly granted to his father Michael Mitten)</subfield>
+  </datafield>
+</record>
