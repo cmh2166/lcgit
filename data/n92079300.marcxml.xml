@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92079300 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930617170448.6</controlfield>
+  <controlfield tag="008">920806n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92079300 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Nolt, Steven M.,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Nolt, Steve,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A history of the Amish, c1992:</subfield>
+    <subfield code="b">CIP t.p. (Steven M. Nolt) pub. info. (b. 1968)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Mennonite starter kit, c1993:</subfield>
+    <subfield code="b">CIP t.p. (Steve Nolt)</subfield>
+  </datafield>
+</record>
