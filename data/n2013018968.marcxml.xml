@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01063cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2013018968</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130411075013.0</controlfield>
+  <controlfield tag="008">130408n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013018968</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1740~</subfield>
+    <subfield code="g">1793</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Franks, David Salisbury,</subfield>
+    <subfield code="d">approximately 1740-1793</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Franks, David Solebury,</subfield>
+    <subfield code="d">approximately 1740-1793</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with: Franks, David, 1720-1794 (nr2001047454) an American loyalist.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia WWW, Aug. 10, 2009</subfield>
+    <subfield code="b">(David Salisbury Franks (1740 in Philadelphia, Pennsylvania, USA - 1793, Philadelphia) was aide-de-camp for General Benedict Arnold during the American War of Independence)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Google WWW, etc., Aug. 10, 2009</subfield>
+    <subfield code="b">(111 hits for David Solebury Franks; 14,600 for David Salisbury Franks; Boatner's Encyc. of the Amer. Rev. has Solebury)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jewish Virtual Lib. WWW, Mar. 28, 2011</subfield>
+    <subfield code="b">(David Franks; c. 1740-1793; b. ca. 1740 to a large Jewish mercantile family; died of yellow fever in October of 1793 at the age of 53)</subfield>
+  </datafield>
+</record>
