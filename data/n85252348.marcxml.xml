@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00550cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85252348 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080410074931.0</controlfield>
+  <controlfield tag="008">870521n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85252348 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01859855</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boyd, Hugh Fenwick,</subfield>
+    <subfield code="d">1852-1898</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Benjamin, J.P. Benjamin's Treatise on the law of sale of personal property, 1884, c1883:</subfield>
+    <subfield code="b">t.p. (Hugh Fenwick Boyd, of the Inner Temple, barrister at law)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 5-12-87</subfield>
+    <subfield code="b">(hdg.: Boyd, Hugh Fenwick, 1852-1898)</subfield>
+  </datafield>
+</record>
