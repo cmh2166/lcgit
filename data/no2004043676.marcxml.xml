@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00876nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004043676</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040507051807.0</controlfield>
+  <controlfield tag="008">040506n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004043676</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06341002</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Arizona LEARNS Achievement Profile</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">AZ LEARNS</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The accoutability system created to satisfy Ariz. statute 14-241 is referred to as Arizona LEARNS Achievement Profile. During the same year, the federal government enacted the No Child Left Behind Act. In response to both laws, the Ariz. Dept. of Education has developed an integrated accountability system consisting of both parts.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arizona's school accountability system, 2004:</subfield>
+    <subfield code="b">t.p. of v. 1 (Arizona LEARNS achievement profiles) p. 2 (AZ LEARNS)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ARS sect. 14-241:</subfield>
+    <subfield code="b">(Arizona LEARNS Achievement Profile)</subfield>
+  </datafield>
+</record>
