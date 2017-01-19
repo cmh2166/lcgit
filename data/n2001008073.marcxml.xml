@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00970cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2001008073</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011126095115.0</controlfield>
+  <controlfield tag="008">010515n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001008073</subfield>
+    <subfield code="z">n  88195650 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Batani, Dimitri</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Batani, D.</subfield>
+    <subfield code="q">(Dimitri)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atoms, solids, and plasmas in super-intense laser fields, 2001:</subfield>
+    <subfield code="b">CIP t.p. (Dimitri Batani; University of Milano-Bicocca, Milan, Italy))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Milano-Bicocca, Physics Department G. Occhialini Web site, Nov. 26, 2001</subfield>
+    <subfield code="b">(Dimitri Batani; researcher (assistant professor): Solid State Group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Sicurezza dell'Italia, 1989:</subfield>
+    <subfield code="b">t.p. (D. Batani) p. 184 (Dimitri Batani)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Communications for a sustainable future Web site (csf.colorado.edu/peace/calendar/1998/isodarco2.html), Nov. 26, 2001</subfield>
+    <subfield code="b">(19th Isodarco summer course (on disarmament and arms control), principal lecturers: Dimitri Batani, University of Milan)</subfield>
+  </datafield>
+</record>
