@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00796cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 98060766 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160909075423.0</controlfield>
+  <controlfield tag="008">980203n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98060766 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04648722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1947</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schönfeld, Avi</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Poland</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Pianists</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Music teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 97-706205: Schönfeld, A. Swinx, c1996:</subfield>
+    <subfield code="b">(usage: Avi Schönfeld)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Labyrinthe, c1997:</subfield>
+    <subfield code="b">t.p. (Avi Schönfeld) Harrassowitz slip (b. 1947)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schönfeld, A. Autumn rhythms, c2006:</subfield>
+    <subfield code="b">t.p. (Avi Schönfeld) p. 4 of cover (b. Poland; pianist, composer, and teacher)</subfield>
+  </datafield>
+</record>
