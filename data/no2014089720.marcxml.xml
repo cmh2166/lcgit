@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00685nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014089720</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140704073544.0</controlfield>
+  <controlfield tag="008">140703n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014089720</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">305435523</subfield>
+    <subfield code="2">viaf</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09900289</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU-MUS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CLU-MUS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bach, Johann Sebastian,</subfield>
+    <subfield code="d">1685-1750.</subfield>
+    <subfield code="t">Toccata und Fuge,</subfield>
+    <subfield code="m">organ,</subfield>
+    <subfield code="n">BWV 538,</subfield>
+    <subfield code="r">D minor.</subfield>
+    <subfield code="p">Fuga</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">organ</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="c">BWV 538</subfield>
+    <subfield code="d">Schmieder</subfield>
+    <subfield code="2">mlati</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">D minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bach, Johann Sebastian,</subfield>
+    <subfield code="d">1685-1750.</subfield>
+    <subfield code="t">Fugues,</subfield>
+    <subfield code="m">organ,</subfield>
+    <subfield code="n">BWV 538,</subfield>
+    <subfield code="r">D minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bach, Johann Sebastian. Nine Bach fugues, 2013:</subfield>
+    <subfield code="b">container (Fugue in D minor, BWV 538)</subfield>
+  </datafield>
+</record>
