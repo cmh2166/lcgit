@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00372nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  86140121 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870211063851.6</controlfield>
+  <controlfield tag="008">861222n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86140121 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Brunella, Daniel A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Energía en la República Argentina, 1980:</subfield>
+    <subfield code="b">t.p. (Ing. Daniel A. Brunella; Secretario de Estado de Energía)</subfield>
+  </datafield>
+</record>
