@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00634cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88678082 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000617033829.0</controlfield>
+  <controlfield tag="008">881202n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88678082 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CtY-BR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kennedy, John,</subfield>
+    <subfield code="d">1819-1884</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kennedy, J.</subfield>
+    <subfield code="q">(John),</subfield>
+    <subfield code="d">1819-1884</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-76917: His The days of the fathers in Ross-shire, c1979</subfield>
+    <subfield code="b">(hdg. on NcD rept.: Kennedy, John, 1819-1884; usage: John Kennedy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 12/2/88</subfield>
+    <subfield code="b">(hdg.: Kennedy, John, 1819-1884)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unionism and the union, 1870:</subfield>
+    <subfield code="b">t.p. (Rev. J. Kennedy, M.A., minister of the Free Church, Dingwall)</subfield>
+  </datafield>
+</record>
