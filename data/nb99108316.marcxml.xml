@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00485cz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 99108316 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070919075043.0</controlfield>
+  <controlfield tag="008">000201n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99108316 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)004072201</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Beer, Alice,</subfield>
+    <subfield code="d">1912-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Facing forward looking back, 2000?:</subfield>
+    <subfield code="b">t.p. (Alice Beer) p.1 (member of Leicester Poetry Society) BL AL sent 1 Feb. 2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 8 Feb. 2000</subfield>
+    <subfield code="b">(Alice Beer, born 15 Sept. 1912)</subfield>
+  </datafield>
+</record>
