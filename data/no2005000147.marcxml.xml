@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00723cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2005000147</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081010081414.0</controlfield>
+  <controlfield tag="008">050103n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005000147</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06527771</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Rābiṭat al-Kuttāb al-ʻArab fī Isrāʼīl</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">رابطة الكتاب العرب في اسرائيل</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Kitāb al-sanawī li-Rābiṭat al-Kuttāb al-ʻArab fī Isrāʼīl, 1975:</subfield>
+    <subfield code="b">t.p. (Rābiṭat al-Kuttāb al-ʻArab fī Isrāʼīl) p. 4 (est. Oct. 28, 1974) p. 7 (Ḥayfā)</subfield>
+  </datafield>
+</record>
