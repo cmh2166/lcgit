@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011140537</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110910075412.0</controlfield>
+  <controlfield tag="008">110908n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011140537</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08970758</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lombardi, Luca.</subfield>
+    <subfield code="t">Ritratti</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lombardi, Luca.</subfield>
+    <subfield code="t">Due ritratti</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lombardi, Luca.</subfield>
+    <subfield code="t">2 ritratti</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lombardi, L. Due ritratti, 2011:</subfield>
+    <subfield code="b">t.p. (Due ritratti : per orchestra, 1987-1988)</subfield>
+  </datafield>
+</record>
