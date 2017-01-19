@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00407nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  94107954 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19941108074932.1</controlfield>
+  <controlfield tag="008">941108n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94107954 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Tuyen, P. D.</subfield>
+    <subfield code="q">(Pham Dinh)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Pham Dinh Tuyen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Tuyen, Pham Dinh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Classic origami, 1995:</subfield>
+    <subfield code="b">CIP t.p. (P.D. Tuyen) pref. (Pham Dinh Tuyen; architect)</subfield>
+  </datafield>
+</record>
