@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00526cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  89654376 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000701070201.0</controlfield>
+  <controlfield tag="008">890928n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89654376 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02607379</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ben-Rubin, Jack</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rubin, Jack Ben-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-137110: His An economic evaluation of the southwestern ... 1968</subfield>
+    <subfield code="b">(hdg. on DNAL rept.: Ben-Rubin, Jack; usage: Jack Ben-Rubin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 9-28-89</subfield>
+    <subfield code="b">(hdg.: Ben-Rubin, Jack)</subfield>
+  </datafield>
+</record>
