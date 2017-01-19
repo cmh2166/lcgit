@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00884cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  89120383 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110731075210.0</controlfield>
+  <controlfield tag="008">910514n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89120383 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02947821</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zanten, Ellen van</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van Zanten, Ellen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zanten, E. van</subfield>
+    <subfield code="q">(Ellen)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zanten-Wervelman, Ellen Agatha van</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Vokal-vokal bahasa Indonesia, 1989:</subfield>
+    <subfield code="b">t.p. (Ellen van Zanten) p. 134 (E. van Zanten) p. vi (thesis, Universitas Negeri Leiden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Indonesian vowels, 1989:</subfield>
+    <subfield code="b">t.p. (Ellen Agatha van Zanten-Wervelman; b. 1940, Zaltbommel; doctoral dissertation, Rijksuniversiteit te Leiden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A survey of word accentual patterns in the languages of the world, c2010:</subfield>
+    <subfield code="b">t.p. (Ellen van Zanten) p. xii (Leiden University Centre for Linguistics)</subfield>
+  </datafield>
+</record>
