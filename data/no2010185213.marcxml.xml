@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00574nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010185213</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101115144105.0</controlfield>
+  <controlfield tag="008">101112n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010185213</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08684984</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMFIU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FMFIU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fernández Jiménez, Georgina T.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jiménez, Georgina T. Fernández</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mi Pinar del Río, c2010:</subfield>
+    <subfield code="b">t.p. (Georgina Fernández Jiménez) back flap (b. Pinar del Río)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Oct. 25, 2010</subfield>
+    <subfield code="b">(usage: Georgina T. Fernández Jiménez, Georgina Fernández Jiménez)</subfield>
+  </datafield>
+</record>
