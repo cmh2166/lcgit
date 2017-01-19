@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00654cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  79033689 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090221075633.0</controlfield>
+  <controlfield tag="008">790410n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79033689 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00267299</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Abdij van Grimbergen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Norbertijnerabdij van Grimbergen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Grimbergen, Belgium.</subfield>
+    <subfield code="b">Abdij</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Grimberghen (Abbey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">850 jaar Abdij Grimbergen, 1978 (subj.)</subfield>
+    <subfield code="b">cover (Abdij Grimbergen) p. 3 (Norbertijnerabdij van Grimbergen) p. 8 (Abdij van Grimbergen, est. in 1128)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cottineau:</subfield>
+    <subfield code="b">(Grimberghen, Abbaye de PreĚmontreĚs, 1128)</subfield>
+  </datafield>
+</record>
