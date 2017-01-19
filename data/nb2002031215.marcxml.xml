@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00440cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2002033486</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020920160046.0</controlfield>
+  <controlfield tag="008">020910n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002033486</subfield>
+    <subfield code="z">nb2002031215</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR9499.3.D433</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Deb, Siddhartha,</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The point of return, 2002:</subfield>
+    <subfield code="b">t.p. (Siddhartha Deb) p. i (b. 1970 in India; journalist, novelist; living in New York since 1998)</subfield>
+  </datafield>
+</record>
