@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00704cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85330691 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070111074859.0</controlfield>
+  <controlfield tag="008">860318n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85330691 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CMalG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Anikushin, Mikhail Konstantinovich,</subfield>
+    <subfield code="d">1917-1997</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Anikushin, M. K.</subfield>
+    <subfield code="q">(Mikhail Konstantinovich),</subfield>
+    <subfield code="d">1917-1997</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ali︠a︡nskiĭ I︠U︡.L. V masterskoĭ na Petrogradskoĭ ... 1985:</subfield>
+    <subfield code="b">USSR CIP data (M.K. Anikushina)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3-6-86</subfield>
+    <subfield code="b">(hdg.: Anikushin, Mikhail Konstantinovich, 1917-; usage: Mikhail Konstantinovich Anikushin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dom v Vi︠a︡zemskom pereulke, 1999:</subfield>
+    <subfield code="b">t.p. (M.K. Anikushina) p. 155 (d. 1997)</subfield>
+  </datafield>
+</record>
