@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00694cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  87106711 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313091455.0</controlfield>
+  <controlfield tag="008">870625n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87106711 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schmidt, Franz,</subfield>
+    <subfield code="d">1874 December 22-1939.</subfield>
+    <subfield code="t">Präludium und Fuge,</subfield>
+    <subfield code="m">organ,</subfield>
+    <subfield code="r">C major</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">organ</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">C  major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Schmidt, Franz,</subfield>
+    <subfield code="d">1874 Dec. 22-1939.</subfield>
+    <subfield code="t">Präludium und Fuge,</subfield>
+    <subfield code="m">organ,</subfield>
+    <subfield code="r">C major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schmidt, Franz,</subfield>
+    <subfield code="d">1874 December 22-1939.</subfield>
+    <subfield code="t">Prelude and fugue,</subfield>
+    <subfield code="m">organ,</subfield>
+    <subfield code="r">C major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schmidt, F. Organ music [SR] 1986, p1985:</subfield>
+    <subfield code="b">label (Prelude and fugue in C)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MGG</subfield>
+    <subfield code="b">(Präludium u. Fuge C (1927))</subfield>
+  </datafield>
+</record>
