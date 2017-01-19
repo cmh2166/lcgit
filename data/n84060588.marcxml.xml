@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01342cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  84060588 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160811142157.0</controlfield>
+  <controlfield tag="008">840712n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84060588 </subfield>
+    <subfield code="z">no2002112619</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Casarès, Maria</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">La Coruña (Spain)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="b">Alloué, France</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Casares Quiroga, María</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Quiroga, María Casares</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Casares y Pérez, María Victoria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maria Casarès, 1984:</subfield>
+    <subfield code="b">t.p. (Maria Casarès)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base 7-6-84</subfield>
+    <subfield code="b">(hdg.: Casarès, Maria)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Les enfants du paradis [VR] 2002:</subfield>
+    <subfield code="b">opening credits, cast (Maria Casarès)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, May 3, 2002:</subfield>
+    <subfield code="b">(Maria Casares; b. Maria Casares Quiroga, Nov. 21, 1922, La Coruña, Galicia, Spain; d. Nov. 22, 1996, La Vergne, Charente-Maritime, Poitou-Charentes, France ; actress, 1940s-1990s)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Nov. 20, 2013</subfield>
+    <subfield code="b">(María Casares; born 21 November 1922 in A Coruña, Galicia,; died 22 November 1996 in Alloué, Poitou-Charentes, France) was a Spanish actress and one of the most distinguished stars of the French stage. Here birth name was: María Victoria Casares y Pérez; she was usually credited in France as Maria Casarès)</subfield>
+  </datafield>
+</record>
