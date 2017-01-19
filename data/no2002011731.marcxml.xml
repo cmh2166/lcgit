@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002011731</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20051207052321.0</controlfield>
+  <controlfield tag="008">020212n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002011731</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05690011</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+    <subfield code="d">TxU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Parra, Gustavo,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Parra Arévalo, Gustavo,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arévalo, Gustavo Parra,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clasicos colombianos siglo XX. Vol. IV [SR] 1994:</subfield>
+    <subfield code="b">container (Gustavo Parra; Gustavo Parra Arevalo) insert (Gustavo Adolfo Parra Arevalo; b. 1964, Ipiales, Nariño)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Feb. 12, 2002</subfield>
+    <subfield code="b">(hdg.: Parra, Gustavo)</subfield>
+  </datafield>
+</record>
