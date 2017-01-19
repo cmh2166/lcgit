@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00694nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015023040</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150220073503.0</controlfield>
+  <controlfield tag="008">150218n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015023040</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10092101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19790316</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Parrish, Andrew,</subfield>
+    <subfield code="d">1979-</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Canterbury (N.Z.). Environment Canterbury</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Andrew Kenneth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Principles to underpin freshwater decision-making, via WWW, viewed on February 19, 2015:</subfield>
+    <subfield code="b">PDF title page (Andrew Parrish) page 6 (Environment Canterbury)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from author, February 9, 2015</subfield>
+    <subfield code="b">(Andrew Kenneth Parrish; born March 16, 1979)</subfield>
+  </datafield>
+</record>
