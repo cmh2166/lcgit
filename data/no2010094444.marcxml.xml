@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00512nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010094444</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100611075348.0</controlfield>
+  <controlfield tag="008">100609n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010094444</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08522009</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-A</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU-A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Manuzzi, Giuseppe,</subfield>
+    <subfield code="d">1800-1876</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La prima orazione di M. Tullio Cicerone contro Catilina, 1834:</subfield>
+    <subfield code="b">t.p. (Giuseppe Manuzzi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 8, 2010</subfield>
+    <subfield code="b">(hdg.: Manuzzi, Giuseppe, 1800-1876; Manuzzi, Giuseppe; usage: Giuseppe Manuzzi)</subfield>
+  </datafield>
+</record>
