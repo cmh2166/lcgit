@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  00115036 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021021150059.0</controlfield>
+  <controlfield tag="008">000922n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00115036 </subfield>
+    <subfield code="z">n 2002127716</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Laderoute, Joseph</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Laderoot, Joseph Victor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dello Joio, Norman. Lira panamericana. No. 105, SeccioĚn sinfoĚnica [SR] 194-:</subfield>
+    <subfield code="b">label (Joseph Laderoute)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alberts, E. Opera concert, October 7, 1951, 1974:</subfield>
+    <subfield code="b">recording engineer notes (Joseph Victor Laderoot, tenor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Sept. 22, 2000:</subfield>
+    <subfield code="b">(hdg.: Laderoute, Joseph)</subfield>
+  </datafield>
+</record>
