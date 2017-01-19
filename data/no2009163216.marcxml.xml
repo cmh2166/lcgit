@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009163216</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091015075642.0</controlfield>
+  <controlfield tag="008">091013n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009163216</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08269180</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DFo</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DFo</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pemberton, Mary Elizabeth</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pemberton, Elsie</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Townley, Mary Elizabeth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Autograph letter signed from Elsie Pemberton, Broadway, to Mr. Winter, 1905</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford DNB [via www, Sept. 22, 2009]</subfield>
+    <subfield code="b">under Pemberton, Thomas Edgar (Mary Elizabeth, second dau. Edward Richard Patie Townley of Edgbaston, m. T.E. Pemberton on 11 Mar. 1873)</subfield>
+  </datafield>
+</record>
