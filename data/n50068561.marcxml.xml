@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00453cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  50068561 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090206075314.0</controlfield>
+  <controlfield tag="008">801203n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50068561 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00102657</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Togo.</subfield>
+    <subfield code="b">Haut Commissariat au tourisme</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Togo.</subfield>
+    <subfield code="b">Tourisme, Haut Commissariat au</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shankland/Cox Partnership. Transport Development Unit.</subfield>
+    <subfield code="b">Tourisme au Togo, 1973.</subfield>
+  </datafield>
+</record>
