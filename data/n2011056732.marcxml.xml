@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00441cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2011056732</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110928075028.0</controlfield>
+  <controlfield tag="008">110819n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011056732</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6123.I5534</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Williamson, Heidi,</subfield>
+    <subfield code="d">1971-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Electric shadow, 2011:</subfield>
+    <subfield code="b">t.p. (Heidi Williamson) data view (residency at the London Science Museum's Dana Centre) prelim. (b. Norfolk, 1971-)</subfield>
+  </datafield>
+</record>
