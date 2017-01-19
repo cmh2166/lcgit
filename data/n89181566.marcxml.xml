@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01039cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  89181566 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130928064100.0</controlfield>
+  <controlfield tag="008">940318n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89181566 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03569582</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-ON</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1930</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK1730.16.A78</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caudhurī, Sucarita,</subfield>
+    <subfield code="d">1930-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Kadurakhīla, Bangladesh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Bengali literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Authors, Bengali</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ben</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Sucarita Caudhurī,</subfield>
+    <subfield code="d">1930-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Choudhury, Sucharit,</subfield>
+    <subfield code="d">1930-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chowdhury, Suchorit,</subfield>
+    <subfield code="d">1930-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kiṃbadantīra galpa, Caṭṭagrāma, 1993:</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sucarita Caudhurī, 1929-1994, 1997:</subfield>
+    <subfield code="b">t.p. verso (Sucharit Choudhury) introd. (Beng. author; musician from Bangladesh)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sucarita Caudhurī racanāsaṃgraha, 2011:</subfield>
+    <subfield code="b">t.p. (Sucarita Caudhurī) t.p. verso (Suchorit Chowdhury) page 7 (born on 21st January, 1929 at Kadurakhīla, Bangladesh)</subfield>
+  </datafield>
+</record>
