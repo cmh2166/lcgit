@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01003cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85050104 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140813073749.0</controlfield>
+  <controlfield tag="008">860310n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85050104 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01553748</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">MiU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1899, 1900]</subfield>
+    <subfield code="2">edtf</subfield>
+    <subfield code="g">1965</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">King, Alexander,</subfield>
+    <subfield code="d">1900-1965</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Koenig, Alexander</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">O'Neill, E. The hairy ape, 1929:</subfield>
+    <subfield code="b">t.p. (Alexander King)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: King, Alexander, 1900-1965)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed August 12, 2014:</subfield>
+    <subfield code="b">(Alexander King; born 1899 in Vienna; died 1965; illustrator, humorist, memoirist and media personality of the early television era, based in the United States; frequent guest on the a Tonight Show hosted by Jack Paar; wrote May This House Be Safe From Tigers (1960), Mine Enemy Grows Older (1958))</subfield>
+    <subfield code="u">http://www.worldcat.org/title/mine-enemy-grows-older/oclc/527960/editions?editionsView=true&amp;referer=br</subfield>
+  </datafield>
+</record>
