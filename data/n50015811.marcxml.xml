@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  50015811 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141217134621.0</controlfield>
+  <controlfield tag="008">800522n| azannaab|          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50015811 </subfield>
+    <subfield code="z">nb2004019851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1908</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sanders, Bruce,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author search also under</subfield>
+    <subfield code="b">Gribble, Leonard R. Leonard Reginald, 1908-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Bombers fly east, 1943.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 12 Feb. 2004</subfield>
+    <subfield code="b">(Bruce Sanders is pseud. of Leonard Reginald Gribble, 1908-1985)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 17, 2014</subfield>
+    <subfield code="b">(b. 1908)</subfield>
+  </datafield>
+</record>
