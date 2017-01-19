@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015187066</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150807044110.0</controlfield>
+  <controlfield tag="008">150807n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015187066</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1661494</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Hildegard,</subfield>
+    <subfield code="c">Saint,</subfield>
+    <subfield code="d">1098-1179.</subfield>
+    <subfield code="t">De avibus.</subfield>
+    <subfield code="l">Czech</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hildegard,</subfield>
+    <subfield code="c">Saint,</subfield>
+    <subfield code="d">1098-1179.</subfield>
+    <subfield code="t">Ptačí medicína</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Ptačí medicína</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ptačí medicína, 2013</subfield>
+  </datafield>
+</record>
