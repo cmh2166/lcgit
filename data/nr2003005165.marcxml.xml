@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00985cz  a2200241n  4500</leader>
+  <controlfield tag="001">nr2003005165</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322104607.0</controlfield>
+  <controlfield tag="008">030214n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003005165</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05980428</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-HC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSt-HC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1878</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lazarus, Harris M.</subfield>
+    <subfield code="q">(Harris Myer),</subfield>
+    <subfield code="d">1878-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Harris Myer</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lazarus, H. M.</subfield>
+    <subfield code="q">(Harris Myer),</subfield>
+    <subfield code="d">1878-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Lazarus, Harris M.</subfield>
+    <subfield code="q">(Harris Myer),</subfield>
+    <subfield code="d">b. 1878</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lazarus, Tsevi Hirsh,</subfield>
+    <subfield code="d">1878-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">לזרוס, צבי מאיר</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ʻOd ʻamenu ḥai,1913:</subfield>
+    <subfield code="b">t.p. (ha-Rav Tsevi Meʼir Lazarus; Rabbi Harris M. Lazarus, B.A. [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Feb. 14, 2002</subfield>
+    <subfield code="b">(hdg.: Lazarus, H. M.; Lazarus, Harris Myer, 1878-;, 1878-; Lazarus, Harris M. (Harris Myer), 1878-; usage: H.M. Lazarus)</subfield>
+  </datafield>
+</record>
