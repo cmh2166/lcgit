@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2001114271</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011221063222.0</controlfield>
+  <controlfield tag="008">010621n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001114271</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Leonard, Pamela,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Post-socialist peasant?, 2001:</subfield>
+    <subfield code="b">CIP t.p. (Pamela Leonard) data sheet (b. 01/10/1963) contributors' p. (independent scholar teaching at the Dept. of Anthropology of the U. of North Carolina at Charlotte; earlier fieldwork in rural China)</subfield>
+  </datafield>
+</record>
