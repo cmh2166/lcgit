@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>02548cz  a2200325n  4500</leader>
+  <controlfield tag="001">n 2010051689</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150114104619.0</controlfield>
+  <controlfield tag="008">100809n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010051689</subfield>
+    <subfield code="z">nr 91019130 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08587101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MWA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">17670908</subfield>
+    <subfield code="g">18400430</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chase, Elizabeth,</subfield>
+    <subfield code="d">1767-1840</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Baltimore (Md.)</subfield>
+    <subfield code="b">Baltimore (Md.)</subfield>
+    <subfield code="e">Annapolis (Md.)</subfield>
+    <subfield code="e">Baltimore (Md.)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Editors</subfield>
+    <subfield code="a">Publishers</subfield>
+    <subfield code="2">itoamc</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Lady of Maryland,</subfield>
+    <subfield code="d">1767-1840</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chase, Eliza,</subfield>
+    <subfield code="d">1767-1840</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chase, Elizabeth,</subfield>
+    <subfield code="d">active 1813-1822</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Chase, Elizabeth,</subfield>
+    <subfield code="d">fl. 1813-1822</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chase, Elizabeth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Miscellaneous selections and original pieces, in prose and verse, 1821:</subfield>
+    <subfield code="b">t.p. (Elizabeth Chase)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Extracts in prose and verse, 1808:</subfield>
+    <subfield code="b">t.p. (Lady of Maryland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from the Archives of the Episcopal Diocese of Maryland for Chase family papers, ca. 1738-1899</subfield>
+    <subfield code="b">(Elizabeth Chase; papers dated 1813-1822)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">America's Historical Newspapers, via WWW, Jan. 8, 2015:</subfield>
+    <subfield code="b">Boston daily advertiser, 4-6-1824 (Elizabeth Chase; proposes to publish by subscription, a translation of the Punics of Silius Italicus, by her father, the Rev. Thomas Chase, formerly rector of St. Paul's Parish, Baltimore) The Sun, Baltimore, 5-2-1840 (Miss Elizabeth Chase; sister of the late Judge [Samuel] Chase; dau. of the Rev. Thomas Chase; d. on the 30th ult. at an advanced age)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stoddard, R.E. A bibliographical description of books and pamphlets of American verse printed from 1610 through 1820, 2012:</subfield>
+    <subfield code="b">p. 517 (Elizabeth Chase; fl. 1808-1821; compiler of Extracts of prose and verse, Baltimore, 1808)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancestry, via WWW, Jan. 8, 2015:</subfield>
+    <subfield code="b">Maryland Births and Christenings Index (Elizabeth Chase; b. 8 Sept. 1767, at Baltimore; dau. of Thomas Chase; recorded at St. Paul's Protestant Episcopal Church, Baltimore)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files, Jan. 8, 2015</subfield>
+    <subfield code="b">(access point: Chase, Elizabeth, 1767-1840; var.: Eliza Chase; of Baltimore and Annapolis; compiler/editor of Extracts in prose and verse, 1808, and Miscellaneous selections and original pieces, in prose and verse, 1821; in 1824 attempted (apparently unsuccessfully) to publish her father's 1759 translation of Silius Italicus, to which Thomas Jefferson was a subscriber; b. Baltimore, dau. of Rev. Thomas Chase (1703-1780) and his second wife, Ann Birch)</subfield>
+  </datafield>
+</record>
