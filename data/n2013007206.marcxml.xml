@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00888cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2013007206</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130212074918.0</controlfield>
+  <controlfield tag="008">130211n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013007206</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1641</subfield>
+    <subfield code="g">1716</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vinius, Andrei Andreevich,</subfield>
+    <subfield code="d">1641-1716</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vinius, Andrey Andreyvich,</subfield>
+    <subfield code="d">1641-1716</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vinius, Andrew,</subfield>
+    <subfield code="d">1641-1716</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Modernizer of Russia, 2013:</subfield>
+    <subfield code="b">t.p. (Andrei Vinius) introduction (Andrei Andreevich Vinius)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Academia.edu www homepage, February 11, 2013</subfield>
+    <subfield code="b">(Andrei Andreevich Vinius (1641-1716), a Russian of Frisian origins, who was a prominent official at the tsarist court for half a century between the 1660s and the 1710s)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, February 11, 2013</subfield>
+    <subfield code="b">(Andrew Vinius (Andrey Andreyevich Vinius) (1641-1717) was a Russian statesman and a friend of Peter the Great)</subfield>
+  </datafield>
+</record>
