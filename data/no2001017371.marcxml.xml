@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00762cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001017371</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081004080618.0</controlfield>
+  <controlfield tag="008">010305n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001017371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05431142</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">ʻAsgarī, Fātimah</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Asqarī, Fātimeh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عسگرى، فاطمه</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kitābshināsī-i jamiʻ-i Mullā Ṣadrā, 1378, 1999 or 2000:</subfield>
+    <subfield code="b">t.p. (Fātimah ʻAsgarī)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kitābshināsī-i jamiʻ-i Mullā Ṣadrā, 1999 or 2000:</subfield>
+    <subfield code="b">t.p. (Fātimah ʻAsgarī) p. 4 of cover (Fātimeh Asqarī [in rom.])</subfield>
+  </datafield>
+</record>
