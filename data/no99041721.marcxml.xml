@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00405nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 99041721 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990611053136.3</controlfield>
+  <controlfield tag="008">990610n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99041721 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05004610 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="c">WU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Companhia dos Caminhos de Ferro Atravez d'Africa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A questaĚo d'Ambaca, 1913:</subfield>
+    <subfield code="b">p. [3] (Companhia dos Caminhos de ferro Atravez d'Africa)</subfield>
+  </datafield>
+</record>
