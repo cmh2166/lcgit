@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00763nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2015128460</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150926073641.0</controlfield>
+  <controlfield tag="008">150925n| azabaaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015128460</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10280023</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICrlF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stevenson, Steve.</subfield>
+    <subfield code="t">Agatha Mistery.</subfield>
+    <subfield code="l">Spanish</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="g">Barcelona (Spain)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">La Galera (Firm)</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Agatha Mistery.</subfield>
+    <subfield code="l">Spanish</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">11</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">ICrlF</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">La Galera</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">ICrlF</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">ICrlF</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">ICrlF</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El retrato sin nombre, 2013 :</subfield>
+    <subfield code="b">series title page (Agatha Mistery) spine (11)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amazon, Sept. 23, 2015</subfield>
+    <subfield code="b">(Italian series: Agatha Mistery)</subfield>
+  </datafield>
+</record>
