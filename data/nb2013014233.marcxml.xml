@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00794nz  a2200205n  4500</leader>
+  <controlfield tag="001">nb2013014233</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130711050907.0</controlfield>
+  <controlfield tag="008">130710n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013014233</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008791331</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19281016</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Parsons, Michael,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Bristol, England</subfield>
+    <subfield code="c">Great Britain</subfield>
+    <subfield code="e">Sidmouth, England</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Structural engineering</subfield>
+    <subfield code="a">Bridges--Design and construction</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Engineers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">British Library Sound Archive, National Life Stories, An Oral History of British Science interview summary sheet, interviewed 2012</subfield>
+    <subfield code="b">(Michael Parsons, bridge designer, structural engineer, born 16 October 1928, Bristol. Interviewed at home in Sidmouth)</subfield>
+  </datafield>
+</record>
