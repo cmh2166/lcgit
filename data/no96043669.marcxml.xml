@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00866nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 96043669 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960903070850.3</controlfield>
+  <controlfield tag="008">960830n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96043669 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04151451 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="c">OOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Dvořák, Antonín,</subfield>
+    <subfield code="d">1841-1904.</subfield>
+    <subfield code="t">V národním tónu.</subfield>
+    <subfield code="p">Žalo dievča, žalo trávu</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dvořák, Antonín,</subfield>
+    <subfield code="d">1841-1904.</subfield>
+    <subfield code="t">Žalo dievča, žalo trávu</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dvořák, Antonín,</subfield>
+    <subfield code="d">1841-1904.</subfield>
+    <subfield code="t">Žalo dievča</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dvořák, Antonín,</subfield>
+    <subfield code="d">1841-1904.</subfield>
+    <subfield code="t">Mower</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dvořák, Antonín,</subfield>
+    <subfield code="d">1841-1904.</subfield>
+    <subfield code="t">When a maiden was a-mowing</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Destinnová, E. The complete Victor recordings (1914-21) [SR] p1993:</subfield>
+    <subfield code="b">insert (Žalo dievča = The mower / Dvořák)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Burghauser</subfield>
+    <subfield code="b">(146: V národním tónu. 2, Žalo dievča, žalo trávu)</subfield>
+  </datafield>
+</record>
