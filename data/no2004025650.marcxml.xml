@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00484nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004025650</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040318052130.0</controlfield>
+  <controlfield tag="008">040317n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004025650</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06298881</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cruvinel, Aluska</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cruvinel Aguiar, Aluska</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Aguiar, Aluska Cruvinel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cruvinel, Aluska. O caĚrcere da insegurancĚ§a, 2002:</subfield>
+    <subfield code="b">t.p. (Aluska Cruvinel) verso t.p. (Aluska Cruvinel Aguiar)</subfield>
+  </datafield>
+</record>
