@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00434cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 96001531 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050906130239.0</controlfield>
+  <controlfield tag="008">960111n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96001531 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03986014</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">O</subfield>
+    <subfield code="c">O</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6068.I284</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ridge, Antonia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Puppet plays for children, 1953:</subfield>
+    <subfield code="b">t.p. (Antonia Ridge)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 1/10/96</subfield>
+    <subfield code="b">(hdg.: Ridge, Antonia; no usage)</subfield>
+  </datafield>
+</record>
