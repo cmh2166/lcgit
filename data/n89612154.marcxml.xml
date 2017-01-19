@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00659cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  84137335 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910418160912.8</controlfield>
+  <controlfield tag="008">850620n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84137335 </subfield>
+    <subfield code="z">n  89612154 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Campbell, DeWayne A.</subfield>
+    <subfield code="q">(DeWayne Allen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Goldsmith, V.D. Adjustment of automatic compaction devices to achieve uniform rammer coverage, 1984:</subfield>
+    <subfield code="b">t.p. (DeWayne A. Campbell, Geotechnical Branch, Div. of Research and Lab. Serv., Engineering and Research Ctr., Denver, Colo.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-20085: His Sand fabric as an ... 1985</subfield>
+    <subfield code="b">(hdg. on CoU rept.: Campbell, DeWayne Allen; usage: DeWayne Allen Campbell)</subfield>
+  </datafield>
+</record>
