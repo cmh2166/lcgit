@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011093062</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110617075213.0</controlfield>
+  <controlfield tag="008">110615n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011093062</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08888086</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IU</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Pembroke (Ill. : Township)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Pembroke Township (Ill.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Township of Pembroke (Ill.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoHack, June 15, 2011</subfield>
+    <subfield code="b">(PPL; 41Â° 03' 49'' N 87Â° 35' 37''W)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Illinois</subfield>
+    <subfield code="z">Pembroke (Township)</subfield>
+  </datafield>
+</record>
