@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00481nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2006022516</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061012075325.0</controlfield>
+  <controlfield tag="008">060825n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006022516</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abel, W. T.</subfield>
+    <subfield code="q">(William T.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Abel, William T.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Limestone to remove hydrogen sulfide from hot producer gas, 1976:</subfield>
+    <subfield code="b">t.p. (W. T. Abel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Aug. 25, 2006</subfield>
+    <subfield code="b">(hdg.: Abel, William T.; usage: W.T. Abel; William T. Abel)</subfield>
+  </datafield>
+</record>
