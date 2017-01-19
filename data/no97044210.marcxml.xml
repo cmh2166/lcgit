@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00353nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 97044210 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970726053506.7</controlfield>
+  <controlfield tag="008">970725n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97044210 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04393623 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">GaĚrtner, Marleen</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Johann Christoph Erhard, 1996:</subfield>
+    <subfield code="b">verso t.p. (Marleen GaĚrtner)</subfield>
+  </datafield>
+</record>
