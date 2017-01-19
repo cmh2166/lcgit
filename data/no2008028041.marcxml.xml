@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00433nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2008028041</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080223075205.0</controlfield>
+  <controlfield tag="008">080218n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008028041</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07666569</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ośrodek Badań Europy Środkowo-Wschodniej</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nad społeczeństwem staropolskim, 2007- :</subfield>
+    <subfield code="b">v. 1, t.p. verso (Ośrodek Badań Europy Środkowo-Wschodniej)</subfield>
+  </datafield>
+</record>
