@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00660cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2006010953</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060404145716.0</controlfield>
+  <controlfield tag="008">060214n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006010953</subfield>
+    <subfield code="z">n  97088070 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yoakum, Jim,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record: n  97088070</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Graham crackers, 1997:</subfield>
+    <subfield code="b">CIP t.p. (Jim Yoakum)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chapman, Graham. Calcium made interesting, 2005:</subfield>
+    <subfield code="b">t.p. (Jim Yoakum)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Copyright database, Feb. 14, 2006</subfield>
+    <subfield code="b">(hdg.: Yoakum, Jim, 1958-; lists works)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OJRIL, the completely incomplete Graham Chapman, 1999:</subfield>
+    <subfield code="b">t.p. (Jim Yoakum)</subfield>
+  </datafield>
+</record>
