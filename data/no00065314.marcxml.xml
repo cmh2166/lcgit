@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00579cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00065314 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030407141751.0</controlfield>
+  <controlfield tag="008">000814n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00065314 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05288639</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DJBF</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ruster, Jeff</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Why infrastructure financing facilities often fall short of their objectives, 2000:</subfield>
+    <subfield code="b">t.p. (Jeff Ruster, World Bank)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Slum upgrading and participation, 2003:</subfield>
+    <subfield code="b">CIP data sheet (Jeff Ruster; b. Sept. 15, 1960)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World Bank tel. dir., 2000 : (Ruster, Jeff E.)</subfield>
+  </datafield>
+</record>
