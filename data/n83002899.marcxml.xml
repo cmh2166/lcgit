@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00665cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83002899 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070802074845.0</controlfield>
+  <controlfield tag="008">830325n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83002899 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00899396</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Walsh, Bill,</subfield>
+    <subfield code="d">1931-2007</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Walsh, William Ernest,</subfield>
+    <subfield code="d">1931-2007</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dickey, G. America has a better team, c1982 (subj.)</subfield>
+    <subfield code="b">t.p. (Bill Walsh) text (coach of San Francisco 49ers football club)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to S.F. 49ers, 3/17/83</subfield>
+    <subfield code="b">(Bill Walsh; b. 11/30/31)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, July 31, 2007</subfield>
+    <subfield code="b">(Bill Walsh; William Ernest "Bill" Walsh; Nov. 30, 1931-July 30, 2007)</subfield>
+  </datafield>
+</record>
