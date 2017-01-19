@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00441nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010076752</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100509075126.0</controlfield>
+  <controlfield tag="008">100507n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010076752</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08487605</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaQMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaQMM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barkley, John,</subfield>
+    <subfield code="d">1964-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barkley, John R.</subfield>
+    <subfield code="q">(John Robert),</subfield>
+    <subfield code="d">1964-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">John Barkley, 2006.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AMICUS, Sept. 24, 2009</subfield>
+    <subfield code="b">(Barkley, John, 1964- )</subfield>
+  </datafield>
+</record>
