@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015161231</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151204073600.0</controlfield>
+  <controlfield tag="008">151203n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015161231</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10335789</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Werff, Harold van der</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Utrecht (Netherlands)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">W.J.H. Mulier Instituut, Centrum voor Sociaal-Wetenschappelijk Sportonderzoek</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Der Werff, Harold van</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van der Werff, Harold</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sport clubs in Europe, 2015:</subfield>
+    <subfield code="b">title page (Harold van der Werff) verso t.p. (of Mulier Institute, Utrecht, Netherlands)</subfield>
+  </datafield>
+</record>
