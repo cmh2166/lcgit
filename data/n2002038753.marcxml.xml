@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00565cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2002038753</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320081734.0</controlfield>
+  <controlfield tag="008">020715n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002038753</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1998</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Eisen, Johann Georg,</subfield>
+    <subfield code="d">1717-1779.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="f">1998</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Eisen, Johann Georg,</subfield>
+    <subfield code="d">1717-1779.</subfield>
+    <subfield code="t">AusgewaĚhlte Schriften.</subfield>
+    <subfield code="f">1998</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Eisen, Johann Georg,</subfield>
+    <subfield code="d">1717-1779.</subfield>
+    <subfield code="t">Selections.</subfield>
+    <subfield code="f">1998</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eisen, Johann Georg. AusgewaĚhlte Schriften, 1998.</subfield>
+  </datafield>
+</record>
