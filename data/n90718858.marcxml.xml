@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00635nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  90718858 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901129074349.5</controlfield>
+  <controlfield tag="008">901129n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90718858 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hébert, Marie-Francine</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog hdg.: Hébert, Marie Francine.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc90-55578: Her Un monstre dans les céréales, 1988</subfield>
+    <subfield code="b">(hdg. on CaBVaU rept.: Hébert, Marie-Francine, 1943- ; usage: Marie-Francine Hébert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11-29-90</subfield>
+    <subfield code="b">(hdg.: Hébert, Marie Francine; usage: Marie-Francine Hébert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 9-19-90</subfield>
+    <subfield code="b">(Hébert, Marie-Francine, 1943- )</subfield>
+  </datafield>
+</record>
