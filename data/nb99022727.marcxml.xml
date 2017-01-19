@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb 99022727 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141106163756.0</controlfield>
+  <controlfield tag="008">990301n| azannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99022727 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)004060615</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6106.E16</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Feather, Robert</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">England</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Copper Scroll decoded, 1999:</subfield>
+    <subfield code="b">t.p. (Robert Feather)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Website, viewed Nov. 18, 2013</subfield>
+    <subfield code="b">(Robert Feather; born in England; has written many books about the Copper Scroll, part of the Dead Sea Scrolls; also interested in metallurgy)</subfield>
+  </datafield>
+</record>
