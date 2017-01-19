@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01034cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  50038110 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940107163513.7</controlfield>
+  <controlfield tag="008">800825n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50038110 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">ATLA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">General Conference Mennonite Church.</subfield>
+    <subfield code="b">Middle District Conference</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">General Conference Mennonite Church.</subfield>
+    <subfield code="b">Central District Conference</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">General Conference of the Mennonite Church of North America.</subfield>
+    <subfield code="b">Middle District Conference</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mennonite enc., 1956:</subfield>
+    <subfield code="b">v. 3, p. 680 (Est. in 1868 as the Western District Conference; 1888, split into two conferences, Kansas Conference and Middle District Conference) v. 1, p. 540 (In 1957, merged with the Central Conference of the General Conference Mennonite Church to form the Central District Conference) v. 2, p. 465-467 (General Conference Mennonite Church; org. on May 28, 1860 at West Point, Iowa, as General Conference of the Mennonite Church of North America; name changed in 1953 to General Conference Mennonite Church.)</subfield>
+  </datafield>
+</record>
