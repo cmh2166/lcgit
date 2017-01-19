@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01018cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  50014156 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315075039.0</controlfield>
+  <controlfield tag="008">800411n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50014156 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00049633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Pennsylvania.</subfield>
+    <subfield code="b">Department of Commerce.</subfield>
+    <subfield code="b">Bureau of Statistics, Research, and Planning</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Pennsylvania.</subfield>
+    <subfield code="b">Dept. of Commerce.</subfield>
+    <subfield code="b">Bureau of Statistics, Research, and Planning</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Pennsylvania.</subfield>
+    <subfield code="b">Department of Commerce.</subfield>
+    <subfield code="b">Bureau of Statistics</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Pennsylvania.</subfield>
+    <subfield code="b">Department of Commerce</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its 1971 statistical ... Pennsylvania: 1916-1971, 1973.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pennsylvania statistical abstract, 1982:</subfield>
+    <subfield code="b">t.p. (Pennsylvania; Department of Commerce, Bureau of Statistics, Research &amp; Planning)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC 1973-1977, 1978:</subfield>
+    <subfield code="b">v. 90, p. 281 (Bureau of Statistics under the Dept. of Commerce; name changed in 1973 to Bureau of Statistics, Research and Planning)</subfield>
+  </datafield>
+</record>
