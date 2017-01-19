@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01044cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 98044675 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312104016.0</controlfield>
+  <controlfield tag="008">981216n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98044675 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSmH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSmH</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1642</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greene, John,</subfield>
+    <subfield code="d">active 1642</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Greene, J.</subfield>
+    <subfield code="q">(John),</subfield>
+    <subfield code="d">active 1642</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Greene, John,</subfield>
+    <subfield code="d">fl. 1642</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Wing incorrectly conflates with John Greensmith, who appears in some 1642 imprints as "I. Green."</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A declaration of the Prince Paltsgrave to the high court of Parliament, 1642:</subfield>
+    <subfield code="b">imprint on t.p. (J. Greene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Kings resolution concerning his coming from Banbury to London, 1642:</subfield>
+    <subfield code="b">imprint on t.p. (J. Greene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wing (2nd ed.), 1994:</subfield>
+    <subfield code="b">vol. 4, p. 387 (Green, J. 1; bookseller (?) in London, 1642; no address; a John Green was bound 1636 to Octavian Pulleyn, but never freed)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">McKenzie, D.F. Stationers' Co. apprentices 1605-1640, 1961:</subfield>
+    <subfield code="b">p. 110 (John Greene; bound to O. Pullen June 24, 1636)</subfield>
+  </datafield>
+</record>
