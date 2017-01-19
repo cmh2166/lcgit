@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009174791</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091101075349.0</controlfield>
+  <controlfield tag="008">091030n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009174791</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08290525</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OkU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">National Institute of Ceramic Engineers (U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">NICE</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the Educational Symposium on Refractories in Slagging Environments, c1981:</subfield>
+    <subfield code="b">t.p. (National Institute of Ceramic Engineers, NICE)</subfield>
+  </datafield>
+</record>
