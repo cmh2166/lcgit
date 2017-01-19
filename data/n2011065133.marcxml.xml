@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00461nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2011065133</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110920074907.0</controlfield>
+  <controlfield tag="008">110919n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011065133</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zhao, Xiaoling,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">趙曉鈴,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lu Zuofu zhi si, 2010:</subfield>
+    <subfield code="b">t.p. (趙曉鈴, Zhao Xiaoling; birthdate based on her other work "Du sheng nü")</subfield>
+  </datafield>
+</record>
