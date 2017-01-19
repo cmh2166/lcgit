@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01004nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014144629</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141101073608.0</controlfield>
+  <controlfield tag="008">141031n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014144629</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10004083</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PCarlMH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PCarlMH</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19560316</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">United States Army Training Center, Infantry (Fort Dix, N.J.)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Fort Dix, N.J.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">U.S. Army Training Center, Infantry (Fort Dix, N.J.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army.</subfield>
+    <subfield code="b">Training Center, Infantry (Fort Dix, N.J.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Fort Dix (N.J.).</subfield>
+    <subfield code="b">Army Training Center, Infantry</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The United States Army Training Center Infantry, Fort Dix, New Jersey, 1959:</subfield>
+    <subfield code="b">cover (United States Army Training Center Infantry, Fort Dix, New Jersey) facsimile of letterhead (Headquarters, The United States Army Training Center, Infantry, Office of the Commanding General, Fort Dix, New Jersey) history page (the present U.S. Army Training Center was activated on March 16, 1956)</subfield>
+  </datafield>
+</record>
