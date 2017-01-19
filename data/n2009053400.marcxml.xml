@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00538cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2009053400</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090823075000.0</controlfield>
+  <controlfield tag="008">090822n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009053400</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lazich, Michael C.</subfield>
+    <subfield code="t">E.C. Bridgman (1801-1861), America's first missionary to China.</subfield>
+    <subfield code="l">Chinese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lazich, Michael C.</subfield>
+    <subfield code="t">Qian xi nian de gan zhao</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lazich, Michael C.</subfield>
+    <subfield code="t">千禧年的感召</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Qian xi nian de gan zhao, 2008</subfield>
+  </datafield>
+</record>
