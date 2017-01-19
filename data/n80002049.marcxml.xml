@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00974cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  80002049 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090226081424.0</controlfield>
+  <controlfield tag="008">800125n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80002049 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00384751</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">WaU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-cn-qu</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Pointe-aux-Trembles (Montréal, Québec)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Montréal, (Québec).</subfield>
+    <subfield code="b">Pointe-aux-Trembles</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Pointe-aux-Trembles (Île-de-Montréal, Québec)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mariages de l'Enfant-Jésus de la Pointe-aux-Trembles, 1674-1975, 1977 (subdiv.)</subfield>
+    <subfield code="b">t.p. (Pointe-aux-Trembles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 12/7/79</subfield>
+    <subfield code="b">(AACR 1: Pointe-aux-Trembles, Québec (Ile-de-Montréal); AACR 2: Pointe-aux-Trembles (Ile-de-Montréal, Québec))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AMICUS, Dec. 2, 2002</subfield>
+    <subfield code="b">(Pointe-aux-Trembles (Montréal, Québec); annexed to Montreal as a city district, 1982)</subfield>
+  </datafield>
+</record>
