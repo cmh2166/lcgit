@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97066449 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971113053518.8</controlfield>
+  <controlfield tag="008">971112n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97066449 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04528666 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NmU</subfield>
+    <subfield code="c">NmU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Shaler, M. K.</subfield>
+    <subfield code="q">(Millard K.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Shaler, Millard K.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Investigations of the coal fields of New Mexico and California ... 1907:</subfield>
+    <subfield code="b">t.p. (M.K. Shaler) p. 376 (Millard K. Shaler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC #17015678, 11/12/97</subfield>
+    <subfield code="b">(hdg.: Shaler, Millard K.; usage: Millard K. Shaler)</subfield>
+  </datafield>
+</record>
