@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2008160442</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080409080352.0</controlfield>
+  <controlfield tag="008">080408n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008160442</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gilmer, William Franklin,</subfield>
+    <subfield code="d">1901-1954</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Museum of the Great Plains for Toby Morris photograph collection, 1947-1961</subfield>
+    <subfield code="b">(William F. Gilmer; U.S. rep., Oklahoma)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Apr. 8, 2008</subfield>
+    <subfield code="b">(Gilmer, William Franklin, 1901-1954; b. Mt. Airy, N.C.; moved to Okla. with parents; lawyer, Tulsa, Okla.; Democrat; served in 81st Cong., 1949-1951; unsuccessful in re-election; returned to Oklahoma City and became State safety commissioner, a position he held until his death)</subfield>
+  </datafield>
+</record>
