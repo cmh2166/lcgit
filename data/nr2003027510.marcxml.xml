@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01067cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr2003027510</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160408075309.0</controlfield>
+  <controlfield tag="008">030822n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003027510</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06136074</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">NcU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ2676.A6842</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Paravel, Dominique</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Lyon (France)</subfield>
+    <subfield code="e">Venice (Italy)</subfield>
+    <subfield code="f">Lyon (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Poetry</subfield>
+    <subfield code="a">Grammar, Comparative and general</subfield>
+    <subfield code="a">Translating and interpreting</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Teachers</subfield>
+    <subfield code="a">Poets</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="a">Translators</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Venise, c2003:</subfield>
+    <subfield code="b">t.p. (Dominique Paravel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giratoire, 2015:</subfield>
+    <subfield code="b">back cover (lived in Lyon, and more than 20 years in Venice)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Serge Safran WWW site, April 7, 2016:</subfield>
+    <subfield code="b">Nouvelle veĚnitienne, l'auteur (Dominique Paravel, born in Lyon in 1955 and moved to Venice in 1983; for 20 years, she taught and published poems, scientific articles, and a comparative grammar of French and Italian, while working as a translator)</subfield>
+    <subfield code="u">http://www.sergesafranediteur.fr/nouvelles-venitiennes-dominique-paravel/</subfield>
+  </datafield>
+</record>
