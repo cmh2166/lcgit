@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2005014298</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060918094710.0</controlfield>
+  <controlfield tag="008">050928n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005014298</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006291734</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Volunteer Development England</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">VDE</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Volunteering England</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Action, Oct. 2002:</subfield>
+    <subfield code="b">cover (Volunteer Development England: VDE)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Volunteering England www site, 11 Sept. 2006:</subfield>
+    <subfield code="b">About us page (Volunteering England was formed in April 2004 following a merger between The Consortium on Opportunities for Volunteering, The National Centre for Volunteering and Volunteer Development England)</subfield>
+  </datafield>
+</record>
