@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00796cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  90662708 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160503101245.0</controlfield>
+  <controlfield tag="008">900627n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90662708 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1957</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ8520.13.H32</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chagas, Jorge,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Montevideo (Uruguay)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Journalists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Jorge Nelson</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chagas, Jorge Nelson,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El sindicalismo uruguayo ... c1989:</subfield>
+    <subfield code="b">t.p. (Jorge Chagas) back cover (Jorge Nelson Chagas; b. 1957)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La soledad del general, 2001:</subfield>
+    <subfield code="b">t.p. (Jorge Chagas) p. 4 of cover (b. 1957 in Montevideo; journalist, has published various works on history; his first novel)</subfield>
+  </datafield>
+</record>
