@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00476cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2007128218</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090415075348.0</controlfield>
+  <controlfield tag="008">071024n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007128218</subfield>
+    <subfield code="z">no2008012061</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07561607</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abbt, Christine,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ZweifelsfaĚlle, c2007:</subfield>
+    <subfield code="b">t.p. (Christine Abbt) p. 189 (b. 1974, Dr. phil.; Univ. ZuĚrich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Der wortlose Suizid, c2007:</subfield>
+    <subfield code="b">t.p. (Christine Abbt)</subfield>
+  </datafield>
+</record>
