@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00380nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 98118719 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981029051727.5</controlfield>
+  <controlfield tag="008">981028n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98118719 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04847459 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="c">CoU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Ronald Press Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Principles of educational psychology, c1937:</subfield>
+    <subfield code="b">t.p. (The Ronald Press Company, New York)</subfield>
+  </datafield>
+</record>
