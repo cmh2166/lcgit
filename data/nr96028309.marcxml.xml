@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00939cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 96028309 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313103241.0</controlfield>
+  <controlfield tag="008">960802n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96028309 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1387~</subfield>
+    <subfield code="g">1449</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Borromeo, Vitaliano,</subfield>
+    <subfield code="d">approximately 1387-1449</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bonromeus, Vitalianus,</subfield>
+    <subfield code="d">approximately 1387-1449</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Borromeo, Vitaliano,</subfield>
+    <subfield code="d">ca. 1387-1449</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Liber tabuli Vitaliani Bonromei, 1995:</subfield>
+    <subfield code="b">t.p. (Vitaliano Borromeo) p. xi, etc. (financial advisor for the duchy of Milan during the 15th cent.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diz. biog. degli Italiani</subfield>
+    <subfield code="b">(Borromeo, Vitaliano; b. 1391 or 1387; d. 10-4-1449; in the service of the central treasury of the duchy of Milan by the end of 1418)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encic. ital.</subfield>
+    <subfield code="b">(under Borromeo: Vitaliano first took the name Borromeo in 1406; advisor for the Duchy of Milan; became count of Arona in 1445; d. 1449)</subfield>
+  </datafield>
+</record>
