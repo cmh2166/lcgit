@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00569cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92805506 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990320053134.1</controlfield>
+  <controlfield tag="008">921026n| acannaab|          |n aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92805506 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03261555 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Trzepacz, Paula T.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Psychiatric mental status examination, 1993:</subfield>
+    <subfield code="b">CIP t.p. (Paula T. Trzepacz, M.D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The transplant patient, c2000:</subfield>
+    <subfield code="b">CIP t.p. (Paula Trzepacz; Dept. of Psychiatry and Human Behavior, Univ. of Mississippi Med. Center) CIP data sheet (b. Oct. 13, 1952)</subfield>
+  </datafield>
+</record>
