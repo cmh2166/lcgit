@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00781cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2012003368</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161019084109.0</controlfield>
+  <controlfield tag="008">120117n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012003368</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ma, Ben</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">马奔</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tu fa gong gong shi jian ying ji guan li, 2011:</subfield>
+    <subfield code="b">t.p. (马奔 = Ma Ben)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Google, 2012-01-17:</subfield>
+    <subfield code="b">hdg. (马奔 = Ma Ben; with Shandong da xue)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cooperative game and harmonious governance, 2017:</subfield>
+    <subfield code="b">ECIP t.p. (Ben Ma) dataview (professor and associate dean of School of Political Science &amp; Public Management, Shandong University, and a part time researcher in Center for Crisis Management Research, Tsinghua University)</subfield>
+  </datafield>
+</record>
