@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 00071804 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000906071532.0</controlfield>
+  <controlfield tag="008">000905n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00071804 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05303476</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NJQ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NJQ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Donovan, Mary Deirdre,</subfield>
+    <subfield code="d">1955-</subfield>
+    <subfield code="t">Eat better, feel better.</subfield>
+    <subfield code="l">Russian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Donovan, Mary Deirdre,</subfield>
+    <subfield code="d">1955-</subfield>
+    <subfield code="t">Zdorovai︠a︡ pishcha, zdorovai︠a︡ zhiznʹ</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zdorovai︠a︡ pishcha, zdorovai︠a︡ zhiznʹ, c1998.</subfield>
+  </datafield>
+</record>
