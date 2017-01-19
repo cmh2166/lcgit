@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00918cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96007771 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314094102.0</controlfield>
+  <controlfield tag="008">960214n| azannaabn           a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96007771 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04008811</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">CLU</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">McMicken College of Arts and Sciences.</subfield>
+    <subfield code="b">Judaic Studies Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Cincinnati.</subfield>
+    <subfield code="b">Judaic Studies</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">McMicken College of Arts and Sciences.</subfield>
+    <subfield code="b">Department of Judaic Studies</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">McMicken College of Arts and Sciences</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Judaica jottings, Vol. 2 (1992):</subfield>
+    <subfield code="b">t.p. (Judaic Studies Program, McMicken College of Arts and Sciences, University of Cincinnati; Judaic Studies, University of Cincinnati)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Department of Judaic Studies, 2001/2002: t.p. (University of Cincinnati, McMicken College of Arts and Sciences, Department of Judaic Studies)</subfield>
+  </datafield>
+</record>
