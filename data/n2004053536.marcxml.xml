@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01226cz  a2200277n  4500</leader>
+  <controlfield tag="001">n 2004053536</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519075600.0</controlfield>
+  <controlfield tag="008">040601n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004053536</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0992800</subfield>
+    <subfield code="e">E0992800</subfield>
+    <subfield code="f">N0255000</subfield>
+    <subfield code="g">N0255000</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06361802</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-cc-yu</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Shimen Zhen (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Shimen (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yün-long-hsien (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yün-lung (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yunlong (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Shihmenzhen (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Shih-men-ching (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Shih-men-zhen (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shimen Zhen zhen zhi, 2002:</subfield>
+    <subfield code="b">t.p. (Shimen Zhen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhonghua Renmin Gongheguo di ming da ci dian, 1998:</subfield>
+    <subfield code="b">p. 4998 (Shimen Zhen, Yunnan Sheng, China); v. 5, p. 597 (Shimen Zhen is also listed under 8 other provinces)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Jun. 1, 2004</subfield>
+    <subfield code="b">(Shimen -- PPL, 25°50ʹ00ʺN 099°28ʹ00ʺE; variants: Yün-long-hsien, Yün-lung, Yunlong, Shimenzhen, Shih-men-ching, Shih-men-zhen; CH29 [Yunnan])</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">China</subfield>
+    <subfield code="z">Shimen Zhen (Yunnan Sheng)</subfield>
+  </datafield>
+</record>
