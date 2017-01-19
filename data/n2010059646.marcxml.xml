@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00675cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2010059646</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130124074833.0</controlfield>
+  <controlfield tag="008">100910n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010059646</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19710204</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3604.R39</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dray, Stephanie</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Draven, Stephanie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lily of the Nile, 2011:</subfield>
+    <subfield code="b">ECIP t.p. (Stephanie Dray)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">It stings so sweet, 2013:</subfield>
+    <subfield code="b">ECIP t.p. (Stephanie Draven)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from pub., Jan. 23, 2013:</subfield>
+    <subfield code="b">(This is the same Stephanie Draven as the author of DARK SINS AND DESERT SANDS. Her full name is Stephanie Hope Dray and her birthday is February 4, 1971)</subfield>
+  </datafield>
+</record>
