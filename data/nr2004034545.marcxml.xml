@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2004034545</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041204033111.0</controlfield>
+  <controlfield tag="008">041116n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004034545</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkOxU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Green, D. F.</subfield>
+    <subfield code="q">(Diana Frances),</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Green, Diana Frances,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">My friend Bip, 2004:</subfield>
+    <subfield code="b">t.p. (D.F. Green)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, Nov. 16, 2004</subfield>
+    <subfield code="b">(hdg.: Green, D. F. (Diana Frances), 1941-</subfield>
+  </datafield>
+</record>
