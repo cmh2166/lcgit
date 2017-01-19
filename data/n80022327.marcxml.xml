@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00755cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80022327 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090201080014.0</controlfield>
+  <controlfield tag="008">800317n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80022327 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00404658</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Yamaguchi-ken (Japan).</subfield>
+    <subfield code="b">Eiseibu.</subfield>
+    <subfield code="b">Yobōka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Yamaguchi, Japan (Prefecture).</subfield>
+    <subfield code="b">Eiseibu.</subfield>
+    <subfield code="b">Yobōka.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">山口県 (Japan).</subfield>
+    <subfield code="b">衛生部.</subfield>
+    <subfield code="b">予防課</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Latin and non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Nōsotchū yobō no tameni, 1978?:</subfield>
+    <subfield code="b">cover (Yamaguchi-ken Eiseibu Yobōka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shokuinroku, 1978:</subfield>
+    <subfield code="b">v. 2, 2051 (Yamaguchi-ken/Eseibu/Yobōka)</subfield>
+  </datafield>
+</record>
