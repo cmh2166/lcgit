@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00712nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2014004607</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140115073517.0</controlfield>
+  <controlfield tag="008">140114n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014004607</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09655972</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1943</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Egge, Karl A.,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Karl Albert</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Egge, Karl,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">White-black differences in hours of work supplied by men 45 to 59 years of age, 1973:</subfield>
+    <subfield code="b">title page (Karl Albert Egge)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, January 14, 2014</subfield>
+    <subfield code="b">(access point: Egge, Karl Albert, 1943- ; usage: Karl Albert Egge) (access point: Egge, Karl A.; usage: Karl A. Egge) (access point: Egge, Karl; usage not found)</subfield>
+  </datafield>
+</record>
