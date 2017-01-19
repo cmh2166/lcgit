@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00721cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98073649 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001123070752.0</controlfield>
+  <controlfield tag="008">980323n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98073649 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04688901</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ventura, Josep,</subfield>
+    <subfield code="d">1817-1875</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ventura, Pep,</subfield>
+    <subfield code="d">1817-1875</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ventura i Casas, Josep Maria de la Purificació,</subfield>
+    <subfield code="d">1817-1875</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pep Ventura, 1989:</subfield>
+    <subfield code="b">p. 3 (Josep Maria de la Purificació Ventura i Casas, b. Feb 2, 1817) p. 13 (picture caption: b.  Jan. 2, 1818) p. 50 (d. March 24, 1875) cover p. 4 (picture of tombstone with dates: 1817-1875)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dicc. biogràfic, 1970</subfield>
+    <subfield code="b">(Ventura, Josep; 1818-1875; composer)</subfield>
+  </datafield>
+</record>
