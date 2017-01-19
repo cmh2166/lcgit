@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00483nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008151205</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081017074556.0</controlfield>
+  <controlfield tag="008">081015n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008151205</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07906991</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Miroshnichenko, E. S.</subfield>
+    <subfield code="q">(Elena Sergeevna)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Miroshnichenko, Elena Sergeevna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sroki v rossiiĚskom zakonodatelĘšstve, 2007:</subfield>
+    <subfield code="b">t.p. (E.S. Miroshnichenko) t.p. verso (Miroshnichenko, Elena Sergeevna)</subfield>
+  </datafield>
+</record>
