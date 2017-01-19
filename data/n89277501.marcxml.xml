@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  89277501 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020202072510.0</controlfield>
+  <controlfield tag="008">970428n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89277501 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04360139</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK2098.12.S</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Asthānā, Śyāma Mohana,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Śyāma Mohana Asthānā,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Asthana, Shyam Mohan,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Shyam Mohan Asthana,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ādima agni, 1996:</subfield>
+    <subfield code="b">t.p. (Śyāma Mohana Asthānā) t.p. verso (Shyam Mohan Asthana) jkt. (b. 10/29/1924)</subfield>
+  </datafield>
+</record>
