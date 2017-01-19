@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003043941</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120312122740.0</controlfield>
+  <controlfield tag="008">030502n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003043941</subfield>
+    <subfield code="z">no2007123894</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06039909</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU</subfield>
+    <subfield code="d">DLC-OB</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Santos, Luiz</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Santos, LuiĚs,</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A corte vai passar, c2001:</subfield>
+    <subfield code="b">t.p. (Luiz Santos) p. 144 (Braz. CIP hdg.: Santos, Luiz, 1959- ) p. 151 (b. in Pernambuco, Brazil; photographer and documentarist)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">O jogo final, 2003: t.p. (LuiĚs Santos; translator of American science fiction into Portuguese, based in Portugal)</subfield>
+  </datafield>
+</record>
