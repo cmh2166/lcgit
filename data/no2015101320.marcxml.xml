@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00711nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015101320</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150801073623.0</controlfield>
+  <controlfield tag="008">150731n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015101320</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10233020</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-HE</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-HE</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2014</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Friedman, Shamma.</subfield>
+    <subfield code="t">Essays.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Friedman, Shamma.</subfield>
+    <subfield code="t">Meḥḳere lashon u-minuaḥ ba-sifrut ha-Talmudit</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Friedman, Shamma.</subfield>
+    <subfield code="t">מחקרי לשון ומינוח בספרות התלמודית</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">מחקרי לשון ומינוח בספרות התלמודית = Meḥḳere lashon u-minuaḥ ba-sifrut ha-Talmudit, 2014.</subfield>
+  </datafield>
+</record>
