@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00757cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2011087527</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111222074928.0</controlfield>
+  <controlfield tag="008">111221n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011087527</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W1224600</subfield>
+    <subfield code="e">W1224600</subfield>
+    <subfield code="f">N0480300</subfield>
+    <subfield code="g">N0480300</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Port Hadlock (Wash.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Hadlock (Wash.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat: 2011590667: AAA Washington, Map of Port Townsend, Chimacum, Irondale, Port Hadlock, 1998.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Columbia Gazeteer of the World</subfield>
+    <subfield code="b">(uninc. town, Jefferson co., NW Wash., 6 mi/9.7 km S of Port Townsend, on Port Townsend Bay, arm of Puget Sound; 48°03ʹN, 122°46ʹW ... Also called Hadlock.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rand Mcnally comm, atlas, 2009:</subfield>
+    <subfield code="b">(RMC ppl; Jefferson Co.).</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Geonames.</subfield>
+  </datafield>
+</record>
