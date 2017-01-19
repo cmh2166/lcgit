@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00714nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2007158314</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071223075214.0</controlfield>
+  <controlfield tag="008">071217n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007158314</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07615110</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">MRSEC Impact Assessment Committee</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Solid State Sciences Committee.</subfield>
+    <subfield code="b">MRSEC Impact Assessment Committee</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Science Foundation's Materials Research Science and Engineering Center Program, 2007:</subfield>
+    <subfield code="b">t.p. (MRSEC Impact Assessment Committee, Solid State Sciences Committee, Board on Physics and Astronomy, Division on Engineering and Physical Sciences)</subfield>
+  </datafield>
+</record>
