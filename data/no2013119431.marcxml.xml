@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00417nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2013119431</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131029073602.0</controlfield>
+  <controlfield tag="008">131028n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013119431</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09599957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Blunt, Marcus,</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">clarinet, piano</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">clarinet</subfield>
+    <subfield code="a">piano</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Blunt, Marcus. Sonata for clarinet &amp; piano, 1999.</subfield>
+  </datafield>
+</record>
