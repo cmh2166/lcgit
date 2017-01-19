@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2002016769</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020813033230.0</controlfield>
+  <controlfield tag="008">020429n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002016769</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">George &amp; Edward Sears (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Sears (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">George and Edward Sears (Firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bible biography, 1863:</subfield>
+    <subfield code="b">t.p. (George &amp; Edward Sears; St. John, New Brunswick publisher)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">NLC August 12, 2002</subfield>
+  </datafield>
+</record>
