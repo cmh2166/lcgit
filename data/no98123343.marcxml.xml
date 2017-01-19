@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00602nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98123343 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981114051737.7</controlfield>
+  <controlfield tag="008">981113n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98123343 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04860384 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Della Negra, Serge</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Negra, Serge della</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Utilisation s'un spectromètre de masse par temps de vol pour l'identification de nouveaux isotopes, et mesure de l'énergie totale de désintegration [beta]⁺ de ces noyaux dans la région de déformation N,Z [approximately equal to] 40, 1981:</subfield>
+    <subfield code="b">t.p. (Serge Della Negra)</subfield>
+  </datafield>
+</record>
