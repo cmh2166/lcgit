@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01344cz  a2200301n  4500</leader>
+  <controlfield tag="001">n  50043314 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121028074715.0</controlfield>
+  <controlfield tag="008">800801n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50043314 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00078484</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19240403</subfield>
+    <subfield code="g">20040701</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3602.R3596</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brando, Marlon</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Omaha, Neb.</subfield>
+    <subfield code="b">Los Angeles, Calif.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actor</subfield>
+    <subfield code="s">1944</subfield>
+    <subfield code="t">2004</subfield>
+    <subfield code="2">itoamc</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Motion picture director</subfield>
+    <subfield code="2">itoamc</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Брандо, Марлон</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marlon Brando, c1955.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yahoo! news WWW site, July 2, 2004</subfield>
+    <subfield code="b">(Marlon Brando; b. Marlon Brando, Jr., Apr. 3, 1924, Omaha; d. Thursday [July 1, 2004], Los Angeles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMBdPro, via WWW, 3 September 2010</subfield>
+    <subfield code="b">(profession: actor, director; born: 3 April 1924, Omaha, Nebraska;died: 1 July 2004, Los Angeles, California, pulmonary fibrosis; credited years: 1949-2011; nickname: Bud (his childhood family nickname)) in films)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">broadwayworld.com, via WWW, 3 September 2010</subfield>
+    <subfield code="b">(Stage performances,1944-1947)</subfield>
+  </datafield>
+  <datafield tag="678" ind1="0" ind2=" ">
+    <subfield code="a">Marlon Brando (1924-2004) was an American actor.</subfield>
+  </datafield>
+</record>
