@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00468nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2009037030</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090312081738.0</controlfield>
+  <controlfield tag="008">090310n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009037030</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08040442</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OkU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Turner Public Schools (Love County, Okla.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Turner Public Schools, 2009:</subfield>
+    <subfield code="b">p. 1 (in Love County, rural school district serving no formal town; nearest town is Burneyville [unincorporated place])</subfield>
+  </datafield>
+</record>
