@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00419nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 00034231 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001101034021.0</controlfield>
+  <controlfield tag="008">001030n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00034231 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gunn, Donald R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The flora of Manitoulin Island and the adjacent islands of Lake Huron, Georgian Bay and the North Channel, c2000:</subfield>
+    <subfield code="b">t.p. (illustrations by the late Donald R. Gunn)</subfield>
+  </datafield>
+</record>
