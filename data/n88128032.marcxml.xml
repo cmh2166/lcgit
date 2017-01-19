@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00659cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88128032 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030816033159.0</controlfield>
+  <controlfield tag="008">881209n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88128032 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wolf, Alex de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Wolf, Alex</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lindsay, E. A letter for Maria, 1988:</subfield>
+    <subfield code="b">t.p. (Alex de Wolf) jkt. (lives in Amsterdam; freelance illustrator)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mops treasure hunt, 2001:</subfield>
+    <subfield code="b">ECIP t.p. (Alex de Wolf) data view (b. Aug. 9, 1958)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lila's little dinosaur, c1994:</subfield>
+    <subfield code="b">t.p. (illustrated by Alex de Wolf) p. 62 (b. just outside Amsterdam, in Holland)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Lect. repert., 1967-1978.</subfield>
+  </datafield>
+</record>
