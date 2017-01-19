@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00885cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  88238376 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100517075344.0</controlfield>
+  <controlfield tag="008">890321n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88238376 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0002400</subfield>
+    <subfield code="e">W0002400</subfield>
+    <subfield code="f">N0512400</subfield>
+    <subfield code="g">N0512400</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02484246</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-uk-en</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Sunbury (England)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Sunbury-on-Thames, Eng.</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Sunbury-on-Thames (England)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Geographia Ltd. Street plan of Sunbury on Thames, 1969.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 3-18-89</subfield>
+    <subfield code="b">(hdg.: Sunbury-on-Thames, Eng.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Barth. gaz. places Brit., 1986</subfield>
+    <subfield code="b">(Sunbury, Surrey, tn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Col. Lipp. gaz., 1962</subfield>
+    <subfield code="b">(Sunbury-on-Thames, urban dist., Middlesex)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 51°24ʹ00ʺN 000°24ʹ00ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">England</subfield>
+    <subfield code="z">Sunbury</subfield>
+  </datafield>
+</record>
