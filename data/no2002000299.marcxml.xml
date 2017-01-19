@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00824cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2002000299</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071118075037.0</controlfield>
+  <controlfield tag="008">020102n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002000299</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05657503</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">FMFIU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Assis de Rojo, M. Estela</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Rojo, M. Estela Assis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rojo, M. Estela Assis de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Assis de Rojo, Mirta Estela</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Assis de Rojo, Estela</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Assis de Rojo, M. Estela. Textos clásicos, reescrituras contemporáneas, 1998:</subfield>
+    <subfield code="b">t.p. (M. Estela Assis de Rojo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proyección de la biografía latina en Occidente, c2001:</subfield>
+    <subfield code="b">t.p. (Mirta Estela Assis de Rojo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aportes latinos a la identidad argentina, c2006:</subfield>
+    <subfield code="b">t.p. (Estela Assis de Rojo) cover (M. Estela Assis de Rojo)</subfield>
+  </datafield>
+</record>
