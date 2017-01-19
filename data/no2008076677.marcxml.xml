@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00467nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008076677</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080524075347.0</controlfield>
+  <controlfield tag="008">080522n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008076677</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07775722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CFCPL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CFCPL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Isaac, Judy Mac</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adventures after 50, c2007:</subfield>
+    <subfield code="b">t.p. (Judy Mac Isaac)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">http://www.adventuresafter50.com/index.php?page_id=22, viewed May 22, 2008:</subfield>
+    <subfield code="b">(former Miss Massachusetts)</subfield>
+  </datafield>
+</record>
