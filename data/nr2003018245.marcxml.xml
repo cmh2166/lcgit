@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00443cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2003018245</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040130081523.0</controlfield>
+  <controlfield tag="008">030530n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003018245</subfield>
+    <subfield code="z">n 2004033138</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sahanovich, H. M.</subfield>
+    <subfield code="q">(Henadzʹ Mikalaevich).</subfield>
+    <subfield code="t">Narys historyi Belarusi.</subfield>
+    <subfield code="l">Polish</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sahanovich, H. M.</subfield>
+    <subfield code="q">(Henadzʹ Mikalaevich).</subfield>
+    <subfield code="t">Historia Białorusi</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Historia Białorusi, 2001.</subfield>
+  </datafield>
+</record>
