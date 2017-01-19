@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00771cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82080086 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140812183030.0</controlfield>
+  <controlfield tag="008">820611n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82080086 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00776790</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML416.B88</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bunting, Edward,</subfield>
+    <subfield code="d">1773-1843</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Bunting collection of Irish folk music and songs, 1927-1939:</subfield>
+    <subfield code="b">pt. 1, introd. (Edward Bunting; b. Feb. 1773, Armagh, d. Dec. 21, 1843)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Bunting, Edward; b. Feb. 1773, Armagh, d. Dec. 21, 1843, Dublin; collector of Irish folk-songs)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove dict. of mus. WWW site, Apr. 11, 2006:</subfield>
+    <subfield code="b">(piano teacher and organist; became the best-known Belfast piano teacher of his day)</subfield>
+  </datafield>
+</record>
