@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82011530 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911025113955.3</controlfield>
+  <controlfield tag="008">820203n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82011530 </subfield>
+    <subfield code="z">n  85376415 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Barnard, G. W.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Barnard, Geoffrey</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hall, D.O. Biomass for energy in the developing countries, 1982 (a.e.)</subfield>
+    <subfield code="b">t.p. (G.W. Barnard, Dept. of Chem. Engin., Imperial Coll., London)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Foley, G. Gasifiers, c1983:</subfield>
+    <subfield code="b">t.p. (Geoffrey Barnard)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BLAISE</subfield>
+    <subfield code="b">(Barnard, G. W.; ref. from Barnard, Geoffrey, 1955- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kerkhof, P. Agroforestry in Africa, 1990:</subfield>
+    <subfield code="b">t.p. (Geoffrey Barnard) Brit. CIP (Barnard, G. W. (Geoffrey William), 1955- )</subfield>
+  </datafield>
+</record>
