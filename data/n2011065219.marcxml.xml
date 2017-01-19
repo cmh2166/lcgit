@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00475nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2011065219</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110921074844.0</controlfield>
+  <controlfield tag="008">110920n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011065219</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">González Cuerva, R.</subfield>
+    <subfield code="q">(Rubén)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cuerva, R. González</subfield>
+    <subfield code="q">(Rubén González)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">González Cuerva, Rubén</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La dinastía de los Austria, 2011:</subfield>
+    <subfield code="b">t.p. (R. González Cuerva) cover (Rubén González Cuerva)</subfield>
+  </datafield>
+</record>
