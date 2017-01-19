@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00700nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007069680</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070623075125.0</controlfield>
+  <controlfield tag="008">070621n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007069680</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07444121</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">LNT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">LNT</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jordan, Kidd,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jordan, Edward L.,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jordan, K. Palm of soul [SR] p2006:</subfield>
+    <subfield code="b">label (Kidd Jordan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, June 21, 2007</subfield>
+    <subfield code="b">(Kidd, [(Sir) Edward L.] Jordan., b. Cowley, LA, saxophonist and educator)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encyclopedia of jazz musicians [Institute of Jazz Studies, Rutgers Univ.], June 21, 2007</subfield>
+    <subfield code="b">(Jordan, Edward "Kidd", saxophones; b. Crowley, LA, 5 May 1935)</subfield>
+  </datafield>
+</record>
