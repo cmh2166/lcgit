@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00362cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012009565</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320093232.0</controlfield>
+  <controlfield tag="008">120120n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012009565</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09091215</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiMarqN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiMarqN</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">MiMarqN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Valela, Frank</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Frank Valela Interview, 1982.</subfield>
+  </datafield>
+</record>
