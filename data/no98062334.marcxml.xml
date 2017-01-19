@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00470cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  97118424 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980407143847.4</controlfield>
+  <controlfield tag="008">971126n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97118424 </subfield>
+    <subfield code="z">no 98062334 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Simon, Jan,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Saudek, V. Concerto for piano and orchestra, p1990:</subfield>
+    <subfield code="b">label (Jan Simon, piano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC #33869948</subfield>
+    <subfield code="b">(Simon, Jan, 1966- )</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Baker's, 8th.;</subfield>
+    <subfield code="a">Intl. WW in music, 13th-15th eds.</subfield>
+  </datafield>
+</record>
