@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00560nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85074662 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850821171719.5</controlfield>
+  <controlfield tag="008">850719n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85074662 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Beer, Alan E.,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Beer, A. E.</subfield>
+    <subfield code="q">(Alan E.),</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Int. Sym. on Immunology of Reproduction (1984 : Tel Aviv, Israel). Immunology and immunopathology of reproduction, 1985:</subfield>
+    <subfield code="b">CIP t.p. (A.E. Beer, Ann Arbor, Mich.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC/NLM files, 7/11/85</subfield>
+    <subfield code="b">(hdg.: Beer, Alan E., 1937-; usage: Alan E. Beer)</subfield>
+  </datafield>
+</record>
