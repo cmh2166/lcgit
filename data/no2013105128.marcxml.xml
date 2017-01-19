@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00828nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2013105128</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130927073508.0</controlfield>
+  <controlfield tag="008">130926n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013105128</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09577651</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ItFiC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19101004</subfield>
+    <subfield code="g">19971109</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Herrera, Helenio,</subfield>
+    <subfield code="d">1910-1997</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Buenos Aires, Argentina</subfield>
+    <subfield code="b">Venice, Italy</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Soccer</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Soccer players</subfield>
+    <subfield code="a">Soccer coaches</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ita</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Herrera, Helenio</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Quelli che... Milan Inter '63:</subfield>
+    <subfield code="b">p. 118 (b. Apr. 10, 1910 in Buenos Aires, Argentina; soccer player, then soccer coach; has lived in France, Italy, and Spain; d. Nov. 9, 1997 in Venice, Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Sept. 17, 2013:</subfield>
+    <subfield code="b">(hdg.: Herrera, Helenio)</subfield>
+  </datafield>
+</record>
