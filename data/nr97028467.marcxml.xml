@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00824cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 97028467 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130719073835.0</controlfield>
+  <controlfield tag="008">970812n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97028467 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04406671</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Motoori, Norinaga,</subfield>
+    <subfield code="d">1730-1801.</subfield>
+    <subfield code="t">Ise nikū sakitake no ben.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Motoori, Norinaga,</subfield>
+    <subfield code="d">1730-1801.</subfield>
+    <subfield code="t">Two shrines of Ise</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Motoori, Norinaga,</subfield>
+    <subfield code="d">1730-1801.</subfield>
+    <subfield code="t">Motoori Norinaga's The two shrines of Ise</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">本居宣長,</subfield>
+    <subfield code="d">1730-1801.</subfield>
+    <subfield code="t">伊勢二宮さき竹の辨.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Motoori Norinaga's The two shrines of Ise, 1995:</subfield>
+    <subfield code="b">t.p. (Ise nikū sakitake no ben)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kokugakusha denki shūsei:</subfield>
+    <subfield code="b">v. 1, p. 588 (Ise nikū sakitake no ben)</subfield>
+  </datafield>
+</record>
