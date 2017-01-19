@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003040332</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322093306.0</controlfield>
+  <controlfield tag="008">030423n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003040332</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06030947</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaJbRAU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">SaJbRAU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Randse Afrikaanse Universiteit.</subfield>
+    <subfield code="b">Departement Politiek en Regeerkunde</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Randse Afrikaanse Universiteit.</subfield>
+    <subfield code="b">Department of Politics and Governance</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Randse Afrikaanse Universiteit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Modern political dictionary, c2002:</subfield>
+    <subfield code="b">verso t.p. (Department of Politics and Governance, RAU; Departement Politiek en Regeerkunde, RAU)</subfield>
+  </datafield>
+</record>
