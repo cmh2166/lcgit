@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01381cz  a2200277n  4500</leader>
+  <controlfield tag="001">no 99018128 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990323114051.5</controlfield>
+  <controlfield tag="008">990312n| acaaaaaa|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99018128 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04941591 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">S13</subfield>
+    <subfield code="b">.L8</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Annales Universitatis Mariae Curie-Skłodowska.</subfield>
+    <subfield code="n">Sectio E.</subfield>
+    <subfield code="p">Agricultura</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Uniwersytet Marii Curie-Skłodowskiej.</subfield>
+    <subfield code="t">Annales Universitatis Mariae Curie-Skłodowska.</subfield>
+    <subfield code="n">Sectio E.</subfield>
+    <subfield code="p">Agricultura</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Roczniki Uniwersytetu Marii Curie-Skłodowskiej w Lublinie.</subfield>
+    <subfield code="n">Dział E,</subfield>
+    <subfield code="p">Nauki rolnicze</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Annales Universitatis Mariae Curie-Skłodowska, Lublin-Polonia.</subfield>
+    <subfield code="n">Sectio E</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Agricultura</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Vol. 1, nr 1 (17. 5. 1946)</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Lublin</subfield>
+    <subfield code="b">Nakładem Uniwersytetu Marii Curie-Skłodowskiej</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">n</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">n</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sławiński, W. Lasy bukowe ... 1946:</subfield>
+    <subfield code="b">t.p. (Annales Universitatis Mariae Curie-Skłodowska, Lublin-Polonia. Sectio E) added t.p. (Roczniki Uniwersytetu Marii Curie-Skłodowskiej w Lublinie, Dział E, Nauki rolnicze)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Paszewski, A. Badania wste̦pne ... 1952:</subfield>
+    <subfield code="b">t.p. (Annales Universitatis Mariae Curie-Skłodowska, Lublin-Polonia. Sectio E) added t.p. (Annales Universitatis Mariae Curie-Skłodowska, Sectio E, Agricultura)</subfield>
+  </datafield>
+</record>
