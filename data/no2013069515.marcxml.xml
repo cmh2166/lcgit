@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00673nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013069515</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130627073537.0</controlfield>
+  <controlfield tag="008">130626n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013069515</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09506477</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1956</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yi, Zhengyi,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Chi-lung shih, Taiwan</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo wen hua da xue. Shi xue yan jiu suo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">易正義,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yi, Zhengyi. Cong min jian chu fa, 2010:</subfield>
+    <subfield code="b">title page (Yi Zhengyi zhu) t.p. verso (b. 1956, Taiwan, Jilong Shi; 2009, Ph.D., Zhongguo wen hua da xue Shi xue suo)</subfield>
+  </datafield>
+</record>
