@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00640nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2004122187</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040728044102.0</controlfield>
+  <controlfield tag="008">040728n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004122187</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1273302</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">DelVecchio, Vito G.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NATO Advanced Research Workshop on Applications of Genomics and Proteomics for Analysis of Bacterial Biological Warfare Agents (2002 : Bratislava, Slovakia). Applications of genomics and proteomics for analysis of bacterial biological warfare agents, c2003:</subfield>
+    <subfield code="b">t.p. (Vito G. DelVecchio, Int. of Molecular Biology and Medicine, Univ. of Scranton, PA)</subfield>
+  </datafield>
+</record>
