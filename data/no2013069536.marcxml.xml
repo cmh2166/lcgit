@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00644nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013069536</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130627073539.0</controlfield>
+  <controlfield tag="008">130626n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013069536</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09506498</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OO</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1991</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bamert, Sophia,</subfield>
+    <subfield code="d">1991-</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Manhattan transference, 2013:</subfield>
+    <subfield code="b">title page (Sophia Bamert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oberlin College alumni website, May 20, 2013</subfield>
+    <subfield code="b">(Ms. Sophia Lena Bamert; female; Oberlin College, A.B., English and Environmental Studies, 2013)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OhioLINK ETD profile, May 20, 2013</subfield>
+    <subfield code="b">(Sophia L. Bamert; born 1991)</subfield>
+  </datafield>
+</record>
