@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00533cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 88008480 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920512102243.0</controlfield>
+  <controlfield tag="008">880907n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 88008480 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ridder, Helmut</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Obst, C.-H. Chancen direkter Demokratie in der Bundesrepublik Deutschland, c1986:</subfield>
+    <subfield code="b">t.p. (Helmut Ridder)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 9-8-88</subfield>
+    <subfield code="b">(hdg.: Ridder, Helmut)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Auf einem dritten Weg, 1989:</subfield>
+    <subfield code="b">t.p. (Helmut Ridder (celebrated his 70th birthday on Jul. 18, 1989))</subfield>
+  </datafield>
+</record>
