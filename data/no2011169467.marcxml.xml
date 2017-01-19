@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00880nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011169467</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111103075439.0</controlfield>
+  <controlfield tag="008">111101n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011169467</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09023133</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGW-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGW-L</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Rassers Advocaten en Notarissen (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Rassers (Firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Honderd jaar Rassers, 1907-2007, c2007:</subfield>
+    <subfield code="b">colophon, etc.  (Rassers Advocaten en Notarissen; Rassers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">TAG Law web site, November 1, 2011</subfield>
+    <subfield code="b">(Rassers Advocaten en Notarissen; founded in Breda, The Netherlands in 1923 by A.W. Rassers; a traditional, full service law firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rassers Advocaten web site, November 1, 2011</subfield>
+    <subfield code="b">(Rassers Advocaten is an expert and reliable legal service provider established in Breda, The Netherlands; Rassers N.V. trades under the name of Rassers Advocaten, or in short: Rassers)</subfield>
+  </datafield>
+</record>
