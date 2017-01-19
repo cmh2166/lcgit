@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00721cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 95019071 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218135426.0</controlfield>
+  <controlfield tag="008">950418n| acannaabn          |n aba     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95019071 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03817553</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">N</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">N</subfield>
+    <subfield code="d">CU-A</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kline, Kathy</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Training director, Adult education 353 project]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adult education 353 project, 1992?:</subfield>
+    <subfield code="b">t.p. (Kathy Kline, training director)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Producer of Small happiness: women of a Chinese village]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Small happiness, 1984:</subfield>
+    <subfield code="b">credits (Kathy Kline)</subfield>
+  </datafield>
+</record>
