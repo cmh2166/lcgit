@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00911cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  81130580 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011208075631.0</controlfield>
+  <controlfield tag="008">811116n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81130580 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00675467</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6069.C589</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leonard, Jason,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Scott, Jack S.,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Escott, Jonathan,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works by this author written under his real name, search also under</subfield>
+    <subfield code="b">Escott, Jonathan, 1922-. For works written under another pseudonym, search also under</subfield>
+    <subfield code="b">Scott, Jack S., 1922-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Meet Mrs. Piercey, 1981:</subfield>
+    <subfield code="b">t.p. (Jason Leonard) jkt. (novelist and lives in Halifax, Yorkshire)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Boston Univ. Lib. for Escott, J. Papers, 1971-1982</subfield>
+    <subfield code="b">(Jason Leonard; pseud. of British author Jonathan Escott; also writes under Jack S. Scott; b. 1922)</subfield>
+  </datafield>
+</record>
