@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01030cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  86719732 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960724065329.2</controlfield>
+  <controlfield tag="008">861126n| acacaaaa|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86719732 </subfield>
+    <subfield code="z">n  86741492 </subfield>
+    <subfield code="z">n  86711104 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01774791 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">PR (Series)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">National Endowment for the Humanities.</subfield>
+    <subfield code="b">Office of Preservation.</subfield>
+    <subfield code="t">PR</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Crop Reporting Board</subfield>
+    <subfield code="t">PR</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">National Technical Information Service.</subfield>
+    <subfield code="t">PR</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Various places</subfield>
+    <subfield code="b">various publishers</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Undifferentiated phrase record: Covers all instances when this character string used by any publisher is considered to be a series-like phrase; if character string is considered to be a series, separate SAR has been made.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Give phrase as a quoted note, including number, when present.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">GPO treats as stock number for NTIS.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A guide to selected research in microfiche, 1984:</subfield>
+    <subfield code="b">p. 4 of cover</subfield>
+  </datafield>
+</record>
