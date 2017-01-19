@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00608cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89204283 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920306083206.1</controlfield>
+  <controlfield tag="008">920103n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89204283 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mukherjee, Bharati,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Bharati Mukherjee,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Political culture and leadership in India, 1991:</subfield>
+    <subfield code="b">t.p. (Bharati Mukherjee) jkt. (b. 1942; M.A. in pol. sc., Ph. D. in 1986; reader, Dept. of Pol. Sc., U. of Calcutta; member, West Bengal Coll. Service Commission)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Delhi MARC file, 11/20/91</subfield>
+    <subfield code="b">(hdg.: Mukherjee, Bharati, 1942- )</subfield>
+  </datafield>
+</record>
