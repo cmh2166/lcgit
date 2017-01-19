@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00609cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 99015866 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070426075133.0</controlfield>
+  <controlfield tag="008">990305n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99015866 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04935891</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OBgU-MA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NBuU-Mu</subfield>
+    <subfield code="d">UkOxU</subfield>
+    <subfield code="d">NBuU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kid Thomas' Creole Jazz Band</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Thomas' Creole Jazz Band</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Creole Jazz Band (Kid Thomas)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="a">Thomas,</subfield>
+    <subfield code="c">Kid,</subfield>
+    <subfield code="d">1896-1987</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thomas, K. Kid Thomas Valentine and his Creole Jazz Band [SR] 1960:</subfield>
+    <subfield code="b">container (Kid Thomas' Creole Jazz Band) container (Kid Thomas, trumpet)</subfield>
+  </datafield>
+</record>
