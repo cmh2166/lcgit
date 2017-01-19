@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00586cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  91038079 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19951017084842.3</controlfield>
+  <controlfield tag="008">910418n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91038079 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Krohn, Karsten</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Krohn, K.</subfield>
+    <subfield code="q">(Karsten)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kreutzer, M. User's manual to accompany VCH biblio, c1991:</subfield>
+    <subfield code="b">CIP t.p. (Karsten Krohn; Technical Univ. of Braunschweig, Federal Republic of Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kurze EinfuĚhrung in die Chemie der Heterocyclen, 1994:</subfield>
+    <subfield code="b">t.p. (Dr. rer. nat. Karsten Krohn) t.p. verso (b. 1944) cover (K. Krohn)</subfield>
+  </datafield>
+</record>
