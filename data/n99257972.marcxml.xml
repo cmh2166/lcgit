@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00425cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  99257972 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100609074837.0</controlfield>
+  <controlfield tag="008">991215n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99257972 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05122087</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InNd</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3556.I398</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Field, Thalia,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Field, Thalia, 1966- Point and line, c2000:</subfield>
+    <subfield code="b">t.p. (Thalia Field) data sheet (b. Apr. 4, 1966)</subfield>
+  </datafield>
+</record>
