@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004009280</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070914075149.0</controlfield>
+  <controlfield tag="008">040202n| acannaab            n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004009280</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06261247</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)005209154</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thomassen, Jesper</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Familien Estrup gennem 300 aĚr, 2002:</subfield>
+    <subfield code="b">t.p. (Jesper Thomassen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Slesvig, Preussen, Danmark, 2004:</subfield>
+    <subfield code="b">p.403 (Jesper Thomassen, born 1967)</subfield>
+  </datafield>
+</record>
