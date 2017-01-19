@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00642nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2008018191</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080830080736.0</controlfield>
+  <controlfield tag="008">080828n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2008018191</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007213015</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Università di Messina.</subfield>
+    <subfield code="b">Dipartimento di studi sulla civiltà moderna</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Università di Messina.</subfield>
+    <subfield code="b">Facoltà di lettere e filosofia.</subfield>
+    <subfield code="b">Dipartimento di studi sulla civiltà moderna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Immigrazione, integrazione, multiculturalità, 2006:</subfield>
+    <subfield code="b">t.p. (Università degli studi di Messina, Facoltà di lettere e filosofia, Dipartimento di studi sulla civiltà moderna)</subfield>
+  </datafield>
+</record>
