@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00693cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85113832 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010130100426.0</controlfield>
+  <controlfield tag="008">851025n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85113832 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Adams, Bob,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The official hacker's rules of tennis, c1982:</subfield>
+    <subfield code="b">t.p. (Bob Adams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 10-17-85</subfield>
+    <subfield code="b">(Bob Adams, b. 5-9-55)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adams Streetwise hiring top performers, 1997:</subfield>
+    <subfield code="b">CIP t.p. (Bob Adams) pub. ifo. (founder, Adams Media Corp.; res. near Boston)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to author, 11-08-96</subfield>
+    <subfield code="b">(Bob Adams; b. 05-09-1955; is the author of The official hacker's ... , Adams Streetwise hiring ... , etc.)</subfield>
+  </datafield>
+</record>
