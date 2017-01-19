@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 94016061 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940525121541.9</controlfield>
+  <controlfield tag="008">940513n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94016061 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Stevens, Moody Martin,</subfield>
+    <subfield code="d">1781-1870</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bedford (N.H.). An account of the expenses of supporting the poor, 1842:</subfield>
+    <subfield code="b">t.p. (Moody M. Stevens)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">History of Bedford, 1903:</subfield>
+    <subfield code="b">p. 1084 (Moody Martin Stevens; m. Eunice Chandler 1809; b. 6/4/1781; d. 6/16/1870)</subfield>
+  </datafield>
+</record>
