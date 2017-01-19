@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00562cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2005023559</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070111074952.0</controlfield>
+  <controlfield tag="008">050331n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005023559</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06598888</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">KU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Amirkhanov, Ilʹdus Usmanovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ămirkhan, Ildus</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ilʹderkhanova, Fli︠u︡ra Amirovna. Semʹi︠a︡--osnova gosudarstva, 2001:</subfield>
+    <subfield code="b">t.p. verso (Amirkhanov Ilʹdus Usmanovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tătar fălsăfăse hăm milli măgarif, 2003:</subfield>
+    <subfield code="b">t.p. (Ildus Ămirkhan)</subfield>
+  </datafield>
+</record>
