@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00602cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81076110 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120809081415.0</controlfield>
+  <controlfield tag="008">811104n| adannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81076110 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1888</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Secker, Hans Friedrich,</subfield>
+    <subfield code="d">1888-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Secker, Hans F.</subfield>
+    <subfield code="q">(Hans Friedrich),</subfield>
+    <subfield code="d">1888-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Die fruĚhen Bauformen der Gotik in Schwaben, 1911.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Posada, J. G. JoseĚ Guadalupe Posada, 1961:</subfield>
+    <subfield code="b">t.p. (Hans F. Secker)</subfield>
+  </datafield>
+</record>
