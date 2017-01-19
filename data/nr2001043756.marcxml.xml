@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00865nz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2001043756</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011025033136.0</controlfield>
+  <controlfield tag="008">011024n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001043756</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Crivelli, Arcangelo,</subfield>
+    <subfield code="d">1546-1617</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Crivello, Arcangelo,</subfield>
+    <subfield code="d">1546-1617</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cribelli, Arcangelo,</subfield>
+    <subfield code="d">1546-1617</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Crivelli, Archangelo,</subfield>
+    <subfield code="d">1546-1617</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Crivelli, A. Lux fulgebit hodie, c1999:</subfield>
+    <subfield code="b">t.p. (Arcangelo Cribelli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diz. enc. universale della mus. e musicisti</subfield>
+    <subfield code="b">(Crivelli, Arcangelo (Crivello, Cribelli))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WorldCat, Oct. 24, 2001</subfield>
+    <subfield code="b">(hdgs.: Crivelli, Arcangelo, 1546-1617; Crivelli, Archangelo, 1546-1617)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GroveMusic WWW site, Oct. 24, 2001</subfield>
+    <subfield code="b">(Crivelli (Crivello, Cribelli), Arcangelo; b. Apr. 21, 1546, Bergamo, d. Mar. 4, 1617, Rome; composer)</subfield>
+  </datafield>
+</record>
