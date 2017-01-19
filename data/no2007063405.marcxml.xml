@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00827nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2007063405</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070609075129.0</controlfield>
+  <controlfield tag="008">070607n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007063405</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07431177</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fullenius, Bernhardus,</subfield>
+    <subfield code="d">1640-1707</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fullenius, Bernardus,</subfield>
+    <subfield code="d">1640-1707</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fullenius, Bernh.</subfield>
+    <subfield code="q">(Bernhardus),</subfield>
+    <subfield code="d">1640-1707</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fullenius, Bernhard,</subfield>
+    <subfield code="d">1640-1707</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Christiani Hugenii Zuilichemii, dum viveret Zelhemi toparchae, Opera reliqua, MDCCXXVIII, 1728:</subfield>
+    <subfield code="b">p. 7 (Bernhardus Fullenius)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 7, 2007</subfield>
+    <subfield code="b">(hdg.: Fullenius, Bernardus, 1640-1707; Fullenius, Bernh., 1640-1707; Fullenius, Bernhard; Fullenius, Bernhardus, 1640-1707; usage: Bernardi Fullenii [i.e. Bernardus Fullenius]; Bernhardus Fullenius)</subfield>
+  </datafield>
+</record>
