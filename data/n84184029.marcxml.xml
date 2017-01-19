@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00705cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  84184029 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150224125830.0</controlfield>
+  <controlfield tag="008">850523n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84184029 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01336497</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1755</subfield>
+    <subfield code="g">1826</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Staszic, Stanisław,</subfield>
+    <subfield code="d">1755-1826</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Staszic, Stanislas,</subfield>
+    <subfield code="d">1755-1826</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Staszyc, Stanisław,</subfield>
+    <subfield code="d">1755-1826</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Być narodowi użytecznym, 1976:</subfield>
+    <subfield code="b">t.p. (Stanisław Staszic)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC data base, 1-10-85</subfield>
+    <subfield code="b">(hdg: Staszic, Stanisław, 1755-1826; usage: Stanislas Staszic)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ambroziewiczowa, S. Stanisław Staszyc, jego życie i czyny, 1910.</subfield>
+  </datafield>
+</record>
