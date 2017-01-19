@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01044cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  50070242 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161012075317.0</controlfield>
+  <controlfield tag="008">801205n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50070242 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00104279</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PPIU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kaufman, J. G.</subfield>
+    <subfield code="q">(John Gilbert),</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Kaufman, John Gilbert,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kaufman, Gil,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kaufman, J. Gilbert,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Symposium on Fracture Mechanics, 6th, Philadelphia, 1972.</subfield>
+    <subfield code="b">Progress in flaw growth, 1973.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pressure Vessels and Piping Conference and Exhibition (1986 : Chicago, Ill.). Materials property data, c1986:</subfield>
+    <subfield code="b">t.p. (J.G. Kaufman, Natl. Materials Property Data Network, inc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Computerization and networking of materials databases, c1991:</subfield>
+    <subfield code="b">t.p. (J.G. Kaufman) p. 3 (J.G. (Gil) Kaufman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fire resistance of aluminum and aluminum alloys &amp; measuring the effects of fire exposure on the properties of aluminum alloys :</subfield>
+    <subfield code="b">t.p. (J. Gilbert Kaufman)</subfield>
+  </datafield>
+</record>
