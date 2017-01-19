@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01101cz  a2200241n  4500</leader>
+  <controlfield tag="001">nr 97027834 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312103638.0</controlfield>
+  <controlfield tag="008">970807n| azaaaaaa           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97027834 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Current technical paper series (Southeast Asian Fisheries Development Center. Training Department)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">CTP (Series)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Current technical paper</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Current technical paper series (Southeast Asian Fisheries Development Center. Training Dept.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Southeast Asian Fisheries Development Center.</subfield>
+    <subfield code="b">Training Department.</subfield>
+    <subfield code="t">Current technical paper series</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 13</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Phrapradaeng, Samutprakarn, Thailand</subfield>
+    <subfield code="b">Training Dept., Southeast Asian Fisheries Development Center</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Socio-economic status, living conditions ... 1981:</subfield>
+    <subfield code="b">t.p. (Current technical paper) cover (CTP)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, Aug. 7, 1997</subfield>
+    <subfield code="b">(hdg.: Current technical paper series (Southeast Asian Fisheries Development Center. Training Dept.))</subfield>
+  </datafield>
+</record>
