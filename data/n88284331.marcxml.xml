@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01070cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  88284331 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130109075932.0</controlfield>
+  <controlfield tag="008">890418nc azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88284331 </subfield>
+    <subfield code="z">no 98073966 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02505406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MdU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1932</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zhuang, Shen,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Beijing, China</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">chi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chuang, Shen,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chuang, Shen-chʻing,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zhuang, Shenqing,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">莊申,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ken yüan chih mei, 1988:</subfield>
+    <subfield code="b">t.p. (Chuang Shen) cover flap (t. Shen-chʻing; 55 years old in 1988; expert on Chinese art)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tsʻung pai chih tao pai yin, 1997:</subfield>
+    <subfield code="b">t.p. (Chuang Shen) cover flap (b. 1932 in Beijing, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC PREM file</subfield>
+    <subfield code="b">(hdg.: Chuang, Shen, 1932- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wang Wei yan jiu, 1971:</subfield>
+    <subfield code="b">t.p. (莊申 = Zhuang Shen)</subfield>
+  </datafield>
+</record>
