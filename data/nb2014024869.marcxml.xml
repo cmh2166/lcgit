@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00825cz  a2200205n  4500</leader>
+  <controlfield tag="001">nb2014024869</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150825073847.0</controlfield>
+  <controlfield tag="008">141029n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014024869</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10003825</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">MH</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20050414</subfield>
+    <subfield code="t">20050415</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Care and Conservation of Manuscripts (Seminar)</subfield>
+    <subfield code="n">(9th :</subfield>
+    <subfield code="d">2005 :</subfield>
+    <subfield code="c">Copenhagen, Denmark)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Seminars</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Copenhagen (Denmark)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Manuscripts--Conservation and restoration</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">International Seminar on the Care and Conservation of Manuscripts</subfield>
+    <subfield code="n">(9th :</subfield>
+    <subfield code="d">2005 :</subfield>
+    <subfield code="c">Copenhagen, Denmark)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Care and conservation of manuscripts 9, 2006:</subfield>
+    <subfield code="b">t.p. (ninth international seminar held at the University of Copenhagen 14th-15th April 2005)</subfield>
+  </datafield>
+</record>
