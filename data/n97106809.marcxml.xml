@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00801cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  97106809 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100319074815.0</controlfield>
+  <controlfield tag="008">971022n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97106809 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Koutoukas, H. M.</subfield>
+    <subfield code="q">(Haralambos Monroe),</subfield>
+    <subfield code="d">1937-2010</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Koutoukas, Haralambos Monroe,</subfield>
+    <subfield code="d">1937-2010</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Koutoukas, Harry,</subfield>
+    <subfield code="d">1937-2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">When lightning strikes twice, c1991:</subfield>
+    <subfield code="b">t.p. (H.M. Koutoukas) p. 2 of cover (b. New York state, June 4, 1947)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times WWW site, Mar. 18, 2010</subfield>
+    <subfield code="b">(H.M. Koutoukas; b. Haralambos Monroe Koutoukas, June 4, 1937, Endicott, N.Y.; known as Harry; d. Mar. 6, Manhattan, aged 72; prolific playwright who helped create Off Off Broadway theater in the 1960s with a wildly surreal style of drama)</subfield>
+  </datafield>
+</record>
