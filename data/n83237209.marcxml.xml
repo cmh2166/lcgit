@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00722cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83237209 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081212081431.0</controlfield>
+  <controlfield tag="008">831026n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83237209 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01037928</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Army.</subfield>
+    <subfield code="b">Machine Gun Corps</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bion, W. R. The long week-end, 1897-1919, 1982</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10-7-83</subfield>
+    <subfield code="b">(hdg.: Great Britain. Army. Machine Gun Corps)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Army list. 1976:</subfield>
+    <subfield code="b">pt. 1, p. 97 (on 7/28/17 the Tank Corps was formed from the Heavy Branch of the Machine Gun Corps; on 10/18/23 the Corps was redesignated Royal Tank Corps; on 4/4/39 the Corps was redesignated Royal Tank Regiment)</subfield>
+  </datafield>
+</record>
