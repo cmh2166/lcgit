@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00871cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2002044086</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061202075034.0</controlfield>
+  <controlfield tag="008">020522n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002044086</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05767758</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrNL</subfield>
+    <subfield code="d">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nokaneng, P.</subfield>
+    <subfield code="q">(Porcia),</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nokaneng, Porcia,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nokaneng, K. P.,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nokaneng, Koena Porcia,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A re buleng dikgoro 2, 1996:</subfield>
+    <subfield code="b">t.p. (P. Nokaneng)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A re buleng dikgoro, padisĚo 4, 2000:</subfield>
+    <subfield code="b">t.p. (K.P. Nokaneng)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB database, May 21, 2002</subfield>
+    <subfield code="b">(hdg.: Nokaneng, P. (Porcia), 1945- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB correspondence with author, Oct. 18, 1996</subfield>
+    <subfield code="b">(full name: Nokaneng, Koena Porcia; maiden name: Moleele; b. Apr. 11, 1945)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">Nokaneng, P.</subfield>
+    <subfield code="q">(Porcia),</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
