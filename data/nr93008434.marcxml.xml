@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00628cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 93008434 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090211082157.0</controlfield>
+  <controlfield tag="008">930308n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93008434 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03332555</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University Cottage Club (Princeton, N.J.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Princeton University.</subfield>
+    <subfield code="b">Cottage Club</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Cottage Club (Princeton, N.J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Henry, A.W.D. The building of a club, c1976:</subfield>
+    <subfield code="b">t.p. (University Cottage Club, Princeton) prologue (Cottage Club, opened in 1906)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 3-4-93</subfield>
+    <subfield code="b">(hdg.: Princeton University. Cottage Club)</subfield>
+  </datafield>
+</record>
