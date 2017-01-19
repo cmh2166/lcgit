@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00502cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  89662385 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900621084627.7</controlfield>
+  <controlfield tag="008">891106n| acannaab|          |a and |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89662385 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Julius Blum &amp; Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Julius Blum and Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Blum &amp; Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Blum and Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-96880: Stock components for architectural metal work, c1985</subfield>
+    <subfield code="b">(hdg. on NmU rept.: Julius Blum &amp; Company; usage: Julius Blum &amp; Co.)</subfield>
+  </datafield>
+</record>
