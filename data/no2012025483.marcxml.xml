@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01035cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012025483</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120821075550.0</controlfield>
+  <controlfield tag="008">120222n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012025483</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09122598</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1903</subfield>
+    <subfield code="g">1980</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brock, Russell Claude Brock,</subfield>
+    <subfield code="c">Baron,</subfield>
+    <subfield code="d">1903-1980</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brock, R. C.</subfield>
+    <subfield code="q">(Russell Claude),</subfield>
+    <subfield code="d">1903-1980</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The surgery of pulmonary stenosis, 1949:</subfield>
+    <subfield code="b">t.p. (R.C. Brock, M.S., F.R.C.S., thoracic surgeon to Guy's Hospital; surgeon to the Brompton Hospital)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who was who online, Feb. 22, 2012</subfield>
+    <subfield code="b">(Brock, Baron; cr. 1965 (Life Peer), of Wimbledon; Russell Claude Brock; kt. 1954; b. Oct. 24, 1903; d. Sept. 3, 1980; director, Department of Surgical Sciences, Royal College of Surgeons, since 1968)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cambridge Univ. Libr. database, Feb. 22, 2012</subfield>
+    <subfield code="b">(usage: Sir Russell Brock; Lord Brock; R.C. Brock)</subfield>
+  </datafield>
+</record>
