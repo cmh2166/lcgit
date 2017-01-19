@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00982cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009192648</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110628081924.0</controlfield>
+  <controlfield tag="008">091201n| acannaabn          |a anc     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009192648</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08323241</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Centre of Mathematical Statistics (Bucharest, Romania)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Academia Republicii Socialiste România.</subfield>
+    <subfield code="b">Centre of Mathematical Statistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Romania.</subfield>
+    <subfield code="b">Ministerul Educației și Învățămîntului.</subfield>
+    <subfield code="b">Centre of Mathematical Statistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Institute of Metrology Bucharest.</subfield>
+    <subfield code="b">Centre of Mathematical Statistics</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the ... Conference on Probability Theory, 1971:</subfield>
+    <subfield code="b">t.p. (Centre of Mathematical Statistics of the Academy of the Socialist Republic of Romania); 1974: t.p. (Centre of Mathematical Statistics of the Ministry of Education; București); 1985:  t.p. (Centre of Mathematical Statistics of the National Institute of Metrology Bucharest)</subfield>
+  </datafield>
+</record>
