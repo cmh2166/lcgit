@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00563nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001010741</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010406033120.0</controlfield>
+  <controlfield tag="008">010327n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001010741</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rushton, Abraham W.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rushton, A. W.</subfield>
+    <subfield code="q">(Abraham W.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The History and topography of the United States of North America, 1834:</subfield>
+    <subfield code="b">t.p. (A.W. Rushton; 97 Wood Street; Philadelphia publisher)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Desilver's Philadelphia directory and stranger's guide, 1833</subfield>
+    <subfield code="b">(Rushton, Abraham W.; bookseller, 97 Wood)</subfield>
+  </datafield>
+</record>
