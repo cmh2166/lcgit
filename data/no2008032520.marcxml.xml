@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00657nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008032520</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080303081645.0</controlfield>
+  <controlfield tag="008">080219n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008032520</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07678283</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH-FA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH-FA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Haskell, Arthur C.</subfield>
+    <subfield code="q">(Arthur Cushman),</subfield>
+    <subfield code="d">1890-1968</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haskell photograph collection of early American architecture [graphic], 1834-1950:</subfield>
+    <subfield code="b">finding aid (photographs taken by Arthur C. Haskell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Old-time New England, fall 1968:</subfield>
+    <subfield code="b">p.  53 (Arthur Cushman Haskell, known as Arthur C. Haskell, b. Jan. 23, 1890 in Salem, Mass.) p. 56-57 (d. Aug. 20, 1968 in  Montpelier, Vt.)</subfield>
+  </datafield>
+</record>
