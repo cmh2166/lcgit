@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00640nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 97009186 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970520070303.0</controlfield>
+  <controlfield tag="008">970310n| acnnnaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97009186 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Eggert Ó. Brím</subfield>
+    <subfield code="q">(Eggert Ólafsson Brím),</subfield>
+    <subfield code="d">1840-1893</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Brím, Eggert Ó.</subfield>
+    <subfield code="q">(Eggert Ólafsson),</subfield>
+    <subfield code="d">1840-1893</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Eggert Ólafsson Brím,</subfield>
+    <subfield code="d">1840-1893</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Eggert Brím,</subfield>
+    <subfield code="d">1840-1893</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Saga Ólafs Haraldssonar hins helga, 1893:</subfield>
+    <subfield code="b">t.p. (Eggert Ó. Brím)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Íslenzkar æviskrár</subfield>
+    <subfield code="b">(Eggert Brím (Ólafsson) (5. júlí 1840-9. mars 1893); prestur)</subfield>
+  </datafield>
+</record>
