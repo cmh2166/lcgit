@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00533nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 96017370 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960405053034.0</controlfield>
+  <controlfield tag="008">960404n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96017370 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04049916 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NdFA</subfield>
+    <subfield code="c">NdFA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hendrickson, Jeffrey Charles</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Hendrickson, Jeff</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Angler use and sport fishing ... 1995?:</subfield>
+    <subfield code="b">t.p. (Jeff Hendrickson, North Dakota Game and Fish Department)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Salinity and fish reproduction ... 1990:</subfield>
+    <subfield code="b">t.p. (Jeffrey Charles Hendrickson)</subfield>
+  </datafield>
+</record>
