@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01078cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2005180294</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322085835.0</controlfield>
+  <controlfield tag="008">050209n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005180294</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1037921</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06558731</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">World Health Organization.</subfield>
+    <subfield code="b">Malaria Unit</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">World Health Organization.</subfield>
+    <subfield code="b">Division of Control of Tropical Diseases.</subfield>
+    <subfield code="b">Malaria Unit</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">World Health Organization.</subfield>
+    <subfield code="b">Malaria Control Department</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">World Health Organization.</subfield>
+    <subfield code="b">Division of Control of Tropical Diseases</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The role of artemisinin and its derivatives in the current treatment of malaria (1994-1995), [1993]:</subfield>
+    <subfield code="b">t.p. (Malaria Unit, Division of Control of Tropical Diseases, World Health Organization)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Access to antimalarial medicines, c2003: t.p. (World Health Organization, Malaria Control Department); email from WHO, Jan 7, 2005 (name changed from Malaria Unit to Malaria Control Unit to Roll Back Malaria Department)</subfield>
+  </datafield>
+</record>
