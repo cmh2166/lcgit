@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  97054635 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970609175354.1</controlfield>
+  <controlfield tag="008">970527n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97054635 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Cassidy, Anne,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Cassidy, Ann,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Collaborating to improve community health, 1997:</subfield>
+    <subfield code="b">CIP t.p. (Ann Cassidy) data sheet (b. 07-03-65)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Note from publisher 06-09-97</subfield>
+    <subfield code="b">(correct spelling of editor's forename: Anne; this is her 1st book)</subfield>
+  </datafield>
+</record>
