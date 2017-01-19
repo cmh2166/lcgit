@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00950cz  a2200253n  4500</leader>
+  <controlfield tag="001">nr2002008278</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140509102433.0</controlfield>
+  <controlfield tag="008">020226n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002008278</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05704758</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1839</subfield>
+    <subfield code="t">1859</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, J.</subfield>
+    <subfield code="q">(John),</subfield>
+    <subfield code="d">active 1839-1859</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">London (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">61 Frith Street</subfield>
+    <subfield code="a">Soho</subfield>
+    <subfield code="b">London</subfield>
+    <subfield code="d">England</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Bookbinders</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">John</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Clarke, J.</subfield>
+    <subfield code="q">(John),</subfield>
+    <subfield code="d">fl. 1839-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, John,</subfield>
+    <subfield code="d">active 1839-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, J.</subfield>
+    <subfield code="c">(Bookbinder)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cornelii Celsi De medicina liber, 1478:</subfield>
+    <subfield code="b">binding (bound by J. Clarke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">British bookbindings presented by Kenneth H. Oldaker ..., 1982:</subfield>
+    <subfield code="b">p. 102 (John Clarke; bookbinder; active 1839-1859 at 61 Frith Street, Soho, London; in partnership with Francis Bedford 1841-1850)</subfield>
+  </datafield>
+</record>
