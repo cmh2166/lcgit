@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00736nz  a2200229n  4500</leader>
+  <controlfield tag="001">nb2012019430</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120817082223.0</controlfield>
+  <controlfield tag="008">120815n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012019430</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008555161</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19</subfield>
+    <subfield code="t">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cooper, Haydn</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Cardiff, Wales</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Illustration of books</subfield>
+    <subfield code="a">Graphic arts</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">2d10 (Firm)</subfield>
+    <subfield code="s">2011</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Illustrators</subfield>
+    <subfield code="a">Designers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tall stories from a lowly village, 2011:</subfield>
+    <subfield code="b">t.p. (Haydn Cooper, illustrations)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">2d10 www site, 15 August 2012:</subfield>
+    <subfield code="b">Who (Haydn Cooper, designer, illustrator, set up Cardiff-based design studio 2d10 in 2011)</subfield>
+  </datafield>
+</record>
