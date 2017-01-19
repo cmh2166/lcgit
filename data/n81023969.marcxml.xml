@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00750cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81023969 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090131075644.0</controlfield>
+  <controlfield tag="008">810323n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81023969 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00569754</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Tx</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Texas Supply/Demand Information System Project</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Texas labor demand, overall projections, 1976:</subfield>
+    <subfield code="b">t.p. (Texas Supply/Demand Information System Project)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Ray Barber</subfield>
+    <subfield code="b">(Project director) at Texas Education Agency 1-30-81 (Texas Supply/Demand Information System Project was an independent project with its own staff and own director; funds were provided by the United States Office of Education and administered by the Texas Education Agency)</subfield>
+  </datafield>
+</record>
