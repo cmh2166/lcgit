@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007080063</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070719075321.0</controlfield>
+  <controlfield tag="008">070717n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007080063</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07466389</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OkU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mid-America Industrial District (Pryor, Okla.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Mid-America Industrial Park (Pryor, Okla.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mr. President-- Mid-America Industrial Park near Tulsa, Oklahoma, can assist you, 1984?:</subfield>
+    <subfield code="b">t.p. (Mid-America Industrial Park)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, July 17, 2007</subfield>
+    <subfield code="b">(hdg.: Mid-America Industrial District (Pryor, Okla.); usage: Mid-America Industrial District)</subfield>
+  </datafield>
+</record>
