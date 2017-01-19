@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00490cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009049092</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090516075521.0</controlfield>
+  <controlfield tag="008">090330n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009049092</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08061657</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McLellan, Ivan P. W.</subfield>
+    <subfield code="q">(Ivan Peter Wilbur),</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Professional photography in New Zealand ... 2009:</subfield>
+    <subfield code="b">jkt. (Ivan P.W. McLellan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ legal dep. form</subfield>
+    <subfield code="b">(Ivan Peter Wilbur McLellan; Hon FNZPPA; b. 1935)</subfield>
+  </datafield>
+</record>
