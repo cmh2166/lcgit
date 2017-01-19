@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01095cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 98003606 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120809085550.0</controlfield>
+  <controlfield tag="008">980202n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98003606 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1801</subfield>
+    <subfield code="g">1885</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gourgues, Alexis,</subfield>
+    <subfield code="c">vicomte de,</subfield>
+    <subfield code="d">1801-1885</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Gourgues, Alexis,</subfield>
+    <subfield code="c">vicomte,</subfield>
+    <subfield code="d">1801-1885</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gourges, A.</subfield>
+    <subfield code="q">(Alexis),</subfield>
+    <subfield code="c">vicomte de,</subfield>
+    <subfield code="d">1801-1885</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gourgue, Alexis-Joseph-Dominique,</subfield>
+    <subfield code="c">vicomte de,</subfield>
+    <subfield code="d">1801-1885</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gourgues, Alexis-Joseph-Dominique de,</subfield>
+    <subfield code="d">1801-1885</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Dordogne, 1992:</subfield>
+    <subfield code="b">t.p. (vicomte de Gourgues; membre de la SocieĚteĚ d'agriculture, sciences et arts de la Dordogne ...) 2nd p. after t.p. (vicomte Alexis de Gourgues)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BN</subfield>
+    <subfield code="b">(Gourgues (Vte Alexis de)); usage: Vte A. de Gourgues; Vte Alexis de Gourgues; Vte de Gourgues)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dic. de bio. fr.</subfield>
+    <subfield code="b">(Gourgue, Alexis-Joseph-Dominique de; writer b. Oct. 12, 1801, d. Feb. 17, 1885 in Bordeaux)</subfield>
+  </datafield>
+</record>
