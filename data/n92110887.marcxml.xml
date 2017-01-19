@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  92110887 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930226143648.1</controlfield>
+  <controlfield tag="008">921116n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92110887 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Shekhter, Mark,</subfield>
+    <subfield code="d">1911-1963.</subfield>
+    <subfield code="t">Poems.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Shekhter, Mark,</subfield>
+    <subfield code="d">1911-1963.</subfield>
+    <subfield code="t">Lirika</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Shekhter, Mark,</subfield>
+    <subfield code="d">1911-1963.</subfield>
+    <subfield code="t">Stikhi</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Lirika, 1937.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Stikhi, 1982.</subfield>
+  </datafield>
+</record>
