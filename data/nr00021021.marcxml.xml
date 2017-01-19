@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00836cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 00021021 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081010081907.0</controlfield>
+  <controlfield tag="008">000628n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00021021 </subfield>
+    <subfield code="z">nr 00034393 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05285514</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNYU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNYU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Franḳel, Daṿid,</subfield>
+    <subfield code="d">1933-1996</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Frenḳel, Daṿid,</subfield>
+    <subfield code="d">1933-1996</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">פרנקל, דוד,</subfield>
+    <subfield code="d">1996־1933</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sefer zekhor le-Daṿid, 2000:</subfield>
+    <subfield code="b">t.p. (Rabi Daṿid Franḳel, z.l.l.h.h. mi-Bene Beraḳ ; disciple of the Ḥazon Ish) vol. 2, p. 9 (b. 22 Tamuz 693 [1933]) dedication page (son of Yiśakhar Dov; d. 7 Shevat 756 [1996])</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Otsar ha-rabbanim, 1975;</subfield>
+    <subfield code="a">Encyc. Jud. CD, 1998.</subfield>
+  </datafield>
+</record>
