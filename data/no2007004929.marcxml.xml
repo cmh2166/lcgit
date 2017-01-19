@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00777cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2007004929</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323094808.0</controlfield>
+  <controlfield tag="008">060926n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007004929</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07300535</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">[1573,1574]</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ṭībī, Aḥmad ibn Aḥmad,</subfield>
+    <subfield code="d">-1573 or 1574</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Aḥmad ibn Aḥmad al-Ṭībī,</subfield>
+    <subfield code="d">-1573 or 1574</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Ṭībī, Aḥmad ibn Aḥmad,</subfield>
+    <subfield code="d">d. 1573 or 4</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Mufīd min al-tajrīd, in Majmūʻat fawāʼid, 16--:</subfield>
+    <subfield code="b">fol. 12b (al-Shaykh Shihāb al-Dīn al-Ṭībī; Aḥmad ibn al-Ṭībī)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zirikli</subfield>
+    <subfield code="b">(al-Ṭībī; Aḥmad ibn Aḥmad ibn Ibrāhīm al-Ṭībī al-Shāfiʻī; d. 981/1573 in Damascus)</subfield>
+  </datafield>
+</record>
