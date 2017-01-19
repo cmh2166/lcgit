@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00895cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  87141979 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060203052429.0</controlfield>
+  <controlfield tag="008">871106n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87141979 </subfield>
+    <subfield code="z">n  88649477 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01977913</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">MU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Siles Zuazo, Hernán,</subfield>
+    <subfield code="d">1914-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zuazo, Hernán Siles,</subfield>
+    <subfield code="d">1914-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Siles Zuazo, Hernán,</subfield>
+    <subfield code="c">Pres. Bolivia,</subfield>
+    <subfield code="d">1914-</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="a">Bolivia.</subfield>
+    <subfield code="b">President (1956-1960 : Siles Zuazo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-86139: His Discurso presidencial, 1982</subfield>
+    <subfield code="b">(hdg. on PPiU rept.: Siles Zuazo, Hernán, 1914- ; usage: Hernán Siles Zuazo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11/06/87</subfield>
+    <subfield code="b">(subj. hdg.: Siles Zuazo, Hernán, Pres. Bolivia, 1914- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mensaje al Honorable Congreso Nacional, 1960:</subfield>
+    <subfield code="b">t.p. (Hernán Siles Zuazo; Presidente Constitucional de la República de Bolivia, 1956-1960)</subfield>
+  </datafield>
+</record>
