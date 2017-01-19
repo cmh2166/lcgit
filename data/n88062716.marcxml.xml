@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88062716 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930721160432.3</controlfield>
+  <controlfield tag="008">881220n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88062716 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">ICRL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Arnolʹdi, L. V.</subfield>
+    <subfield code="q">(Lev Vladimirovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Arnolʹdi, Lev Vladimirovich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mesozoic Coleoptera, 1989:</subfield>
+    <subfield code="b">CIP t.p. (L. V. Arnolʹdi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Arnolʹdi, Lev Vladimirovich; usage: L. V. Arnolʹdi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ėntomologich. obozrenie, 1981, no. 3:</subfield>
+    <subfield code="b">p. 712 (Lʹva Vladimirovicha Arnolʹdi; b. 1903, d. 1980; prof., dokt. biol. nauk; zoologist, hydrobiologist, entomologist)</subfield>
+  </datafield>
+</record>
