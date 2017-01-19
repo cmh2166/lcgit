@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00965cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  87890569 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120807083515.0</controlfield>
+  <controlfield tag="008">880801n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87890569 </subfield>
+    <subfield code="z">n  92062683 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Etienne,</subfield>
+    <subfield code="c">M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Etienne,</subfield>
+    <subfield code="c">ancien officier de l'Ambassade de Angleterre</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Traité de l'office, 1847:</subfield>
+    <subfield code="b">t.p. (M. Étienne, ancien officier de l'Ambassade d'Angleterre, officier de Madame la princesse de Bagration ,a Paris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BN</subfield>
+    <subfield code="b">(Étienne, ancien officier de l'Ambassade d'Angleterre)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(Etienne, )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bitting, K.G. Gastronomic bibliography, 1939</subfield>
+    <subfield code="b">(Étienne, M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rudolph, G.A. Kansas State University receipt book and household manual, 1968:</subfield>
+    <subfield code="b">p. 211 (Étienne)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Barbier;</subfield>
+    <subfield code="a">Dict. de biog. franç.</subfield>
+  </datafield>
+</record>
