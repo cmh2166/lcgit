@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01647cz  a2200337n  4500</leader>
+  <controlfield tag="001">n  79076048 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161020113131.0</controlfield>
+  <controlfield tag="008">790831n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79076048 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00308724</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">OCl</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">FMU</subfield>
+    <subfield code="d">CtY</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1921-06-29</subfield>
+    <subfield code="g">2000-06-06</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ2607.A558</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dard, Frédéric</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Novelist</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dar, Fr.</subfield>
+    <subfield code="q">(Frederik)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dar, Frederik</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">San-Antonio</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Kaput</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Ange noir</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Charles, Frédéric</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author written under other names, search also under:</subfield>
+    <subfield code="b">San-Antonio;</subfield>
+    <subfield code="b">Kaput;</subfield>
+    <subfield code="b">Ange noir;</subfield>
+    <subfield code="b">Frédéric Charles</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The following pseudonyms are valid AACR 2 headings: San Antonio; Kaput; Ange noir</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Monsieur Joos, 1941, c1940.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bourgeois, L. Frédéric Dard, c1985:</subfield>
+    <subfield code="b">p. 165 (b. 6/29/21 Jallieu (Isère))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4/8/86</subfield>
+    <subfield code="b">(hdg.: Dard, Frédéric; usage: Frédéric Dard, San Antonio, San-Antonio, Ange noir) LC manual cat. (usage also includes pseudonym Kaput)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Krŭvta e po-gŭsta ot vodata, 1966:</subfield>
+    <subfield code="b">t.p. (Fr. Dar) colophon (Frederik Dar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reuters obit, Thu, 8 Jun 2000</subfield>
+    <subfield code="b">(best-selling novelist Frédéric Dard died June 6, 2000)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dernière mission, 1998:</subfield>
+    <subfield code="b">t.p. (Frédéric Charles (Frédéric Dard)) p. 4 of cover (first in a series of spy novels written by Frédéric Dard between 1950 and 1963 under the pseud. Frédéric Charles)</subfield>
+  </datafield>
+</record>
