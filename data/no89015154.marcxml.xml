@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 89015154 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891013174024.3</controlfield>
+  <controlfield tag="008">891011n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89015154 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="c">InU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Vatielli, Francesco,</subfield>
+    <subfield code="d">1877-1946</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Vatielli, F.</subfield>
+    <subfield code="q">(Francesco),</subfield>
+    <subfield code="d">1877-1946</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Antiche cantate d'amore, 1916-1920:</subfield>
+    <subfield code="b">t.p. (Francesco Vatielli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Azzaiolo, F. Villotte del fiore, c1921:</subfield>
+    <subfield code="b">t.p. (F. Vatielli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Enc. della mus., 1972</subfield>
+    <subfield code="b">(Vatielli, Francesco; b. 1-1-1877, Pesaro, d. 7-12-46, Portogruaro; musicologist)</subfield>
+  </datafield>
+</record>
