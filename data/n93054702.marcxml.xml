@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  93054702 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930610082204.2</controlfield>
+  <controlfield tag="008">930610n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93054702 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Convento de San Francisco (Seville, Spain)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Seville (Spain).</subfield>
+    <subfield code="b">Convento de San Francisco</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Casa Grande de Sevilla (Monastery)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Convento de San Francisco de Sevilla</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Casa Grande de San Francisco (Seville, Spain : Monastery)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Castillo Utrilla, M.J. del. El Convento de San Francisco, Casa Grande de Sevilla, 1988:</subfield>
+    <subfield code="b">p. 11, etc. (Convento de San Francisco de Sevilla; Casa Grande de San Francisco; founded 1268; destroyed 1840)</subfield>
+  </datafield>
+</record>
