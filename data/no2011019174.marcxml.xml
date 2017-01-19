@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011019174</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110207074658.0</controlfield>
+  <controlfield tag="008">110205n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011019174</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08759867</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NAnB-G</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NAnB-G</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martel-Euzet, Rita,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Euzet, Rita Martel-,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Des Boulongne aĚ GeĚo Martel, 2009:</subfield>
+    <subfield code="b">t.p. (Rita Martel-Euzet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BNF in VIAF, Feb. 5, 2011</subfield>
+    <subfield code="b">(hdg.: Martel-Euzet, Rita, 1945-)</subfield>
+  </datafield>
+</record>
