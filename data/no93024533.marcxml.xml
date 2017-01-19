@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00540nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 93024533 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930819180703.2</controlfield>
+  <controlfield tag="008">930819n| acaabaaa|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93024533 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Slovenska dediščina</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Zbirka Slovenska dediščina</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">V Ljubljani</subfield>
+    <subfield code="b">Cankarjeva zal.</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">InU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">InU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">InU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plečnikova Ljubljana, 1991:</subfield>
+    <subfield code="b">cover (Slovenska dediščina) CIP data (Zbirka Slovenska dediščina)</subfield>
+  </datafield>
+</record>
