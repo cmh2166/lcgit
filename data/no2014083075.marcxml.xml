@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00977nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2014083075</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140619073547.0</controlfield>
+  <controlfield tag="008">140618n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014083075</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09886722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DHMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DHMM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Nemunėlio Radviliškis (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Nyamunelë-Radvilishkis (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Radvilishkis (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Radviliškio (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Radviliškis (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Radzivilishkis (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Radziwiliszki (Lithuania)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">US Holocaust Memorial Museum catalog, 18 June 2014</subfield>
+    <subfield code="b">(Nemunėlio Radviliškis (Lithuania))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 18 June 2014</subfield>
+    <subfield code="b">(Nemunėlio Radviliškis; PPL, 56°23ʹ47ʺN, 024°46ʹ14ʺE; Panevėžio Apskritis, Lithuania; variants: Nyamunelë-Radvilishkis, Radvilishkis, Radviliškio, Radviliškis, Radzivilishkis, Radziwiliszki)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Lithuania</subfield>
+    <subfield code="z">Nemunėlio Radviliškis</subfield>
+  </datafield>
+</record>
