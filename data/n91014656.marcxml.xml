@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01012cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  91014656 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920110083425.5</controlfield>
+  <controlfield tag="008">910211n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91014656 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Panel on Dosimetric Assumptions Affecting the Application of Radon Risk Estimates</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">National Research Council (U.S.).</subfield>
+    <subfield code="b">Board on Radiation Effects Research.</subfield>
+    <subfield code="b">Panel on Dosimetric Assumptions Affecting the Application of Radon Risk Estimates</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Comparative dosimetry of radon in mines and homes, 1991:</subfield>
+    <subfield code="b">CIP t.p. (Panel on Dosimetric Assumptions Affecting the Application of Radon Risk Estimates, Board on Radiation Effects Research, Commission on Life Sciences, National Research Council)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to NRC Commission on Life Sciences, 11/26/91</subfield>
+    <subfield code="b">(the Panel on Dosimetric Assumptions Affecting the Application of Radon Risk Estimates was an ad hoc committee subordinate to the Board on Radiation Effects Research)</subfield>
+  </datafield>
+</record>
