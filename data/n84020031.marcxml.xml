@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  84020031 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961106113847.0</controlfield>
+  <controlfield tag="008">840514n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84020031 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Németi, I.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Németi, István</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Andréka, H. Generalization of the concept of variety and quasivariety to partial algebras through category theory, 1983:</subfield>
+    <subfield code="b">t.p. (I. Németi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 5-1-84</subfield>
+    <subfield code="b">(hdg.: Németi, I.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Algebraic logic, c1991:</subfield>
+    <subfield code="b">t.p. (I. Németi) p. 431 (István Németi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decision problems for equational theories of relation algebras, 1997:</subfield>
+    <subfield code="b">CIP t.p. (István Németi) data sht. (b. 8-17-42)</subfield>
+  </datafield>
+</record>
