@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00535nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001091605</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011117071048.0</controlfield>
+  <controlfield tag="008">011116n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001091605</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05627835</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MBU-T</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MBU-T</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hall, Samuel Romilly,</subfield>
+    <subfield code="d">1812-1876</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wesleyan minister's address to the members of society in Tunbridge-wells ... [MI], 1842:</subfield>
+    <subfield code="b">t.p. (Samuel Romilly Hall)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 16, 2001:</subfield>
+    <subfield code="b">(hdg.: Hall, Samuel Romilly, 1812-1876; usage: Samuel Romilly Hall)</subfield>
+  </datafield>
+</record>
