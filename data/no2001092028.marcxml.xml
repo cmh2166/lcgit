@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01125nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2001092028</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011120063833.0</controlfield>
+  <controlfield tag="008">011119n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001092028</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05629855</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Blumhof, Johann Georg Ludolph,</subfield>
+    <subfield code="d">1774-1825</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blumhof, Ioahann Georg Ludolph,</subfield>
+    <subfield code="d">1774-1825</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blumhof, J. G. L.</subfield>
+    <subfield code="q">(Johann Georg Ludolph),</subfield>
+    <subfield code="d">1774-1825</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blumhof, Joh. Georg. Rudolph</subfield>
+    <subfield code="q">(Joahann Georg Ludolph),</subfield>
+    <subfield code="d">1774-1825</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Einige Nachrichten uĚber das Stadium der Alten, 1796:</subfield>
+    <subfield code="b">t.p. (Ioahann Georg Ludolph Blumhof)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poggendorf, J.C. Biographisch-literarisches HandwoĚrterbuch zur Geschichte der exacten Wissenschaften, 1965:</subfield>
+    <subfield code="b">v. 1, col. 215 (Blumhof, Johann Georg Ludolph; b. Sept. 25, 1774, Hannover; d. May 9, 1825, Giessen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM on CD-ROM, Sept. 18, 2001</subfield>
+    <subfield code="b">(hdg.: Blumhof, Johann Georg Ludolph)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BN on CD-ROM, Sept. 18, 2001</subfield>
+    <subfield code="b">(hdg.: Blumhof, Johann Georg Ludolph; usage: J.G.L. Blumhof, Joh. Georg. Ludolph Blumhof, Joh. Georg. Lud. Blumhof, Johann Georg Ludolph Blumhof)</subfield>
+  </datafield>
+</record>
