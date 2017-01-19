@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00718cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  83006799 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131122132046.0</controlfield>
+  <controlfield tag="008">830121n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83006799 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19340915</subfield>
+    <subfield code="g">20131027</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Berthoud, Roger,</subfield>
+    <subfield code="d">1934-2013</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Great Britain</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Journalist</subfield>
+    <subfield code="a">Biographer</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Graham Sutherland, 1982:</subfield>
+    <subfield code="b">t.p. (Roger Berthoud) jkt. (b. 1934)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Independent (online), viewed Nov. 22, 2013</subfield>
+    <subfield code="b">(Roger Berthoud; b. Sept. 15, 1934; d. Oct. 27, 2013; distinguished and versatile journalist; writer of authoritative biographies of Graham Sutherland and Henry Moore)</subfield>
+  </datafield>
+</record>
