@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00655cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  99029217 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315104438.0</controlfield>
+  <controlfield tag="008">990414n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99029217 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Cincinnati.</subfield>
+    <subfield code="b">College-Conservatory of Music.</subfield>
+    <subfield code="b">Preparatory Department</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">University of Cincinnati.</subfield>
+    <subfield code="b">College-Conservatory of Music.</subfield>
+    <subfield code="b">Preparatory Dept.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">University of Cincinnati.</subfield>
+    <subfield code="b">College-Conservatory of Music</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Music without borders, c1921:</subfield>
+    <subfield code="b">t.p. (Preparatory Department of the College-Conservatory of Music, University of Cincinnati)</subfield>
+  </datafield>
+</record>
