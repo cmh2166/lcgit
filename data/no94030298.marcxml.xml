@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00527cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 94030298 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071016075148.0</controlfield>
+  <controlfield tag="008">940901n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94030298 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ames, John Edward</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Compton, Ralph</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The asylum, c1994:</subfield>
+    <subfield code="b">t.p. (John Edward Ames)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The real Deadwood, 2004:</subfield>
+    <subfield code="b">CIP t.p. (John Ames) data view (b. 1949)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 2007583666: Ames, J.E. Deadwood Gulch, 2006</subfield>
+    <subfield code="b">(a Ralph Compton novel  by John Edward Ames)</subfield>
+  </datafield>
+</record>
