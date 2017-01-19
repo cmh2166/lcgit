@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01010cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 92015545 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131119141701.0</controlfield>
+  <controlfield tag="008">920617n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92015545 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03190680</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meza Lora, J. Salvador</subfield>
+    <subfield code="q">(José Salvador)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Mexicali (Mexico)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad Autónoma de Baja California. Facultad de Economía</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">José Salvador</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meza Lora, José Salvador</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lora, J. Salvador Meza</subfield>
+    <subfield code="q">(José Salvador Meza)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meza, Salvador</subfield>
+    <subfield code="q">(José Salvador Meza Lora)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Conveniencias de la integración ... 1991:</subfield>
+    <subfield code="b">t.p. (J. Salvador Meza Lora) t.p. verso (José Salvador Meza Lora, Facultad de Econ., Univ. Aut. de Baja Calif.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Consideraciones acerca de la inversión extranjera en China, 2011:</subfield>
+    <subfield code="b">t.p. (José Salvador Meza Lora) p. 219 (bib. ref.: Meza, Salvador)</subfield>
+  </datafield>
+</record>
