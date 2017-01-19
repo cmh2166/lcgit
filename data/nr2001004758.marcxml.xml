@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00713cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2001004758</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011009153612.0</controlfield>
+  <controlfield tag="008">010209n| acaaaaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001004758</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Taiwan di zhi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jing ji bu zhong yang di zhi diao cha suo (China).</subfield>
+    <subfield code="t">Taiwan di zhi</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">5</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Taibei Xian Zhonghe Shi</subfield>
+    <subfield code="b">Jing ji bu zhong yang di zhi diao cha suo;</subfield>
+    <subfield code="a">Taibei Shi</subfield>
+    <subfield code="b">Zhonghua min guo zheng fu chu ban pin zhan shou zhong xin</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Taiwan de pian ma yan, 1995:</subfield>
+    <subfield code="b">t.p. (Taiwan di zhi; Jing ji bu zhong yang di zhi diao cha suo)</subfield>
+  </datafield>
+</record>
