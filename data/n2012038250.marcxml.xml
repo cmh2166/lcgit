@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00707cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2012038250</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120622074836.0</controlfield>
+  <controlfield tag="008">120607n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012038250</subfield>
+    <subfield code="z">n 2012034548</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Takahashi, Shunsuke,</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="t">Kyodai kōsō kenchiku no nazo.</subfield>
+    <subfield code="l">Chinese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Takahashi, Shunsuke,</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="t">Mo tian da lou jian zhu zhi mi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">高橋俊介,</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="t">巨大高層建築の謎.</subfield>
+    <subfield code="l">Chinese.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">高橋俊介,</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="t">摩天大樓建築之謎</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mo tian da lou jian zhu zhi mi, 2009:</subfield>
+    <subfield code="b">t.p. (摩天大樓建築之謎 = Mo tian da lou jian zhu zhi mi)</subfield>
+  </datafield>
+</record>
