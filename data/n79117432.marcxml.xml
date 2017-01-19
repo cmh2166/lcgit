@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00541cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  79117432 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090221080807.0</controlfield>
+  <controlfield tag="008">791010n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79117432 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00349142</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ2680.A47</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tanner, Jacqueline</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Aurore pétrifiée, achevé d'impr. 1979:</subfield>
+    <subfield code="b">t.p. (Jacqueline Tanner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her La Marysée, c1984:</subfield>
+    <subfield code="b">t.p. (Jacqueline Tanner) front flap (b. Lausanne 1943; lives in Geneva; medical labworker)</subfield>
+  </datafield>
+</record>
