@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00850cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2012074664</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121204075000.0</controlfield>
+  <controlfield tag="008">121203n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012074664</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kuula, Toivo,</subfield>
+    <subfield code="d">1883-1918.</subfield>
+    <subfield code="t">Tuijotin tulehen kauan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kuula, Toivo,</subfield>
+    <subfield code="d">1883-1918.</subfield>
+    <subfield code="t">Long I stared into the fire</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kuula, T. Songs and orchestral music [SR] p2011:</subfield>
+    <subfield code="b">container (Tuijotin tulehen kauan = Long I stared into the fire : op. 2 no. 2; words, Eino Leino (1907)) insert (piano acc.; orchestrated by Aare Merikanto)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from Tommila Tero, Dec. 3, 2012: (one of 3 individual songs composed between 1904 and 1907 and published in various sources during 1907; they got their numbering first in works lists compiled by other people and there was never a single work numbered "op. 2")</subfield>
+  </datafield>
+</record>
