@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00613cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  86068118 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209090838.0</controlfield>
+  <controlfield tag="008">860630n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86068118 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Berliner Medicinisch-Psychologische Gesellschaft (Germany)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Berliner Gesellschaft fuĚr Psychiatrie und Nervenkrankheiten</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schmiedebach, H.-P. Psychiatrie und Psychologie im Widerstreit, c1986:</subfield>
+    <subfield code="b">t.p. (Berliner Medicinisch-Psychologischen Gesellschaft) p. 14 (changed name to Berliner Gesellschaft fuĚr Psychiatrie und Nervenkrankheiten in 1879)</subfield>
+  </datafield>
+</record>
