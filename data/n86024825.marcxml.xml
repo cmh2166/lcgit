@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00663cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86024825 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000614064404.0</controlfield>
+  <controlfield tag="008">870424n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86024825 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01840159</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schneider-Cuvay, M. Michaela,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cuvay, M. Michaela Schneider-,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schneider-Cuvay, Maria Michaela,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Salzburg, part 2, 1982:</subfield>
+    <subfield code="b">t.p. (M. Michaela Schneider-Cuvay) p. 356 (b. Zagreb, 1933 ; pianist and piano teacher)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AufzuĚge fuĚr Trompeten und Pauken ... 1977:</subfield>
+    <subfield code="b">t.p. (vorgelegt von Maria Michaela Schneider-Cuvay)</subfield>
+  </datafield>
+</record>
