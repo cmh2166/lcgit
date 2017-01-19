@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2013006691</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130120075027.0</controlfield>
+  <controlfield tag="008">130118n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013006691</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09386503</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DHMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DHMM</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Niwka (Województwo Śląskie, Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">US Holocaust Memorial Museum catalog, 18 Jan. 2013</subfield>
+    <subfield code="b">(hdg.: Niwka, Sosnowiec, Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 18 Jan. 2013</subfield>
+    <subfield code="b">(Niwka; PPL, 50°14ʹ44ʺN, 019°09ʹ33ʺE; Śląskie, Poland; many other Niwka listed)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Poland</subfield>
+    <subfield code="z">Niwka (Województwo Śląskie)</subfield>
+  </datafield>
+</record>
