@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00722cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89204722 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040615092139.0</controlfield>
+  <controlfield tag="008">911009n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89204722 </subfield>
+    <subfield code="z">n  89204516 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Śrīmanta Śaṅkaradeva Research Institute</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Śrīmanta Śaṅkaradeva Gaveṣaṇā Pratiṣṭhāna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Śrīmanta Śaṅkaradeva Research Institute. Library. A Descriptive catalogue of manuscripts ... 1990:</subfield>
+    <subfield code="b">t.p. (Śrīmanta Śaṅkaradeva Research Institute, Batadrava Nagāon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Journal of Śrīmanta Śaṅkaradeva Research Institute, 1990:</subfield>
+    <subfield code="b">t.p. (Śrīmanta Śaṅkaradeva Gaveṣaṇā Pratiṣṭhāna)</subfield>
+  </datafield>
+</record>
