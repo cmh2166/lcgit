@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00737nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2013057879</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130530075527.0</controlfield>
+  <controlfield tag="008">130528n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013057879</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09482958</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSmH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSmH</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Central Ptg. and Illinois Litho. Co.</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Chicago, Ill.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Central Printing and Illinois Lithographing Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ringling Bros and Barnum &amp; Bailey Combined Circus  ... features including giraffe-neck women from Burma [graphic], circa 1933:</subfield>
+    <subfield code="b">poster recto (Central Ptg. and Illinois Litho. Co., Chicago, U.S.A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chicago Daily News Almanac and year-Book, 1933:</subfield>
+    <subfield code="b">page 26 (Central Printing and Illinois Lithographing Co.)</subfield>
+  </datafield>
+</record>
