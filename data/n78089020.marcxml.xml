@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00947cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  78089020 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090308081112.0</controlfield>
+  <controlfield tag="008">781201n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78089020 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00224180</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">National Criminal Justice Information and Statistics Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Law Enforcement Assistance Administration.</subfield>
+    <subfield code="b">National Criminal Justice Information and Statistics Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Criminal Justice Information and Statistics Service, National</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Bureau of Justice Statistics</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Local jails ... 1973.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Prosecution of felony arrests, 1979, c1983 (xx-ref.)</subfield>
+    <subfield code="b">CIP t.p. verso (Bureau of Justice Statistics, formerly the National Criminal Justice Information and Statistics Service, Law Enforcement Asssistance Administration, U.S. Department of Justice)</subfield>
+  </datafield>
+</record>
