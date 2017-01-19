@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00471nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 99005801 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990220052050.5</controlfield>
+  <controlfield tag="008">990219n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99005801 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="c">CtY</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moroz, O. N.</subfield>
+    <subfield code="q">(Oleksiĭ N.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Moroz, Alekseĭ Nikiforovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Moroz, Oleksiĭ</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eti︠u︡dy pro sonet, 1973:</subfield>
+    <subfield code="b">t.p. (O.N. Moroz) colophon (Moroz Alekseĭ Nikiforovich) t.p. verso (... Oleksii︠a︡ Moroza)</subfield>
+  </datafield>
+</record>
