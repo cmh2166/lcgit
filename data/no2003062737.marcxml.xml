@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00535cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003062737</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140821142448.0</controlfield>
+  <controlfield tag="008">030625n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003062737</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06083896</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OBgU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Waddell, Terrie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cultural expressions of evil and wickedness, cc2003:</subfield>
+    <subfield code="b">t.p. (Terrie Waddell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eavesdropping, 2014:</subfield>
+    <subfield code="b">ECIP t.p. (Terrie Waddell) data view (PhD; she is assoc. prof. of media, screen and sound, La Trobe Univ., Australia)</subfield>
+  </datafield>
+</record>
