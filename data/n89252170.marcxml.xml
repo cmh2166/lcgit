@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00579cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89252170 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020227182547.0</controlfield>
+  <controlfield tag="008">931006n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89252170 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03470782</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Obote, Milton Joshua</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Obote Joshua, Milton</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Joshua, Milton Obote</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Last of the ogres and other stories, 1992:</subfield>
+    <subfield code="b">t.p. (Milton Joshua Obote)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gender Awareness Workshop for Mathare Youth Sports Association, 1998:</subfield>
+    <subfield code="b">t.p. (Milton Obote Joshua) p. 3 (Milton Obote)</subfield>
+  </datafield>
+</record>
