@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00745cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 93006280 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080917082144.0</controlfield>
+  <controlfield tag="008">930219nc acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93006280 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03321067</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Zhong gong Jilin Shi wei.</subfield>
+    <subfield code="b">Dang shi yan jiu shi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Zhong gong Jilin Shi wei dang shi yan jiu shi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">中共吉林市委.</subfield>
+    <subfield code="b">党史研究室</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">中共吉林市委.</subfield>
+    <subfield code="b">党史硏究室</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung kung Chi-lin shih tang shih jen wu, 1991- :</subfield>
+    <subfield code="b">v. 1, t.p. (Chung kung Chi-lin shih wei tang shih yen chiu shih)</subfield>
+  </datafield>
+</record>
