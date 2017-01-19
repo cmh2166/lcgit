@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  79124044 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120802080606.0</controlfield>
+  <controlfield tag="008">791031n| acannaab           |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79124044 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Seminar on the Pre-school Child</subfield>
+    <subfield code="d">(1970 :</subfield>
+    <subfield code="c">Madras, India)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Seminar on the Pre-school Child,</subfield>
+    <subfield code="c">Madras,</subfield>
+    <subfield code="d">1970.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Report ... 1973:</subfield>
+    <subfield code="b">t.p. (Seminar on the Pre-school Child, held in Madras (India) 12/14-19/70)</subfield>
+  </datafield>
+</record>
