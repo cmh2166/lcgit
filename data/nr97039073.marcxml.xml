@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00745nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 97039073 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980414051152.4</controlfield>
+  <controlfield tag="008">971031n| acnnnaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97039073 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Monasterio de Santa María la Real de Buenafuente (Guadalajara (Province : Spain))</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Monasterio de Santa María de Buenafuente</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Monasterio de la Orden Cisterciense de Santa María la Real de Buenafuente</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Buenafuente (Monastery : Guadalajara (Province : Spain))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Villar Romero, M. T.  Buenafuente, un monasterio del Cister, 1994 : </subfield>
+    <subfield code="b">p. [11] (Monasterio de la Orden Cisterciense de Santa María la Real de Buenafuente), (Monasterio de Santa María de Buenafuente)</subfield>
+  </datafield>
+</record>
