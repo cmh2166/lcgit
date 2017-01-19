@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01336cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  85081813 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316082943.0</controlfield>
+  <controlfield tag="008">850722n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85081813 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01382258</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1602</subfield>
+    <subfield code="t">1648</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Albernaz, João Teixeira,</subfield>
+    <subfield code="d">active 1602-1648</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Albernas, João Teixeira,</subfield>
+    <subfield code="d">active 1602-1648</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Albernaz, João Teixeira,</subfield>
+    <subfield code="d">fl. 1602-1648</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Teixeira, Albernas João,</subfield>
+    <subfield code="d">active 1602-1648</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Teixeira Albernaz, João,</subfield>
+    <subfield code="d">active 1602-1648</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Teixeira, Ioão,</subfield>
+    <subfield code="d">active 1602-1648</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Teixeira, João,</subfield>
+    <subfield code="d">active 1602-1648</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Onçeno mapa delas costas dela Asia y dela America Sentrional, 1630, 1985:</subfield>
+    <subfield code="b">text accomp. map (João Teixeira; Ioão Teixeira)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Portugaliae monumenta cartographica,</subfield>
+    <subfield code="b">v. 4, 1980 (João Teixeira I; João Teixeira Albernaz I, fl. 1602-1648)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tooley's dict. of mapmakers, 1979</subfield>
+    <subfield code="b">(Teixeira, Albernas João, elder, 1602-1666, cosmographer to king of Portugal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tooley's dict. of mapmakers, 1999</subfield>
+    <subfield code="b">(Albernaz, João Teixeira [I], c. 1602-1666, son of Luis Teixeira but used the name Albernaz, Portuguese cartographer and chartmaker, cosmographer to the King of Portugal)</subfield>
+  </datafield>
+</record>
