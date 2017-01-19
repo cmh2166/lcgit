@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00633cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2001084324</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040810033149.0</controlfield>
+  <controlfield tag="008">010713n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001084324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Duart, Josep M.</subfield>
+    <subfield code="q">(Josep Maria)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La organización ética de la escuela y la transmisión de valores, c1999:</subfield>
+    <subfield code="b">t.p. (Josep M. Duart) cover (Josep Maria Duart) p. 4 of cover ("miembro de los equipos de investigación en Educación y Valores de las universidades Autónoma de Barcelona y Ramon Llull")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aprender in la virtualidad, 2000:</subfield>
+    <subfield code="b">p. 4 of cover (b. 1960, Barcelona)</subfield>
+  </datafield>
+</record>
