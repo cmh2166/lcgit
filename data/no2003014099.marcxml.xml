@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00756nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2003014099</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030214052910.0</controlfield>
+  <controlfield tag="008">030213n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003014099</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05973474</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DCS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DCS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brown-Hruska, Sharon,</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hruska, Sharon Brown-,</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Sharon J.</subfield>
+    <subfield code="q">(Sharon Joy),</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nomination hearing for Phyllis K. Fong, Walter Lukken, Sharon Brown-Hruska, and Douglas L. Flory, 2003:</subfield>
+    <subfield code="b">t.p. (Sharon Brown-Hruska) p. 79 (full name: Sharon Joy Brown-Hruska, Sharon Brown Hruska, Sharon Joy Brown, b. Nov. 8, 1959)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Feb. 11, 2003</subfield>
+    <subfield code="b">(hdgs.: Hruska, Sharon Brown; Brown, Sharon J., 1959- ; Brown, Sharon J.)</subfield>
+  </datafield>
+</record>
