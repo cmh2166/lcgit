@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00977cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  89610809 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150812133312.0</controlfield>
+  <controlfield tag="008">890223n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89610809 </subfield>
+    <subfield code="z">no2009200497</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02466027</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TxU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19020806</subfield>
+    <subfield code="g">19631211</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Russell, Luis</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Jazz musicians</subfield>
+    <subfield code="a">Pianists</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His What is he to me? 1939:</subfield>
+    <subfield code="b">caption (Luis Russell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Williams, B. Case on dawn [SR] 1935:</subfield>
+    <subfield code="b">label (Luis Russel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russell, Luis C. Lead sheets, 1925-1926:</subfield>
+    <subfield code="b">ms. data (Luis C. Russell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia search, Feb. 25, 2010</subfield>
+    <subfield code="b">(Luis Russell (6 August 1902-11 December 1963) was a jazz pianist and bandleader; Luis Carl Russell was born on Careening Cay, near Bocas del Toro, Panama)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ASCAP, 4th ed.</subfield>
+    <subfield code="b">(Russell, Luis Carl; b. Aug. 5, 1902, Careening Cay, Panama; d. Dec. 11, 1963; composer, pianist, bandleader)</subfield>
+  </datafield>
+</record>
