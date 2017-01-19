@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00598nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81140849 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">811208n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81140849 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Bain, Robert,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Bain, Robert A.,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Changes in the international grain trade in the 1980's, 1981:</subfield>
+    <subfield code="b">t.p. (Robert Bain, U.S. Dept. of Agric., Economic Research Serv.) p. 1 (asst. dir., Australian Bur. of Agricultural Economics, on exchange)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Economic Research Serv., 11/24/81</subfield>
+    <subfield code="b">(Robert A. Bain, b. 8/21/41)</subfield>
+  </datafield>
+</record>
