@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00657cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84218159 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970321092616.9</controlfield>
+  <controlfield tag="008">850122n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84218159 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Akademii︠a︡ nauk SSSR.</subfield>
+    <subfield code="b">Otdel teoreticheskikh problem</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Rossiĭskai︠a︡ akademii︠a︡ nauk.</subfield>
+    <subfield code="b">Otdel teoreticheskikh problem</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fizika udara i volnovai︠a︡ dinamika v kosmose i na Zemle, 1983:</subfield>
+    <subfield code="b">t.p. (Otdel teoreticheskikh problem AN SSSR)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Rusʹ vedicheskai︠a︡ v proshlom i v budushchem, 1996: t.p. (Rossiĭskai︠a︡ akademii︠a︡ nauk, Otdel teoreticheskikh problem)</subfield>
+  </datafield>
+</record>
