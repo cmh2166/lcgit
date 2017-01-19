@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00558cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85093039 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020629033207.0</controlfield>
+  <controlfield tag="008">850411n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85093039 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CtY-BR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cookson, William,</subfield>
+    <subfield code="d">1939-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cookson, W. G.</subfield>
+    <subfield code="q">(William G.),</subfield>
+    <subfield code="d">1939-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A guide to the Cantos of Ezra Pound, c1985:</subfield>
+    <subfield code="b">CIP t.p. (William Cookson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4-4-85</subfield>
+    <subfield code="b">(hdg.: Cookson, William, 1939- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The trifler, July 1957:</subfield>
+    <subfield code="b">p. 5 (W.G. Cookson) p. 13 (William Cookson)</subfield>
+  </datafield>
+</record>
