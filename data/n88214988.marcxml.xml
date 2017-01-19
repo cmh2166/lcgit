@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00862cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88214988 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210073322.0</controlfield>
+  <controlfield tag="008">891204n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88214988 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nc</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">North Carolina State College.</subfield>
+    <subfield code="b">Industrial Experimental Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">North Carolina State College.</subfield>
+    <subfield code="b">School of Engineering.</subfield>
+    <subfield code="b">Industrial Experimental Program</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">North Carolina State College.</subfield>
+    <subfield code="b">Industrial Extension Service</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">North Carolina State College.</subfield>
+    <subfield code="b">School of Engineering</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Publications, April 1959:</subfield>
+    <subfield code="b">masthead (Industrial Experimental Program, School of Engineering, North Carolina State College)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Its Publications list, winter 1961-62: cover (Industrial Extension Service, School of Engineering, North Carolina State College)</subfield>
+  </datafield>
+</record>
