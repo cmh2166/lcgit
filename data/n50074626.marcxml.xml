@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01762cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  50074626 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040608111950.0</controlfield>
+  <controlfield tag="008">801222n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50074626 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Emporiou.</subfield>
+    <subfield code="b">Eidikon Peiramatikon Ergastērion</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Emporiou.</subfield>
+    <subfield code="b">Special Experimental Laboratory</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Emporiou.</subfield>
+    <subfield code="b">Genikē Technikē Dieuthynsis.</subfield>
+    <subfield code="b">Eidikon Peiramatikon Ergastērion</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Emporiou.</subfield>
+    <subfield code="b">Genikē Technikē Dieuthynsis.</subfield>
+    <subfield code="b">Special Experimental Laboratory</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Emporiou.</subfield>
+    <subfield code="b">Dieuthynsis Chēm. Ereunōn.</subfield>
+    <subfield code="b">Eidikon Peiramatikon Ergastērion</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Greece.</subfield>
+    <subfield code="b">Hypourgeion Emporiou.</subfield>
+    <subfield code="b">Dieuthynsis 4ē Chēmikōn kai Technologikōn Ereunōn.</subfield>
+    <subfield code="b">Eidikon Peiramatikon Ergastērion</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Eidikon Peiramatikon Ergastērion (Greece. Hypourgeion Emporiou)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Meletai, 1959-61.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eidikon Peiramatikon Ergastērion (Series). Eidikon Peiramatikon Ergastērion ; 45. Meletē epi tou Hellēnikou tyrou ... 1964:</subfield>
+    <subfield code="b">t.p. (Hypourgeion Emporiou, Eidikon Peiramatikon Ergastērion) insert (Kingdom of Greece, Ministry of Commerce, General Technical Direction, Special Experimental Laboratory) [not analyzed in LC]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Eidikon Peiramatikon Ergastērion (Series). Eidikon Peiramatikon Ergastērion ; 15, 57. Meletē epi tou Hellēnikou elaioladou, elaiokomikon etos 1956-1957:</subfield>
+    <subfield code="b">t.p. (Hypourgeion Emporiou, Dieuthynsis Chēm. Ereunōn, Eidikon Peiramatikon Ergastērion); elaiokomikon etos 1966-1967: t.p. (Hypourgeion Emporiou, Dieuthynsis 4ē Chēmikōn kai Technologikōn Ereunōn, Eidikon Peiramatikon Ergastērion)</subfield>
+  </datafield>
+</record>
