@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00400nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98073764 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980324055034.1</controlfield>
+  <controlfield tag="008">980323n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98073764 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04689016 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ATLA</subfield>
+    <subfield code="c">ATLA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Service orthodoxe de presse (France)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">SOP</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BIP SNOP SOP, Jan. 5, 1989:</subfield>
+    <subfield code="b">p. 1 (Service orthodoxe de presse (SOP))</subfield>
+  </datafield>
+</record>
