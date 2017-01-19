@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00446nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2003054675</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030910154826.0</controlfield>
+  <controlfield tag="008">030910n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003054675</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army Air Forces.</subfield>
+    <subfield code="b">Fighter Group, 370th</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jones, Jay. The 370th Fighter Group in World War II, c2003:</subfield>
+    <subfield code="b">p. 12 (370th Fighter Group activated on July 1, 1943 at Westover, Mass.; Army Air Forces)</subfield>
+  </datafield>
+</record>
