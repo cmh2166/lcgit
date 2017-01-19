@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00591nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010200771</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101212075112.0</controlfield>
+  <controlfield tag="008">101210n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010200771</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08712103</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bastús y Faya, Juan,</subfield>
+    <subfield code="d">1773-1849?</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Faya, Juan Bastús y,</subfield>
+    <subfield code="d">1773-1849?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El Oidor catalán licienciado Don Juan Bastús y Faya, 2010:</subfield>
+    <subfield code="b">cover (Juan Bastús y Faya) p. 257 (b. 1773, Catalonia; probable year of death 1849, Valencia; general in Colombia and Ecuador during the wars of independence)</subfield>
+  </datafield>
+</record>
