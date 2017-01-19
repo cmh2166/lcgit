@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00523cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 89011962 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900328135719.3</controlfield>
+  <controlfield tag="008">890912n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89011962 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)tb019246</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Fraser, James,</subfield>
+    <subfield code="d">1713-1754</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The history of Nadir Shah, 1742:</subfield>
+    <subfield code="b">t.p. (James Fraser)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM</subfield>
+    <subfield code="b">(Fraser, James, of Inverness)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 9-12-89</subfield>
+    <subfield code="b">(hdg.: Fraser, James, fl. 1742)</subfield>
+  </datafield>
+</record>
