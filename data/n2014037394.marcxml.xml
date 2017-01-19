@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00608nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014037394</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140625143651.0</controlfield>
+  <controlfield tag="008">140625n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014037394</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chang, Kyŏng-wŏn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">장 경원</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aeksyŏn lŏning ŭro suŏp hagi, 2014:</subfield>
+    <subfield code="b">t.p. (장 경원 = Chang Kyŏng-wŏn) front flap (kyoyuk konghak paksa, Sŏul Taehakkyo Taehagwŏn; ex-prof., Kyŏnghŭi Taehakkyo Kyosu Haksŭp Chiwŏn Sent'ŏ; prof., Kyŏnggi Taehakkyo Kyojik Hakkwa)</subfield>
+  </datafield>
+</record>
