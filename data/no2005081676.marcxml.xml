@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00965cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2005081676</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060825052347.0</controlfield>
+  <controlfield tag="008">050901n| acabbaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005081676</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06722709</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxCM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxCM</subfield>
+    <subfield code="d">TxCM</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">HQ1587</subfield>
+    <subfield code="b">.E985</subfield>
+    <subfield code="5">TxCM</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">European women's periodicals.</subfield>
+    <subfield code="n">Unit 2,</subfield>
+    <subfield code="p">Periodicals from France</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">International Institute of Social History.</subfield>
+    <subfield code="t">European women's periodicals.</subfield>
+    <subfield code="n">Unit 2,</subfield>
+    <subfield code="p">Periodicals from France</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Internationaal Informatiecentrum en Archief voor de Vrouwenbeweging.</subfield>
+    <subfield code="t">European women's periodicals.</subfield>
+    <subfield code="n">Unit 2,</subfield>
+    <subfield code="p">Periodicals from France</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Periodicals from France</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Amsterdam</subfield>
+    <subfield code="b">Research Publications Ltd. and the IISG and IIAV</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">TxCM</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">TxCM</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">m</subfield>
+    <subfield code="5">TxCM</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">European women's periodicals, 1991:</subfield>
+    <subfield code="b">title target (European women's periodicals, Unit 2, Periodicals from France)</subfield>
+  </datafield>
+</record>
