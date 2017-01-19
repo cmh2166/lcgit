@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00492cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  86859228 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209094437.0</controlfield>
+  <controlfield tag="008">861017n| azannaab           |a aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86859228 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1937</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Van Cleave, Mary Elizabeth,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Cleave, Mary Elizabeth Van,</subfield>
+    <subfield code="d">1937-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-94458: Her A necessary alliance, 1978</subfield>
+    <subfield code="b">(hdg. on OrU rept.: Van Cleave, Mary Elizabeth, 1937- ; usage: Mary Elizabeth Van Cleave)</subfield>
+  </datafield>
+</record>
