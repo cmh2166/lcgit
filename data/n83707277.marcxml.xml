@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00687cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  83707277 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880706145719.4</controlfield>
+  <controlfield tag="008">830829n| acaaaaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83707277 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Julkaisu (Sairaalaliitto (Finland))</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Sairaalaliitto (Finland)</subfield>
+    <subfield code="t">Julkaisu</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Tilastojulkaisu (Sairaalaliitto (Finland))</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">81/4</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Helsinki</subfield>
+    <subfield code="b">Sairaalaliitto</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Suomen sairaalatilasto, 1980:</subfield>
+    <subfield code="b">t.p.; 1983: t.p. (Tilastojulkaisu)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Erikoisalakohtainen toiminta- ja kustannustilasto, 1984: t.p. (Tilastojulkaisu)</subfield>
+  </datafield>
+</record>
