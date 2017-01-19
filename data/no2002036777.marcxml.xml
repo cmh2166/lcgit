@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00689cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2002036777</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130209075203.0</controlfield>
+  <controlfield tag="008">020430n| azabaaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002036777</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05750136</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MnU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MnU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Doyle, Arthur Conan,</subfield>
+    <subfield code="d">1859-1930.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="l">German.</subfield>
+    <subfield code="f">1904.</subfield>
+    <subfield code="s">Herold Company</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Doyle, Arthur Conan,</subfield>
+    <subfield code="d">1859-1930.</subfield>
+    <subfield code="t">Sherlock Holmes Serie.</subfield>
+    <subfield code="f">1904</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">2</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">MnU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Milwaukee, Wis.</subfield>
+    <subfield code="b">The Herold Co.</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">MnU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">MnU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">MnU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Das Zeichen der Vier, 1904:</subfield>
+    <subfield code="b">ser. t.p. (Sherlock Holmes Serie)</subfield>
+  </datafield>
+</record>
