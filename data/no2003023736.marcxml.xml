@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003023736</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030313052849.0</controlfield>
+  <controlfield tag="008">030312n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003023736</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05994650</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU-DA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoU-DA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carter, Thomas J.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Carter, T. J.</subfield>
+    <subfield code="q">(Thomas J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Survivability of the Mars Lander, 2000</subfield>
+    <subfield code="b">t.p. (Thomas J. Carter) cover (T.J. Carter)</subfield>
+  </datafield>
+</record>
