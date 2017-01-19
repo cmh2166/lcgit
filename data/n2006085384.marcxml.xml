@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00454nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2006085384</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061108074929.0</controlfield>
+  <controlfield tag="008">061107n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006085384</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fisher, Linda A.,</subfield>
+    <subfield code="d">1947-2006</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mersman, Joseph J. The whiskey merchant's diary, c2007:</subfield>
+    <subfield code="b">ECIP t.p. (Linda A. Fisher) data view (b. 1947; d. 2006; public health physician; author of forthcoming book Agnes Lake Hickok)</subfield>
+  </datafield>
+</record>
