@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00801cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80065237 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314080144.0</controlfield>
+  <controlfield tag="008">800725n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80065237 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00446822</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Alaska.</subfield>
+    <subfield code="b">CETA Division</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Alaska.</subfield>
+    <subfield code="b">Department of Community and Regional Affairs.</subfield>
+    <subfield code="b">CETA Division</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Alaska.</subfield>
+    <subfield code="b">Department of Community and Regional Affairs</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">AACR 1 form: Alaska. CETA Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Comprehensive employment and training ... 1979?:</subfield>
+    <subfield code="b">t.p. (State of Alaska, CETA Division)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alaska. State Manpower Services Council. Comprehensive ... 1978/79:</subfield>
+    <subfield code="b">cover p. 4 (Alaska CETA Division, Dept. of Community and Regional Affairs)</subfield>
+  </datafield>
+</record>
