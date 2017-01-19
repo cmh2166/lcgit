@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01338cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  85006012 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061227144241.0</controlfield>
+  <controlfield tag="008">850327n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85006012 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01290940</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WMUW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">OCU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML410.A673</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arel, Bülent,</subfield>
+    <subfield code="d">1919-1990</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tenth anniversary, Columbia-Princeton Electronic Music Center [SR] 1977:</subfield>
+    <subfield code="b">label (Bülent Arel) notes (b. 1919 in Istanbul)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Columbia-Princeton Electronic Music Center [SR] p1998:</subfield>
+    <subfield code="b">container (Bülent Arel (1919-1990)) insert (d. 1991)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove dict. of Amer. mus.</subfield>
+    <subfield code="b">(Arel, Bülent; b. May 23, 1919, Istanbul, Turkey; composer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baker, 8th ed.</subfield>
+    <subfield code="b">(Arel, Bülent; b. Apr. 23, 1918, Constantinople, d. Nov. 24, 1990, Stony Brook, N.Y.; Turkish-born American composer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baker, 6th ed.</subfield>
+    <subfield code="b">(Arel, Bülent; b. Apr. 23, 1919, Constantinople; Turkish composer and musicologist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anderson, E.R. Contemporary Amer. composers, 2nd ed.</subfield>
+    <subfield code="b">(Arel, Bülent; b. Apr. 23, 1919, Istanbul, Turkey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Int. ww in mus., 7th-9th eds.</subfield>
+    <subfield code="b">(Arel, Bülent; b. Apr. 23, 1919)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Int. ww in mus., 12th ed.</subfield>
+    <subfield code="b">(Arel, Bülent; b. Apr. 23, 1918)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Ww in Amer. mus., classical, 1st-2nd eds.</subfield>
+  </datafield>
+</record>
