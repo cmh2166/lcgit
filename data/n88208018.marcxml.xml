@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00482cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88208018 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990813132603.0</controlfield>
+  <controlfield tag="008">890605n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88208018 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02537200 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">IAhCCS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fox, R. I.</subfield>
+    <subfield code="q">(Richard I.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fox, Richard</subfield>
+    <subfield code="q">(Richard I.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Computer applications in fermentation technology, 1989:</subfield>
+    <subfield code="b">CIP t.p. (R.I. Fox, RHM Research Ltd, High Wycombe) galley (Richard Fox)</subfield>
+  </datafield>
+</record>
