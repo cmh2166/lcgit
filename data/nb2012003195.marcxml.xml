@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00678nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2012003195</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120205074952.0</controlfield>
+  <controlfield tag="008">120203n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012003195</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008384835</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Freund, Hermann</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Freund, Hermann Wolfgang</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fraind, Tsevi Hirsh,</subfield>
+    <subfield code="c">mi-ḳ.ḳ. Prag</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fraynd, Tsevi Hirsh,</subfield>
+    <subfield code="c">mi-ḳ.ḳ. Prag</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grammatisch-kritisch-lexikalisches Hilfsbuch für Lehrende und Lernende des Pentateuchs, 1866:</subfield>
+    <subfield code="b">t.p. (Hermann Freund) added t.p. (Tsevi Hirsh Fraind/Fraynd mi-ḳ.ḳ. Prag)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 3 Feb. 2012</subfield>
+    <subfield code="b">(hdg.: Freund, Hermann Wolfgang)</subfield>
+  </datafield>
+</record>
