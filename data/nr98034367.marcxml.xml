@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00436cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 98034367 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090209095012.0</controlfield>
+  <controlfield tag="008">980916n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98034367 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04817387</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Chiesa di S. Agostino (Carpineto Romano, Italy)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Chiesa di Sant'Agostino (Carpineto Romano, Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chiesa e Convento di S. Agostino, 1996.</subfield>
+  </datafield>
+</record>
