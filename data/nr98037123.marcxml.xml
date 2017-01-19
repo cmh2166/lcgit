@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00985nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 98037123 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011127033137.0</controlfield>
+  <controlfield tag="008">981007n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98037123 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNPM</subfield>
+    <subfield code="c">NNPM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="t">Book of hours (Ms. Pierpont Morgan Library. M.198)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Pierpont Morgan Library.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">M.198</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading represents the textual contents of ms.; for ms. as a physical entity, including its decoration, use: Pierpont Morgan Library. Manuscript. M.198.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Census of Medieval and Renaissance manuscripts in the United States and Canada, 1961:</subfield>
+    <subfield code="b">v. 2, p. 1403 (198; Horae; written in northern France in the 15th century) p. 1359 (Pierpont Morgan Library, New York)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NNPM files, Nov. 26, 2001</subfield>
+    <subfield code="b">(Pierpont Morgan Library. Manuscript. M.198; Ms. book of hours for the use of Amiens (Hours of the Virgin) and Rome (Office of the Dead); written and illuminated in France, probably Amiens, ca. 1480)</subfield>
+  </datafield>
+</record>
