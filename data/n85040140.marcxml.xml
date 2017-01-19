@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00770cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85040140 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000527072123.0</controlfield>
+  <controlfield tag="008">850619n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85040140 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01367633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bermejo Martínez, Francisco</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Martínez, Francisco Bermejo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El deterioro del ambiente, 1982?:</subfield>
+    <subfield code="b">t.p. (Prof. Dr. Francisco Bermejo Martínez, MG., Catedrático Director, Departamento de Química Analítica, Facultad de Química, Universidad de Santiago de Compostela)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6-14-85</subfield>
+    <subfield code="b">(hdg.: Bermejo Martínez, Francisco)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El equilibrio roto y otros ensayos, c1994:</subfield>
+    <subfield code="b">t.p. (Francisco Bermejo Martínez) p. 13 (d. in 1992)</subfield>
+  </datafield>
+</record>
