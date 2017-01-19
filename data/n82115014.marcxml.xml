@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00766cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  82115014 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101030074727.0</controlfield>
+  <controlfield tag="008">820824n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82115014 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00811416</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Virginia Exempt Fire Association</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Exempt Fireman's Association of the City of Virginia, Nevada</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Constitution, 1877:</subfield>
+    <subfield code="b">t.p. (Virginia Exempt Fire Association) p. 3 (Exempt Fireman's Association of the City of Virginia, Nevada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nevada Historical Society for Its Records, 1876-1891</subfield>
+    <subfield code="b">(Virginia Exempt Fire Association; benevolent association, of Virginia City, Nev.; founded as Exempt Fireman's Association of the City of Virginia)</subfield>
+  </datafield>
+</record>
