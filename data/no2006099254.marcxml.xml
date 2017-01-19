@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00627cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2006099254</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151209073732.0</controlfield>
+  <controlfield tag="008">060905n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006099254</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07054583</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1964-09-09</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brand, David L.</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">David Lennard</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brand, D. L.</subfield>
+    <subfield code="q">(David Lennard)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The adventures of Milky the Mouse, 2004</subfield>
+    <subfield code="b">t.p. (David L. Brand)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MJ leaves home, 2014:</subfield>
+    <subfield code="b">title page (D.L. Brand)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Zealand legal deposit form</subfield>
+    <subfield code="b">(David Lennard Brand; born September 9, 1964)</subfield>
+  </datafield>
+</record>
