@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00798cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2010068134</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100427075101.0</controlfield>
+  <controlfield tag="008">100423n| acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010068134</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08472732</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-cc-ts</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Datong Huizu Tuzu Zizhixian (China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">大通回族土族自治县 (China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Datong Xian (China)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Datong Huizu Tuzu Zizhixian gai kuang, 2007</subfield>
+    <subfield code="b">t.p. (大通回族土族自治县 = Datong Huizu Tuzu Zizhixian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet database, Apr. 23, 2010</subfield>
+    <subfield code="b">(Datong Huizu Tuzu Zizhixian, ADM3, 37°05'38"N, 101°27'32"E, in Qinghai Sheng; variant: Datong Xian)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">China</subfield>
+    <subfield code="z">Datong Huizu Tuzu Zizhixian</subfield>
+  </datafield>
+</record>
