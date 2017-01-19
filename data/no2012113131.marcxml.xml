@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00534nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012113131</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120824075240.0</controlfield>
+  <controlfield tag="008">120822n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012113131</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09283190</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MsHaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MsHaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Plainfield Public Schools (Plainfield, N.J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Elementary physical education, grades 1-2-3, 1960:</subfield>
+    <subfield code="b">t.p. (Plainfield Public Schools, Plainfield, New Jersey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC data base, Aug. 22, 2012:</subfield>
+    <subfield code="b">(hdg.: Plainfield Public Schools (Plainfield, N.J.))</subfield>
+  </datafield>
+</record>
