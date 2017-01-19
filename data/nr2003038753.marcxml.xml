@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00371nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2003038753</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031204033122.0</controlfield>
+  <controlfield tag="008">031202n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003038753</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNMM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kohn, Felix,</subfield>
+    <subfield code="d">1922-2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Felix Kohn, Werke, 2002:</subfield>
+    <subfield code="b">bio. (b. 1922 in Enzersdorf bei MoĚdling, Austria; d. 2000 in Zurich; artist)</subfield>
+  </datafield>
+</record>
