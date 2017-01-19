@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00370cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2002066632</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020128085041.0</controlfield>
+  <controlfield tag="008">020128n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002066632</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tyldesley, William,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tyldesley, William. Michael William Balfe, 2002:</subfield>
+    <subfield code="b">CIP t.p. (William Tyldesley) data (b. July 21, 1927)</subfield>
+  </datafield>
+</record>
