@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00566cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010112507</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130712135041.0</controlfield>
+  <controlfield tag="008">100713n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010112507</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08557324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxHU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxHU</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1977</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hawking, Stephen,</subfield>
+    <subfield code="d">1942-</subfield>
+    <subfield code="t">Large scale structure of space-time.</subfield>
+    <subfield code="l">Russian</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hawking, Stephen,</subfield>
+    <subfield code="d">1942-</subfield>
+    <subfield code="t">Krupnomasshtabnai︠a︡ struktura prostranstva-vremeni</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Krupnomasshtabnai︠a︡ struktura prostranstva-vremeni, 1977.</subfield>
+  </datafield>
+</record>
