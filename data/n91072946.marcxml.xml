@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00416cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  91072946 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000417114652.0</controlfield>
+  <controlfield tag="008">910723n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91072946 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Leon, Ruth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Applause, c1991:</subfield>
+    <subfield code="b">CIP t.p. (Ruth Leon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Morley, S. Judy Garland, c1999:</subfield>
+    <subfield code="b">jacket, back flap (Ruth Leon writes and broadcasts about the performing arts)</subfield>
+  </datafield>
+</record>
