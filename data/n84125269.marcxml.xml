@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00690cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  84125269 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000524064223.0</controlfield>
+  <controlfield tag="008">841203n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84125269 </subfield>
+    <subfield code="z">n  85364222 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01231422</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rasch, Bodo,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Maḥmud Budū Rāsh,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Budū Rāsh, Maḥmud,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rāsh, Maḥmud Budū,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bodo Rasch, Mahmud,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rasch, Mahmud Bodo,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Die Zeltstädte des Hadsch, 1980:</subfield>
+    <subfield code="b">t.p. (Bodo Rasch; Maḥmud Budū Rāsh) acknowledgements (Mahmud Bodo Rasch) cover flap (b. 1943)</subfield>
+  </datafield>
+</record>
