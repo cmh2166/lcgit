@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 89019510 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891208133100.6</controlfield>
+  <controlfield tag="008">891204n| acaabaaa|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89019510 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Statistische Berichte.</subfield>
+    <subfield code="n">4,</subfield>
+    <subfield code="p">Volkswirtschaft</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Switzerland.</subfield>
+    <subfield code="b">Bundesamt fuĚr Statistik.</subfield>
+    <subfield code="t">Statistische Berichte. 4, Volkswirtschaft</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Etudes statistiques.</subfield>
+    <subfield code="n">4,</subfield>
+    <subfield code="p">Economie</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Bern</subfield>
+    <subfield code="b">Bundesamt fuĚr Statistik</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die Nationale Buchhaltung der Schweiz, 1984, surrogate:</subfield>
+    <subfield code="b">t.p. (Statistische Berichte. 4, Volkswirtschaft, Etudes statistiques. 4, Economie)</subfield>
+  </datafield>
+</record>
