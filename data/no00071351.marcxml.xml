@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00924cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00071351 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101002075206.0</controlfield>
+  <controlfield tag="008">000901n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00071351 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05302362</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPPrHi</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MoSCT</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Welbon, Henry G.</subfield>
+    <subfield code="q">(Henry Garner),</subfield>
+    <subfield code="d">1904-1999</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A history of Pencader Presbyterian Church, 1936:</subfield>
+    <subfield code="b">t.p. (Rev. Henry G. Welbon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographical catalogue of the Princeton Theological Seminary, 1977:</subfield>
+    <subfield code="b">p. 131 (Welbon, Henry Garner; b. Seoul, Korea, 9/28/1904; ord. by Pby. of Philadelphia, 1931; pastorates: Head of Christiana ch, Newark, Del.; Pencader ch, Glasgow, Del.; Bible Pres. ch, Newark, Del.; Dept. of Army, Wash., D.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Presbyterian Church in American Historical Center for His Henry Garner Welbon papers, 1933-1999</subfield>
+    <subfield code="b">(Rev. Henry Garner Welbon; September 28, 1904-December 11, 1999)</subfield>
+  </datafield>
+</record>
