@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002010333</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020208052208.0</controlfield>
+  <controlfield tag="008">020207n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002010333</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05685983</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Porter, Quincy,</subfield>
+    <subfield code="d">1897-1966.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">violin, piano,</subfield>
+    <subfield code="n">no. 1,</subfield>
+    <subfield code="r">E minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Porter, Q. The unpublished manuscripts for violin and piano [SR] p1998:</subfield>
+    <subfield code="b">container (Sonata in E minor, 1926) insert (Sonata no. 1 in E minor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove, 2nd ed.</subfield>
+    <subfield code="b">(Sonata no. 1, vn, pf, 1925-6)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yale University. Music Library. The Porter papers, 1976?:</subfield>
+    <subfield code="b">leaf 124 (Sonata, violin &amp; piano, no. 1, E minor, 1925-26)</subfield>
+  </datafield>
+</record>
