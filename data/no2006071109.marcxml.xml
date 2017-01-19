@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00413nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006071109</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060712051822.0</controlfield>
+  <controlfield tag="008">060711n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006071109</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06990627</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NJQ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NJQ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thubron, Colin,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">To the last city.</subfield>
+    <subfield code="l">Russian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Thubron, Colin,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">K poslednemu gorodu</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">K poslednemu gorodu, 2004.</subfield>
+  </datafield>
+</record>
