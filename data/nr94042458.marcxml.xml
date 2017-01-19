@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00610cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 94042458 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731084026.0</controlfield>
+  <controlfield tag="008">941214n| acannaab           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94042458 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Encuentro de Productores y Analistas de Discurso</subfield>
+    <subfield code="d">(1987 :</subfield>
+    <subfield code="c">Mexico City, Mexico)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El domingo y la palabra, 1991:</subfield>
+    <subfield code="b">p. 5 (Encuentro de Productores y Analistas de Discurso, March 1987, Facultad de Ciencias Políticas y Sociales [Univ. Nac. Autó. de México])</subfield>
+  </datafield>
+</record>
