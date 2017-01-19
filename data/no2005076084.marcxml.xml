@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00841nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2005076084</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050818051945.0</controlfield>
+  <controlfield tag="008">050817n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005076084</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06708766</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUSA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bicker Caarten-Stigter, M. C.</subfield>
+    <subfield code="q">(Margaretha Catharina),</subfield>
+    <subfield code="d">1905-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Caarten-Stigter, M. C. Bicker</subfield>
+    <subfield code="q">(Margaretha Catharina),</subfield>
+    <subfield code="d">1905-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Stigter, M. C. Bicker Caarten-</subfield>
+    <subfield code="q">(Margaretha Catharina),</subfield>
+    <subfield code="d">1905-1979</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bicker Caarten-Stigter, Margaretha Catharina,</subfield>
+    <subfield code="d">1905-1979</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">SablonieĚre, Margrit de,</subfield>
+    <subfield code="d">1905-1979</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KB online cat., Aug. 17, 2005</subfield>
+    <subfield code="b">(hdg.: Bicker Caarten-Stigter, M. C. (Margaretha Catharina), 1905-1979; usage: M.C. Bicker Caarten-Stigter; maiden name: M.C. Stigter; see also: Margrit de SablonieĚre)</subfield>
+  </datafield>
+</record>
