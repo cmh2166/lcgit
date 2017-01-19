@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004123718</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160829225632.0</controlfield>
+  <controlfield tag="008">041223n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004123718</subfield>
+    <subfield code="z">n  86864021 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06523511</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mathur, V. K.</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the 14th All India Seminar on Integration of Architectural and Engineering Concepts, 1998:</subfield>
+    <subfield code="b">t.p. (V.K. Mathur) p. 4 of cover (Senior most Scientist at Central Building Research Institute (CSIR))</subfield>
+  </datafield>
+</record>
