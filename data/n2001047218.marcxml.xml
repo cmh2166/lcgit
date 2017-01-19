@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00896cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2001047218</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010530111354.0</controlfield>
+  <controlfield tag="008">010530n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001047218</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harutʻiwnean, S.</subfield>
+    <subfield code="q">(Setʻ Grigori),</subfield>
+    <subfield code="d">1862-1936</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harutʻiwnean, Setʻ Grigori,</subfield>
+    <subfield code="d">1862-1936</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harutʻyunyan, Setʻ Grigori,</subfield>
+    <subfield code="d">1862-1936</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harutʻiwnian, S.</subfield>
+    <subfield code="q">(Setʻ Grigori),</subfield>
+    <subfield code="d">1862-1936</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Aruti︠u︡ni︠a︡n, S.</subfield>
+    <subfield code="d">1862-1936</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moses, of Khoren. Patmutʻiwn Hayotsʻ, 1991:</subfield>
+    <subfield code="b">t.p. ( ... S. Harutʻiwneani) added t.p. ( ... S. Aruti︠u︡ni︠a︡na)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haykakan sovetakan hanragitaran, 1974:</subfield>
+    <subfield code="b">v. 6, p. 322 (Setʻ Grigori Harutʻyunyan: b. Sept. 1 (13), 1862, Niskita [near Nor Nakhichevan]; d. Apr. 21, 1936, Vagharshapat, Armenia ; pub. critical ed. of Khorenatsʻi with M. Abeghyan in 1913)</subfield>
+  </datafield>
+</record>
