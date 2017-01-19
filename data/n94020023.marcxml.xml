@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01435cz  a2200289n  4500</leader>
+  <controlfield tag="001">n  94020023 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151016172911.0</controlfield>
+  <controlfield tag="008">940302n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94020023 </subfield>
+    <subfield code="z">n 2002017113</subfield>
+    <subfield code="z">no2006092103</subfield>
+    <subfield code="z">no2015033082</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03557545</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1949</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mellado, Justo Pastor,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Chile</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">France</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="s">1974</subfield>
+    <subfield code="t">1979</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Philosophy</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad Católica de Chile</subfield>
+    <subfield code="a">Université de Provence</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mellado Suazo, Justo Pastor,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Suazo, Justo Pastor Mellado,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His El fantasma de la sequía, 1988:</subfield>
+    <subfield code="b">t.p. (Justo Pastor Mellado)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">1973-2000, 2000:</subfield>
+    <subfield code="b">t.p. (Justo Pastor Mellado Suazo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Nacional de Chile Web OPAC, June 22, 2005</subfield>
+    <subfield code="b">(Mellado, Justo Pastor, 1949-; variant: Mellado Suazo, Justo Pastor, 1949-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Matilde Marín, bricolage contemporáneo, c2005:</subfield>
+    <subfield code="b">t.p. (Justo Pastor Mellado)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bustos, Pedro Pablo. Trilogía del arte chileno = A trilogy on Chilean art, 2010:</subfield>
+    <subfield code="b">title page (Justo Pastor Mellado) page 90 (born 1949; studied philosophy at Universidad Católica de Chile; lived in France from 1974 to 1979; received diploma in advanced studies in philosophy from the University of Provence)</subfield>
+  </datafield>
+</record>
