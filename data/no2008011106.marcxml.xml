@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00483nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2008011106</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080125080208.0</controlfield>
+  <controlfield tag="008">071119n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008011106</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07636957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gingerich, Karl A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Study of high temperature properties of transition metal phosphides and related refractory materials, 1964:</subfield>
+    <subfield code="b">t.p. (Karl A. Gingerich, Penn State Univ., Dept. of Chemistry, State College, PA)</subfield>
+  </datafield>
+</record>
