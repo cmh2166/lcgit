@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00497cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  91080462 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19931023063816.9</controlfield>
+  <controlfield tag="008">910812n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91080462 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Yücebaş, Hilmi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Yücebaş, A. Hilmi</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc91-8943: Author's Filozof Rıza Tevfik, 1978</subfield>
+    <subfield code="b">(hdg. on MH rept.: Yücebaş, Hilmi; usage: Hilmi Yücebaş)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Tekirdağlı şairleri, 1939:</subfield>
+    <subfield code="b">t.p. (A. Hilmi Yücebaş)</subfield>
+  </datafield>
+</record>
