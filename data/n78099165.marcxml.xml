@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00524cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  78099165 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19861205110835.1</controlfield>
+  <controlfield tag="008">790102n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78099165 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Thomson, Bruce,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with Thomson, Bruce M., 1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alley, N. F. Aspects of environmental geology ... 1978 (a.e.)</subfield>
+    <subfield code="b">t.p. (Bruce Thomson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">C 78-16001-0</subfield>
+    <subfield code="b">(Thomson, Bruce, 1945-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC, 4-9-86</subfield>
+    <subfield code="b">(AACR2: Thomson, Bruce, 1945- )</subfield>
+  </datafield>
+</record>
