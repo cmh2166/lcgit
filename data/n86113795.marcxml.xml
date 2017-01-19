@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00734cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  86113795 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080324075425.0</controlfield>
+  <controlfield tag="008">870720n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86113795 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01899674</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Campbell, Clyde H.</subfield>
+    <subfield code="q">(Clyde Henderson),</subfield>
+    <subfield code="d">1883-1946</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Campbell, C. H.</subfield>
+    <subfield code="q">(Clyde Henderson),</subfield>
+    <subfield code="d">1883-1946</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Campbell, Clyde Henderson,</subfield>
+    <subfield code="d">1883-1946</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Jelly, 1919:</subfield>
+    <subfield code="b">t.p. (C.H. Campbell) p. 1 (of Garrett and Co., Brooklyn, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC PREMARC file</subfield>
+    <subfield code="b">(hdg.: Campbell, Clyde Henderson, 1883-1946)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(hdg.: Campbell, Clyde Henderson, 1883-1946; usage: Clyde H. Campbell, C.H. Campbell)</subfield>
+  </datafield>
+</record>
