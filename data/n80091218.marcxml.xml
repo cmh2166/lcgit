@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01008cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  80091218 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731080810.0</controlfield>
+  <controlfield tag="008">800801n| acannaab           |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80091218 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Workshop on Coherence and Correlation in Atomic Collisions</subfield>
+    <subfield code="d">(1978 :</subfield>
+    <subfield code="c">University College, London)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">International Workshop on Coherence and Correlation in Atomic Collisions,</subfield>
+    <subfield code="c">University College, London,</subfield>
+    <subfield code="d">1978.</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on Coherence and Correlation in Atomic Collisions, International</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Coherence and correlation ... c1980:</subfield>
+    <subfield code="b">p. VII (The International Workshop on Coherence and Correlation in Atomic Collisions)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to U. Fano's office, Univ. of Chicago, 6/30/80</subfield>
+    <subfield code="b">(International Workshop on Coherence and Correlation in Atomic Collisions, University College, London: held 9/18-20/78)</subfield>
+  </datafield>
+</record>
