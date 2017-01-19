@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00982cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  88665622 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160706162650.0</controlfield>
+  <controlfield tag="008">881005n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88665622 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1921</subfield>
+    <subfield code="g">2016</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Siedlecky, Stefania</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Blackheath (N.S.W.)</subfield>
+    <subfield code="c">Australia</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Medicine</subfield>
+    <subfield code="a">Women--Health and hygiene</subfield>
+    <subfield code="a">Medical policy</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Physicians</subfield>
+    <subfield code="a">Public health personnel</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">Female</subfield>
+    <subfield code="2">iso5218</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-109638: Her Sex and contraception before marriage, 1979</subfield>
+    <subfield code="b">(hdg. on KMK rept.: Siedlecky, Stefania; usage: Stefania Siedlecky)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Populate and perish, 1990:</subfield>
+    <subfield code="b">t.p. (Stefania Siedlecky) cover p. 4 (doctor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sydney morning herald WWW site, viewed July 6, 2017</subfield>
+    <subfield code="b">(Dr Stefania Siedlecky; 1921-2016; first adviser in women's health for the Whitlam government; born in Blackheath; studied medicine in Sydney)</subfield>
+  </datafield>
+</record>
