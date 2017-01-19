@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00519nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 93025510 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930902153633.4</controlfield>
+  <controlfield tag="008">930827n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93025510 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">B. Klein &amp; Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">B. Klein and Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Klein (B.) and Company, New York</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Guide to American directories for compiling mailing lists, 1958:</subfield>
+    <subfield code="b">t.p. (B. Klein &amp; Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: Klein (B.) and Company, New York)</subfield>
+  </datafield>
+</record>
