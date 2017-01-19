@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00784nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010002291</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100109075632.0</controlfield>
+  <controlfield tag="008">100107n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010002291</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08352551</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">North Carolina Advancement School</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">NCAS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Newsletter, Apr. 1966:</subfield>
+    <subfield code="b">caption (North Carolina Advancement School; NCAS) p. 1 (the Advancement School is designed for underachieving eighth grade boys who come for one of the three-month sessions from all parts of the state)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Newsletter, Jan. 1970:</subfield>
+    <subfield code="b">p. 1 (Jan. marks the end of the first two years of operation for the NCAS since its reorg. as a state institution) p. 2 (boys ranging in age from 8-16 and representing grades 4-8)</subfield>
+  </datafield>
+</record>
