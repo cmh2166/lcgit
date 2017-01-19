@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2003074020</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322094546.0</controlfield>
+  <controlfield tag="008">030725n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003074020</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06109822</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NBuU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NBuU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1898</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">White, Henry F.,</subfield>
+    <subfield code="d">1898-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">White, Henry F.,</subfield>
+    <subfield code="d">b. 1898</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">White, Henry Ford,</subfield>
+    <subfield code="d">1898-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marketing problems and policies, 1946:</subfield>
+    <subfield code="b">t.p. (Henry F. White, A.M., Ph.D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, July 25, 2003</subfield>
+    <subfield code="b">(hdg.: White, Henry F., 1898- ; White, Henry Ford; usage: Henry F. White; Henry Ford White)</subfield>
+  </datafield>
+</record>
