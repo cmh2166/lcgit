@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00419nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  95801026 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950505132929.7</controlfield>
+  <controlfield tag="008">950505n| acannaab|          |n aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95801026 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Griffiths, Sue E.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Radiotherapy, 1994:</subfield>
+    <subfield code="b">t.p. (Sue E. Griffiths, HDCR, DHSM, BEd(Hons), FCR; supt. radiographer, Cookridge Hosp., Yorkshire Regional Centre for Cancer Treatment, Leeds)</subfield>
+  </datafield>
+</record>
