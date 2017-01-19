@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00736cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 92000137 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160826075449.0</controlfield>
+  <controlfield tag="008">920103n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92000137 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03085433</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">O</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">O</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">OkU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3553.A434</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Manning, Mary Louise,</subfield>
+    <subfield code="d">1924-2010</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Cameron, Lou,</subfield>
+    <subfield code="d">1924-2010</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under</subfield>
+    <subfield code="b">Cameron, Lou, 1924-2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cameron, L. Eagle chief, 1991, c1990</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contemp. auth. new rev. ser., v. 21</subfield>
+    <subfield code="b">(hdg.: Cameron, Lou, 1924-; pseud.: Mary Louise Manning)</subfield>
+  </datafield>
+</record>
