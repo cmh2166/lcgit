@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88682682 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19881230160601.8</controlfield>
+  <controlfield tag="008">881230n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88682682 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Agarwala, B. R.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Agarwala, Balmukand R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-136648: Author's Supreme Court, 1985</subfield>
+    <subfield code="b">(hdg. on MiU-L rept.: Agarwala, B. R. (Balmukand R.); usage: B.R. Agarwala)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 12/30/88</subfield>
+    <subfield code="b">(hdg.: Agarwala, B. R.)</subfield>
+  </datafield>
+</record>
