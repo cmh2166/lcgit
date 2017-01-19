@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00752nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011105985</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110714075219.0</controlfield>
+  <controlfield tag="008">110712n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011105985</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08910298</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">HkUST</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">HkUST</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yu, Ping,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">喻平,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo shu xue jiao yu xin li yan jiu 30 nian, 2011:</subfield>
+    <subfield code="b">t.p. (喻平 = Yu Ping) pref. (with Nanjing shi fan da xue)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nanjing shi fan da xue shu xue ke xue xue yuan WWW site, June 20, 2011</subfield>
+    <subfield code="b">(喻平 = Yu Ping; male; b. June 1956; native of Chongqing; prof.; head, Nanjing shi fan da xue xue ke jian she guan li ban gong shi, 211 gong cheng ban gong shi)</subfield>
+  </datafield>
+</record>
