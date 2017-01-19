@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00469nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 93012851 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930517100556.1</controlfield>
+  <controlfield tag="008">930505n| acannaab|          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93012851 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Rivers State (Nigeria).</subfield>
+    <subfield code="b">Ministry of Education.</subfield>
+    <subfield code="b">Planning and Research Division.</subfield>
+    <subfield code="b">Statistics Unit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Education statistics ... Rivers State, Nigeria, 1987:</subfield>
+    <subfield code="b">t.p. (Statistics Unit, Planning and Research Division, Ministry of Eduction)</subfield>
+  </datafield>
+</record>
