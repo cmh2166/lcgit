@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00534nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2012024665</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120414074856.0</controlfield>
+  <controlfield tag="008">120413n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012024665</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Jordan.</subfield>
+    <subfield code="t">Qānūn Ḍamān Ḥaqq lil-Ḥuṣūl ʻalá al-Maʻlūmāt (2007)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Jordan.</subfield>
+    <subfield code="t">Qānūn raqm 47 li-sanat 2007</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ḥaqq al-ḥuṣūl ʻalá al-maʻlūmāt, 2012:</subfield>
+    <subfield code="b">p. 99 (Qānūn Ḍamān Ḥaqq lil-Ḥuṣūl ʻalá al-Maʻlūmāt raqm 47 li-sanat 2007)</subfield>
+  </datafield>
+</record>
