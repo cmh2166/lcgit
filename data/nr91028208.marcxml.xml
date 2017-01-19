@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01251cz  a2200289n  4500</leader>
+  <controlfield tag="001">nr 91028208 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140319073735.0</controlfield>
+  <controlfield tag="008">910807n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91028208 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03007255</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">NcU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18270513</subfield>
+    <subfield code="g">18860330</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, Mary Bayard,</subfield>
+    <subfield code="d">1827-1886</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Mary Bayard Devereux</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Tenella,</subfield>
+    <subfield code="d">1827-1886</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clark,</subfield>
+    <subfield code="c">Mrs.</subfield>
+    <subfield code="q">(Mary Bayard),</subfield>
+    <subfield code="d">1827-1886</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clarke,</subfield>
+    <subfield code="c">Mrs.</subfield>
+    <subfield code="q">(Mary Bayard),</subfield>
+    <subfield code="d">1827-1886</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clark, Mary Bayard,</subfield>
+    <subfield code="d">1827-1886</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Glaubrecht, O. Anna the leech vender, 1858:</subfield>
+    <subfield code="b">t.p. (Mrs. Clarke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DAB</subfield>
+    <subfield code="b">(Clarke, Mary Bayard Devereux; author; b. 5/13/1827; d. 3/30/1886)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(Clarke, Mrs. Mary Bayard (Devereux), 1827-1886)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Clarke, Mary Bayard, 1827-1886; usage: Mary Bayard Clarke; Tenella; Mary Bayard Clark; Mrs. Clark; Mrs. Clarke; note: also translator of French and German works)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dictionary of North Carolina biography</subfield>
+    <subfield code="b">(Clarke, Mary Bayard Devereux; b. May 13, 1827, Raleigh, N.C., d. Mar. 30, 1886; author and editor)</subfield>
+  </datafield>
+</record>
