@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2001062085</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010808085628.0</controlfield>
+  <controlfield tag="008">010808n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001062085</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mourier, Adolphe-Auguste-Corneille,</subfield>
+    <subfield code="d">1807-1890</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mourier, Ad.</subfield>
+    <subfield code="q">(Adolphe),</subfield>
+    <subfield code="d">1807-1890</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mourier, Adolphe-Auguste-Corneille. Notes et souvenirs d'un universitaire, 1827-1889, 1889:</subfield>
+    <subfield code="b">t.p. (Ad. Mourier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dict. univ. des contemp., 1893:</subfield>
+    <subfield code="b">(hdg.: Mourier, Adolphe-Auguste-Corneille; b. 21 Jun. 1807, d. 22 Aug. 1890)</subfield>
+  </datafield>
+</record>
