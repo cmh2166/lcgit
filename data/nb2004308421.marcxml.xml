@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00798cz  a2200193n  4500</leader>
+  <controlfield tag="001">nb2004308421</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130921073759.0</controlfield>
+  <controlfield tag="008">041123n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2004308421</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06503727</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">De Souza, Chris</subfield>
+    <subfield code="c">(Surgeon)</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Surgeon</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Christopher</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">De Souza, Chris,</subfield>
+    <subfield code="c">M.S.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Souza, Christopher</subfield>
+    <subfield code="c">(Surgeon)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Souza, Chris de</subfield>
+    <subfield code="c">(Surgeon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Textbook of pediatric otorhinolaryngology, 1998:</subfield>
+    <subfield code="b">CIP t.p. (Chris de Souza, M.S., D.O.R.L., D.N.B., F.A.C.S.; consultant ENT surgeon, Holy Family Hospital, Holy Spirit Hospital, Lilavati Hospital, Bombay India; visiting assistant prof. State Univ. of New York) foreword (Christopher de Souza)</subfield>
+  </datafield>
+</record>
