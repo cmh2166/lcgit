@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00621cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  78095230 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920625132145.5</controlfield>
+  <controlfield tag="008">781218n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78095230 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mudret︠s︡ov, A. F.</subfield>
+    <subfield code="q">(Anatoliĭ Filippovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Mudret︠s︡ov, Anatoliĭ Filippovich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Okhrana i ispolʹzovanie zemli, 1978:</subfield>
+    <subfield code="b">t.p. (A. F. Mudret︠s︡ov) colophon (Anatoliĭ Filippovich Mudret︠s︡ov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sot︠s︡ialʹno-ėkonomicheskie problemy okhrany okruzhai︠u︡shcheĭ sredy, 1990:</subfield>
+    <subfield code="b">t.p. verso (d.ė.n. A.F. Mudret︠s︡ov)</subfield>
+  </datafield>
+</record>
