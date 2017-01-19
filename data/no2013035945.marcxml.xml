@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00929nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013035945</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130404075314.0</controlfield>
+  <controlfield tag="008">130402n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013035945</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09441397</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Mister Lies</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Sound recording executives and producers</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lies, Mister</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zanca, Nick</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mister Lies. Mowgli, 2013:</subfield>
+    <subfield code="b">disc label (Mister Lies)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All music guide WWW site, April 1, 2013</subfield>
+    <subfield code="b">(Mister Lies; genres: Electronic, pop/rock; styles: Ambient techno, techno, alternative/indie rock, indie electronic, experimental techno; independent producer Nick Zanca started making beats under the alias Mister Lies as a freshman while studying philosophy and dramatic writing at Chicago's Columbia College)</subfield>
+    <subfield code="u">http://www.allmusic.com/artist/mister-lies-mn0003055798</subfield>
+  </datafield>
+</record>
