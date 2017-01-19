@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2014061595</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141003115431.0</controlfield>
+  <controlfield tag="008">141003n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014061595</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Gaia Kankyō Gijutsu Kenkyūjo</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">jpn</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kabushiki Kaisha Gaia Kankyō Gijutsu Kenkyūjo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ガイア環境技術研究所</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jissai no hōshanō osensui no seijō ni tekiōdekiru kinōsei tankabutsu o shiyoeshita idoeshiki mizu jōka shisutemu no jisshō, 2013:</subfield>
+    <subfield code="b">t.p. (株式会社ガイア環境技術研究所 = Kabushiki Kaisha Gaia Kankyō Gijutsu Kenkyūjo) p. 9 (loc. Miyagi-ken Sendai-shi)</subfield>
+  </datafield>
+</record>
