@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00754nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2014167365</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219073628.0</controlfield>
+  <controlfield tag="008">141218n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014167365</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10044899</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2013</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mozetich, Marjan,</subfield>
+    <subfield code="d">1948-</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">viola, string orchestra</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Concertos</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">vibraphone</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">string orchestra</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mozetich, Marjan. Viola concerto in three movements with string orchestra &amp; vibraphone, 2013.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Canadian Music Centre, via WWW, viewed December 11, 2014</subfield>
+    <subfield code="b">(Viola concerto in three movements with string orchestra &amp; vibraphone; composed in 2013; also composed other concertos)</subfield>
+  </datafield>
+</record>
