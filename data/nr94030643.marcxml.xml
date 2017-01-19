@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01001nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 94030643 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940921053638.8</controlfield>
+  <controlfield tag="008">940915n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94030643 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Eaton, George W.</subfield>
+    <subfield code="q">(George Washington),</subfield>
+    <subfield code="d">1804-1872</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Eaton, Geo. W.</subfield>
+    <subfield code="q">(George Washington),</subfield>
+    <subfield code="d">1804-1872</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Eaton,</subfield>
+    <subfield code="c">Professor</subfield>
+    <subfield code="q">(George Washington),</subfield>
+    <subfield code="d">1804-1872</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smith, G. To Professor Eaton, of the Hamilton Theological Seminary, 1843.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Appletons' cyclopaedia of Amer. biog., 1888</subfield>
+    <subfield code="b">(Eaton, George Washington, clergyman; grad. Union Coll. 1829; ord. Baptist minister; prof. at Georgetown College, Ky., 1831-3; prof. at Hamilton Literary and Theological Institute, Hamilton, N.Y., also called Hamilton Theological Seminary, and pres. when it became Madison Univ.; b. 7/3/1804; d. 8/3/1872)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Eaton, George W. (George Washington), 1804-1872; usage: George W. Eaton; Geo. W. Eaton; Professor Eaton)</subfield>
+  </datafield>
+</record>
