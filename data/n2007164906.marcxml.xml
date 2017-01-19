@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00586nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2007164906</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20071107075036.0</controlfield>
+  <controlfield tag="008">071106n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007164906</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Suvanto, Price Arvo,</subfield>
+    <subfield code="d">1903-1993</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Finnish American Historical Archive and Museum (Hancock, Mich.) for His Interview, 1975</subfield>
+    <subfield code="b">(Price Arvo Suvanto; resident of Marquette, Mich.; b. 1903)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Michigan deaths, 1971-1996 (Ancestry.com), Nov. 6, 2007</subfield>
+    <subfield code="b">(Price Suvanto; b. 2 Jan 1903; d. 14 May 1993; residence: Marquette, Mich.)</subfield>
+  </datafield>
+</record>
