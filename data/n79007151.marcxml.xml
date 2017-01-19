@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  79007151 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040114052058.0</controlfield>
+  <controlfield tag="008">790129n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79007151 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">James, D.</subfield>
+    <subfield code="q">(David)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">James, David,</subfield>
+    <subfield code="d">1938-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog hdg.: James, D.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Garner, J. B. Surveying, 1976 (a.e.)</subfield>
+    <subfield code="b">t.p. (D. James, B.A. (Georg.), surveyor demonstrator, Univ. of Leeds) jkt. (David James)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. of Leeds calendar, 1972-73</subfield>
+    <subfield code="b">(James, D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 25 Mar. 1996</subfield>
+    <subfield code="b">(David James, born 1938)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">WW, 1978.</subfield>
+  </datafield>
+</record>
