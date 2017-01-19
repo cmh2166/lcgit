@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466nz  a2200133n  4500</leader>
+  <controlfield tag="001">nb2001079446</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011026061254.0</controlfield>
+  <controlfield tag="008">011025n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2001079446</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Culver, J. Horace</subfield>
+    <subfield code="q">(James Horace),</subfield>
+    <subfield code="d">1814-1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Culver, James Horace,</subfield>
+    <subfield code="d">1814-1864</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sacramento City directory for the year 1851, 2000:</subfield>
+    <subfield code="b">t.p. (J. Horace Culver) p.115 (James Horace Culver, born 1814) p.116 (died 1864)</subfield>
+  </datafield>
+</record>
