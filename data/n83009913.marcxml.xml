@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00692cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83009913 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011219135549.0</controlfield>
+  <controlfield tag="008">830125n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83009913 </subfield>
+    <subfield code="z">n  88165337 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00904670</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Venkov, A. B.</subfield>
+    <subfield code="t">Spektralʹnai︠a︡ teorii︠a︡ avtomorfnykh funkt︠s︡iĭ.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Venkov, A. B.</subfield>
+    <subfield code="t">Spectral theory of automorphic functions</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Venkov, A. B.</subfield>
+    <subfield code="t">Spectral theory of automorphic functions and its applications</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Spectral theory of automorphic functions, c1983.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Spectral theory of automorphic functions and its applications, c1990.</subfield>
+  </datafield>
+</record>
