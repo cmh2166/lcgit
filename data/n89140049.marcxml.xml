@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00544cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  89140049 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910729123233.6</controlfield>
+  <controlfield tag="008">900821n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89140049 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Shippenberg, T. S.</subfield>
+    <subfield code="q">(Toni S.),</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Shippenberg, Toni S.,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neurobiology of opioids, c1990:</subfield>
+    <subfield code="b">CIP t.p. (T. Shippenberg) t.p. verso, etc. (Dr. Toni S. Shippenberg; Mac-Planck-Institut fuĚr Psychiatrie, Abt. Neuropharmakologie, Martiensried; b. 3/15/57) bk. t.p. (T.S. Shippenberg)</subfield>
+  </datafield>
+</record>
