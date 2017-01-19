@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00648cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  84747515 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000520064418.0</controlfield>
+  <controlfield tag="008">840517n| acaaaaaan          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84747515 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01113878</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2=" ">
+    <subfield code="a">DP302.V11</subfield>
+    <subfield code="b">S25 1976</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sanchis Guarner, Manuel.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">1976</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sanchis Guarner, Manuel.</subfield>
+    <subfield code="t">Obra completa.</subfield>
+    <subfield code="f">1976</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">vol. 2-5</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Valencia</subfield>
+    <subfield code="b">E. Climent</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sanchis Guarner, M. Els pobles valencians parlen els uns dels altres, 1982-1983:</subfield>
+    <subfield code="b">t.p.</subfield>
+  </datafield>
+</record>
