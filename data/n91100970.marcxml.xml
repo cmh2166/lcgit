@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00721nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  91100970 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911003092738.2</controlfield>
+  <controlfield tag="008">911003n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91100970 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">New Jersey Commission on Legal and Ethical Problems in the Delivery of Health Care</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">New Jersey.</subfield>
+    <subfield code="b">Commission on Legal and Ethical Problems in the Delivery of Health Care</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">New Jersey Bioethics Commission</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Problems and approaches in health care decisionmaking, c1990:</subfield>
+    <subfield code="b">t.p. (New Jersey Commission on Legal and Ethical Problems in the Delivery of Health Care) p. i (informally known as the New Jersey Bioethics Commission; est. in Nov. 1985, Trenton, N.J.)</subfield>
+  </datafield>
+</record>
