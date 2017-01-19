@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00392cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  99050438 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991001070126.0</controlfield>
+  <controlfield tag="008">990712n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99050438 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Konev, Vi︠a︡cheslav</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Konev, V. M.</subfield>
+    <subfield code="q">(Vi︠a︡cheslav M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russkiĭ dukh, 1997:</subfield>
+    <subfield code="b">t.p. (Vi︠a︡cheslav Konev) Russ. CIP (Konev V.M.)</subfield>
+  </datafield>
+</record>
