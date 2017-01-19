@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00884cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2001004358</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160527163959.0</controlfield>
+  <controlfield tag="008">010118n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001004358</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05394557</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-ON</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1935</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML420.K973</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kuṭṭi, Vi. Eṃ.,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kutty, V. M.,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kuṭṭi, V. M.,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Muhammadkuṭṭi, Vaṭakkuṅṅara,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Vaṭakkuṅṅara Muhammadkuṭṭi,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Māppiḷappāṭṭint̲e lōkaṃ, 2000:</subfield>
+    <subfield code="b">t.p. (Vi. Eṃ. Kuṭṭi) t.p. verso (V.M. Kutty) p. 3 (Vaṭakkuṅṅara Muhammadkuṭṭi, b. 1935; retd. headmaster)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Māppiḷappāṭṭ, caritr̲avuṃ varttamānavuṃ, 2007:</subfield>
+    <subfield code="b">t.p. (Vi. Eṃ. Kuṭṭi)</subfield>
+  </datafield>
+</record>
