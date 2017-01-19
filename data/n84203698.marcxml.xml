@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00723cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84203698 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209072147.0</controlfield>
+  <controlfield tag="008">850222n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84203698 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Museu-Biblioteca de Vila Viçosa</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Biblioteca do Palácio Real de Vila Viçosa</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Paço Ducal de Vila Viçosa.</subfield>
+    <subfield code="b">Biblioteca</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Vila Viçosa (Portugal).</subfield>
+    <subfield code="b">Biblioteca</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Vila Viçosa (Portugal).</subfield>
+    <subfield code="b">Museu-Biblioteca</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dionísio, S. Museu-Biblioteca de Vila Viçosa, 1947:</subfield>
+    <subfield code="b">t.p. (Museu-Biblioteca de Vila Viçosa) p. 8, etc. (located in Paço Ducal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca do Palácio Real de Vila Viçosa, 1989.</subfield>
+  </datafield>
+</record>
