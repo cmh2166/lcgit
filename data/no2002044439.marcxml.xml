@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00624nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2002044439</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020523052629.0</controlfield>
+  <controlfield tag="008">020522n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002044439</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05768522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">AAAI member's library</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">American Association for Artificial Intelligence.</subfield>
+    <subfield code="t">AAAI member's library</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Menlo Park, Calif.</subfield>
+    <subfield code="b">AAAI Press</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Artificial intelligence and molecular biology, viewed Feb. 28, 2002:</subfield>
+    <subfield code="b">WWW page title screen (AAAI member's library)</subfield>
+  </datafield>
+</record>
