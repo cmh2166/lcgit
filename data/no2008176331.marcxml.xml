@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01194cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2008176331</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326120208.0</controlfield>
+  <controlfield tag="008">081126n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008176331</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07949777</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Division of Biology and Horticulture</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Department of Agriculture.</subfield>
+    <subfield code="b">Division of Biology and Horticulture</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Divisions of Biology and Horticulture</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Division of Biology and Pomology</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Division of Biology</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">New Zealand.</subfield>
+    <subfield code="b">Department of Agriculture</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bulletin (New Zealand. Division of Biology and Horticulture), no. 1 (1904)</subfield>
+    <subfield code="b">t.p. (New Zealand Department of Agriculture, Division of Biology and Horticulture); no. 15 (1905); t.p. (Divisions of Biology and Horticulture)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Fourth report of the government biologist, 1897: t.p. (New Zealand Department of Agriculture, Division of Biology and Pomology);</subfield>
+    <subfield code="a">Bulletin (New Zealand. Division of Biology), no. 20 (1909): t.p. (New Zealand Department of Agriculture Division of Biology)</subfield>
+  </datafield>
+</record>
