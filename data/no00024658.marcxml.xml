@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00962nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 00024658 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000408070105.0</controlfield>
+  <controlfield tag="008">000407n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00024658 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05193180</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WyU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WyU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Wyoming Women's Business Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">WWBC</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Wyoming Coalition against Domestic Violence and Sexual Assault.</subfield>
+    <subfield code="b">Wyoming Women's Business Center</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">You name it, Oct. 1999:</subfield>
+    <subfield code="b">t.p. (Wyoming Women's Business Center; WWBC; a project of the Wyoming Coalition against Domestic Violence and Sexual Assault, the U.S. Small Business Administration, the University of Wyoming, the Wyoming Small Business Development Center, and the Wyoming Business Council)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to center, 4/7/00</subfield>
+    <subfield code="b">(Wyoming Women's Business Center is sponsored by the Wyoming Coalition against Domestic Violence and Sexual Assault; the other agencies help fund it; located on the UW campus)</subfield>
+  </datafield>
+</record>
