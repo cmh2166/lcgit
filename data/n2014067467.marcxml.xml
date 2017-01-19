@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00457nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2014067467</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141029141200.0</controlfield>
+  <controlfield tag="008">141029n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014067467</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Old World (Musical group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The old world, 2011:</subfield>
+    <subfield code="b">label (the Old World) insert (Casey Romney, vocals, guitar ; Austin Frodsham, vocals, bass ; Stratton McCausland, vocals, keyboard ; Dan Pectal, drums, percussion)</subfield>
+  </datafield>
+</record>
