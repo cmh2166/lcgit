@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88620858 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210075622.0</controlfield>
+  <controlfield tag="008">880318n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88620858 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Linder, Sune</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Linder, Sun</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-7501: Author's Photosynthesis and respiration ... 1979</subfield>
+    <subfield code="b">(hdg. on MU rept.: Linder, Sune; usage: Sun Linder)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3/18/88</subfield>
+    <subfield code="b">(hdg.: Linder, Sune; usage not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Understanding and predicting tree growth, 1981:</subfield>
+    <subfield code="b">t.p. (Sune Linder; Section of Forest Ecophysiology, Swedish Univ. of Ag. Sci.)</subfield>
+  </datafield>
+</record>
