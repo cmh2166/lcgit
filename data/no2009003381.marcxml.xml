@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009003381</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100502074940.0</controlfield>
+  <controlfield tag="008">090109n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009003381</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07981527</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViU</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kéita, Traoré Hanane</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kéita, Hanane</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Femmes sans avenir, c2008:</subfield>
+    <subfield code="b">t.p. (Traoré Hanane Kéita) p. 8 (Hanane Kéita; licence ès Lettres Modernes, Univ. Ain-Chams, Cairo, where she was born)</subfield>
+  </datafield>
+</record>
