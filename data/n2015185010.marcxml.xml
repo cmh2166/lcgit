@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01004nz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2015185010</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150610044104.0</controlfield>
+  <controlfield tag="008">150610n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015185010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1655254</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rusakova, E. I︠U︡.</subfield>
+    <subfield code="q">(Elena I︠U︡rʹevna)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Elena I︠U︡rʹevna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Русакова, Е. Ю.</subfield>
+    <subfield code="q">(Елена Юрьевна)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rusakova, Elena I︠U︡rʹevna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Русакова, Елена Юрьевна</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klinicheskai︠a︡ morfologii︠a︡ periodonta, 2012:</subfield>
+    <subfield code="b">t.p. (Е.Ю. Русакова = E.I︠U︡. Rusakova) p. 4 of cover (Елена Юрьевна Русакова = Elena I︠U︡rʹevna Rusakova; kandidat medit︠s︡inskikh nauk, dot︠s︡ent, zavedui︠u︡shchai︠a︡ kafedroĭ stomatologii detskogo vozrasta i ortodontii Vladivostokskogo gosudarstvennogo medit︠s︡inskogo universiteta)</subfield>
+  </datafield>
+</record>
