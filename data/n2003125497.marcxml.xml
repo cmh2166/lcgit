@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00762nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2003125497</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031202092919.0</controlfield>
+  <controlfield tag="008">031202n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003125497</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pinkham, Daniel.</subfield>
+    <subfield code="t">Concertantes,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pinkham, Daniel.</subfield>
+    <subfield code="t">Concertantes,</subfield>
+    <subfield code="m">violin, harpsichord, string orchestra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pinkham, Daniel.</subfield>
+    <subfield code="t">Concertinos,</subfield>
+    <subfield code="m">violin, harpsichord, string orchestra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pinkham, Daniel. Concerto-duo for celesta and harpsichord, 1977:</subfield>
+    <subfield code="b">recording engineer's notes (Concertino for violin, harpsichord, celesta and strings)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DeBoer, K. Daniel Pinkham, 1988:</subfield>
+    <subfield code="b">p. 19 (W9. Concertante no. 1 (1954, c. 1955), for violin and harpsichord soli, string orchestra and celesta)</subfield>
+  </datafield>
+</record>
