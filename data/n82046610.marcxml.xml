@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82046610 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090111080017.0</controlfield>
+  <controlfield tag="008">820408n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82046610 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00743579</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Binkley, Clark Shepard</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Timber supply from private nonindustrial forests, 1981:</subfield>
+    <subfield code="b">t.p. (Clark Shepard Binkley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Airlie House Conference on the Resources Planning Act (1987). Redirecting the RPA, 1988:</subfield>
+    <subfield code="b">t.p. (Clark S. Binkley) p. 1 (School of Forestry and Environm. Studies, and Sch. of Organization and Management, Yale Univ.)</subfield>
+  </datafield>
+</record>
