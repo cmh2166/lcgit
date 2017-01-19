@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01093cz  a2200265n  4500</leader>
+  <controlfield tag="001">nr 91009373 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316101029.0</controlfield>
+  <controlfield tag="008">910320n| azannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91009373 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)005335156</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">0283</subfield>
+    <subfield code="t">0296</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Gaius,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">active 283-296</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Caio,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">active 283-296</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Caius,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">active 283-296</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Gaio,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">active 283-296</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Gaius,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">fl. 283-296</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Gajus,</subfield>
+    <subfield code="c">Pope,</subfield>
+    <subfield code="d">active 283-296</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="b">Pope (283-296 : Gaius)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reekmans, L. Le complexe cémétérial du pape Gaius ... 1988:</subfield>
+    <subfield code="b">p. 208 (pope Gaius; ruled 283-296)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diz. encicl. it.</subfield>
+    <subfield code="b">(Caio, Dalmatian saint, Pope 3rd cent.; ruled Dec. 17, 283-Apr. 22, 296)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encicl. catt.</subfield>
+    <subfield code="b">(Caio, ref. from Gaio; Caio, Pope, saint; Pope from 282 or 283 to 295 or 296)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Cath. enc.</subfield>
+    <subfield code="b">(Gaius (Caius), Pope, St.; reigned 283-296)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gams, P.B. Series episc. Eccl. Cath.</subfield>
+    <subfield code="b">(S. Gajus)</subfield>
+  </datafield>
+</record>
