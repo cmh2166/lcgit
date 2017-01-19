@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2005003841</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050325033105.0</controlfield>
+  <controlfield tag="008">050209n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005003841</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Knussen, Oliver.</subfield>
+    <subfield code="t">Symphonies,</subfield>
+    <subfield code="n">no. 1, op. 1</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Knussen, O. Symphony no. 1, c1968.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove Music Online WWW site, Feb. 28, 2005</subfield>
+    <subfield code="b">(Sym. no. 1, op. 1, 1966-7, withdrawn)</subfield>
+  </datafield>
+</record>
