@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00452nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 97002423 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970123053050.5</controlfield>
+  <controlfield tag="008">970121n| acaabaaa|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97002423 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Literaturnyĭ Kaliningrad</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Kaliningrad</subfield>
+    <subfield code="b">"I︠A︡ntarnyĭ skaz"</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NIC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poka gori︠a︡t svechi, 1996:</subfield>
+    <subfield code="b">p. 1 (Literaturnyĭ Kaliningrad)</subfield>
+  </datafield>
+</record>
