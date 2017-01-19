@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00014405 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000504033714.0</controlfield>
+  <controlfield tag="008">000427n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00014405 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNPM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNPM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Pierpont Morgan Library.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">M.260c</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Census of medieval and Renaissance manuscripts in the United States and Canada, 1961:</subfield>
+    <subfield code="b">v. 2, p. 1415 (260; Horae) p. 1359 (Pierpont Morgan Library, New York)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NNPM files, Apr. 27, 2000</subfield>
+    <subfield code="b">(Pierpont Morgan Library. MS M.260c; 19th-century illuminated miniature on vellum leaf)</subfield>
+  </datafield>
+</record>
