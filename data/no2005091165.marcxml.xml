@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00462nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2005091165</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050930071043.0</controlfield>
+  <controlfield tag="008">050929n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005091165</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06746268</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaBeW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaBeW</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martin, C.L.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bodhisattva 13:20</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reason 3 overdrive!, c2005:</subfield>
+    <subfield code="b">t.p. (C.L. Martin) biog. (also known as Bodhisattva 13:20; electronic musician; full-time college student)</subfield>
+  </datafield>
+</record>
