@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00807cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  84183694 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150327073814.0</controlfield>
+  <controlfield tag="008">850201n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84183694 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01336493</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19190120</subfield>
+    <subfield code="g">2006</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lucký, Štěpán,</subfield>
+    <subfield code="d">1919-2006</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lucký, S.</subfield>
+    <subfield code="q">(Štěpán),</subfield>
+    <subfield code="d">1919-2006</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nénie, 1979:</subfield>
+    <subfield code="b">t.p. (Štěpán Lucký) p. iii (nar. 20. 1. 1919)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bárta, L. Koncert pro housle a orchestr [SR] p1975:</subfield>
+    <subfield code="b">label (Š. Lucký) container (Štěpán Lucký)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Městská knihovna v Praz WWW site, Oct. 10, 2007</subfield>
+    <subfield code="b">(Lucký, Štěpán; 1919-2006)</subfield>
+  </datafield>
+</record>
