@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00514nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2010006832</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100202090934.0</controlfield>
+  <controlfield tag="008">100201n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010006832</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Janda, Louis H.</subfield>
+    <subfield code="t">Psychological testing.</subfield>
+    <subfield code="l">Hebrew</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Janda, Louis H.</subfield>
+    <subfield code="t">Mivḥanim psikhologiyim</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Janda, Louis H.</subfield>
+    <subfield code="t">מבחנים פסיכולוגיים</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Janda, Louis H. Mivḥanim psikhologiyim, 2009.</subfield>
+  </datafield>
+</record>
