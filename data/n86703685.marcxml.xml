@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00880cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  83726545 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000919175802.0</controlfield>
+  <controlfield tag="008">840208nc acacbaaan          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83726545 </subfield>
+    <subfield code="z">n  86709063 </subfield>
+    <subfield code="z">n  86705936 </subfield>
+    <subfield code="z">n  86703173 </subfield>
+    <subfield code="z">n  86726759 </subfield>
+    <subfield code="z">n  86730199 </subfield>
+    <subfield code="z">n  88507241 </subfield>
+    <subfield code="z">n  86703685 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01048209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Gao deng yuan xiao jiao cai</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Kao teng yüan hsiao chiao tsʻai</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Various places</subfield>
+    <subfield code="b">various publishers</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Undifferentiated phrase record: Covers all instances when this character string used by any publisher is considered to be a series-like phrase; if character string is considered to be a series, separate SAR has been made.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Give phrase as a quoted note</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ma-kʻo-ssu chu i che hsüeh chien yao tu pen, 1982 (1983 printing):</subfield>
+    <subfield code="b">cover</subfield>
+  </datafield>
+</record>
