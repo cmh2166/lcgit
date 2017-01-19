@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00713cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 99076939 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020409053709.0</controlfield>
+  <controlfield tag="008">991022n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99076939 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05087826</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OBgU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6068.O89</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fenton, Freda,</subfield>
+    <subfield code="d">1928-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Rowland, Donald S.</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under:</subfield>
+    <subfield code="b">Rowland, Donald S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Impulsive nurse, 1970:</subfield>
+    <subfield code="b">t.p. (Freda Fenton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contemp. au.:</subfield>
+    <subfield code="b">v. 21-24 (Rowland, Donald Sydney; b. Sept. 23, 1928, Norfolk, England; pseud.: Freda Fenton)</subfield>
+  </datafield>
+</record>
