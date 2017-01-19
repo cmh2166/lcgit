@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00524cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98066537 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050216132631.0</controlfield>
+  <controlfield tag="008">980219n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98066537 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04663532</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hemsy de Gainza, Violeta</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Gainza, Violeta Hemsy</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gainza, Violeta Hemsy de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">H. de Gainza, Violeta Hemsy</subfield>
+    <subfield code="q">(Hemsy de Gainza)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AproximacioĚn a la eutoniĚa, 1996:</subfield>
+    <subfield code="b">t.p. (Violeta Hemsy de Gainza)</subfield>
+  </datafield>
+</record>
