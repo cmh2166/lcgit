@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2011068828</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111003084310.0</controlfield>
+  <controlfield tag="008">031104n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011068828</subfield>
+  </datafield>
+  <datafield tag="016" ind1=" " ind2=" ">
+    <subfield code="a">1013K0544</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaOONL)1013K0544</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaOONL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaOONL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">nlc</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Theatrefolk</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Price, L. Ten minute play series, c2010:</subfield>
+    <subfield code="b">t.p. (Theatrefolk)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Founded in 1994 in Toronto, Canada.</subfield>
+  </datafield>
+</record>
