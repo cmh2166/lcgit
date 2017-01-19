@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00937cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99065257 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814082819.0</controlfield>
+  <controlfield tag="008">990907n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99065257 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05060143</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">OECD Workshop on Chemical Safety in Port Areas</subfield>
+    <subfield code="d">(1993 :</subfield>
+    <subfield code="c">Naantali, Finland)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on Chemical Safety in Port Areas</subfield>
+    <subfield code="d">(1993 :</subfield>
+    <subfield code="c">Naantali, Finland)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Report of the OECD Workshop on Chemical Safety in Port Areas, 1995:</subfield>
+    <subfield code="b">p. 9 (Workshop on Chemical Safety in Port Areas co-sponsored by the Organisation for Economic Co-operation and Development (OECD), the International Maritime Organization (IMO), and the United Nations Environment Programme (UNEP); hosted by the government of Finland, held in Naantali, Finland, on 18-21 October 1993)</subfield>
+  </datafield>
+</record>
