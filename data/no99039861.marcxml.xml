@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 99039861 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100130075436.0</controlfield>
+  <controlfield tag="008">990603n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99039861 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05000015</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MBU-T</subfield>
+    <subfield code="c">MBU-T</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hellier, John Benjamin,</subfield>
+    <subfield code="d">1853-1924</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">J. B. H.</subfield>
+    <subfield code="q">(John Benjamin Hellier),</subfield>
+    <subfield code="d">1853-1924</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">H., J. B.</subfield>
+    <subfield code="q">(John Benjamin Hellier),</subfield>
+    <subfield code="d">1853-1924</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hellier, J. B.</subfield>
+    <subfield code="q">(John Benjamin),</subfield>
+    <subfield code="d">1853-1924</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Benjamin Hellier : his life and teaching ... 1889:</subfield>
+    <subfield code="b">preface (signed : J.B.H.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Jun. 3, 1999:</subfield>
+    <subfield code="b">(hdg.: Hellier, J. B. (John Benjamin), 1853-1924; usage: J.B.H.; J.B. Hellier; John Benjamin Hellier)</subfield>
+  </datafield>
+</record>
