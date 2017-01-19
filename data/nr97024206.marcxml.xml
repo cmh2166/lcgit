@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00949nz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 97024206 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970711052041.3</controlfield>
+  <controlfield tag="008">970708n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97024206 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)tc096501</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">E. and T. Williams (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Williams (Firm : 1787-1801)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">It's This day is published, by subscription, dedicated, by permission, to His Royal Highness the Prince of Wales, part I. of A Welsh and English dictionary, compiled from the laws, history, poetry, bardism, proverbs, &amp;c. of the Britons; ... to which is to be prefixed a Welsh grammar. By William Owen, 1793:</subfield>
+    <subfield code="b">t.p. (printed for E. and T. Williams)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maxted, I. The London book trades 1775-1800, 1977</subfield>
+    <subfield code="b">(Williams, Evan, bookseller and stationer, trading as Evan and Thomas 1787-1801)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ESTC/BL files</subfield>
+    <subfield code="b">(printed for E. and T. Williams)</subfield>
+  </datafield>
+</record>
