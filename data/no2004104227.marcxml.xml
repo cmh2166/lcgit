@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00432nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2004104227</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041028052043.0</controlfield>
+  <controlfield tag="008">041027n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004104227</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06478650</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-OK</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-OK</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Materu, Jossy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decentralised cooperation and joint action, 2000:</subfield>
+    <subfield code="b">t.p. (Jossy Materu) acknowledgements (of the Municipal Development Programme, Harare)</subfield>
+  </datafield>
+</record>
