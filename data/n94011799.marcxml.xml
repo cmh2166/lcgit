@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00421nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  94011799 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940207090814.0</controlfield>
+  <controlfield tag="008">940207n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94011799 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Brewster, Mary,</subfield>
+    <subfield code="d">1822-1878</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">She was a sister sailor, 1992:</subfield>
+    <subfield code="b">t.p. (Mary Brewster) p. 411 (Mary Louisa Burtch; b. 09-20-1822; married Captain William E. Brewster 03-23-1841; d. 04-08-1878)</subfield>
+  </datafield>
+</record>
