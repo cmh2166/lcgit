@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01129nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014059346</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140508073543.0</controlfield>
+  <controlfield tag="008">140507n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014059346</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09752838</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Strategy &amp; Change (Program)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Hague (Netherlands)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Lange Voorhout 16</subfield>
+    <subfield code="b">2514 EE Den Haag</subfield>
+    <subfield code="d">Nederland</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Strategy and Change (Program)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Nederlandse Organisatie voor Toegepast-Natuurwetenschappelijk Onderzoek.</subfield>
+    <subfield code="b">Strategy &amp; Change</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Hague Centre for Strategic Studies.</subfield>
+    <subfield code="b">Strategy &amp; Change</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jong, Sijbren de. New players, new game?, 2012:</subfield>
+    <subfield code="b">cover (Strategy &amp; Change) p. 1 (TNO and Hague Centre for Strategic Studies (HCSS) program Strategy &amp; Change analyzes global trends in a dynamic world affecting the foundations of our security, welfare, and well-being)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strategy &amp; Change website home page, viewed May 7, 2014</subfield>
+    <subfield code="b">(Strategy &amp; Change; TNO and HCSS program; address: Strategy &amp; Change, Lange Voorhout 16, 2514 EE Den Haag, Nederland)</subfield>
+    <subfield code="u">http://www.strategyandchange.nl/</subfield>
+  </datafield>
+</record>
