@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88620838 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120516074739.0</controlfield>
+  <controlfield tag="008">880318n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88620838 </subfield>
+    <subfield code="z">n 2011182828</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02231106</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Engel, W. King</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Engel, King</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-33232: International Congress on Neuromuscular Diseases (6th : 1986 : University of Southern California). VI International Congress on ... 1986</subfield>
+    <subfield code="b">(usage on WU-M rept.: W. King Engel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Muscle aging, 2012:</subfield>
+    <subfield code="b">ECIP t.p. (King Engel, Department of Neurology, USC Neuromuscular Center, University of Southern California Keck School of Medicine, Good Samaritan Hospital, Los Angeles CA) bk. t.p. (W. King Engel, MD)</subfield>
+  </datafield>
+</record>
