@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00710cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 92031433 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081008082214.0</controlfield>
+  <controlfield tag="008">920902n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92031433 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03234653</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Nagasaki Seitetsujo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">長崎製鉄所</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Mitsubishi Zōsen Kabushiki Kaisha.</subfield>
+    <subfield code="b">Nagasaki Zōsenjo</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kusumoto, J. Nagasaki Seitetsujo, 1992:</subfield>
+    <subfield code="b">p. 244, etc. (est. 1861; 1871, chg. name to: Nagasaki Zōsenjo; gov'd by Kōbushō; 1884, ownership chg.d to Mitsubishi K.K.)</subfield>
+  </datafield>
+</record>
