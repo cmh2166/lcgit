@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2004017074</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091027075109.0</controlfield>
+  <controlfield tag="008">041102n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004017074</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Spanger-Siegfried, Erika</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Siegfried, Erika Spanger-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Burton, Ian. Adaptation policy frameworks for climate change, 2004:</subfield>
+    <subfield code="b">CIP t.p. (Erika Spanger-Siegfried) pub. info. (associate scientist with the Stockholm Environment Institute--Boston Center)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Union of Concerned Scientists, experts Web site, Oct. 26, 2009</subfield>
+    <subfield code="b">(Erika Spanger-Siegfried; manager of research and special projects; master's degree in energy and environmental analysis, Boston University)</subfield>
+  </datafield>
+</record>
