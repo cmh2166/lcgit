@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00608nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2002002407</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020111071051.0</controlfield>
+  <controlfield tag="008">020110n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002002407</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05662755</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IAhCCS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IAhCCS</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Great masters</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Great masters series (Kultur International Films)</subfield>
+  </datafield>
+  <datafield tag="640" ind1="1" ind2=" ">
+    <subfield code="a">8 tapes</subfield>
+    <subfield code="z">container</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">West Long Branch, NJ</subfield>
+    <subfield code="b">Kultur</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">IAhCCS</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">IAhCCS</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">IAhCCS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Van Dyck, 199-?:</subfield>
+    <subfield code="b">credits (The great masters) container (The great masters series)</subfield>
+  </datafield>
+</record>
