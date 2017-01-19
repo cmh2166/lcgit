@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00528cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85163668 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209080648.0</controlfield>
+  <controlfield tag="008">851106n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85163668 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1910</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ekkert, Woldemar,</subfield>
+    <subfield code="d">1910-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ėkkert, V. K.,</subfield>
+    <subfield code="d">1910-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Blätter, vom Leben beschrieben, 1977:</subfield>
+    <subfield code="b">t.p. (Woldemar Ekkert) USSR CIP data (Ėkkert V.K.) p. 3, etc. (b. 11/29/10; since 1965 Dozent, M.-I.-Kalinin-Hochschule für Nichteisenmetalle)</subfield>
+  </datafield>
+</record>
