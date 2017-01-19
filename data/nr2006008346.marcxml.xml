@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00649cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr2006008346</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100128080028.0</controlfield>
+  <controlfield tag="008">060327n| acabaaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006008346</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">1990 Inʼgu chutʻaek chʻongjosa chonghap punsŏk</subfield>
+  </datafield>
+  <datafield tag="640" ind1="1" ind2=" ">
+    <subfield code="a">Completed in 4 v.</subfield>
+    <subfield code="z">v. 1, pref.</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">4-1</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">[Seoul]</subfield>
+    <subfield code="b">Tʻonggyechʻong</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC-R</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Rev. Rom/WD applied</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hanʼguk ŭi inʼgu kyumo wa kujo, 1993:</subfield>
+    <subfield code="b">t.p. (1990 Inʼgu chutʻaek chʻongjosa chonghap punsŏk)</subfield>
+  </datafield>
+</record>
