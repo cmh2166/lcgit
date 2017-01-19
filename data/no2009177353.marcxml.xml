@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00514cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009177353</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091115075258.0</controlfield>
+  <controlfield tag="008">091104n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009177353</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08295388</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+    <subfield code="d">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zhou, Shaohao,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">周少豪,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">"Han shu" yin "Shang shu" yan jiu, 2007:</subfield>
+    <subfield code="b">t.p. (周少豪 = Zhou Shaohao) p.[4] of prelim. (b. 1965, Tainan, [Taiwan])</subfield>
+  </datafield>
+</record>
