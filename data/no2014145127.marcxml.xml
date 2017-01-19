@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00528nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014145127</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141104073640.0</controlfield>
+  <controlfield tag="008">141103n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014145127</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10005238</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OhKeUHG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OhKeUHG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carlsen, Philip.</subfield>
+    <subfield code="t">October</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pendulum, 2014:</subfield>
+    <subfield code="b">digital booklet (October / Philip Carlsen; for solo piano; composed in 2003)</subfield>
+    <subfield code="u">http://www.navonarecords.com/pendulum/assets/sci-28-pendulum-digitalbooklet.pdf.zip</subfield>
+  </datafield>
+</record>
