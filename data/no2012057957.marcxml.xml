@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012057957</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120501074921.0</controlfield>
+  <controlfield tag="008">120425nc acannaabn          |b aac     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012057957</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09181270</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Sulangjiachu,</subfield>
+    <subfield code="d">1927-2000</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">苏郎甲楚,</subfield>
+    <subfield code="d">1927-2000</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sulangjiachu Zang xue wen ji, 2007:</subfield>
+    <subfield code="b">t.p. (苏郎甲楚 [Sulangjiachu]) cover flap (1927-2000)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CNKI database WWW site, Apr. 24, 2012 :</subfield>
+    <subfield code="b">(瑟格·苏郎甲楚 [Sege Sulangjiachu])</subfield>
+  </datafield>
+</record>
