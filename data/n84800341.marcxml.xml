@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00511cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  84800341 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081203081347.0</controlfield>
+  <controlfield tag="008">840402n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84800341 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01071006</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ardaillou, Nicole</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ardaillou, N.</subfield>
+    <subfield code="q">(Nicole)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 68-99641: Les Isotopes, 1967</subfield>
+    <subfield code="b">(hdg.: Ardaillou, Nicole; usage: N. Ardaillou)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3-6-84</subfield>
+    <subfield code="b">(hdg.: Ardaillou, Nicole; usage: Nicole Ardaillou)</subfield>
+  </datafield>
+</record>
