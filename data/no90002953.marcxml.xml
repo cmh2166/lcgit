@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00864cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 90002953 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141205155927.0</controlfield>
+  <controlfield tag="008">900208n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90002953 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02684028</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">DGW-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1895</subfield>
+    <subfield code="g">1955</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vrij, M. P.</subfield>
+    <subfield code="q">(Maarten Pleun),</subfield>
+    <subfield code="d">1895-1955</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Criminal law</subfield>
+    <subfield code="a">Law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Law teachers</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">dut</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Maarten Pleun</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vrij, Maarten Pleun,</subfield>
+    <subfield code="d">1895-1955</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nederlands rol in het recht der internationale rivieren, 1920:</subfield>
+    <subfield code="b">t.p. (M.P. Vrij)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L/IL files</subfield>
+    <subfield code="b">(hdg.: Vrij, Maarten Pleun, 1895-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Koninklijke Bibliotheek via the VIAF, November 18, 2014</subfield>
+    <subfield code="b">(access point: Vrij, M. P. (Maarten Pleun), 1895-1955)</subfield>
+  </datafield>
+</record>
