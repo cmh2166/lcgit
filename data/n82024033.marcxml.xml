@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00803cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  82024033 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961211053228.3</controlfield>
+  <controlfield tag="008">820325n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82024033 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MdU</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Carracci, Lodovico,</subfield>
+    <subfield code="d">1555-1619</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Caracci, Lodovico,</subfield>
+    <subfield code="d">1555-1619</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Carrache, Louis,</subfield>
+    <subfield code="d">1555-1619</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Carracci, Ludovico,</subfield>
+    <subfield code="d">1555-1619</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Carracci, L.</subfield>
+    <subfield code="q">(Lodovico),</subfield>
+    <subfield code="d">1555-1619</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maury's. Ten subjects from the designs of the Caracci, 1843.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Freedberg, S. J. Circa 1600, 1982:</subfield>
+    <subfield code="b">CIP galley p. vii (Ludovico Carracci)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Illustrations of the Holy Bible, 1823:</subfield>
+    <subfield code="b">plate (L. Carracci)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Havlice, P.P. Index to artistic biog., 1973</subfield>
+    <subfield code="b">(Carracci, Lodovico, 1555-1619; Italian painter)</subfield>
+  </datafield>
+</record>
