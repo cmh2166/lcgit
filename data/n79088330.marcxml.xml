@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01090cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  79088330 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141217101729.0</controlfield>
+  <controlfield tag="008">790807n| adannaab           |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79088330 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Babaev, Bronislav Dmitrievich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Babaev, B. D.</subfield>
+    <subfield code="q">(Bronislav Dmitrievich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бабаев, Б. Д.</subfield>
+    <subfield code="q">(Бронислав Дмитриевич)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бабаев, Бронислав Дмитриевич</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Teorii︠a︡ khozi︠a︡ĭstvennogo rascheta i aktualʹnye problemy sovremennoĭ ėkonomicheskoĭ politiki, 1977:</subfield>
+    <subfield code="b">t.p. (B. Babaev) verso t.p. (Bronislav Dmitrievich Babaev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brigadnai︠a︡ forma organizat︠s︡ii i oplaty truda v promyshlennosti, 1986:</subfield>
+    <subfield code="b">verso t.p. (B. D. Babaev, doktor ėkonomicheskikh nauk)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rasstrel "Belogo doma," 1994:</subfield>
+    <subfield code="b">t.p. (Bronislav Babaev) p. 3 (b. 1930; People's Deputy)</subfield>
+  </datafield>
+</record>
