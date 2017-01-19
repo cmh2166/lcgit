@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00567cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84087222 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900911142136.7</controlfield>
+  <controlfield tag="008">840327n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84087222 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Blaich, Oswald P.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Blaich, O. P.</subfield>
+    <subfield code="q">(Oswald P.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atkinson, L.J. Venezuela, 1983:</subfield>
+    <subfield code="b">t.p. (Oswald P. Blaich) p. 1 (Agricultural economist, Economic Research Service (ERS), U.S. Dept. of Agriculture)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc90-45190: His Perspectives on farm product marketing [MI] 1966</subfield>
+    <subfield code="b">(usage on DNAL rept.: O.P. Blaich)</subfield>
+  </datafield>
+</record>
