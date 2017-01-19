@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00754cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2012041170</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120925074843.0</controlfield>
+  <controlfield tag="008">120621n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012041170</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Siebzehner, Batia B.,</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="t">Remaking Israeli Judaism.</subfield>
+    <subfield code="l">Hebrew</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Siebzehner, Batia B.,</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="t">Shas ke-etgar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lehmann, David.</subfield>
+    <subfield code="t">Shas ke-etgar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Siebzehner, Batia B.,</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="t">ש״ס כאתגר</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lehmann, David.</subfield>
+    <subfield code="t">ש״ס כאתגר</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ש״ס כאתגר = Shas ke-etgar, c2010:</subfield>
+    <subfield code="b">t.p. (Batyah Zibtsener, Daṿid Lehman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Remaking Israeli Judaism, 2006:</subfield>
+    <subfield code="b">t.p. (David Lehmann, Batia Siebzehner)</subfield>
+  </datafield>
+</record>
