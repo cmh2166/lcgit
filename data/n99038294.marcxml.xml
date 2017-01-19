@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00665cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  99038294 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060225071158.0</controlfield>
+  <controlfield tag="008">990521n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99038294 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04992180</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">Entzückende Lust</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">O rapturous joy</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">Entzückende Lust, unendliche Freuden</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Entzückende Lust, c1998.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Feb. 24, 2006</subfield>
+    <subfield code="b">(church cantatas: Entzückende Lust, A, va da gamba, str, bc, frag., [TVWV] 1:442)</subfield>
+  </datafield>
+</record>
