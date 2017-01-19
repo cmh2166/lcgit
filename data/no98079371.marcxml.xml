@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00951nz  a2200205n  4500</leader>
+  <controlfield tag="001">no 98079371 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980417053353.5</controlfield>
+  <controlfield tag="008">980416n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98079371 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04707754 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrU</subfield>
+    <subfield code="c">OrU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Unitas Bank Ltd.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Unitas Ltd.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Union Bank of Finland</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Merita Bank</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Union Bank of Finland Group</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Unitas Group</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Union Bank of Finland. Annual report, 1992:</subfield>
+    <subfield code="b">p. 4 (as of summer 1991, Unitas Bank Ltd. is the parent company of the Union Bank of Finland Group; during 1992, Union Bank of Finland Group was reorganised &amp; given the name Unitas Group; Unitas Group is composed of Unitas Bank Ltd. (formerly Union Bank of Finland Ltd.) and its subsidiaries) p. 5 (Unitas; Unitas Ltd.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unitas : Unitas Group economic review, 1995/1:</subfield>
+    <subfield code="b">p. 4 (Unitas Ltd. is Union Bank of Finland's parent company)</subfield>
+  </datafield>
+</record>
