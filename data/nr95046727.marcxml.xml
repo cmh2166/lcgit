@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455cz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 95046727 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990813144317.0</controlfield>
+  <controlfield tag="008">951219n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95046727 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Green, Benjamin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beyond Roses are red, violets are blue, c1996:</subfield>
+    <subfield code="b">t.p. (Benjamin Green) p. 162 (B.A., Humboldt State Univ.; poet; conducts poetry writing workshops in Calif. schools; resides in Trinidad, Calif.)</subfield>
+  </datafield>
+</record>
