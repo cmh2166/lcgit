@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00789cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 92036392 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140726073836.0</controlfield>
+  <controlfield tag="008">921014n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92036392 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03258616</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19490408</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shiozawa, Shun'ichi,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">塩沢俊一,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shōrei ni yoru naikagaku, 1991:</subfield>
+    <subfield code="b">t.p. (Shiozawa Shun'ichi; w. Kōbe Daigaku Dai-3 Naika)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kenkyūsha sōran, shizen, 1984:</subfield>
+    <subfield code="b">p. 3424 (Shiozawa Shun'ichi; M.D.; b. 4/8/49)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kōgenbyōgaku, 2005:</subfield>
+    <subfield code="b">t.p. (塩沢俊一 = Shiozawa Shun'ichi)</subfield>
+  </datafield>
+</record>
