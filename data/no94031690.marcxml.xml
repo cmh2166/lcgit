@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00640cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 94031690 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130627145149.0</controlfield>
+  <controlfield tag="008">940913n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94031690 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="c">OkU</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1862</subfield>
+    <subfield code="t">1865</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army.</subfield>
+    <subfield code="b">Ohio Infantry Regiment, 101st (1862-1865)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">U.S.</subfield>
+    <subfield code="f">Ohio</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">United States. Army</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ohio Infantry, 101st Regiment (1862-1865)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ohio Volunteer Infantry, 101st Regiment (1862-1865)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">101st O. V. I. (1862-1865)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Volunteer service in Army of Cumberland ... 1914:</subfield>
+    <subfield code="b">t.p. (101st O.V.I.)</subfield>
+  </datafield>
+</record>
