@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2007018286</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070815075145.0</controlfield>
+  <controlfield tag="008">070803n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2007018286</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006870947</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ripley, Alvin,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">King, Albert,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author search also under</subfield>
+    <subfield code="b">King, Albert 1924-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Texas pay-off, 1986:</subfield>
+    <subfield code="b">t.p. (Alvin Ripley) BL AL recd. 28 Feb. 1996 (real name: Albert King)</subfield>
+  </datafield>
+</record>
