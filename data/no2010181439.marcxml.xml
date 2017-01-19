@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00442nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010181439</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101115134829.0</controlfield>
+  <controlfield tag="008">101108n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010181439</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08681210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoCr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoCr</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">VEARA (Musical group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its What we left behind, cp2010:</subfield>
+    <subfield code="b">label (VEARA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Facebook WWW site, Nov. 8, 2010:</subfield>
+    <subfield code="b">VEARA (pop punk band located in Augusta, GA)</subfield>
+  </datafield>
+</record>
