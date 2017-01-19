@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00974nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015063012</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150512073651.0</controlfield>
+  <controlfield tag="008">150511n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015063012</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10163062</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1864-11-09</subfield>
+    <subfield code="g">1934-11-06</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Savage, Nephi Miles,</subfield>
+    <subfield code="d">1864-1934</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Payson (Utah)</subfield>
+    <subfield code="b">Heber City (Utah)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographical sketch of Henry Savage and family, 1936:</subfield>
+    <subfield code="b">title page (written by his son Nephi Miles Savage)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Find A Grave, via WWW, May 8, 2015</subfield>
+    <subfield code="b">(Nephi Miles Savage; born November 9, 1864 in Payson, Utah County, Utah; died November 6, 1934 in Heber City, Wasatch County, Utah; in 1888 he graduated from Brigham Young Academy in Provo and in September of the same year he was called to be principal of the St. George Academy; he was city-county treasurer of St. George city and Washington county for 28 years)</subfield>
+  </datafield>
+</record>
