@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00815cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr2005030309</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081109083223.0</controlfield>
+  <controlfield tag="008">051219n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005030309</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06819831</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kaneko, Mitsuo,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">金子光男,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kankyō no shisō to rinri, 2005:</subfield>
+    <subfield code="b">t.p. (Kaneko Mitsuo; w. Meiji Daigaku Seiji Keizai Gakubu Kankyō Kenkyūkai) p. 306 (prof., Meiji Daigaku Seiji Keizai Gakubu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NDL choshamei, 1991</subfield>
+    <subfield code="b">(r: Kaneko Mitsuo; b. 1943)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NACSIS Webcat home page, Dec. 19, 2005</subfield>
+    <subfield code="b">(r; b. 1943)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Kenkyūsha sōran 1996.</subfield>
+  </datafield>
+</record>
