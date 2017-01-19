@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2004029412</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040315104033.0</controlfield>
+  <controlfield tag="008">040312n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2004029412</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Jane,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Elizabeth Jane,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record nr92041035</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Private troubles &amp; public issues, 2000:</subfield>
+    <subfield code="b">t.p. (Jane Jones)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Introductory training in adult literacies learning (ITALL), 2003:</subfield>
+    <subfield code="b">t.p. (Jane Jones) BL AL sent 15 Jan. 2004</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 12 Mar. 2004</subfield>
+    <subfield code="b">(Elizabeth Jane Jones, born 16 Nov. 1945)</subfield>
+  </datafield>
+</record>
