@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00527nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  96092546 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960924081238.9</controlfield>
+  <controlfield tag="008">960924n| acaabaaa|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96092546 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Schriftenreihe "Erziehung, Unterricht, Schule."</subfield>
+    <subfield code="p">Systematische Serie</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Bad Heilbrunn/Obb.</subfield>
+    <subfield code="b">Klinkhardt</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lehrer und SchulraĚte, 1994:</subfield>
+    <subfield code="b">t.p. (Schriftenreihe "Erziehung, Unterricht, Schule" (Systematische Serie))</subfield>
+  </datafield>
+</record>
