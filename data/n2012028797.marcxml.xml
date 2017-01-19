@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00561cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2012028797</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120509074833.0</controlfield>
+  <controlfield tag="008">120430n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012028797</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Guevara Ochoa, Armando.</subfield>
+    <subfield code="t">Estampas peruanas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Guevara Ochoa, Armando.</subfield>
+    <subfield code="t">Estampas,</subfield>
+    <subfield code="m">string orchestra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orquesta Sinfónica Nacional (Peru). Música sinfónica peruana [SR] 197-?:</subfield>
+    <subfield code="b">container (Estampas para orquesta de cuerdas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grovemusic WWW site, Apr. 30, 2012:</subfield>
+    <subfield code="b">(Estampas peruanas, str)</subfield>
+  </datafield>
+</record>
