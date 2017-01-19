@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010092010</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100606075030.0</controlfield>
+  <controlfield tag="008">100604n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010092010</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08517085</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MX-SlUA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MX-SlUA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Acea Nebril, Benigno</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nebril, Benigno Acea</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Técnicas oncoplásticas en el tratamiento quirúrgico del cáncer de mama, c2009:</subfield>
+    <subfield code="b">t.p. (Benigno Acea Nebril)</subfield>
+  </datafield>
+</record>
