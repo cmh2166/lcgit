@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01087cz  a2200289n  4500</leader>
+  <controlfield tag="001">no 89005051 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950505060304.2</controlfield>
+  <controlfield tag="008">890413n| acaabaaa|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89005051 </subfield>
+    <subfield code="z">no 91007477 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02514443 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">SVT (Unnumbered)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Tilastokeskus.</subfield>
+    <subfield code="t">SVT</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Merenkulkulaitos.</subfield>
+    <subfield code="t">SVT</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Tullihallitus.</subfield>
+    <subfield code="t">SVT</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Suomen virallinen tilasto (Unnumbered)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Official Statistics of Finland (Unnumbered)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Finlands officiella statistik (Unnumbered)</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Helsinki</subfield>
+    <subfield code="b">Tilastokeskus</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Asumistaso (Finland. Tilastokeskus). Asumistaso, 1985:</subfield>
+    <subfield code="b">t.p.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kotimaan vesiliikenne, 1992:</subfield>
+    <subfield code="b">t.p. (SVT; Merenkulkulaitos)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ulkomaamkauppa (Annual), 1988:</subfield>
+    <subfield code="b">t.p. (SVT / Tullihallitus) t.p. verso (Suomen virallinen tilasto; Official Statistics of Finland; Finlands officiella statistik)</subfield>
+  </datafield>
+</record>
