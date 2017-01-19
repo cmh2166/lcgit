@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01062cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2014049237</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160527154712.0</controlfield>
+  <controlfield tag="008">140414n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014049237</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09733654</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Piao, Meilan</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Population</subfield>
+    <subfield code="a">Minorities--China</subfield>
+    <subfield code="2">lcsh</subfield>
+    <subfield code="v">Min zu xue shi ye xia de Yanbian Chaoxian zu ren kou wen ti, 2013</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">chi</subfield>
+    <subfield code="a">kor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pu, Meilan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">朴美兰</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pak, Mi-ran</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">박 미란</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Min zu xue shi ye xia de Yanbian Chaoxian zu ren kou wen ti, 2013:</subfield>
+    <subfield code="b">title page (朴美兰 = Piao Meilan, variant pronunciation: Pu Meilan) postscript (Ph.D., Zhong yang min zu da xue  min zu xue yu she hui xue xue yuan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaehyŏk kaebang irae Chosŏnjok in'gu idong, 2015:</subfield>
+    <subfield code="b">t.p. (박 미란 = Pak Mi-ran) colophon, etc. (朴美兰 = Piao Meilan; studied at Chungang Minjok Taehakkyo (=Zhong yang min zu da xue))</subfield>
+  </datafield>
+</record>
