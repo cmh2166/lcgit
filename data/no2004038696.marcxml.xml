@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00498cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004038696</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060531125432.0</controlfield>
+  <controlfield tag="008">040422n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004038696</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06329627</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VtMiM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">VtMiM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ludlum, Robert,</subfield>
+    <subfield code="d">1927-2001.</subfield>
+    <subfield code="t">Apocalypse watch.</subfield>
+    <subfield code="l">French</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ludlum, Robert,</subfield>
+    <subfield code="d">1927-2001.</subfield>
+    <subfield code="t">Veilleurs de l'apocalypse</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Les veilleurs de l'apocalypse, 1996:</subfield>
+    <subfield code="b">t.p. verso (original title: The apocalypse watch)</subfield>
+  </datafield>
+</record>
