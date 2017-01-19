@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00483cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2003103677</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030603140858.0</controlfield>
+  <controlfield tag="008">030603n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003103677</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferretti, Carlos Alberto,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ferretti, Carlos Alberto. Etica y tributacioĚn en Argentina a fines del siglo XX, c1993:</subfield>
+    <subfield code="b">t.p. (Carlos Alberto Ferretti) front flap (b. Dec. 15, 1941 in Venado Tuerto, Santa Fe; tax specialist and consultant)</subfield>
+  </datafield>
+</record>
