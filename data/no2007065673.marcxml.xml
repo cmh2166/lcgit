@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00692nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007065673</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070615075045.0</controlfield>
+  <controlfield tag="008">070608n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007065673</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07435401</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cabanilles, Juan,</subfield>
+    <subfield code="d">1644-1712.</subfield>
+    <subfield code="t">Diferencias de folias</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cabanilles, Juan,</subfield>
+    <subfield code="d">1644-1712.</subfield>
+    <subfield code="t">Folías</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hespèrion XXI (Musical group). Altre follie, 1500-1750 [SR] p2005:</subfield>
+    <subfield code="b">container (Diferencias de folias : 1700, cembalo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, June 8, 2007</subfield>
+    <subfield code="b">(organ: Folías)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cabanilles, J. Complete organ works, 198-?:</subfield>
+    <subfield code="b">v. 2, contents (Diferencias de folias, de primer to)</subfield>
+  </datafield>
+</record>
