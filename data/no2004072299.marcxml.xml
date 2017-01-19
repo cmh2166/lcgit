@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00812nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004072299</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040730051800.0</controlfield>
+  <controlfield tag="008">040729n| acannaabn          |n aad     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004072299</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06405177</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Godown, Marian</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN75-559: Yesterday's Fort Myers, 1975</subfield>
+    <subfield code="b">(hdg.: Godown, Marian; usage: Marian Godown)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, July 29, 2004</subfield>
+    <subfield code="b">(hdg.: Godown, Marian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contemporary authors online, 2002</subfield>
+    <subfield code="b">(Marian Bailey Godown; b. Paterson, N.J.; journalist; home, 1915 Hill Ave., Fort Myers, FL; co-author, Yesterday's Fort Myers, E.A. Seemann, 1976)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social Security death index online, July 29, 2004</subfield>
+    <subfield code="b">(Marian B. Godown; b. Aug. 9, 1915; d. Jan. 1, 2003; last res., Tallahassee, Leon, FL; SSN, issued, NJ)</subfield>
+  </datafield>
+</record>
