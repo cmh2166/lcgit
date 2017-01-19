@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00559nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2006065397</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060825135419.0</controlfield>
+  <controlfield tag="008">060825n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006065397</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Deutsche Gesellschaft für Psychologie.</subfield>
+    <subfield code="b">Fachgruppe Geschichte der Psychologie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Deutsche Gesellschaft für Psychologie. Fachgruppe Geschichte der Psychologie. Tagung (7th : 1999 : Berlin, Germany). Zentenarbetrachtungen, c2003:</subfield>
+    <subfield code="b">p. 5 (Fachgruppe Geschichte der Psychologie der Deutschen Gesellschaft für Psychology)</subfield>
+  </datafield>
+</record>
