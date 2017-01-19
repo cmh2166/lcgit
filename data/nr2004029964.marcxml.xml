@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00593nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2004029964</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041006033117.0</controlfield>
+  <controlfield tag="008">041001n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004029964</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kurr, J. G.</subfield>
+    <subfield code="q">(Johann Gottlob),</subfield>
+    <subfield code="d">1798-1870</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kurr, Johann Gottlob,</subfield>
+    <subfield code="d">1798-1870</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atlas extrait de L'album de mineĚralogie, 1865:</subfield>
+    <subfield code="b">t.p. (J.-G. Kurr)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, Sept. 30, 2004</subfield>
+    <subfield code="b">(hdgs.: Kurr, Johann Gottlob von, 1798-1870; Kurr, Johann Gottlob von; Kurr, Dr. Johann Gottlob von, 1798-1870; usage: J.G. Kurr; J.G. v. Kurr; J.-G. Kurr)</subfield>
+  </datafield>
+</record>
