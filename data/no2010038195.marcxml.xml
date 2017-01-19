@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00586nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010038195</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100308112304.0</controlfield>
+  <controlfield tag="008">100305n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010038195</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08416522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaStUME</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaStUME</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abū Zayd, Samīr</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">أبو زيد، سمير</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">سمير أبو زيد</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-ʻIlm wa-al-naẓrah al-ʻArabīyah ilá al-ʻālam, 2009:</subfield>
+    <subfield code="b">t.p. (al-Duktūr Samīr Abū Zayd = الدكتور سمير أبو زيد)</subfield>
+  </datafield>
+</record>
