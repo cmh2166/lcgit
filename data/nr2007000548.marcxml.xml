@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2007000548</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070112075317.0</controlfield>
+  <controlfield tag="008">070109nn acannaabn          |a aaa    |c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2007000548</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taylor, Zebulon,</subfield>
+    <subfield code="d">1796-1829</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Z. T.</subfield>
+    <subfield code="q">(Zebulon Taylor),</subfield>
+    <subfield code="d">1796-1829</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The New Testament, 1818:</subfield>
+    <subfield code="b">inscr. (Z.T.; Ashfield, 1822; brother of Ruth Taylor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancestry Library Edition, via WWW, Jan. 9, 2007:</subfield>
+    <subfield code="b">Ancestry Library World Tree (Zebulon Taylor; son of Isaiah Taylor and Ruth Bryant; b. Ashfield, Mass. 29 Aug. 1796; m. Abigail Vincent 21 Apr 1825; d. Ashfield 25 Sep 1829)</subfield>
+  </datafield>
+</record>
