@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008093264</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080626081225.0</controlfield>
+  <controlfield tag="008">080619n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008093264</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07804003</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Somerton Elementary School District (Yuma County, Ariz.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Performance audit, Somerton Elementary School District, 2008.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arizona education directory, 2000:</subfield>
+    <subfield code="b">p. 224 (Somerton Elementary District, Yuma Co., Somerton, AZ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arizona educational directory, 1993:</subfield>
+    <subfield code="b">p. 184 (Somerton Elem. District no. 11, Yuma Co., Somerton)</subfield>
+  </datafield>
+</record>
