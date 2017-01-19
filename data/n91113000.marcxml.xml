@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00471cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91113000 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960525052208.0</controlfield>
+  <controlfield tag="008">911105n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91113000 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03053820 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Worst, Anne,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Vorst, Anne,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Das Ende eines Geheimdienstes, 1991:</subfield>
+    <subfield code="b">t.p. (Anne Worst) p. 283 (b. 1957)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Konetď¸ sď¸Ą shtazi, 1994:</subfield>
+    <subfield code="b">t.p. (Anne Vorst)</subfield>
+  </datafield>
+</record>
