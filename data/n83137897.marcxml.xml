@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00437nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83137897 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840403000000.0</controlfield>
+  <controlfield tag="008">831212n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83137897 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mazzoli, P.</subfield>
+    <subfield code="q">(Paolo),</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mazzoli, Paolo,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ArcaĚ, M. Insegnare scienza, c1982:</subfield>
+    <subfield code="b">t.p. (P. Mazzoli) t.p. verso (b. 1955 in Rome)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibl. naz. it.</subfield>
+    <subfield code="b">(Mazzoli, Paolo)</subfield>
+  </datafield>
+</record>
