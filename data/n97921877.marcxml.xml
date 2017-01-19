@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00827cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85300736 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011109093333.0</controlfield>
+  <controlfield tag="008">860620n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85300736 </subfield>
+    <subfield code="z">n  97921877 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Berkowicz, Simon M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Berkowicz, S. M.</subfield>
+    <subfield code="q">(Simon M.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Berkowicz, S.</subfield>
+    <subfield code="q">(Simon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Climate, air pollution, and town planning, 1986:</subfield>
+    <subfield code="b">t.p. (Simon M. Berkowicz) p. 1 (Lady Davis fellow, physical geography, Hebrew Univ. of Jerusalem)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arid ecosystems, c1995:</subfield>
+    <subfield code="b">t.p. (S.M. Berkowicz) pref. (Hebrew Univ. of Jerusalem, Arid Ecosystems Res. Ctr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The context of locally managed irrigation in Israel, 1995:</subfield>
+    <subfield code="b">t.p. (S. Berkowicz) p. 1 (Prof., Dept. of Physical Geog. and Arid Ecosystems Res. Centre, Hebrew Univ. of Jerusalem)</subfield>
+  </datafield>
+</record>
