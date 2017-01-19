@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00935cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  87830036 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120809082920.0</controlfield>
+  <controlfield tag="008">870508n| acannaabn          |a and      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87830036 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01850308</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CtY</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Geological Society of South Africa.</subfield>
+    <subfield code="b">Congress</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Geological Society of South Africa.</subfield>
+    <subfield code="b">Geocongress</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Geological Society of South Africa.</subfield>
+    <subfield code="b">Geokongres</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-42100: Its (18th : 1979 : Port Elizabeth University). Abstracts, 1979</subfield>
+    <subfield code="b">(hdg. on DI-GS rept.: Geological Society of South Africa. Geokongres; usage: 18th Congress of the Geological Society of S.A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">23rd Earth science Congress of the Geological Society of South Africa, 1990:</subfield>
+    <subfield code="b">t.p. (Geocongress '90, Geological Society of South Africa)</subfield>
+  </datafield>
+</record>
