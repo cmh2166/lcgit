@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01090cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2009160678</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140312101323.0</controlfield>
+  <controlfield tag="008">090210n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009160678</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19170906</subfield>
+    <subfield code="g">20100408</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Goodman, Marge,</subfield>
+    <subfield code="d">1917-2010</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Milwaukee (Wis.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Goodman, Margaret H.,</subfield>
+    <subfield code="d">1917-2010</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lewis, Margaret,</subfield>
+    <subfield code="d">1917-2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Jewish Museum Milwaukee for Her Papers, 1900-1991</subfield>
+    <subfield code="b">(Marge Goodman; donor and comp. of collection)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SSDI, Aug. 22, 2011</subfield>
+    <subfield code="b">(Margaret H. Goodman; Last Residence: Milwaukee, Wisconsin;  Born: 6 Sept. 1917; Died: 8 Apr 2010; State (Year) SSN issued: Wisconsin (Before 1951))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Legacy.com WWW, Aug. 22, 2011</subfield>
+    <subfield code="b">(obituary for Margaret Goodman: Goodman, Margaret (Nee Lewis) Age 92, of Milwaukee, died Thursday evening, April 8, 2010, at the Manitowoc Health &amp; Rehabilitation Center, Manitowoc. She was born September 6, 1917, daughter of the late Albert and Elizabeth (Shapiro) Lewis; m. Dr. Paul Goodman, Jan. 1940)</subfield>
+  </datafield>
+</record>
