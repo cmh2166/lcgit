@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99272385 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020619101905.0</controlfield>
+  <controlfield tag="008">991126n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99272385 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nadareĭshvili, M.</subfield>
+    <subfield code="q">(Marika Zaurievna)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nadareĭshvili, Marika Zaurievna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nadareišvili, Marika Zauris asuli</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nadareĭshvili, M. Formy i vidy proi︠a︡vlenii︠a︡ print︠s︡ipa ostinato, 1997:</subfield>
+    <subfield code="b">t.p. (M. Nadareĭshvili) colophon (Nadareĭshvili, Marika Zaurievna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ostinatos pʻormebi evropul propʻesiul musikaši, 1997:</subfield>
+    <subfield code="b">t.p. (Marika Zauris asuli Nadareišvili)</subfield>
+  </datafield>
+</record>
