@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00523nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011183083</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111130075504.0</controlfield>
+  <controlfield tag="008">111128n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011183083</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09046733</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Li, Wenjin,</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Magnetic fields, night shift work, and the risk of breast cancer among female textile workers in Shanghai, China, 2011:</subfield>
+    <subfield code="b">t.p. (Wenjin Li)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. of Wash. Student Data Base System, Nov. 28, 2011</subfield>
+    <subfield code="b">(b. Aug. 30, 1970)</subfield>
+  </datafield>
+</record>
