@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 99002071 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990121052022.2</controlfield>
+  <controlfield tag="008">990120n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99002071 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaOLN</subfield>
+    <subfield code="c">WaOLN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ălīmkhanov, Zh.</subfield>
+    <subfield code="q">(Zhūldyzbek)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ălīmkhanov, Zhūldyzbek</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Alimkhanov, Zh. A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Qazaqtyn︠g︡ khalyq medit︠s︡inasynyn︠g︡ qūpii︠a︡sy, 1992:</subfield>
+    <subfield code="b">t.p. (Zh. Ălīmkhanov) colophon (Zhūldyzbek Ălīmkhanov)</subfield>
+  </datafield>
+</record>
