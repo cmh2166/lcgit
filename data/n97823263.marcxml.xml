@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00713cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  97823263 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990914101901.0</controlfield>
+  <controlfield tag="008">970918n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97823263 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 300184075</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="c">NN-PD</subfield>
+    <subfield code="d">NN-PD</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Mariage forcé (Choreographic work : Beauchamp)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Chor.: Charles Louis Beauchamps [i.e. Pierre Beauchamp]; mus: Jean Baptiste Lully; lib.: Jean Baptiste Molière. First perf: Paris, Louvre, Jan. 29, 1664.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Molière. Le mariage forcé, 1867.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NYPL Dict. Cat. of the Dance Coll., 1974-</subfield>
+  </datafield>
+</record>
