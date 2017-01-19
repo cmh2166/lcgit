@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00903nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2014081523</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140614073553.0</controlfield>
+  <controlfield tag="008">140613n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014081523</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09882978</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCUCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCUCA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18870522</subfield>
+    <subfield code="g">1967-02</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bartelt, H. F.</subfield>
+    <subfield code="q">(Henry Frederic),</subfield>
+    <subfield code="d">1887-1967</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Minneapolis (Minn.)</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Henry Frederic</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bartelt, Henry Frederic,</subfield>
+    <subfield code="d">1887-1967</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Michigan. Mason's 1956 supplement to the compiled laws of Michigan, 1948, 1957:</subfield>
+    <subfield code="b">title page (H.F. Bartelt of the publisher's editorial staff)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social Security death index, searched online, June 13, 2014:</subfield>
+    <subfield code="b">(Henry Bartelt; born May 22, 1887, died February 1967; last residence Minneapolic, Minnesota)</subfield>
+    <subfield code="u">http://www.genealogybank.com/gbnk/ssdi/doc/news/112F50D7980B2EA0</subfield>
+  </datafield>
+</record>
