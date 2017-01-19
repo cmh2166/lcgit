@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00647nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012119401</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120908075321.0</controlfield>
+  <controlfield tag="008">120906n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012119401</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09294355</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ḥijāzī, Muḥammad Yāsīn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">حجازي، محمد ياسين</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">مشروع دستور دولة الاسلام المعاصرة، 2012:</subfield>
+    <subfield code="b">.t.p (محمد ياسين حجازي)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mashrūʻ dustūr dawlat al-Islām al-muʻāṣirah, 2012:</subfield>
+    <subfield code="b">t.p. (Muḥammad Yāsīn Ḥijāzī)</subfield>
+  </datafield>
+</record>
