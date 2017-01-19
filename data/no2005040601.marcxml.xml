@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00793cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2005040601</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816082341.0</controlfield>
+  <controlfield tag="008">050428n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005040601</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06620406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxU</subfield>
+    <subfield code="d">TxU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Maya Hieroglyph Forum</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Maya Hieroglyphic Forum at Texas</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Maya Meetings</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sourcebook for the ... Maya Hieroglyph Forum, Mar. 11-16, 2005:</subfield>
+    <subfield code="b">t.p. (Maya Hieroglyph Forum)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Notebook for the ... Maya Hieroglyphic Forum at Texas, Mar. 2004: t.p. (Maya Hieroglyphic Forum at Texas); Sourcebook for the ... Maya Meetings, Mar. 14-19, 2006: t.p. (Maya Meetings)</subfield>
+  </datafield>
+</record>
