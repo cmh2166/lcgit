@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00585nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2008020216</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080927081123.0</controlfield>
+  <controlfield tag="008">080925n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2008020216</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007238595</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bell, Stéphane,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Moudouté-Bell, Stéphane Rinimba,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La recherche scientifique et le développement en Afrique, c2008:</subfield>
+    <subfield code="b">t.p. (Stéphane Bell) verso (Stéphane Rinimba Moudouté-Bell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BnF auth. file, 25 Sept. 2008</subfield>
+    <subfield code="b">(hdg.: Moudouté-Bell, Stéphane Rinimba, 1976-)</subfield>
+  </datafield>
+</record>
