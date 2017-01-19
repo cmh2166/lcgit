@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01298cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  89108444 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312085455.0</controlfield>
+  <controlfield tag="008">900509n| azannaab           |a ana     b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89108444 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Public Health Service.</subfield>
+    <subfield code="b">Office of Nursing Home Affairs</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Department of Health, Education and Welfare.</subfield>
+    <subfield code="b">Public Health Service.</subfield>
+    <subfield code="b">Office of Nursing Home Affairs</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Office of Nursing Home Affairs</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Public Health Service.</subfield>
+    <subfield code="b">Office of Long Term Care</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its 1974 regulations for skilled nursing facilities and intermediate care facilities, 1974:</subfield>
+    <subfield code="b">cover (U.S. Department of Health, Education, and Welfare, Public Health Service, Office of Nursing Home Affairs)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC/NLM files, 4-5-90</subfield>
+    <subfield code="b">(hdg.: United States. Office of Nursing Home Affairs ; usage: U.S. Department of Health, Education, and Welfare, Public Health Service, Office of Nursing Home Affairs)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Five years of accomplishments of the Office of Long Term Care, 1976: t.p. (U.S. Dept. of Health, Education, and Welfare, Public Health Service, Office of Long Term Care) p. 2 (changed in June 1976 from Office of Nursing Home Affairs to Office of Long Term Care)</subfield>
+  </datafield>
+</record>
