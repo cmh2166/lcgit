@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00797nz  a2200181n  4500</leader>
+  <controlfield tag="001">n  97820490 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970912115934.7</controlfield>
+  <controlfield tag="008">970912n| acannaab|           n and     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97820490 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 300023467</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="c">NN-PD</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Iselda di Normandia (Choreographic work : Casati)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Chor &amp; lib: Giovanni Casati; mus: Pio Bellini; scen: Alessandro Merlo; cos: Rovaglia e comp., Milan.  Perf: Milan, La Scala, April 13, 1846.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MGTY-Res.  Toscanini, W.  Libretti di ballo, no. 563.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MGTB-Res. (Italian)  Gatti.  Il teatro alla Scala. Cronologia. p 192.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NYPL Dict. Cat. of the Dance Coll., 1974-</subfield>
+  </datafield>
+</record>
