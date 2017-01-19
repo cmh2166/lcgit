@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00789cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002006074</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815081359.0</controlfield>
+  <controlfield tag="008">020124n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002006074</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05673185</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">National Conference on Global Intermodal Freight: State of Readiness for the 21st Century</subfield>
+    <subfield code="d">(2000 :</subfield>
+    <subfield code="c">Long Beach, Calif.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Global Intermodal Freight: State of Readiness for the 21st Century, National</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Global intermodal freight, 2001:</subfield>
+    <subfield code="b">t.p. (Feb. 23-26, 2000, Long Beach, Calif.) p. 1 (National Conference on Global Intermodal Freight: State of Readiness for the 21st Century)</subfield>
+  </datafield>
+</record>
