@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00449nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  94801896 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940613150719.8</controlfield>
+  <controlfield tag="008">940613n| acannaab|          |n aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94801896 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hall, Peter,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Steroid contraceptives and women's response, c1994:</subfield>
+    <subfield code="b">CIP t.p. (Peter Hall, World Health Organization, Geneva, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 6/2/94</subfield>
+    <subfield code="b">(Peter Hall born 4/24/43)</subfield>
+  </datafield>
+</record>
