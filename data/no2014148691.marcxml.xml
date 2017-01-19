@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00839nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014148691</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141111073552.0</controlfield>
+  <controlfield tag="008">141110n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014148691</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10011345</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">FMU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19840504</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Levine, Ari,</subfield>
+    <subfield code="d">1984-</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Lyricists</subfield>
+    <subfield code="a">Sound recording executives and producers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Forget you, [2011]:</subfield>
+    <subfield code="b">caption (words and music by... Ari Levine...)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia entry for The Smeezingtons, viewed on October 9, 2014:</subfield>
+    <subfield code="b">(The Smeezingtons are a songwriting and record producing team, consisting of Bruno Mars (born October 8, 1985), Philip Lawrence (born July 17, 1980) and Ari Levine (born May 4, 1984))</subfield>
+    <subfield code="u">http://en.wikipedia.org/wiki/The_Smeezingtons</subfield>
+  </datafield>
+</record>
