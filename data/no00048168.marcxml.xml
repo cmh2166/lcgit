@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01296cz  a2200253n  4500</leader>
+  <controlfield tag="001">no 00048168 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140325164022.0</controlfield>
+  <controlfield tag="008">000710n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00048168 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05255690</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+    <subfield code="d">CSt-Mus</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Froh, Christopher</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="a">Chamber music</subfield>
+    <subfield code="a">Composition (Music)</subfield>
+    <subfield code="a">Music--Instruction and study</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of California, Davis. Department of Music</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">San Francisco Contemporary Music Players</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Empyrean Ensemble</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">San Francisco Chamber Orchestra</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Percussionists</subfield>
+    <subfield code="a">Marimba players</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Froh, Chris</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coyote dreans [SR] p1999:</subfield>
+    <subfield code="b">container (Christopher Froh, marimba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Music@Menlo WWW site, viewed March 21, 2014:</subfield>
+    <subfield code="b">artistbio (Christopher Froh; percussionist; member of San Francisco Contemporary Chamber Players, Empyrean Ensemble, San Francisco Chamber Orchestra; faculty at University of California at Davis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">UC Davis, Department of Music WWW site, viewed March 21, 2014</subfield>
+    <subfield code="b">(Chris Froh; percussionist; composed original music for Oakland-based Dance Elixir and Harvard Museum of Natural History)</subfield>
+  </datafield>
+</record>
