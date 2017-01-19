@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00615nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009099759</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090628075159.0</controlfield>
+  <controlfield tag="008">090626n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009099759</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08155955</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiKW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiKW</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McClellan, Frank D.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mc Clelland, Frank D.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">McClelland, Frank D.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Homer Arnett Collection, 1829-1966</subfield>
+    <subfield code="b">(Frank D. McClellan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Civil War Soldiers and Sailors System website, June 24, 2009:</subfield>
+    <subfield code="b">(Frank D. McClellan; variant: Frank D. Mc Clelland; Company A, Michigan 4th Cavalry; rank in/out: Private)</subfield>
+  </datafield>
+</record>
