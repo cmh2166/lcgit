@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00942cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88172162 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890927072011.9</controlfield>
+  <controlfield tag="008">890811n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88172162 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Edmunds, Albert J.</subfield>
+    <subfield code="q">(Albert Joseph),</subfield>
+    <subfield code="d">1857-1941</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Edmunds, Albert Joseph,</subfield>
+    <subfield code="d">1857-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">A. J. E.</subfield>
+    <subfield code="q">(Albert J. Edmunds),</subfield>
+    <subfield code="d">1857-1941</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Haverford College Lib., Quaker Coll., for His Papers, 1887-1941</subfield>
+    <subfield code="b">(Albert J. Edmunds; 1857-1941; scholar &amp; mystic; disciple of James Rendel Harris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8-4-89</subfield>
+    <subfield code="b">(hdg.: Edmunds, Albert Joseph, 1857- ; usage: A.J.E.) manual cat. (usage: Albert J. Edmunds)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WwWA, 1943-1950</subfield>
+    <subfield code="b">(Edmunds, Albert Joseph; 1857-1941; librarian; author; s. Thomas &amp; Rebecca (Hallat) E.; Haverford Coll. Lib., Philadelphia Library, Hist. Soc. Pa.; poet; author on subjects of comparative religion; res.: Cheltenham, Pa.)</subfield>
+  </datafield>
+</record>
