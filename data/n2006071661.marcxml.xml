@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00462nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2006071661</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060919074926.0</controlfield>
+  <controlfield tag="008">060918n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006071661</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Avril, François,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rozen, Anna. The merchant of noises, 2006:</subfield>
+    <subfield code="b">ecip t.p. (François Avril)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from pub. 9/14/06</subfield>
+    <subfield code="b">(François Avril; illustrator; not the same as archivist in database; born 1961)</subfield>
+  </datafield>
+</record>
