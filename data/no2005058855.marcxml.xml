@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01304cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2005058855</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816082434.0</controlfield>
+  <controlfield tag="008">050627n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005058855</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06667121</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Intelligent Sensors, Sensor Networks &amp; Information Processing Conference</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Intelligent Sensors, Sensor Networks and Information Processing Conference</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Conference on Intelligent Sensors, Sensor Networks, and Information Processing</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">ISSNIP</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Electronic reproduction/Proceedings of the 2004 Intelligent Sensors, Sensor Networks &amp; Information Processing Conference, c2004:</subfield>
+    <subfield code="b">t.p. (14-17 December 2004, Melbourne, Australia) Hub p. (International Conference on Intelligent Sensors, Sensor Networks and Information Processing) welcome message (ISSNIP '04)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Intelligent Sensors, Sensor Networks &amp; Information Processing Conference (2nd : 2005 : Melbourne, Vic.). Proceedings of the 2005 Intelligent Sensors, Sensor Networks &amp; Information Processing Conference, c2006:</subfield>
+    <subfield code="b">t.p. (Intelligent Sensors, Sensor Networks &amp; Information Processing Conference)</subfield>
+  </datafield>
+</record>
