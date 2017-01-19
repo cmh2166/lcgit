@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00458cz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 99048426 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000131172637.0</controlfield>
+  <controlfield tag="008">990601n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99048426 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Trigwell Jones, Mary</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Mary Trigwell</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">How to pass Business practice, 1999:</subfield>
+    <subfield code="b">t.p. (Mary Trigwell Jones)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to publisher, 27 Jan. 2000</subfield>
+    <subfield code="b">(author's surname is Trigwell Jones)</subfield>
+  </datafield>
+</record>
