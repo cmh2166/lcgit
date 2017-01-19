@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00382nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2005021639</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050307051758.0</controlfield>
+  <controlfield tag="008">050306n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005021639</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06577039</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IaAS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IaAS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schmid, J. F.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Das Photographieren, 1909:</subfield>
+    <subfield code="b">t.p. (J.F. Schmid)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Schmid, J. F.)</subfield>
+  </datafield>
+</record>
