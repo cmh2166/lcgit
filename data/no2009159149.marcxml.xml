@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00773cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2009159149</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327083622.0</controlfield>
+  <controlfield tag="008">091006n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009159149</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08263269</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ViU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1919</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arnot, Louise,</subfield>
+    <subfield code="d">-1919</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Arnot, Louise,</subfield>
+    <subfield code="d">d. 1919</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gunn, Mary Louise,</subfield>
+    <subfield code="d">-1919</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Memorial Hall, Lyons, [1889]:</subfield>
+    <subfield code="b">sheet (fourth night of the wonderfully versatile actress Louise Arnot)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">N.Y. Times obituaries online, viewed Sept. 18, 2009:</subfield>
+    <subfield code="b">(Louise Arnot, actress, whose real name was Mrs. Mary Louise Gunn, "last of the Marsh Troupe of child performers," d. Thurs. Aug. 14, at the age of 76; obituary appeared Aug. 16, 1919)</subfield>
+  </datafield>
+</record>
