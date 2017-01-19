@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008072084</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080516170128.0</controlfield>
+  <controlfield tag="008">080430n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008072084</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07768566</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nováček, Vojtěch J.</subfield>
+    <subfield code="q">(Vojtěch Jaromír),</subfield>
+    <subfield code="d">1852-1916</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Korrespondence a zápisky, 1898- :</subfield>
+    <subfield code="b">v. 1, t.p. (Dr. V.J. Nováček)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Apr. 30, 2008</subfield>
+    <subfield code="b">(hdg.: Nováček, Vojtěch Jaromír, 1852-1916; usage: V.J. Nováček)</subfield>
+  </datafield>
+</record>
