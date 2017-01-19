@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010009337</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100121075840.0</controlfield>
+  <controlfield tag="008">100119n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010009337</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08365922</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Quan guo Meiguo wen xue yan jiu hui (China)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">全国美囯文学硏究会 (China)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference(s) not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Meiguo wen xue yan jiu (Jinan Shi, China), 2006:</subfield>
+    <subfield code="b">postscript  (全国美囯文学硏究会 = Quan guo Meiguo wen xue yan jiu hui; est. in 1979 at Shandong da xue)</subfield>
+  </datafield>
+</record>
