@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00462nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 89000969 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890211065212.5</controlfield>
+  <controlfield tag="008">890131n| acannaab|          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89000969 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Peru.</subfield>
+    <subfield code="b">Ministerio de Salud Pública y Asistencia Social.</subfield>
+    <subfield code="b">Oficina de Planificación</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Las Enfermedades transmisibles in el Perú, 1962:</subfield>
+    <subfield code="b">t.p. (Ministerio de Salud Pública y Asistencia Social, Oficina de Planificación)</subfield>
+  </datafield>
+</record>
