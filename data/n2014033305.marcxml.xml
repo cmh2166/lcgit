@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00637nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2014033305</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140610070701.0</controlfield>
+  <controlfield tag="008">140610n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014033305</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lu, XinJiang</subfield>
+    <subfield code="c">(Manufacturing researcher)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">System design and control integration for advanced manufacturing, 2014:</subfield>
+    <subfield code="b">ECIP Data View (Lu, XinJiang)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">deepdyve.com WWW site, June 10, 2014:</subfield>
+    <subfield code="b">(XinJiang Lu; with State Key Laboratory of High Performance Complex Manufacturing,Central South University [Zhong nan da xue Gao xing neng fu za zhi zao guo jia zhong dian shi yan shi], China)</subfield>
+  </datafield>
+</record>
