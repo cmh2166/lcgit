@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00697cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2011062229</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327081759.0</controlfield>
+  <controlfield tag="008">110908n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011062229</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">William,</subfield>
+    <subfield code="c">of Adam,</subfield>
+    <subfield code="d">approximately 1275-approximately 1338.</subfield>
+    <subfield code="t">Tractatus quomodo Sarraceni sunt expugnandi</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">William,</subfield>
+    <subfield code="c">of Adam,</subfield>
+    <subfield code="d">ca. 1275-ca. 1338.</subfield>
+    <subfield code="t">Tractatus quomodo Sarraceni sunt expugnandi</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">How to defeat the Saracens, c2012:</subfield>
+    <subfield code="b">ECIP t.p. (Tractatus quomodo Sarraceni sunt expugnandi)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Sept. 8, 2011</subfield>
+  </datafield>
+</record>
