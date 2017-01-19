@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00561nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2006018999</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060314113821.0</controlfield>
+  <controlfield tag="008">060314n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006018999</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Native Village of Kotzebue.</subfield>
+    <subfield code="t">Constitution and By-laws</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Native Village of Kotzebue.</subfield>
+    <subfield code="t">Constitution and By-laws of the Native Village of Kotzebue, Alaska</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Native Village of Kotzebue. Constitution and By-laws of the Native Village of Kotzebue, Alaska, approved May 23, 1939, 1950:</subfield>
+    <subfield code="b">p. 4 (approved May 23, 1939)</subfield>
+  </datafield>
+</record>
