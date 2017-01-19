@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00417nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 00014758 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000506033733.0</controlfield>
+  <controlfield tag="008">000501n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00014758 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Horwath Consulting</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Horwath International.</subfield>
+    <subfield code="b">Horwath Consulting</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Industria hoteleira brasileira, 1999:</subfield>
+    <subfield code="b">cover (Horwath Consulting, membro da Horwath International)</subfield>
+  </datafield>
+</record>
