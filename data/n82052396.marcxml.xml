@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82052396 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19851017120442.3</controlfield>
+  <controlfield tag="008">820517n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82052396 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ewing, William H.</subfield>
+    <subfield code="q">(William Howell),</subfield>
+    <subfield code="d">1914-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Ewing, William Howell,</subfield>
+    <subfield code="d">1914-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ewing, W. H.</subfield>
+    <subfield code="q">(William Howell),</subfield>
+    <subfield code="d">1914-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Edwards, P. Identification of enterobacteriaceae, 1955.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Media and tests for differentiation of enterobacteriaceae, 1981:</subfield>
+    <subfield code="b">t.p. (W. H. Ewing)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, 10/8/85</subfield>
+    <subfield code="b">(hdg.: Ewing, William H. (William Howell), 1914- ; usage: William H. Ewing, W.H. Ewing)</subfield>
+  </datafield>
+</record>
