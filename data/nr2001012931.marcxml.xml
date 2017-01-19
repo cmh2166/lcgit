@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00663nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2001012931</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010412033127.0</controlfield>
+  <controlfield tag="008">010411n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001012931</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-BR</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-BR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hemsen, J. T.</subfield>
+    <subfield code="q">(Johannes Tychsen),</subfield>
+    <subfield code="d">1792-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hemsen, Johannes Tychsen,</subfield>
+    <subfield code="d">1792-1830</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zur Erinnerung an D. Carl Friedrich StaĚudlin ... 1826:</subfield>
+    <subfield code="b">t.p. (J.T. Hemsen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 11 Apr. 2001</subfield>
+    <subfield code="b">(hdg.: Hemsen, Johannes Tychsen, 1792-1830; usage: Johannes Tychsen Hemsen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World biog. index (WWW), 11 Apr. 2001</subfield>
+    <subfield code="b">(Hemsen, Johannes Tychsen; 1792-1830; philosopher, theologian, professor)</subfield>
+  </datafield>
+</record>
