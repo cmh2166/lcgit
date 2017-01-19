@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00873cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr2004034039</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080829080936.0</controlfield>
+  <controlfield tag="008">041110n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004034039</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06500739</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Daigaku Kijun Kyōkai (Japan).</subfield>
+    <subfield code="b">Tokushokuaru Daigaku Kyōiku Shien Puroguramu Jisshi Iinkai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Daigaku Kijun Kyōkai Tokushokuaru Daigaku Kyōiku Shien Puroguramu Jisshi Iinkai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">大学基準協会 (Japan).</subfield>
+    <subfield code="b">特色ある大学教育支援プログラム実施委員会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tokushokuaru daigaku kyōiku shien puroguramu jireishū, 2004:</subfield>
+    <subfield code="b">colophon (Daigaku Kijun Kyōkai Tokushokuaru Daigaku Kyōiku Shien Puroguramu Jisshi Iinkai)</subfield>
+  </datafield>
+</record>
