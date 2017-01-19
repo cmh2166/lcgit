@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00680cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  78035386 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090311075815.0</controlfield>
+  <controlfield tag="008">780615n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78035386 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00171555</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Wadden Sea Working Group</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Contribution ... 3 (ser.) Conference of Wadden Sea Experts, Schiermonnikoog, 1975:</subfield>
+    <subfield code="b">t.p. (Wadden Sea Working Group) p. 7 (est. 1965 by J. Verwey, dir. Netherlands Institute for Sea Research) p. 75 (composed of scientists from Denmark, Fed. Rep. of Germany, and the Netherlands)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ne 77-1</subfield>
+    <subfield code="b">(Wadden Sea Working Group)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Neth. staatsalm. 1977.</subfield>
+  </datafield>
+</record>
