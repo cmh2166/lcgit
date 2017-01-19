@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00455nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87100007 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870601073803.8</controlfield>
+  <controlfield tag="008">870601n| acannaab|          |a aad |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87100007 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Marochkin, N. I.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Marochkin, N. J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-50562: Author's Geological expedition of superphosphate raw-materials, 1963</subfield>
+    <subfield code="b">(hdg. on DI-GS rept.: Marochkin, N. I.; usage: Marochkin, N.J. [i.e. Marochkin, N.I.])</subfield>
+  </datafield>
+</record>
