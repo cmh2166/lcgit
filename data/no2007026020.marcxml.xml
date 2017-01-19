@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00916nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2007026020</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070310075134.0</controlfield>
+  <controlfield tag="008">070308n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007026020</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07348971</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Orskiĭ gosudarstvennyĭ pedagogicheskiĭ institut imeni T.G. Shevchenko</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Orskiĭ gosudarstvennyĭ pedagogicheskiĭ institut</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Russian S.F.S.R.</subfield>
+    <subfield code="b">Ministerstvo prosveshchenii︠a︡.</subfield>
+    <subfield code="b">Orskiĭ gosudarstvennyĭ pedagogicheskiĭ institut</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">O vosstanovlenii spiskov "Slova o polku Igoreve", 1956:</subfield>
+    <subfield code="b">cover (Ministerstvo prosveshchenii︠a︡ RSFSR, Orskiĭ gosudarstvennyĭ pedagogicheskiĭ institut)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 19, 2007</subfield>
+    <subfield code="b">(hdg.: Orskiĭ gosudarstvennyĭ pedagogicheskiĭ institut imeni T.G. Shevchenko; usage: Orskiĭ gosudarstvennyĭ pedagogicheskiĭ institut imeni T.G. Shevchenko)</subfield>
+  </datafield>
+</record>
