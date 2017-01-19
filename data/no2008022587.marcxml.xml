@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00647nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008022587</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080215114107.0</controlfield>
+  <controlfield tag="008">080212n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008022587</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07655304</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Bolivia.</subfield>
+    <subfield code="b">Corte Nacional Electoral.</subfield>
+    <subfield code="b">Unidad de Análisis e Investigación</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bolivia.</subfield>
+    <subfield code="b">Corte Nacional Electoral.</subfield>
+    <subfield code="b">Área de Educación Ciudadana.</subfield>
+    <subfield code="b">Unidad de Análisis e Investigación</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atlas electoral latinoamericano, 2007:</subfield>
+    <subfield code="b">t.p. verso (Unidad de Análisis e Investigación del Área de Educación Ciudadana de la Corte Nacional Electoral de Bolivia)</subfield>
+  </datafield>
+</record>
