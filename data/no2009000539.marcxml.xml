@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00500nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009000539</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090107083725.0</controlfield>
+  <controlfield tag="008">090105n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009000539</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07976371</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdSsNOAA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdSsNOAA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Raymond, David J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The representation of cumulus convection in numerical models, c1993:</subfield>
+    <subfield code="b">t.p. (David J. Raymond)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Jan. 5, 2009</subfield>
+    <subfield code="b">(usage; David Raymond; David J. Raymond ; hdg.: Raymond, David J.)</subfield>
+  </datafield>
+</record>
