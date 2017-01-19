@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00334nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2002004844</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020119071028.0</controlfield>
+  <controlfield tag="008">020118n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002004844</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05670124</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Long, Ginger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Help wanted, 2001:</subfield>
+    <subfield code="b">title frame (Ginger Long)</subfield>
+  </datafield>
+</record>
