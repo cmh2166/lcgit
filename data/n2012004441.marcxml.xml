@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00461nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2012004441</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120121075021.0</controlfield>
+  <controlfield tag="008">120120n| azannaabn           n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012004441</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1947</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wilson, Thomas D.,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Oglethorpe Plan, 2012:</subfield>
+    <subfield code="b">CIP t.p. (Thomas D. Wilson) data view (Thomas D. Wilson, AICP, is a town planning consultant in Port Royal, South Carolina; b. May 19, 1947)</subfield>
+  </datafield>
+</record>
