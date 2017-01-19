@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2012054548</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120822075041.0</controlfield>
+  <controlfield tag="008">120821n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012054548</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">König, Otto,</subfield>
+    <subfield code="d">1882-1932</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neue deutsche Bilderbogen, 1916</subfield>
+    <subfield code="b">plate no. 32 caption (Gedichte von Otto König)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, August 21, 2012</subfield>
+    <subfield code="b">(hdg.: König, Otto, b. 1882; König, Otto, 1882- [from old catalog])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIAF, August 21, 2012</subfield>
+    <subfield code="b">VIAF ID: 50342949 (hdg.: König, Otto, 1882-1932; Flisseau, André (Pseudonym))</subfield>
+  </datafield>
+</record>
