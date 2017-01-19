@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 96017199 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100527080048.0</controlfield>
+  <controlfield tag="008">960506n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96017199 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0030800</subfield>
+    <subfield code="e">W0030800</subfield>
+    <subfield code="f">N0475500</subfield>
+    <subfield code="g">N0475500</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04074195</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-fr---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Quistinic (France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anaïs Oliviéro, la femme de l'Arcoat, 1994:</subfield>
+    <subfield code="b">p. 5 (Quistinic, commune, canton de Plouay, arr. Lorient, départ du Morbihan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Times atlas of the world, 9th ed.</subfield>
+    <subfield code="b">(Quistinic, France; 47.56N, 3.05W)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 47°55ʹ00ʺN 003°08ʹ00ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">France</subfield>
+    <subfield code="z">Quistinic</subfield>
+  </datafield>
+</record>
