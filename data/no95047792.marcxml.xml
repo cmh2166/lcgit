@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00510nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 95047792 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19951010054644.6</controlfield>
+  <controlfield tag="008">951009n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95047792 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03935025 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="c">PPiU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kalinenko, Oksana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kalinienko, Oksana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kalinenko, Oksana Semenovna</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Uwaga, Kowpak!, 1975:</subfield>
+    <subfield code="b">t.p. (Oksana Kalinienko)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 9-20-95</subfield>
+    <subfield code="b">(hdg.: Kalinenko, Oksana Semenovna; usage: Oksana Kalinenko)</subfield>
+  </datafield>
+</record>
