@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00400nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  92011587 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920203124305.0</controlfield>
+  <controlfield tag="008">920203n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92011587 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Türk, Stefan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Otter, M. The DFVLR models 1 and 2 of the Manutec r3 robot, 1988:</subfield>
+    <subfield code="b">t.p. (Stefan Türk; DFVLR, Inst. für Dynamik der Flugsysteme, Oberpfaffenhofen)</subfield>
+  </datafield>
+</record>
