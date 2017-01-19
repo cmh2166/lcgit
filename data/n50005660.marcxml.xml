@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00685cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  50005660 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141217095609.0</controlfield>
+  <controlfield tag="008">800325n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50005660 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1914</subfield>
+    <subfield code="g">2006</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Morris, Leon,</subfield>
+    <subfield code="d">1914-2006</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The apostolic preaching of the cross, 1955.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bush parson, c1995:</subfield>
+    <subfield code="b">t.p. (Leon Morris) t.p. verso (Leon Lamb Morris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia WWW site, July 27, 2006</subfield>
+    <subfield code="b">(under Leon Morris: Leon Lamb Morris; b. Mar. 15, 1914, Lithgow, N.S.W.; d. July 24, 2006; New Testament scholar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 17, 2014</subfield>
+    <subfield code="b">(B.Sc., M.Th., Ph.D.)</subfield>
+  </datafield>
+</record>
