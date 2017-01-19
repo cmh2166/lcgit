@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00687cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87842935 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801081820.0</controlfield>
+  <controlfield tag="008">880125n| acannaab           |n ana     b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87842935 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Cell-Free Analysis of Membrane Traffic</subfield>
+    <subfield code="d">(1986 :</subfield>
+    <subfield code="c">European Molecular Biology Laboratory)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Cell-free analysis of membrane traffic, 1988:</subfield>
+    <subfield code="b">CIP t.p. (Conference on Cell-Free Analysis of Membrane Traffic, held at Heidelberg, Federal Republic of Germany, 10/1-4/86) bk. t.p. (held at European Molecular Biology Laboratory)</subfield>
+  </datafield>
+</record>
