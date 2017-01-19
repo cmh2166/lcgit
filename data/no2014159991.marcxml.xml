@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00766cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014159991</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150117074101.0</controlfield>
+  <controlfield tag="008">141204n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014159991</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10031923</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InNd</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InNd</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schlesinger, Bruno,</subfield>
+    <subfield code="d">1911-2010</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Neunkirchen (Austria)</subfield>
+    <subfield code="b">Santa Barbara (Calif.)</subfield>
+    <subfield code="e">South Bend (Ind.)</subfield>
+    <subfield code="s">1942</subfield>
+    <subfield code="t">2010</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Education</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Saint Mary's College (Notre Dame, Ind.)</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bruno Schlesinger, 1911-2010, 2013:</subfield>
+    <subfield code="b">title page (Bruno Schlesinger) page 10 (born 1911 in Neunkirchen, Austria; moved to Los Angeles, California in 1939; moved to South Bend, Indiana in 1942; died 2010 in Santa Barbara, California)</subfield>
+  </datafield>
+</record>
