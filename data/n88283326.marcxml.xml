@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88283326 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900126133037.3</controlfield>
+  <controlfield tag="008">891010n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88283326 </subfield>
+    <subfield code="z">n  84083133 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Milligan College</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Milligan College, Milligan, Tenn.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cornwell, C.A. Beside the waters of the Buffalo, c1989</subfield>
+    <subfield code="b">(Milligan College; Tenn.) p. 5, etc. (Buffalo Male and Female Institute, [no publs. in LC database] chartered 12/10/1866, chgd. its name to Milligan College, 4/21/1881)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual cat.</subfield>
+    <subfield code="b">(hdg.: Milligan College, Milligan, Tenn.)</subfield>
+  </datafield>
+</record>
