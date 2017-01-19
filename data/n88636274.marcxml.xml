@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00433cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88636274 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890403095642.2</controlfield>
+  <controlfield tag="008">880513n| acannaab|          |a aad |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88636274 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Alcázar, José de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">De Alcázar, José</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-58737: His Historia de España en América ... [MI] 1898</subfield>
+    <subfield code="b">(hdg. on NN rept.: Alcázar, José de; usage: José de Alcázar)</subfield>
+  </datafield>
+</record>
