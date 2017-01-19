@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00511cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  97864203 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081114080220.0</controlfield>
+  <controlfield tag="008">971105n| acannaabn           n aad     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97864203 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 300719133</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04512682</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN-PD</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bennewitz, John</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Photographer, NYC.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MGZE  Graham, June 2.</subfield>
+  </datafield>
+</record>
