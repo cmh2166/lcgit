@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 00087817 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010511071255.0</controlfield>
+  <controlfield tag="008">001027n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00087817 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05342161</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPSL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPSL</subfield>
+    <subfield code="d">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Linders, Ilona,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Woeker met woorde, 1998:</subfield>
+    <subfield code="b">t.p. (Ilona Linders)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB database, Feb. 2, 2000</subfield>
+    <subfield code="b">(hdg.: Linders, Ilona, 1962- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB correspondence with author, Nov. 15, 1999</subfield>
+    <subfield code="b">(full names: Linders, Ilona Estelle)</subfield>
+  </datafield>
+</record>
