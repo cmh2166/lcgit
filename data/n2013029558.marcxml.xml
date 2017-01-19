@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00701cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2013029558</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130530075110.0</controlfield>
+  <controlfield tag="008">130523n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013029558</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0733047</subfield>
+    <subfield code="e">E0733047</subfield>
+    <subfield code="f">N0320119</subfield>
+    <subfield code="g">N0320119</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Jhal Magsi District (Pakistan)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Jhal Magsi (Pakistan : District)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: Survey of Pakistan. Jhal Magsi District, 2004:</subfield>
+    <subfield code="b">map recto (Jhal Magsi District)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, May 23, 2013</subfield>
+    <subfield code="b">(Jhal Magsi [short form] District--second order administrative division ; 28° 22ʹ08ʹʹ N  067° 32ʹ35ʹʹ E ; Balochistān)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pakistan</subfield>
+    <subfield code="z">Jhal Magsi District</subfield>
+  </datafield>
+</record>
