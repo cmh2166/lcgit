@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01145cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2014000898</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150105141831.0</controlfield>
+  <controlfield tag="008">140103n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014000898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09648824</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2013</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Xenophon.</subfield>
+    <subfield code="t">Symposium.</subfield>
+    <subfield code="l">Greek</subfield>
+    <subfield code="s">(Sauppe and Henderson)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">grc</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Sauppe and Henderson</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Xenophon.</subfield>
+    <subfield code="t">Symposium.</subfield>
+    <subfield code="l">Greek</subfield>
+    <subfield code="s">(Loeb classical library)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Editor:</subfield>
+    <subfield code="a">Henderson, Jeffrey,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Editor:</subfield>
+    <subfield code="a">Sauppe, Gustav Albert,</subfield>
+    <subfield code="d">1802-1870</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">r</subfield>
+    <subfield code="i">In series:</subfield>
+    <subfield code="a">Loeb classical library</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">In series:</subfield>
+    <subfield code="a">Xenophon.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="l">Greek</subfield>
+    <subfield code="s">(Loeb classical library)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translated as:</subfield>
+    <subfield code="a">Xenophon.</subfield>
+    <subfield code="t">Symposium.</subfield>
+    <subfield code="l">English</subfield>
+    <subfield code="s">(Todd and Henderson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Xenophon. Memorabilia ; Oeconomicus ; Symposium ; Apology, 2013:</subfield>
+    <subfield code="b">title page (revised by Jeffrey Henderson); page xvi (The Greek text is that of G. Sauppe (Leipzig : Tauchnitz, 1865-1967) with a few modifications made in the light of more recent editions) series title page (Loeb classical library; Xenophon IV)</subfield>
+  </datafield>
+</record>
