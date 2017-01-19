@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00669cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86865579 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010721071531.0</controlfield>
+  <controlfield tag="008">861118n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86865579 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01713707</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brem, Maxwell</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brem, M.</subfield>
+    <subfield code="q">(Maxwell)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">NLC not consulted.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-103672: Gerrard, C.D. Promoting Third World agriculture, 1983</subfield>
+    <subfield code="b">(hdg. on CLSU rept.: Brem, Maxwell; usage: Maxwell Brem)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aide du deĚveloppement, migration et perspectives d'avenir au Canada, 1992:</subfield>
+    <subfield code="b">t.p. (M. Brem) p. iii (Maxwell Brem, principal, Maxwell Brem Associates, Ottawa, Canada)</subfield>
+  </datafield>
+</record>
