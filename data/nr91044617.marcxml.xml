@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00394nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 91044617 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920310133637.7</controlfield>
+  <controlfield tag="008">911212n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 91044617 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPRF</subfield>
+    <subfield code="c">PPRF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sampson, George</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boudinot, E. ALS to George Sampson, 1807 July 13</subfield>
+    <subfield code="b">(Geo. Sampson; given power of attorney to sell certificates)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">DAB;</subfield>
+    <subfield code="a">WWasWAm</subfield>
+  </datafield>
+</record>
