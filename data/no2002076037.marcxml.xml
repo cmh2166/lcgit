@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00551cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002076037</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081107075737.0</controlfield>
+  <controlfield tag="008">020821n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002076037</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05843573</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kurauchi, Naoko</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">倉內直子</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Japanese composers 2001 [SR] 2001:</subfield>
+    <subfield code="b">label (Kurauchi Naoko; composer; name given in inverted form)</subfield>
+  </datafield>
+</record>
