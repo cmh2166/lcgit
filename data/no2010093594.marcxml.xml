@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00572cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010093594</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110624075104.0</controlfield>
+  <controlfield tag="008">100608n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010093594</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08520576</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxSaSM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxSaSM</subfield>
+    <subfield code="d">OkU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burt, Andrew,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Birt, Andrew,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Two Gentlemen of Verona, c1983:</subfield>
+    <subfield code="b">credits (Andrew Burt as Third Outlaw)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Movie Database, June 8, 2010</subfield>
+    <subfield code="b">(Andrew Burt; actor; b. 23 May 1945, Wakefield, West Yorkshire, England; alternate name: Andrew Birt)</subfield>
+  </datafield>
+</record>
