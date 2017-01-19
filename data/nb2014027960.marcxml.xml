@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01130cz  a2200229n  4500</leader>
+  <controlfield tag="001">nb2014027960</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150723051015.0</controlfield>
+  <controlfield tag="008">141205n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014027960</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009202925</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bull, Stephanie Anne</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">England</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Health Protection Agency (Great Britain). Food Microbiology Collaborating Unit</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Bristol. Department of Clinical Veterinary Science</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bull, S. A.</subfield>
+    <subfield code="q">(Stephanie Anne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The epidemiology of Campylobacter spp. in commercial broiler production, 2005:</subfield>
+    <subfield code="b">t.p. (Stephanie Anne Bull)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Campylobacter spp. in housed broiler flocks, 2008?:</subfield>
+    <subfield code="b">PDF, t.p. (Stephanie Bull) p. 40 (Bull, S.A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Studies to identify critical points for infection of live birds or contamination of poultry carcasses with Campylobacter and Salmonella spp., 2003:</subfield>
+    <subfield code="b">PDF, t.p. (S. Bull, Food Microbiology Collaborating Unit, Health Protection Agency, School of Clinical Veterinary Science, University of Bristol)</subfield>
+  </datafield>
+</record>
