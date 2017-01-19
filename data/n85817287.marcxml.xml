@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00445nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  85817287 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850927093230.2</controlfield>
+  <controlfield tag="008">850925n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85817287 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Schenk, Edward T.</subfield>
+    <subfield code="q">(Edward Theodore),</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Schenk, Edward Theodore,</subfield>
+    <subfield code="d">1905-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 56-9336: His Procedure in taxonomy, 1956</subfield>
+    <subfield code="b">(hdg.: Schenk, Edward Theodore, 1905- ; usage: Edward T. Schenk)</subfield>
+  </datafield>
+</record>
