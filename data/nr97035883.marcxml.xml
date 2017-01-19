@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00920cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 97035883 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110731075648.0</controlfield>
+  <controlfield tag="008">971008n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97035883 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04469330</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">MdU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kōka Joshi Daigaku.</subfield>
+    <subfield code="b">Nihon Bungakka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kōka Joshi Daigaku.</subfield>
+    <subfield code="b">Bungakubu.</subfield>
+    <subfield code="b">Nihon Bungakka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">光華女子大学.</subfield>
+    <subfield code="b">日本文学科</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Kōka Joshi Daigaku.</subfield>
+    <subfield code="b">Nihongo Nihon Bungakka</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Koi no katachi, 1996:</subfield>
+    <subfield code="b">t.p. (Kōka Joshi Daigaku Nihon Bungakka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zenkoku daigaku shokuinroku, 1994:</subfield>
+    <subfield code="b">p. 1535 (Kōka Joshi Daigaku Bungakubu Nihon Bungakka)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Nihon bungaku to bijutsu, 2001:  t.p. (Kōka Joshi Daigaku Nihongo Nihon Bungakka)</subfield>
+  </datafield>
+</record>
