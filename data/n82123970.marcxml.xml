@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00543cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82123970 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315084736.0</controlfield>
+  <controlfield tag="008">820910n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82123970 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1982</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Higuchi, Ichiyō,</subfield>
+    <subfield code="d">1872-1896.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="f">1982</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Higuchi, Ichiyō,</subfield>
+    <subfield code="d">1872-1896.</subfield>
+    <subfield code="t">Higuchi Ichiyō.</subfield>
+    <subfield code="f">1982</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Higuchi, Ichiyō,</subfield>
+    <subfield code="d">1872-1896.</subfield>
+    <subfield code="t">Selections.</subfield>
+    <subfield code="f">1982</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Higuchi Ichiyō, 1980 (1982 printing)</subfield>
+  </datafield>
+</record>
