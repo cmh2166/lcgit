@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00850cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  84189237 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020521053203.0</controlfield>
+  <controlfield tag="008">850125n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84189237 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01277362</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shot︠s︡kiĭ, V. P.</subfield>
+    <subfield code="q">(Vladimir Porfirʹevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Shot︠s︡kiĭ, Vladimir Porfirʹevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shotski, V. P.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shozky, V.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klimat bolʹshikh ozer Sibiri, 1984:</subfield>
+    <subfield code="b">t.p. (d-r geogr. nauk V. P. Shot︠s︡kiĭ) colophon (Vladimir Porfirʹevich Shot︠s︡kiĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 1-15-85</subfield>
+    <subfield code="b">(hdg: Shot︠s︡kiĭ, Vladimir Porfirʹevich; usage: V. P. Shot︠s︡kiĭ, V. P. Shotski)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Problemy tematicheskogo kartografirovanii︠a︡, 1970:</subfield>
+    <subfield code="b">verso t.p. (V. Shot︠s︡kiĭ) verso of added t.p. (V. Shozky)</subfield>
+  </datafield>
+</record>
