@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2005000981</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060927075041.0</controlfield>
+  <controlfield tag="008">050313n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005000981</subfield>
+    <subfield code="z">nb2001072581</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006135599</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Francis, Peter,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Changing rural life, 2004:</subfield>
+    <subfield code="b">t.p. (Peter Francis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CineĚma diviniteĚ : religion, theology and the Bible in film, 2005:</subfield>
+    <subfield code="b">t.p. (Peter Francis) p. xvi (Warden of St. Deiniol's Library; ordained into Anglican Church in 1978; editor of two collections of essays on Gladstone as well as a book on rural ministry and theology "Changing rural life")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Crockfords clerical dir. 2006/2007</subfield>
+    <subfield code="b">(Peter Brereton Francis, born 1953)</subfield>
+  </datafield>
+</record>
