@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01078nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2014048051</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140411073611.0</controlfield>
+  <controlfield tag="008">140410n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014048051</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09731161</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH-A</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MH-A</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1821</subfield>
+    <subfield code="g">1900</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schiotz, Th.</subfield>
+    <subfield code="q">(Theodor),</subfield>
+    <subfield code="d">1821-1900</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Denmark</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Odense (Denmark)</subfield>
+    <subfield code="s">1859</subfield>
+    <subfield code="t">1900</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Pharmacy</subfield>
+    <subfield code="a">Botany</subfield>
+    <subfield code="a">Education</subfield>
+    <subfield code="a">Breweries</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Pharmacists</subfield>
+    <subfield code="a">Botanists</subfield>
+    <subfield code="a">High school teachers</subfield>
+    <subfield code="a">Brewers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">dan</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Theodor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schiotz, Theodor,</subfield>
+    <subfield code="d">1821-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schiotz, Ludvig Theodor,</subfield>
+    <subfield code="d">1821-1900</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beretning om en botanisk Reise, foretaget i Sommeren 1858 i Landskabet mellem Slesvig, Rendsborg og Ekernförde, samt paa Vesterhavs-Öerne Amron, För og Sild, 1860:</subfield>
+    <subfield code="b">caption (Th. Schiötz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Taxonomic literature, 2nd edition, 1976-1988</subfield>
+    <subfield code="b">(Ludvig Theodor Schiotz; 1821-1900; Danish pharmacist, botanist, and high school teacher; brewer at Odense, 1859-1900)</subfield>
+  </datafield>
+</record>
