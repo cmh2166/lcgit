@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00540cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001022413</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060426090334.0</controlfield>
+  <controlfield tag="008">010321n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001022413</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05443722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bergman, Erik,</subfield>
+    <subfield code="d">1911-2006.</subfield>
+    <subfield code="t">Enda stunden</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bergman, Erik,</subfield>
+    <subfield code="d">1911-2006.</subfield>
+    <subfield code="t">Single moment</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bergman, E. Works for mixed choir [SR] p1988:</subfield>
+    <subfield code="b">container (Den enda stunden) insert (Den enda stunden = The single moment; words by Johann Ludvig Runeberg; 1949)</subfield>
+  </datafield>
+</record>
