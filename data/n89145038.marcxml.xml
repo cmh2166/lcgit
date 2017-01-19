@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00957cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  89145038 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100517075719.0</controlfield>
+  <controlfield tag="008">911105n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89145038 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0742800</subfield>
+    <subfield code="e">E0742800</subfield>
+    <subfield code="f">N0274200</subfield>
+    <subfield code="g">N0274200</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03053171</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-ii---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Sujangarh (India)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Kharbuji-ka-kot (India)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rajasthan (India). Chief Town Planner. Draft master plan for Sujangarh, 1986-2006, 1988:</subfield>
+    <subfield code="b">p. 1 (Sujangarh town located in southern part of Churu District in Thar Desert; was known as Kharbuji-ka-kot; founded by Maharaja Surat Singh)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lipp.</subfield>
+    <subfield code="b">(Sujangarh, town, N. central Rajasthan, Ind., 75 mi. ESE of Bikaner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Where is it, 1976:</subfield>
+    <subfield code="b">p. 20 (Sujangarh, 27.7°N, 74.5°E)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 27°42ʹ00ʺN 074°28ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">India</subfield>
+    <subfield code="z">Sujangarh</subfield>
+  </datafield>
+</record>
