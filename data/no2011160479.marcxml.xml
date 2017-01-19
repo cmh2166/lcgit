@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2011160479</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120329075115.0</controlfield>
+  <controlfield tag="008">111017n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011160479</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09007525</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008292866</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bailey, Hannah</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bailey, H. R.</subfield>
+    <subfield code="q">(Hannah R.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gallagher, T. 100 greatest moments in Irish history, 2011 :</subfield>
+    <subfield code="b">t.p. (illustrated by Hannah Bailey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The people jigsaw, c2009:</subfield>
+    <subfield code="b">t.p. (H.R. Bailey) p. 18 (Hannah is currently studying illustration in Brighton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hannah Bailey www site, 26 Mar. 2012:</subfield>
+    <subfield code="b">About (Since graduating from the University of Brighton in 2010, I have worked with Teapot Press, i-Seek Creative, Gill and Macmillan and others)</subfield>
+  </datafield>
+</record>
