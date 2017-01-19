@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00844nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2014110902</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140821073602.0</controlfield>
+  <controlfield tag="008">140820n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014110902</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09940867</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20130414</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Venezuela.</subfield>
+    <subfield code="b">President (2013- : Maduro)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Venezuela</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Executive power</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Maduro, Nicolás,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a subject.  Works about this person are entered under Maduro, Nicolás, 1962-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Venezuela. President (2013- : Maduro Moros). ¡Voy a fondo, vamos con todo!, 2013:</subfield>
+    <subfield code="b">title page (Presidente Nicolás Maduro Moros)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spanish Wikipedia, Aug. 8, 2014</subfield>
+    <subfield code="b">(elected President of Venezuela Apr. 14, 2013)</subfield>
+  </datafield>
+</record>
