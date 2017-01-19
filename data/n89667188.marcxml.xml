@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  89667188 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210092200.0</controlfield>
+  <controlfield tag="008">891127n| azannaab           |n aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89667188 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Sarah Flagg</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-102079: Rich, A.E.N. Ogden centennial pioneer reminiscences, 1802-1902 [MI] 1985</subfield>
+    <subfield code="b">(hdg. on C rept.: Smith, Sarah Flagg; usage: Mrs. Sarah Flagg Smith)</subfield>
+  </datafield>
+</record>
