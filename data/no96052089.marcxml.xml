@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00577cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96052089 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961012052933.8</controlfield>
+  <controlfield tag="008">961009n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96052089 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04179729 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">IWhN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kane, Elaine</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Keĭn, Ėleĭn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Jensen, Elaine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhemchuzhina Avinʹona, 1995:</subfield>
+    <subfield code="b">t.p. (Ėleĭn Keĭn) copyrt. (Elaine Kane [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Oct. 9, 1996</subfield>
+    <subfield code="b">(hdg.: Kane, Elaine)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Promise me, c1996:</subfield>
+    <subfield code="b">t.p. (Elaine Kane) copyr. (Elaine Jensen)</subfield>
+  </datafield>
+</record>
