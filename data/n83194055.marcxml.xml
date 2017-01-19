@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  83194055 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081213080916.0</controlfield>
+  <controlfield tag="008">831116n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83194055 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01008189</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chávez, Eliana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chávez O'Brien, Eliana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">O'Brien, Eliana Chávez</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chávez, E.</subfield>
+    <subfield code="q">(Eliana)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Chávez O'B., Eliana</subfield>
+    <subfield code="q">(Chávez O'Brien)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El Norte peruano, c1982 (a.e.)</subfield>
+    <subfield code="b">cover (Chávez) table of contents (Eliana Chávez) p. 9 (Eliana Chávez O'Brien)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Perú, c1987:</subfield>
+    <subfield code="b">t.p. (E. Chávez) p. 7 (Eliana Chávez O'B.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Anuario bibl. per., 1967-69, 1970-72.</subfield>
+  </datafield>
+</record>
