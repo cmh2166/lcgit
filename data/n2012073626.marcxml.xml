@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00526cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2012073626</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121128074926.0</controlfield>
+  <controlfield tag="008">121127n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012073626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boyce, William,</subfield>
+    <subfield code="d">1711-1779.</subfield>
+    <subfield code="t">King shall rejoice.</subfield>
+    <subfield code="n">(1761)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Two anthems for the Georgian court, c1970:</subfield>
+    <subfield code="b">p. 5 (The King shall rejoice, the "Wedding Anthem" ... was performed at the wedding of Queen Charlotte and George III on September 8, 1761, in the Royal Chapel at St. James' in London)</subfield>
+  </datafield>
+</record>
