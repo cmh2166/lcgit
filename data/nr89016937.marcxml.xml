@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00712cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 89016937 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314095726.0</controlfield>
+  <controlfield tag="008">891130n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89016937 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1800</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Throop, Daniel Scrope,</subfield>
+    <subfield code="d">1800-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">D. S. T.</subfield>
+    <subfield code="q">(Daniel Scrope Throop),</subfield>
+    <subfield code="d">1800-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">T., D. S.</subfield>
+    <subfield code="q">(Daniel Scrope Throop),</subfield>
+    <subfield code="d">1800-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Throop, Daniel Scrope,</subfield>
+    <subfield code="d">b. 1800</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adventures of Peter Jones, 1836:</subfield>
+    <subfield code="b">p. 3 (D.S.T.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Groce, G. N.Y. Hist. Soc. dict. of artists in Amer., 1957</subfield>
+    <subfield code="b">(Throop, Daniel Scrope; engraver; b. 1/14/1800)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Throop, Daniel Scrope, b. 1800)</subfield>
+  </datafield>
+</record>
