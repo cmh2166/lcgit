@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00708cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85347678 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001012172155.0</controlfield>
+  <controlfield tag="008">870114n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85347678 </subfield>
+    <subfield code="z">n  93105465 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Le Duc, Don R.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Duc, Don R. Le</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with LeDuc, Don, 1942- who also writes on legal subjects</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Beyond broadcasting, c1987:</subfield>
+    <subfield code="b">CIP t.p. (Don R. Le Duc; prof. of mass communication, Univ. of Wisconsin-Milwaukee) data sheet (Don R. LeDuc)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 1/13/87</subfield>
+    <subfield code="b">(hdg.: Le Duc, Don R.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Law of mass communications, 1995:</subfield>
+    <subfield code="b">CIP t.p. (Don R. Le Duc, J.D., Ph. D.) CIP data sheet (b. 1942)</subfield>
+  </datafield>
+</record>
