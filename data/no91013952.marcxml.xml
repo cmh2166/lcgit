@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00540nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 91013952 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910607053446.9</controlfield>
+  <controlfield tag="008">910531n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91013952 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Nobel, Constantin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Nobel, Constantijn</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dapper, O. GedenkwuĚrdige Verrichtung der NiederlaĚndischen Ost-Indischen Gesellschaft ... 1674-1676:</subfield>
+    <subfield code="b">t.p. (Constantin Nobel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BLC to 1975</subfield>
+    <subfield code="b">(hdg.: Nobel, Constantijn)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Aa. Biog. woord. der Neder.;</subfield>
+    <subfield code="a">Grote Winkler Prins.</subfield>
+  </datafield>
+</record>
