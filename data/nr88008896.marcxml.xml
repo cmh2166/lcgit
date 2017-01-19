@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 88008896 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880923092148.3</controlfield>
+  <controlfield tag="008">880921n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 88008896 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ribera, Nicolás Joseph de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">De Ribera, Nicolás Joseph</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Portuondo Zúñiga, O. Nicolás Joseph de Ribera, 1986:</subfield>
+    <subfield code="b">p. 203-205 (b. 1724; d. ca. 1775)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 9-19-88</subfield>
+    <subfield code="b">(hdg.: Ribera, Nicolás Joseph de)</subfield>
+  </datafield>
+</record>
