@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00525cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2002073424</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140902132858.0</controlfield>
+  <controlfield tag="008">020516n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002073424</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1802</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, William</subfield>
+    <subfield code="c">(Indentured servant)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Nantucket (Mass.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nantucket Hist. Assoc. for Alliance (Ship : 1791-1794). Log/journal, 1791</subfield>
+    <subfield code="b">(William Smith, indentured servant, 1802; indentured to Andrew Pinkham of Nantucket, Mass.)</subfield>
+  </datafield>
+</record>
