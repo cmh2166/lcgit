@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01038cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2008172707</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326120125.0</controlfield>
+  <controlfield tag="008">081120n| azannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008172707</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07943622</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaBeW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">WaBeW</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ulaanbaataryn Ikh Surguulʹ.</subfield>
+    <subfield code="b">Uran Zokhiolyn Tėnkhim</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ulaanbaataryn Ikh Surguulʹ.</subfield>
+    <subfield code="b">Department of Literature</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ulaanbaataryn Ikh Surguulʹ.</subfield>
+    <subfield code="b">Literature, Department of</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Улаанбаатарын Их Сургууль.</subfield>
+    <subfield code="b">Уран Зохиолын Тэнхим</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Ulaanbaataryn Ikh Surguulʹ</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bi︠a︡mbyn Rincheniĭ ȯgu̇u̇llėgiĭn ulamzhlal shinėchlėl, urlakh ėrdėm, 2007:</subfield>
+    <subfield code="b">t.p. (Улаанбаатарын Их Сургууль, Уран Зохиолын Тэнхим = Ulaanbaataryn Ikh Surguulʹ, Uran Zokhiolyn Tėnkhim) Engl. t.p. (Department of Literature, University of Ulaanbaatar)</subfield>
+  </datafield>
+</record>
