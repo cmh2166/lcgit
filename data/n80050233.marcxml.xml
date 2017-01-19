@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00754cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80050233 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120702104549.0</controlfield>
+  <controlfield tag="008">800529n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80050233 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ4864.A4178</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">ML419.D28</subfield>
+    <subfield code="c">Biography</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dalla, Lucio</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lucio Dalla, 1977.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rinetti, R. Lucio Dalla, c1982:</subfield>
+    <subfield code="b">t.p. (Lucio Dalla) p. 9 (b. 3/4/1943)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bella lavita, c2002:</subfield>
+    <subfield code="b">t.p. (Dalla, Lucio) back jacket flap (b. Mar. 4, 1943 in Bologna; singer, song writer; fiction writer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Italian Wikipedia WWW site, Mar. 1, 2012</subfield>
+    <subfield code="b">(Lucio Dalla; b. Mar. 4, 1943, Bologna; d. Mar. 1, 2012, Montreux; Italian singer-songwriter, actor, and director)</subfield>
+  </datafield>
+</record>
