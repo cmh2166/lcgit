@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00825nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010103766</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100627074929.0</controlfield>
+  <controlfield tag="008">100625n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010103766</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08540373</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OAkU-MCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OAkU-MCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burle Marx,</subfield>
+    <subfield code="d">1902-1990.</subfield>
+    <subfield code="t">Lincoln's Gettysburg address</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Burle Marx,</subfield>
+    <subfield code="d">1902-1990.</subfield>
+    <subfield code="t">Cantata on Lincoln's Gettysburg address</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Burle Marx,</subfield>
+    <subfield code="d">1902-1990.</subfield>
+    <subfield code="t">1863--the Gettysburg address</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Burle Marx. Lincoln's Gettysburg address [MS] 1958?:</subfield>
+    <subfield code="b">caption (Lincoln's Gettysburg address : for bass and orchestra : 1863) cover (Cantata on Lincoln's Gettysburg address)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Philadelphia Orchestra 1959-1960 junior student concert series inaugural program, 1959:</subfield>
+    <subfield code="b">p. 3 (1863--the Gettysburg address : world premiere)</subfield>
+  </datafield>
+</record>
