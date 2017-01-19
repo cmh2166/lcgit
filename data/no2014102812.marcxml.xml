@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01536cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2014103001</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150617073925.0</controlfield>
+  <controlfield tag="008">140805n| azannaabn           a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014103001</subfield>
+    <subfield code="z">no2014102812</subfield>
+    <subfield code="z">no 95033456 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09925739</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="t">1948</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ithaca City Hospital (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Ithaca (N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Tompkins County Hospital (Ithaca, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The new Tompkins County Hospital of 1958, 1959:</subfield>
+    <subfield code="b">page 5 (Ithaca City Hospital, taken over by Tompkins County in 1948) page 11 (new hospital building dedicated on September 26, 1958, and opened in October 1958)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ithaca.com website, viewed August 4, 2014</subfield>
+    <subfield code="b">(Ithaca City Hospital, photograph from old postcard, posted online on April 20, 2011)</subfield>
+    <subfield code="u">http://www.ithaca.com/photos/ithaca-city-hospital/image_166bd502-6b81-11e0-9e18-001cc4c002e0.html</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cayuga Medical Center website, viewed August 4, 2014</subfield>
+    <subfield code="b">(A hundred years ago, a group of forward-thinking community leaders opened a small city hospital with fifteen beds. Today, Cayuga Medical Center houses 204 beds, employs over 1,200 health-care professionals, and has a medical staff of more than 200 affiliated physicians)</subfield>
+    <subfield code="u">http://cayugamed.org/content.cfm?page=mission</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">City-data.com website, viewed August 4, 2014</subfield>
+    <subfield code="b">(Tompkins County Hospital, later to become known as Cayuga Medical Center)</subfield>
+    <subfield code="u">http://www.city-data.com/us-cities/The-Northeast/Ithaca-History.html</subfield>
+  </datafield>
+</record>
