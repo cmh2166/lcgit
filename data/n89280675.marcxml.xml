@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645nz  a2200193n  4500</leader>
+  <controlfield tag="001">n  89280675 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960309071618.9</controlfield>
+  <controlfield tag="008">950921n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89280675 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Sahāya, Govinda,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Govind Sahai,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Govinda Sahāya,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Govindasahāya,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Sahai, Govind,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pakistāna-- vartamāna aura bhavishya, 1948:</subfield>
+    <subfield code="b">t.p. (Govindasahāya, i. e. Govinda Sahāya)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NBIL, 1966- :</subfield>
+    <subfield code="b">v. 2, p. 235 (b. 1908- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">South Asia biog. dict. index, 1987</subfield>
+    <subfield code="b">(Sahai, Govind, 1908- )</subfield>
+  </datafield>
+</record>
