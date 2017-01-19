@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002076425</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020823052735.0</controlfield>
+  <controlfield tag="008">020822n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002076425</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05843961</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OBgU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Steiner, Margaret Lynn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Steiner, Marge</subfield>
+    <subfield code="q">(Margaret Lynn)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Steiner, Margie</subfield>
+    <subfield code="q">(Margaret Lynn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wilmot MacDonald at the Miramichi Folksong Festival, c2002:</subfield>
+    <subfield code="b">t.p. (Margaret L. Steiner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 8-21-2002</subfield>
+    <subfield code="b">(hdg.: Steiner, Margaret L.; Steiner, Margaret Lynn; usages: Margaret L. Steiner, Marge Steiner, Margie Steiner)</subfield>
+  </datafield>
+</record>
