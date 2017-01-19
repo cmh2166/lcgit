@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00514nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009199960</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091216075516.0</controlfield>
+  <controlfield tag="008">091214n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009199960</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08336124</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IlMchBWI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IlMchBWI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Holler, Sue Farrell,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ferrell Holler, Sue,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Holler, Sue Farrell. Lacey and the African grandmothers, c2009 :</subfield>
+    <subfield code="b">t.p. (Sue Farrell Holler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LAC, Dec. 11, 2009</subfield>
+    <subfield code="b">(Holler, Sue Farrell, 1962-)</subfield>
+  </datafield>
+</record>
