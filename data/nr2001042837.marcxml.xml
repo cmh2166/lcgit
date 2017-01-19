@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00462nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001042837</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011211033243.0</controlfield>
+  <controlfield tag="008">011017n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001042837</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNMM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mayagoitia, Gaspar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mayagoitia Barragán, Gaspar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barragán, Gaspar Mayagoitia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sellos arqueológicos veracruzanos, 1959:</subfield>
+    <subfield code="b">colophon (Gaspar Mayagoitia) p. 3 (Gaspar Mayagoitia Barragán)</subfield>
+  </datafield>
+</record>
