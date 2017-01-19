@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00616cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99075222 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000207124631.0</controlfield>
+  <controlfield tag="008">991015n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99075222 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05083407</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Littlejohn, Carol</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Talk that book!, 1999:</subfield>
+    <subfield code="b">t.p. (Carol Littlejohn); p. x (Littlejohn has been a young adult and children's librarian since 1974; currently a library consultant and is developing a Web site for reading enthusiasts)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Keep talking that book! 2000:</subfield>
+    <subfield code="b">CIP t.p. (Carol Littlejohn) data sheet (b Nov. 2, 1950)</subfield>
+  </datafield>
+</record>
