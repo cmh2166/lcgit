@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99020712 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001203152649.0</controlfield>
+  <controlfield tag="008">990315n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99020712 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04942994</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nally, Patrick William,</subfield>
+    <subfield code="d">1855-1891</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nally, P. W.</subfield>
+    <subfield code="q">(Patrick William),</subfield>
+    <subfield code="d">1855-1891</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mac an Fhailí, Pádraig Liam,</subfield>
+    <subfield code="d">1855-1891</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ó Baoighill, P. Nally as Maigh Eo, c1998:</subfield>
+    <subfield code="b">cover p. 3 (Pádraig Liam Mac an Fhailí; P.W. Nally; 1855-1891) pref. (Patrick William Nally; b. Balla, Co. Mayo, Mar. 17, 1855; d. Sept. 11, 1891, Dublin)</subfield>
+  </datafield>
+</record>
