@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2007161177</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070313075026.0</controlfield>
+  <controlfield tag="008">070312n| acannaabn           n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007161177</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schuster, Richard J.,</subfield>
+    <subfield code="d">1927-2005</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nevada Historical Society for His Scrapbook, 1946-1966</subfield>
+    <subfield code="b">(Richard J. Schuster, 1927-2005; newspaper executive with Reno Newspapers, Inc.)</subfield>
+  </datafield>
+</record>
