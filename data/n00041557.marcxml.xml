@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  00041557 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320074928.0</controlfield>
+  <controlfield tag="008">000809n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00041557 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1538</subfield>
+    <subfield code="t">1547</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Albicante, Giovanni Alberto,</subfield>
+    <subfield code="d">active 1538-1547</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Albicante, Giovanni Alberto,</subfield>
+    <subfield code="d">fl. 1538-1547</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Albicante, Giovanni Alberto. Occasioni aretiniane, 1999:</subfield>
+    <subfield code="b">t.p. (Giovanni Alberto Albicante)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diz. biogr. degli Italiani, 1960</subfield>
+    <subfield code="b">(hdg.: Albicante, Giovanni Alberto; Milanese 16th cent. Man of Letters who was first published in 1538 and whose last known publication was in 1547)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Encic. ital., 1929;</subfield>
+    <subfield code="a">Grande encic. Vallardi, c1968.</subfield>
+  </datafield>
+</record>
