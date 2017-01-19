@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00878cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  92066640 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140603144251.0</controlfield>
+  <controlfield tag="008">920629n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92066640 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3612.O428</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Loizeaux, William</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Anna, c1992:</subfield>
+    <subfield code="b">CIP t.p. (William Loizeaux)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Tumble Inn, 2014:</subfield>
+    <subfield code="b">CIP t.p. (William Loizeaux) data view ("William Loizeaux is the author of short stories, essays, and two memoirs: The Shooting of Rabbit Wells; and Anna: A Daughter's Life, a New York Times Notable Book. He has also written two novels for young readers: Clarence Cochran, A Human Boy; and Wings, which received an ASPCA Henry Berg Children's Book Award and was the 2006 Golden Kite Honor Book for Fiction. He lives with his wife, Beth, in Boston, where he is Writer-in-Residence at Boston University")</subfield>
+  </datafield>
+</record>
