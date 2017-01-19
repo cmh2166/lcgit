@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83154021 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101119074722.0</controlfield>
+  <controlfield tag="008">831017n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83154021 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00980093</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PT2676.A98</subfield>
+    <subfield code="c">German</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL248.P38</subfield>
+    <subfield code="c">Turkish</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pazarkaya, Yüksel,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Rosen im Frost, c1982:</subfield>
+    <subfield code="b">t.p. (Yüksel Pazarkaya) p. 4 of cover (b. 1940 in Izmir; stud. chemistry, German lit., lang. &amp; linguistics in Germany; works since 1959 for Turkish &amp; German news media)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8/4/83</subfield>
+    <subfield code="b">(hdg.: Pazarkaya, Yüksel, 1940- )</subfield>
+  </datafield>
+</record>
