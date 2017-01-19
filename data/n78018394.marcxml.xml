@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00836cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  78018394 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140324163815.0</controlfield>
+  <controlfield tag="008">780411n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78018394 </subfield>
+    <subfield code="z">no2014023249</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19320101</subfield>
+    <subfield code="g">2011</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brink, Andrew</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">McMaster University</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Andrew W.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Loss and ... 1977:</subfield>
+    <subfield code="b">t.p. (Andrew Brink) p. 279 (BA, MA, PhD Lond.; Prof. of English, McMaster U.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The creative matrix, 2000:</subfield>
+    <subfield code="b">CIP t.p. (Andrew Brink) data sheet (b. Jan. 1, 1932)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ink and light, 2013:</subfield>
+    <subfield code="b">title page (Andrew Brink) CIP data (Brink, Andrew W., 1932-2011)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LAC database, Feb. 19, 2014</subfield>
+    <subfield code="b">(hdg.: Brink, Andrew W., 1932- )</subfield>
+  </datafield>
+</record>
