@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00744cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99015299 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990224102908.9</controlfield>
+  <controlfield tag="008">990224n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99015299 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Heinerman, John.</subfield>
+    <subfield code="t">Encyclopedia of healing herbs and spices.</subfield>
+    <subfield code="l">Spanish</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heinerman, John.</subfield>
+    <subfield code="t">Milagrosas hierbas curativas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heinerman, John.</subfield>
+    <subfield code="t">Miracle healing herbs.</subfield>
+    <subfield code="l">Spanish</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Milagrosas hierbas curativas, c1999:</subfield>
+    <subfield code="b">CIP t.p. verso (TiĚtulo del original en ingleĚs: Miracle healing herbs)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 2-23-99:</subfield>
+    <subfield code="b">(Miracle healing herbs [not in LC collection] is a reprint with change of title of: Heinerman, John. Encyclopedia of healing herbs and spices)</subfield>
+  </datafield>
+</record>
