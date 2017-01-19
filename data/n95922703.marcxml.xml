@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00800cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  95922703 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110404144456.0</controlfield>
+  <controlfield tag="008">960228n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95922703 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04107139</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">GEU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Maximiano, Cesar Campiani</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Campiani Maximiano, Cesar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Maximiano, C. C.</subfield>
+    <subfield code="q">(Cesar Campiani)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Onde estão nossos heróis, 1995:</subfield>
+    <subfield code="b">t.p. (Cesar Campiani Maximiano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Irmãos de armas, 2005:</subfield>
+    <subfield code="b">t.p. (Cesar Campiani Maximiano) p. 304 (César Campiani Maximiano; b. 1917 in São Paulo; doctorate in history from Universidade de São Paulo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brazilian Expeditionary Force in World War II, 2011:</subfield>
+    <subfield code="b">t.p. (C.C. Maximiano) p. 2 of cover (b. 1971 in São Paulo)</subfield>
+  </datafield>
+</record>
