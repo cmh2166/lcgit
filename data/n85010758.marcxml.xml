@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00863cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  85010758 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131016073700.0</controlfield>
+  <controlfield tag="008">850314n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85010758 </subfield>
+    <subfield code="z">n  85229405 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01291162</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">UkOxU</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1933</subfield>
+    <subfield code="g">19731113</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6060.O3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, B. S.</subfield>
+    <subfield code="q">(Bryan Stanley),</subfield>
+    <subfield code="d">1933-1973</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Johnson, Bryan Stanley,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, Bryan Stanley,</subfield>
+    <subfield code="d">1933-1973</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Christie Malry's own double-entry, 1985, c1973:</subfield>
+    <subfield code="b">CIP t.p. (B.S. Johnson) data sheet (1933-1973)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3-8-85</subfield>
+    <subfield code="b">(hdg.: Johnson, Bryan Stanley, 1933- ; Johnson, Bryan Stanley, 1933-1974; usage: B.S. Johnson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contemp. authors, 1983:</subfield>
+    <subfield code="b">(Johnson, B(ryan) S(tanley) William, 1933-1973: d. 11/13/73)</subfield>
+  </datafield>
+</record>
