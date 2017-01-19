@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00701cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2002070200</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090508065614.0</controlfield>
+  <controlfield tag="008">020424n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002070200</subfield>
+    <subfield code="z">no2006074631</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sack, Albert E.,</subfield>
+    <subfield code="d">1911-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sack, Al,</subfield>
+    <subfield code="d">1911-1947</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gershwin, George. Victor showpiece presents Dinah Shore in Gershwin show hits, 1945:</subfield>
+    <subfield code="b">labels (Albert Sack, conductor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ASCAP biogr. dict., 4th ed.</subfield>
+    <subfield code="b">(Sack, Albert E.; composer, conductor, arranger; b. Jan. 3, 1911, New York, d. Dec, 6, 1947, Los Angeles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sack, A. Al Sack and his orchestra play concert favorites [SR] 195-:</subfield>
+    <subfield code="b">label (Al Sack, conductor)</subfield>
+  </datafield>
+</record>
