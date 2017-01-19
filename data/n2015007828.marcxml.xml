@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00683nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015007828</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150205082453.0</controlfield>
+  <controlfield tag="008">150204 | azannbabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015007828</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Wiegboldsbur (Südbrookmerland, Germany)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Südbrookmerland (Germany).</subfield>
+    <subfield code="b">Wiegboldsbur</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Work cat.: Potthast, Heinrich. Die Familien der evangelisch-lutherischen Kirchengemeinde Wiegboldsbur (1700-1910), 2014:</subfield>
+    <subfield code="b">t.p. (Wiegboldsbur)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, viewed Febr. 4, 2015:</subfield>
+    <subfield code="b">(Wiegboldsbur; PPL  53° 27ʹ N 007° 20ʹ E)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wiegboldsbur.wiki, viewed Febr. 4, 2015:</subfield>
+    <subfield code="b">(Wiegboldsbur is part of Südbrookmerland)</subfield>
+  </datafield>
+</record>
