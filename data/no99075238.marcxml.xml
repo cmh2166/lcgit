@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00534cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99075238 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001208070307.0</controlfield>
+  <controlfield tag="008">991015n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99075238 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05083423</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Barreto, Miguel,</subfield>
+    <subfield code="d">1912-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barreto López, Miguel,</subfield>
+    <subfield code="d">1912-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">López, Miguel Barreto,</subfield>
+    <subfield code="d">1912-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Folclor huilense y anécdotas pediátricas, 1995:</subfield>
+    <subfield code="b">cover (Miguel Barreto) copyright (Miguel Barreto López) p. 9 (b. 20 July 1912)</subfield>
+  </datafield>
+</record>
