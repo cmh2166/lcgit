@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00327cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  88043475 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900524083904.7</controlfield>
+  <controlfield tag="008">900410n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88043475 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Guhl, GenevieĚve Koutou</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her L'arbre de Foreba, 1988?:</subfield>
+    <subfield code="b">t.p. (GenevieĚve Koutou Guhl)</subfield>
+  </datafield>
+</record>
