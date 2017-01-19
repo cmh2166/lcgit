@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  99017540 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100518074901.0</controlfield>
+  <controlfield tag="008">990303n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99017540 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0113600</subfield>
+    <subfield code="e">E0113600</subfield>
+    <subfield code="f">N0521100</subfield>
+    <subfield code="g">N0521100</subfield>
+    <subfield code="2">other</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04934388</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Lemsdorf (Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stadtteilentwicklungsplanung Lemsdorf, 1996:</subfield>
+    <subfield code="b">p. 3 (a small village on the edge of Magdeburg, Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN Gaz. of the GDR, 1993</subfield>
+    <subfield code="b">(Lemsdorf; PPL; 52°11ʹN, 11°36ʹE; only 1 listed)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Germany</subfield>
+    <subfield code="z">Lemsdorf</subfield>
+  </datafield>
+</record>
