@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00638nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012073990</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120530074918.0</controlfield>
+  <controlfield tag="008">120528n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012073990</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09210950</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PE-LiPUB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PE-LiPUB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Robalino Gómez, Ramón Hernán</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gómez, Ramón Hernán Robalino</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diseño e implementación  de un sistema de control MIMO para un proceso de tanque cerrado, 2012:</subfield>
+    <subfield code="b">t.p. (Ramón Hernán Robalino Gómez; Pontificia Universidad Católica del Perú. Escuela de Posgrado; Magíster en Ingeniería de Control y Automatización)</subfield>
+  </datafield>
+</record>
