@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00721cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2009031436</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090521075229.0</controlfield>
+  <controlfield tag="008">090520n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009031436</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kagaku Gijutsu Shinkō Kikō.</subfield>
+    <subfield code="b">Kenkyū Kaihatsu Senryaku Sentā.</subfield>
+    <subfield code="b">Tanaka Gurūpu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">科学技術振興機構.</subfield>
+    <subfield code="b">研究開発戦略センター.</subfield>
+    <subfield code="b">田中グループ</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">"Nano Tekunorojī Zairyō Buʼnya" Fukan Wākushoppu hōkokush, 2007:</subfield>
+    <subfield code="b">colophon (科学技術振興機構研究開発戦略センター田中グループ = Kagaku Gijutsu Shinkō Kikō Kenkyū Kaihatsu Senryaku Sentā Tanaka Gurūpu)</subfield>
+  </datafield>
+</record>
