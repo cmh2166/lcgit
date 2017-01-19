@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00533cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 94010155 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000918195513.0</controlfield>
+  <controlfield tag="008">940328nn acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94010155 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03577231</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Chen, Cheng-Ta,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Sensitivity of the simulated global climate to perturbations in low cloud microphysical properties, 1994:</subfield>
+    <subfield code="b">t.p. (Cheng-Ta Chen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. from Princeton University Archives, 1-28-94</subfield>
+    <subfield code="b">(Chen, Cheng-Ta, b. 7-27-65)</subfield>
+  </datafield>
+</record>
