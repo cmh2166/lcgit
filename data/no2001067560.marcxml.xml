@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00782cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001067560</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110922075017.0</controlfield>
+  <controlfield tag="008">010823n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001067560</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05566401</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NBuU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NBuU</subfield>
+    <subfield code="d">CU-A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McFarlane, N. L.</subfield>
+    <subfield code="q">(Neville Lewis),</subfield>
+    <subfield code="d">1901-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">McFarlane, Neville Lewis,</subfield>
+    <subfield code="d">1901-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">MacFarlane, N. L.</subfield>
+    <subfield code="q">(Neville Lewis),</subfield>
+    <subfield code="d">1901-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Turkey raising in California, 1931:</subfield>
+    <subfield code="b">t.p. (N.L. McFarlane)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Desert agriculture, 1951:</subfield>
+    <subfield code="b">t.p. (N.L. MacFarlane)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 21, 2001</subfield>
+    <subfield code="b">(hdg.: McFarlane, N. L. (Neville Lewis), 1901- ; usage: N.L. McFarlane)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Univ. of Calif. Dir., 1958-59</subfield>
+    <subfield code="b">(McFarlane, Nevelle [sic] L., Agriculturalist, Agr. Ext., Berkeley)</subfield>
+  </datafield>
+</record>
