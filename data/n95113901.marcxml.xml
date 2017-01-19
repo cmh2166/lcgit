@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00488cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  95113901 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970825135539.5</controlfield>
+  <controlfield tag="008">951128n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95113901 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Leibowitz, Ann G.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Drafting the employee handbook, c1995:</subfield>
+    <subfield code="b">t.p. (Ann G. Leibowitz, Esq.; Polaroid Corp., Cambridge)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Drafting employment documents in Massachusetts, c1997:</subfield>
+    <subfield code="b">v. 1, t.p. (Ann G. Leibowitz) p. ix (Ann Galperin Leibowitz)</subfield>
+  </datafield>
+</record>
