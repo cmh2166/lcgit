@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00546nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  81073499 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">810716n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81073499 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">State Government Accounting Project (Council of State Governments)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Council of State Governments.</subfield>
+    <subfield code="b">State Government Accounting Project</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inventory of current state government accounting and reporting practices, c1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (State Government Accounting Project; Council of State Governments)</subfield>
+  </datafield>
+</record>
