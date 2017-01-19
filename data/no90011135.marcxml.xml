@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00915nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 90011135 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900601172635.3</controlfield>
+  <controlfield tag="008">900531n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90011135 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Caja Nacional de Riego (Ecuador)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Ecuador.</subfield>
+    <subfield code="b">Caja Nacional de Riego</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Ecuador.</subfield>
+    <subfield code="b">Ministerio de Obras Públicas.</subfield>
+    <subfield code="b">Caja Nacional de Riego</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Instituto Ecuatoriano de Recursos Hidráulicos</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Riego, abr. 1963:</subfield>
+    <subfield code="b">t.p. (Caja Nacional de Riego) p. 10 (La Caja Nacional de Riego, creada 8/9/44 por el Gobierno Nacional, adscrita al Ministerio de OO.PP.); dic. 1967: p. 10 (al Instituto Ecuatoriano de Recursos Hidráulicos, creado ll/l0/66, se le asignó el personal y pertenencias de la ex Caja Nacional de Riego y la ex Dirección General de Recursos Hidráulicos del Ministerio de Agricultura y Ganadería [no pubs. in LC data base])</subfield>
+  </datafield>
+</record>
