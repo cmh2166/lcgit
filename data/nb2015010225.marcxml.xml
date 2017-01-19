@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2015010225</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150603050906.0</controlfield>
+  <controlfield tag="008">150602n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2015010225</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009349635</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1831</subfield>
+    <subfield code="g">1883</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ilovaĭsʹkyĭ, Ivan Hryhorovych,</subfield>
+    <subfield code="d">1831-1883</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Ukraine</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Businessmen</subfield>
+    <subfield code="a">Philanthropists</subfield>
+    <subfield code="a">Industrialists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Z istoriï industrialʹnoho osvoi︠e︡nni︠a︡ Donbasu (XIX - pochatok XX st.), 2014:</subfield>
+    <subfield code="b">p.18-19 (Ivan Hryhorovych Ilovaĭsʹkyĭ (1831-1883) from Donetsk and Luhansk Region of Ukraine, comes from the Cossack noble family, businessman, philanthropist, industrialist, founder of mechanical plant and mines)</subfield>
+  </datafield>
+</record>
