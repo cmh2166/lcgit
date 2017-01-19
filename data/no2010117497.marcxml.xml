@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00697nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010117497</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100723075312.0</controlfield>
+  <controlfield tag="008">100721n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010117497</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08566328</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DSI-AAA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DSI-AAA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burroughs, Clyde H.</subfield>
+    <subfield code="q">(Clyde Huntley),</subfield>
+    <subfield code="d">1882-1973</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clyde H. Burroughs interview, 1956 Nov.:</subfield>
+    <subfield code="b">(Clyde H. Burroughs, b. 1882- ; art administrator, director, historian; Detroit, Mich.; d. 1973)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, viewed July 21, 2010</subfield>
+    <subfield code="b">(hdgs.: Burroughs, Clyde H.; Burroughs, Clyde Huntley, 1882-; Burroughs, Clyde Huntley, 1882-1973; Burroughs, Clyde Huntley; Burroughs, Clyde H., b. 1882; usage: Clyde H. Burroughs)</subfield>
+  </datafield>
+</record>
