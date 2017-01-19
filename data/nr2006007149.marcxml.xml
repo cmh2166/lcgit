@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00381nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2006007149</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060318033107.0</controlfield>
+  <controlfield tag="008">060317n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006007149</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OClMA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OClMA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Jewish War Veterans National Memorial Museum</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Candid moments in the military, c1992:</subfield>
+    <subfield code="b">t.p. (Jewish War Veterans National Memorial Museum)</subfield>
+  </datafield>
+</record>
