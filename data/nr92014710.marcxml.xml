@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00582nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 92014710 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920422100646.4</controlfield>
+  <controlfield tag="008">920415n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92014710 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="c">DLC-R</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Jewish Theological Seminary of America.</subfield>
+    <subfield code="b">Library.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">Mic. 3849</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">K.y. Nyu Yorḳ, Bet ha-midrash le-rabanim.</subfield>
+    <subfield code="n">Mic. 3849</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Ketav yad Nyu Yorḳ, Bet ha-midrash le-rabanim.</subfield>
+    <subfield code="n">Mic. 3849</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kroniḳah ʻIvrit mi-Prag me-reshit ha-meʼah ha-17, 1984:</subfield>
+    <subfield code="b">t.p. (K.y. Nyu Yorḳ, Bet ha-midrash le-rabanim, Mic. 3849)</subfield>
+  </datafield>
+</record>
