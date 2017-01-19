@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00670cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2001044957</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010910104050.0</controlfield>
+  <controlfield tag="008">010907n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001044957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Universidad Nacional de Mar del Plata.</subfield>
+    <subfield code="b">Grupo "Semiótica del Discurso"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universidad Nacional de Mar del Plata.</subfield>
+    <subfield code="b">Universidad Nacional de Mar del Plata.</subfield>
+    <subfield code="b">Departamento de Letras.</subfield>
+    <subfield code="b">Grupo "Semiótica del Discurso"</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Qué raro que me llame Federico!, 1998:</subfield>
+    <subfield code="b">t.p. (Grupo "Semiótica del Discurso," Dpt. de Letras, Centro de Letras Hispanoamericanas, Facultad de Humanidades, Universidad Nacional de Mar del Plata)</subfield>
+  </datafield>
+</record>
