@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00371nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2012060098</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120502075148.0</controlfield>
+  <controlfield tag="008">120430n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012060098</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09185311</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ItFiC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rovati, Paolo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OĚikos, 2012:</subfield>
+    <subfield code="b">t.p. (Paolo Rovati) p. 4 of cover (teaches politic geography)</subfield>
+  </datafield>
+</record>
