@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 89011006 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891121140125.9</controlfield>
+  <controlfield tag="008">890807n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89011006 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DGPO</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wilson, Val</subfield>
+    <subfield code="q">(Val F.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baby talk, 1986:</subfield>
+    <subfield code="b">t.p. (Val Wilson; Project Enlightenment, Wake County Public Schools, Raleigh, N.C.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to the Project, 8/7/89</subfield>
+    <subfield code="b">(Val Wilson's full name is Val F. Wilson)</subfield>
+  </datafield>
+</record>
