@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00475nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2005085809</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050916071016.0</controlfield>
+  <controlfield tag="008">050901n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005085809</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06733269</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NbOU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NbOU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reuter, Mark K.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Reuter, Mark Kevin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The confessions of the Madison Henderson Gang, 2005 :</subfield>
+    <subfield code="b">t.p. (Mark K. Reuter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">August commencement, 2005 :</subfield>
+    <subfield code="b">p. 8 (Mark Kevin Reuter)</subfield>
+  </datafield>
+</record>
