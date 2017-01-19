@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00435nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96047042 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960918051444.0</controlfield>
+  <controlfield tag="008">960917n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96047042 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04162930 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Capra, Ramiro M.,</subfield>
+    <subfield code="d">1903-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Basilica di Santa Maria Nova, 1949?:</subfield>
+    <subfield code="b">t.p. (P.D. Ramiro M. Capra)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 3, 1996</subfield>
+    <subfield code="b">(hdg.: Capra, Ramiro M., 1903- )</subfield>
+  </datafield>
+</record>
