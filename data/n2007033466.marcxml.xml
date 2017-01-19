@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00790cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2007033466</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141112073759.0</controlfield>
+  <controlfield tag="008">070511n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007033466</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07408410</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MoSU</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Würzburger Augustinus-Studientag</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Augustinus-Studientag, Würzburger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Würzburger Augustinus-Studientag (2nd : 2004 : Würzburg, Germany). Würde und Rolle der Frau in der Spätantike, 2007:</subfield>
+    <subfield code="b">title page (... des II. Würzburger Augustinus-Studientages am 3. Juli 2004)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Würzburger Augustinus-Studientag (5th : 2007 : Würzburg, Germany). Augustinus -- Recht und Gewalt, 2010:</subfield>
+    <subfield code="b">title page (... des V. Würzburger Augustinus-Studientages am 15./16. Juni 2007)</subfield>
+  </datafield>
+</record>
