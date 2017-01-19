@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00575nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  87910356 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880314131402.9</controlfield>
+  <controlfield tag="008">871218n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87910356 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Michel, Joseph,</subfield>
+    <subfield code="d">1933-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IFIP-IMIA Working Conference on Progress in Biological Function Analysis by Computer Technologies (1987 : Berlin, Germany). Progress in computer-assisted function analysis, 1988:</subfield>
+    <subfield code="b">CIP t.p. (Joseph Michel; Institute of Medical Informatics and Biomathematics, Humboldt Univ., Berlin, GDR) data sheet (b. 11/18/33)</subfield>
+  </datafield>
+</record>
