@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00681cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2009180350</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130516075045.0</controlfield>
+  <controlfield tag="008">090203n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009180350</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08004724</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cesur, Resul</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Storrs, Conn.</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Connecticut</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">High birth weight and cognitive outcomes, c2008:</subfield>
+    <subfield code="b">t.p. (Resul Cesur) p. following t.p. (Dept. of Economics, Georgia State Univ., Atlanta, Georgia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Air pollution and infant mortality, 2013:</subfield>
+    <subfield code="b">t.p. (Resul Cesur) p. following t.p. (Finance Department, University of Connecticut, Storrs, CT)</subfield>
+  </datafield>
+</record>
