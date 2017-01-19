@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01439cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  00020667 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111223074627.0</controlfield>
+  <controlfield tag="008">000428nc acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00020667 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E1005229</subfield>
+    <subfield code="e">E1005229</subfield>
+    <subfield code="f">N0235425</subfield>
+    <subfield code="g">N0235425</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05207722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-cc-yu</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Zhenyuan Yizu Hanizu Lahuzu Zizhixian (China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chen-yüan I tsu Ha-ni tsu La-hu tsu tzu chih hsien (China)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Yunnan Sheng Zhenyuan Yizu Hanizu Lahuzu Zizhixian (China)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Zhenyuan Xian (Yunnan Sheng, China)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chen-yüan I tsu Ha-ni tsu La-hu tsu tzu chih hsien chih, 1995:</subfield>
+    <subfield code="b">t.p. (Yün-nan sheng Chen-yüan I tsu Ha-ni tsu La-hu tsu tzu chih hsien)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo gong chan dang Zhenyuan Yizu Hanizu Lahuzu Zizhixian zu zhi shi zi liao, Yunnan Sheng Zhenyuan Yizu Hanizu Lahuzu Zizhixian zheng quan jun shi tong zhan qun tuan xi tong zu zhi shi zi liao, 1928.2-1987.10, 1993:</subfield>
+    <subfield code="b">t.p. (Yunnan Sheng Zhenyuan Yizu Hanizu Lahuzu Zizhixian)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, April 27, 2000 (Zhenyuan Xian--ADM3, 23°51ʹN 100°59ʹE, Yunnan Sheng; variant: Chen-yüan Hsien; other Zhenyuan Xian listed in Gansu Sheng and Guizhou Sheng)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(adm3; 23°54ʹ25ʺN 100°52ʹ29ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">China</subfield>
+    <subfield code="z">Zhenyuan Yizu Hanizu Lahuzu Zizhixian</subfield>
+  </datafield>
+</record>
