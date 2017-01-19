@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00548cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011083420</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110609075228.0</controlfield>
+  <controlfield tag="008">110527n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011083420</subfield>
+    <subfield code="z">no2006116915</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08870931</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ODaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ODaU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Freed, Shaun L.</subfield>
+    <subfield code="q">(Shaun Lael),</subfield>
+    <subfield code="d">1979-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">High resolution ultrasonic rayleigh wave interrogation of a thermally aged polymeric surface, 2010:</subfield>
+    <subfield code="b">t.p. (Shaun L. Freed)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U. of Dayton alumni records, Jan. 14, 2011:</subfield>
+    <subfield code="b">(Freed, Shaun Lael ; b. 1979)</subfield>
+  </datafield>
+</record>
