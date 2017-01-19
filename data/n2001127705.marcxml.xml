@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00523cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2001127705</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090812075103.0</controlfield>
+  <controlfield tag="008">010427n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001127705</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)885648</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05476022</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Strong, T. M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The homoeopathic treatment of constipation, 1995:</subfield>
+    <subfield code="b">t.p. (T.M. Strong, M.D.) p. [4] (T.M.S., Allegheny, Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, Apr. 2, 2001</subfield>
+    <subfield code="b">(hdg.: Strong, T. M.; usage: T.M. Strong)</subfield>
+  </datafield>
+</record>
