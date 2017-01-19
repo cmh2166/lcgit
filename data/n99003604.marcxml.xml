@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00841cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  92066024 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100123075024.0</controlfield>
+  <controlfield tag="008">920625n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92066024 </subfield>
+    <subfield code="z">n  99003604 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03194528</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Bulgaria.</subfield>
+    <subfield code="b">Komitet po turizŭm</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bulgaria.</subfield>
+    <subfield code="b">Komitet za turizŭm</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Komitet po turizŭm pri Ministerski sŭvet</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bulgaria.</subfield>
+    <subfield code="b">Ministerski sŭvet.</subfield>
+    <subfield code="b">Komitet po turizŭm</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bulgaria.</subfield>
+    <subfield code="b">Comité du tourisme</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sbornik normativni dokumenti po kategorizat︠s︡ii︠a︡ta v sredstvata za podslon ... 1990:</subfield>
+    <subfield code="b">t.p. (Komitet po turizŭm pri Ministerski sŭvet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sofia, Bulgarie, 1970?:</subfield>
+    <subfield code="b">p. 4 of cover (Comité du tourisme ... de la République populaire e Bulgarie)</subfield>
+  </datafield>
+</record>
