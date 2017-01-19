@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011097902</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110628082109.0</controlfield>
+  <controlfield tag="008">110623n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011097902</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08896344</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KPT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">KPT</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kansas State Dairy Commissioner</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Kansas.</subfield>
+    <subfield code="b">State Dairy Commissioner</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual report of the Kansas State Dairy Commissioner, 1907/08:</subfield>
+    <subfield code="b">t.p. (Kansas State Dairy Commissioner)</subfield>
+  </datafield>
+</record>
