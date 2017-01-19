@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00993cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  80065908 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081001075211.0</controlfield>
+  <controlfield tag="008">800703n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80065908 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00447484</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Sangyō Seisakushi Kenkyūjo (Minato-ku, Tokyo, Japan)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Sangyō Seisakushi Kenkyūjo.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Tsūshō Sangyō Chōsakai.</subfield>
+    <subfield code="b">Toranomon Bunshitsu.</subfield>
+    <subfield code="b">Sangyō Seisakushi Kenkyūjo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">產業政策史研究所 (Minato-ku, Tokyo, Japan)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">産業政策史研究所</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">産業政策史研究所 (Minato-ku, Tokyo, Japan)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Latin and non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Substitute</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sangyō seisaku shi ... 1978 (a.e.)</subfield>
+    <subfield code="b">cover (Tsūshō Sangyō Chōsakai Toranomon Bunshitsu/Sangyō Seisakushi Kenkyūjo) colophon (in Minato-ku, Tokyo)</subfield>
+  </datafield>
+</record>
