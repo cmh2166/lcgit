@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00938cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 92022713 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120811084556.0</controlfield>
+  <controlfield tag="008">920623n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92022713 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03194167</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1765</subfield>
+    <subfield code="g">1844</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ledru des Essarts, François-Roch,</subfield>
+    <subfield code="c">comte,</subfield>
+    <subfield code="d">1765-1844</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Des Essarts, François-Roch Ledru,</subfield>
+    <subfield code="c">comte,</subfield>
+    <subfield code="d">1765-1844</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Essarts, François-Roch Ledru des,</subfield>
+    <subfield code="c">comte,</subfield>
+    <subfield code="d">1765-1844</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ledru des Essarts, 1765-1844 ... 1988:</subfield>
+    <subfield code="b">p. 1 (Ledru des Essarts (François-Roch) comte, général français; b. 1765 in Chantenay (Maine), d. 1844 in Champrosay; named peer of France in 1836 by Louis-Philippe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nouv. bio. gén., 1854</subfield>
+    <subfield code="b">(Ledru des Essarts (François-Roch, comte); French general)</subfield>
+  </datafield>
+</record>
