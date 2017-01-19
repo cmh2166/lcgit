@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00659cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81000991 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911018124427.3</controlfield>
+  <controlfield tag="008">810107n| acannaab|          |a aaa ||| a</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81000991 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kumar, D. P.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Dev Prasad Kumar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kumar, Dev Prasad</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nepal, year of decision, c1980:</subfield>
+    <subfield code="b">t.p. (D. P. Kumar) jkt. (Special correspondent in "The Statesman"; Nieman Fellow at the Harvard U., Mass. 1965-66)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Challenge to India's unity, c1990:</subfield>
+    <subfield code="b">t.p. (D.P. Kumar) t.p. verso, copr. (Dev Prasad Kumar, b. 1935)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Ind. WW, 1978-79;</subfield>
+    <subfield code="a">Times of Ind. dir. &amp; yrbk, 1978</subfield>
+  </datafield>
+</record>
