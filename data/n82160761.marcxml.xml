@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00728cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  82160761 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920910112153.5</controlfield>
+  <controlfield tag="008">821207n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82160761 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Bech, Per</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Bech, P.</subfield>
+    <subfield code="q">(Per)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Rating scales for affective disorders, 1981:</subfield>
+    <subfield code="b">t.p. (Per Bech)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-89664: His Mini-compendium of rating ... 1986</subfield>
+    <subfield code="b">(hdg. on NAlU rept.: Bech, Per; usage: P. Bech)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Rating scales for psychopathology, health status, and quality of life, c1993:</subfield>
+    <subfield code="b">CIP t.p. (P. Bech) t.p. verso, etc. (Per Bech, M.D., Ph.D.; prof. of psychiatry, Frederiksborg General Hosp., Dept. of Psychiatry, HillerĂ¸d, Denmark; b. 01-12-42)</subfield>
+  </datafield>
+</record>
