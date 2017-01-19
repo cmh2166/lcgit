@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00978cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2014039207</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150106071017.0</controlfield>
+  <controlfield tag="008">140324n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014039207</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09714650</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1947</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">In Aristogitonem.</subfield>
+    <subfield code="n">I.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Mathieu)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Mathieu</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">Contre Aristogiton.</subfield>
+    <subfield code="n">I</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">In Aristogitonem.</subfield>
+    <subfield code="n">I.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Collection des universiteﾌ《 de France)</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">r</subfield>
+    <subfield code="i">In series:</subfield>
+    <subfield code="a">Collection des universiteﾌ《 de France</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translation of:</subfield>
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">In Aristogitonem.</subfield>
+    <subfield code="n">I.</subfield>
+    <subfield code="l">Greek</subfield>
+    <subfield code="s">(Mathieu)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translator:</subfield>
+    <subfield code="a">Mathieu, Georges,</subfield>
+    <subfield code="d">1890-1948</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Demosthenes. Plaidoyers politiques. Tome IV, Sur la couronne ; Contre Aristogiton I et II, 1947:</subfield>
+    <subfield code="b">title page (texte eﾌ》abli et traduit par Georges Mathieu; Collection des universiteﾌ《 de France)</subfield>
+  </datafield>
+</record>
