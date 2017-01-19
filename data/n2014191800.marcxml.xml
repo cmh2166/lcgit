@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2014191800</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141217044106.0</controlfield>
+  <controlfield tag="008">141217n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014191800</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1639794</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kinnis, J.</subfield>
+    <subfield code="q">(James)</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">James</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kinnis, James</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A letter to the inhabitants of Ceylon on the advantages of vaccination, 1837:</subfield>
+    <subfield code="b">t.p. (J. Kinnis, M.D.) cover (James Kinnis)</subfield>
+  </datafield>
+</record>
