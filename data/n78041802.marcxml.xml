@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01481cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  78041802 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970326172503.2</controlfield>
+  <controlfield tag="008">780710n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78041802 </subfield>
+    <subfield code="z">n  82016232 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Musica Antiqua (Musical group : 1962- )</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Musica Antiqua (Musical group)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Antiqua Musica (Musical group)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Do not confuse with Musica Antiqua Wien, Musica Antiqua KoĚln, Musica Antiqua (Musical group : 1978- ), or Musica Antiqua (Musical group : 1981- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Medieval and early Renaissance music [SR] p1977 (a.e.)</subfield>
+    <subfield code="b">label (played by Musica Antiqua) container (formed 1962 by Michael Uridge and others)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mediaeval and Renaissance sounds [SR] p1980:</subfield>
+    <subfield code="b">v. 4 (Musica Antiqua ; Michael Uridge, director; formed 1962; based in Worthing, England; instrumentalists: Michael Uridge, Patrick Taylor, Margaret Taylor, Shirley Vaughan, Kevin Coates, David Hills, Neil Turner, Muriel Vickers; singers: Sheila Hills, Anne Metherell, Kathleen Moody, Deborah Moody, Dorothy Uridge, Muriel Vickers, Pamela Vaughan, Patrick Moody, Neil Turner, Peter Vaughan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Medieval and Renaissance songs and dances [SR] p1980:</subfield>
+    <subfield code="b">label (The Antiqua Musica; [no names given on labels or container for conductor or performers]; Mediaeval and renaissance sounds, v. 4 on Desto DC 7192, which has almost exactly the same contents, is performed by Musica Antiqua conducted by Michael Uridge)</subfield>
+  </datafield>
+</record>
