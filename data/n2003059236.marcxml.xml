@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00784cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2003059236</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080905075241.0</controlfield>
+  <controlfield tag="008">030702n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003059236</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06092265</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Zhong gong Wuning Xian wei.</subfield>
+    <subfield code="b">Dang shi zi liao zheng ji ban gong shi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Zhong gong Wuning Xian wei dang shi zi liao zheng ji ban gong shi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">中共武宁县委.</subfield>
+    <subfield code="b">党史资料征集办公室</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo gong chan dang Jiangxi Sheng Wuning Xian zu zhi shi zi liao, 1925-1987, 1989:</subfield>
+    <subfield code="b">t.p. (Zhong gong Wuning Xian wei dang shi zi liao zheng ji ban gong shi)</subfield>
+  </datafield>
+</record>
