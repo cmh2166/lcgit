@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00482nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 00016760 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000310070043.0</controlfield>
+  <controlfield tag="008">000309n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00016760 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05171440</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxDa</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxDa</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ray, Joan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Sams teach yourself UNIX system administration in 21 days, 1999: t.p. (Joan Ray) p. xvi (Joan Ray is a UNIX system administrator; College of Biological Sciences at the Ohio State University)</subfield>
+  </datafield>
+</record>
