@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00603nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98105672 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980901052211.0</controlfield>
+  <controlfield tag="008">980831n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98105672 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04805279 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMU</subfield>
+    <subfield code="c">FMU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lewis, Gerald</subfield>
+    <subfield code="q">(Gerald A.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lewis, Jerry</subfield>
+    <subfield code="q">(Gerald A.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Lewis, Gerald</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Florida securities law and the consumer, 1977:</subfield>
+    <subfield code="b">t.p. (Gerald (Jerry) Lewis, Comptroller of Florida) p. 2 (Gerald A. Lewis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 8/28/98</subfield>
+    <subfield code="b">(hdg.: Lewis, Gerald; usage: Gerald Lewis; Gerald A. Lewis; Jerry Lewis)</subfield>
+  </datafield>
+</record>
