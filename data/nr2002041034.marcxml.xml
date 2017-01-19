@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00459nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2002041034</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021107033130.0</controlfield>
+  <controlfield tag="008">021106n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002041034</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mentzer, Johann,</subfield>
+    <subfield code="d">1658-1734</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hensel, F.M. Arie O dass ich tausend Zungen haĚtte, c2002:</subfield>
+    <subfield code="b">.p. (Johann Mentzer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dichter und Komponisten WWW site, Nov. 6, 2002</subfield>
+    <subfield code="b">(Mentzer. Johann Mentzer, 1658-1734)</subfield>
+  </datafield>
+</record>
