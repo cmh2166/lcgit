@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012120257</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120910113432.0</controlfield>
+  <controlfield tag="008">120907n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012120257</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09296222</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gladkov, Fedor,</subfield>
+    <subfield code="d">1883-1958.</subfield>
+    <subfield code="t">T︠S︡ement</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Гладков, Федор,</subfield>
+    <subfield code="d">1883-1958.</subfield>
+    <subfield code="t">Цемент</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Na borʹbu s khuliganstvom v literature, 1926.</subfield>
+  </datafield>
+</record>
