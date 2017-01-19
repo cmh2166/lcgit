@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01158nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 00034354 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001114034013.0</controlfield>
+  <controlfield tag="008">001031n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00034354 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Worcester &amp; Norwich Rail-Road Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Worcester and Norwich Rail-Road Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Worcester and Norwich Railroad Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">bnnn</subfield>
+    <subfield code="a">Norwich and Worcester Railroad Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Norwich and Boston Rail Road, 1835:</subfield>
+    <subfield code="b">p. 14 (Worcester and Norwich Rail Road Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Worcester &amp; Norwich Rail-Road Company; usage: Worcester &amp; Norwich Rail-Road Company; variant: Worcester and Norwich Rail Road Company; Worcester and Norwich Rail-Road Company; Worcester and Norwich Railroad Company; note: incorporated in Massachusetts, March 15, 1833 as the Worcester &amp; Norwich Rail-Road Company; in March 1836 the legislatures of Massachusetts and Connecticut passed concurrent legislation authorizing its merger with the Boston, Norwich, and New London Railroad Company to form the Norwich and Worcester Railroad Company; the re-organization was completed in 1837)</subfield>
+  </datafield>
+</record>
