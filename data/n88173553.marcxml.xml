@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00774cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  88173553 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080803075416.0</controlfield>
+  <controlfield tag="008">890522n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88173553 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02529501</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">Sōrichō.</subfield>
+    <subfield code="b">Kansaka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">Sōrichō.</subfield>
+    <subfield code="b">Kanbō.</subfield>
+    <subfield code="b">Kansaka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">総理庁.</subfield>
+    <subfield code="b">官房.</subfield>
+    <subfield code="b">監查課</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">総理庁.</subfield>
+    <subfield code="b">監查課</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kōshoku tsuihō ni kansuru oboegaki taitōsha meibo, 1988:</subfield>
+    <subfield code="b">t.p. (Sōrichō Kanbō Kansaka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Naikaku seido 70-nenshi, suppl.</subfield>
+    <subfield code="b">(Sōrichō/Kanbō/Kansaka)</subfield>
+  </datafield>
+</record>
