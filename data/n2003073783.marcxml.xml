@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00921cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2003073783</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150612074038.0</controlfield>
+  <controlfield tag="008">030603n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003073783</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06066425</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3619.I365</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sie, James</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Summit (N.J.)</subfield>
+    <subfield code="e">Los Angeles (Calif.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Northwestern University (Evanston, Ill.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Snarkout Boys and the avocado of death, p1996:</subfield>
+    <subfield code="b">label (James Sie)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Still life Las Vegas, 2015:</subfield>
+    <subfield code="b">ECIP data view (born and raised in Summit, NJ., the son of immigrant parents, a Chinese father and an Italian mother. After attending Northwestern University, he lived in Chicago for many years, working as an actor and an award-winning playwright of literary adaptations. Currently, he lives in Los Angeles where he works as a voiceover artist in animation)</subfield>
+  </datafield>
+</record>
