@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00610cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  93075162 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319170535.0</controlfield>
+  <controlfield tag="008">930805n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93075162 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1806</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Regensdorf, Edward,</subfield>
+    <subfield code="d">1806-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Regensdorf, Edward,</subfield>
+    <subfield code="d">b. 1806</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Regensdorf, Eolo von,</subfield>
+    <subfield code="d">1806-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marsh, W.H. The Regensdorf family and related families, 1992:</subfield>
+    <subfield code="b">prelim. p. (immigrant, Edward Regensdorf) p. 2, etc. (nee Eolo Von Regensdorf in 1806, changed name in America to Edward Regensdorf; death d. not known)</subfield>
+  </datafield>
+</record>
