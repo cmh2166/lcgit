@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00656cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  78058269 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120803075104.0</controlfield>
+  <controlfield tag="008">780821n| aaannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78058269 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00193989</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1748</subfield>
+    <subfield code="g">1817</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Patje, Christian L. A.,</subfield>
+    <subfield code="d">1748-1817</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Wie war Hannover, 1977:</subfield>
+    <subfield code="b">t.p. (C. L. A. Patje)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GFR 77-A23</subfield>
+    <subfield code="b">(Christian L. A. Patje)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Allg. Deut. Biogr.</subfield>
+    <subfield code="b">(Christian Ludwig Albrecht Patje, b. 8/2/1748, d. 2/17/1817)</subfield>
+  </datafield>
+</record>
