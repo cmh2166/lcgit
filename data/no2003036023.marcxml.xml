@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01234cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2003036023</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322093126.0</controlfield>
+  <controlfield tag="008">030410n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003036023</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06021832</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OOC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Verdelot, Philippe,</subfield>
+    <subfield code="d">-approximately 1565.</subfield>
+    <subfield code="t">Madrigals,</subfield>
+    <subfield code="m">voices (4),</subfield>
+    <subfield code="n">book 1.</subfield>
+    <subfield code="p">Sì lieta e grata morte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Verdelot, Philippe,</subfield>
+    <subfield code="d">-approximately 1565.</subfield>
+    <subfield code="t">Se lieta e grata morte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Verdelot, Philippe,</subfield>
+    <subfield code="d">-approximately 1565.</subfield>
+    <subfield code="t">Sì lieta e grata morte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Verdelot, Philippe,</subfield>
+    <subfield code="d">-approximately 1565.</subfield>
+    <subfield code="t">Si liete e grata morte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Verdelot, Philippe,</subfield>
+    <subfield code="d">d. ca. 1565.</subfield>
+    <subfield code="t">Madrigals,</subfield>
+    <subfield code="m">voices (4),</subfield>
+    <subfield code="n">book 1.</subfield>
+    <subfield code="p">Sì lieta e grata morte</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Doulce mémoire (Musical group). Le siècle de Titien [SR] p2001:</subfield>
+    <subfield code="b">container (Si liete e grata morte / Philippe Verdelot) booklet (from Il primo libro di madrigali, Venezia, 1533)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove, 2nd ed. WWW site, Apr. 10, 2003</subfield>
+    <subfield code="b">(Sì lieta e grata morte, 4vv, in Il primo libro de madrigali, 1533)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Verdelot, P. Madrigals for four and five voices, c1989:</subfield>
+    <subfield code="b">v. 2, contents (Se lieta e grata morte) p. xiv (4 voices; from Il primo libro de madrigali, 1537)</subfield>
+  </datafield>
+</record>
