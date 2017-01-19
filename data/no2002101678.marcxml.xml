@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00682nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002101678</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021107053522.0</controlfield>
+  <controlfield tag="008">021106n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002101678</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05905729</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TnLvILS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TnLvILS</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Winter Guard International</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">WGI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Winter Guard International home page, viewed Nov. 6, 2002</subfield>
+    <subfield code="b">(Winter Guard International; headquartered in Dayton, Ohio as of Nov. 4, 2002; WGI was founded in l977 to draw together the growing winter color guard activity, standardize rules, provide leadership and guidance)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Nov. 6, 2002</subfield>
+    <subfield code="b">(hdg.: Winter Guard International)</subfield>
+  </datafield>
+</record>
