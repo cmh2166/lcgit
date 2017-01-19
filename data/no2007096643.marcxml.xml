@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007096643</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070824075200.0</controlfield>
+  <controlfield tag="008">070822n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007096643</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07501165</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">GU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Georgia Research Foundation, Inc.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">UGARF, Inc.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vogel, R.C. Love letters [SR] 2006:</subfield>
+    <subfield code="b">insert (funded in part by a grant from the University of Georgia Research Foundation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Georgia (Athens, Ga.) WWW site, viewed August 22, 2007</subfield>
+    <subfield code="b">(University of Georgia Research Foundation, Inc.; incorporated under the laws of the State of Georgia as a nonprofit corporation on November 17, 1978; UGARF has also been organized to assist the State of Georgia in economic development)</subfield>
+  </datafield>
+</record>
