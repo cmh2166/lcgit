@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00935cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2001106126</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040426095117.0</controlfield>
+  <controlfield tag="008">010507n| acaacaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001106126</subfield>
+    <subfield code="z">n  98092570 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05483498</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MH-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Biblioteka Posebna izdanja (Vijeće kongresa bošnjačkih intelektualaca)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Posebna izdanja (Vijeće kongresa bošnjačkih intelektualaca)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Vijeće kongresa bošnjačkih intelektualaca.</subfield>
+    <subfield code="t">Biblioteka Posebna izdanja</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">br. 60</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Sarajevo</subfield>
+    <subfield code="b">Vijeće kongresa bošnjačkih intelektualaca</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Serbezovski, Muharem. Cigani i ljudska prava, 2000:</subfield>
+    <subfield code="b">series t.p. (Biblioteka Posebna izdanja)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bosna i Bošnjaci poslije Dejtona, 2000:</subfield>
+    <subfield code="b">series t.p. (Biblioteka Posebna izdanja [unnumbered])</subfield>
+  </datafield>
+</record>
