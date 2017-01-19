@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00753cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  89665578 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210092132.0</controlfield>
+  <controlfield tag="008">891117n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89665578 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Dynamit Nobel AG</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Dynamit-AG</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Interessengemeinschaft Farbenindustrie Aktiengesellschaft</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klewitz, B. Die Arbeitssklaven der Dynamit Nobel, c1986:</subfield>
+    <subfield code="b">t.p. (Dynamit Nobel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dt. Firmen-Alphabet, 1989</subfield>
+    <subfield code="b">(Dynamit Nobel AG; 21 locations)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brockh. Enzyk., 1969:</subfield>
+    <subfield code="b">v. 8, p. 815 (founded 1952 as a result of the breakup of IG Farben (Interessengemeinschaft Farbenindustrie Aktiengesellschaft)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die Fabrik Kaufbeuren der Dynamit-AG, c1995.</subfield>
+  </datafield>
+</record>
