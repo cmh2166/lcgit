@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98019217 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980227162435.1</controlfield>
+  <controlfield tag="008">980227n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98019217 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">MBI Publishing Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Motorbooks International</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">How to tune &amp; modify ... 1998:</subfield>
+    <subfield code="b">CIP t.p. (MBI Publishing Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 02-27-98</subfield>
+    <subfield code="b">(Motorbooks International changed name to MBI Publishing Company in Jan. 1998)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Pontiac shop manual, 1966-76, 1986:</subfield>
+    <subfield code="a">CIP t.p. (Motorbooks International, publishers and wholesalers, Osceola, Wis.)</subfield>
+  </datafield>
+</record>
