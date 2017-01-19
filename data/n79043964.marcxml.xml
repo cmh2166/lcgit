@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01022cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  79043964 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141215081417.0</controlfield>
+  <controlfield tag="008">790606n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79043964 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00277379</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">IAhCCS</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1869</subfield>
+    <subfield code="g">1953</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Giesecke, Frederick E.</subfield>
+    <subfield code="q">(Frederick Ernest),</subfield>
+    <subfield code="d">1869-1953</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Frederick Ernest</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Giesecke, F. E.</subfield>
+    <subfield code="q">(Frederick Ernest),</subfield>
+    <subfield code="d">1869-1953</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Giesecke, Frederick Ernest,</subfield>
+    <subfield code="d">1869-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Engineering graphics, c1993:</subfield>
+    <subfield code="b">t.p. (Frederick E. Giesecke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inside track (Texas A &amp; M University. College of Architecture), May 18, 2006:</subfield>
+    <subfield code="b">viewed online (Dr. Frederick E. Giesecke, d. June 27, 1953)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 21, 2006</subfield>
+    <subfield code="b">(hdg.: Giesecke, Frederick Ernest, 1869- ; usages: Frederick E. Giesecke, F. E. Giesecke, Frederick Ernest Giesecke)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 15, 2014</subfield>
+    <subfield code="b">(late professor emeritus of drawing, Texas A&amp;M Univ.)</subfield>
+  </datafield>
+</record>
