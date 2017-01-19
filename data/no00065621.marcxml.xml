@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00730nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 00065621 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000815064058.0</controlfield>
+  <controlfield tag="008">000814n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00065621 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05288946</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSpS-AV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSpS-AV</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rudnick, Isadore,</subfield>
+    <subfield code="d">1917-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rudnick, I.</subfield>
+    <subfield code="q">(Isadore),</subfield>
+    <subfield code="d">1917-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rudnick, Isidore,</subfield>
+    <subfield code="d">1917-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The unusual properties of liquid helium [VR] c1977:</subfield>
+    <subfield code="b">end credits (Prof. Isadore Rudnick, UCLA Physics Dept.) copyright statement (I. Rudnick)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Mar. 3, 2000</subfield>
+    <subfield code="b">(hdgs.: Rudnick, Isadore, 1917-; Rudnick, Isadore; Rudnick, Isidore ; usage: Isadore Rudnick; Isidore Rudnick)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Lexis-Nexis, Mar. 3, 2000.</subfield>
+  </datafield>
+</record>
