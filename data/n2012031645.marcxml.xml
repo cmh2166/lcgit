@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00809cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2012031645</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120821075004.0</controlfield>
+  <controlfield tag="008">120510n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012031645</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">"Fu Lei yu fan yi" guo ji xue shu yan tao hui</subfield>
+    <subfield code="d">(2008 :</subfield>
+    <subfield code="c">Nanjing da xue, Nanjing, China)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">"傅雷与翻译" 国际学术研讨会</subfield>
+    <subfield code="d">(2008 :</subfield>
+    <subfield code="c">Nanjing da xue, Nanjing, China)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fu Lei de jing shen shi jie ji qi shi dai yi yi, 2011:</subfield>
+    <subfield code="b">t.p. ("傅雷与翻译" 国际学术研讨会 = "Fu Lei yu fan yi" guo ji xue shu yan tao hui) p. 502 (conf. held May 15-18, 2008 at : Nanjing da xue, China)</subfield>
+  </datafield>
+</record>
