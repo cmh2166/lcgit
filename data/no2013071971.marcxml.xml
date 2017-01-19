@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00963nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2013071971</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130706073506.0</controlfield>
+  <controlfield tag="008">130705n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013071971</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09512609</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2002</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Antero Resources (Firm)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Firm</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">U.S.</subfield>
+    <subfield code="e">Denver, Colo.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Power resources--United States</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Characterization and data-gap analysis of surface-water quality in the Piceance study area, western Colorado, 1959-2009, 2013:</subfield>
+    <subfield code="b">title page (Antero Resources)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Antero Resources website, July 5, 2013:</subfield>
+    <subfield code="b">menu selection: company profile, company facts (formed in 2002, headquartered in Denver, Colorado)</subfield>
+  </datafield>
+  <datafield tag="678" ind1="1" ind2=" ">
+    <subfield code="a">Antero Resources is an independent exploration and production company engaged in the acquisition, development, and production of unconventional resources in the United States.</subfield>
+  </datafield>
+</record>
