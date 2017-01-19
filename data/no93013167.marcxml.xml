@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00565cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 93013167 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090923075238.0</controlfield>
+  <controlfield tag="008">930508n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93013167 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03368700</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSW-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSW-Mu</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Twomey, Michael,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Twomey, Mike,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SCI journal of music scores. Vol. 18, c1992:</subfield>
+    <subfield code="b">p. 83, caption (Michael Twomey) p. 81 (b. 1963, Butte, Mont.; composer, conductor, violist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Twomey, M. String quartet no. 4, 1990:</subfield>
+    <subfield code="b">t.p. (Mike Twomey)</subfield>
+  </datafield>
+</record>
