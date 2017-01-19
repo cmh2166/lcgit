@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00380nz  a2200133n  4500</leader>
+  <controlfield tag="001">nb2010001664</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100123075334.0</controlfield>
+  <controlfield tag="008">100121n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010001664</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007685742</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stokes, Noel Alfred Deal,</subfield>
+    <subfield code="d">1918-1944</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">No glory without effort, 2004:</subfield>
+    <subfield code="b">p. 42 (Noel Alfred Deal Stokes, 1918-1944)</subfield>
+  </datafield>
+</record>
