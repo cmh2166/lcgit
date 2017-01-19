@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00550cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009049612</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111105075158.0</controlfield>
+  <controlfield tag="008">090331n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009049612</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08062896</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoKU-MAV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoKU-MAV</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hussey, Jimmy</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Hussey, James</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rose, B. Since Henry Ford apologized to me [SR] 1927:</subfield>
+    <subfield code="b">label (Jimmy Hussey, singing comedian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Broadway database, Mar. 31, 2009</subfield>
+    <subfield code="b">(Jimmy Hussey; aka, James Hussey; performer, writer, lyricist)</subfield>
+  </datafield>
+</record>
