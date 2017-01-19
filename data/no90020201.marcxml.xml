@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00817cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 90020201 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150227073829.0</controlfield>
+  <controlfield tag="008">900924n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90020201 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02842565</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1957</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ghana Chamber of Mines</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Gold Coast Chamber of Mines</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seminar on the Mineral Sector in Ghana (1987 : Accra, Ghana). Proceedings of a Seminar ... 1988?:</subfield>
+    <subfield code="b">p. iv (Ghana Chamber of Mines)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Annual report, 2005:</subfield>
+    <subfield code="b">p. 05 (On Ghana's independence in 1957 the Gold Coast Chamber of Mines was renamed the Ghana Chamber of Mines; it is a voluntary private sector employers' association representing companies and organizations engaged in the minerals and mining industry in Ghana)</subfield>
+  </datafield>
+</record>
