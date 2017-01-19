@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00773cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  86000899 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081003074339.0</controlfield>
+  <controlfield tag="008">881222n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86000899 </subfield>
+    <subfield code="z">n  84093469 </subfield>
+    <subfield code="z">n  86089937 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02428840</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Takebe, Tongo,</subfield>
+    <subfield code="d">1871-1945</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tatebe, Tongo,</subfield>
+    <subfield code="d">1871-1945</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">建部遯吾,</subfield>
+    <subfield code="d">1871-1945</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Sekai rekkoku no taisei, 1912 (1913 printing)</subfield>
+    <subfield code="b">t.p. (Takebe Tongo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Konsaisu jinmei j.</subfield>
+    <subfield code="b">(Takebe Tongo; 1871-1945)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NDL choshamei, 1979</subfield>
+    <subfield code="b">(Takebe Tongo; see ref. from: Tatebe Tongo; b. 1871)</subfield>
+  </datafield>
+</record>
