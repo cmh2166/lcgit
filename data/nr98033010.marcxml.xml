@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00571cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 98033010 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810090526.0</controlfield>
+  <controlfield tag="008">980903n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98033010 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Livingston,</subfield>
+    <subfield code="c">Mrs.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannot identify with: Livingston, Mrs. C. M.; Livingston, Mrs. Edward, 1781 or 2-1860</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Love each other, 1855:</subfield>
+    <subfield code="b">t.p. (Mrs. Livingston)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Allibone's dict.; NCBEL; NUC pre-56</subfield>
+  </datafield>
+</record>
