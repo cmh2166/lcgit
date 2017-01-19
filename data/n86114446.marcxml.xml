@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86114446 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060928074822.0</controlfield>
+  <controlfield tag="008">870305n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86114446 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01802025</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">RPB-NP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cortelyou, George B.</subfield>
+    <subfield code="q">(George Bruce),</subfield>
+    <subfield code="d">1862-1940</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cortelyou, Geo. B.</subfield>
+    <subfield code="q">(George Bruce),</subfield>
+    <subfield code="d">1862-1940</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from NJ Hist. Soc. for Murphy, F. Papers, 1863-1921</subfield>
+    <subfield code="b">(George B. Cortelyou)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WwWA, 1943</subfield>
+    <subfield code="b">(Cortelyou, George Bruce; 1862-1940; public official; s. Peter C. Jr. &amp; Rose (Seary) C.; m. Lily Morris; sec. commerce &amp; treasury under Roosevelt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Post route map of the Canal Zone and its municipal districts, 1905:</subfield>
+    <subfield code="b">map recto (Postmaster General Geo. B. Cortelyou)</subfield>
+  </datafield>
+</record>
