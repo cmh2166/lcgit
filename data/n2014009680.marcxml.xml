@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00684cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014009680</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150105144045.0</controlfield>
+  <controlfield tag="008">140224n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014009680</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1977</subfield>
+    <subfield code="l">1978</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tippett, Michael,</subfield>
+    <subfield code="d">1905-1998.</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">violins (2), viola, cello,</subfield>
+    <subfield code="n">no. 4</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">violin</subfield>
+    <subfield code="n">2</subfield>
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">4</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="a">no. 4</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Tippett, Michael,</subfield>
+    <subfield code="d">1905-1998.</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">strings,</subfield>
+    <subfield code="n">no. 4</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tippett, M. String quartets. 1 [SR] p2008:</subfield>
+    <subfield code="b">label (String quartet no. 4) insert (1977-78)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Feb. 24, 2014:</subfield>
+    <subfield code="b">(String quartet no. 4, 1977-8)</subfield>
+  </datafield>
+</record>
