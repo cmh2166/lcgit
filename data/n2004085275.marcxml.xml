@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00464cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2004085275</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041227160338.0</controlfield>
+  <controlfield tag="008">041227n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004085275</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Philomena, Lance</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Idaho Oral Hist. Center, Idaho State Hist. Society for His Interview, 1985</subfield>
+    <subfield code="b">(Lance Philomena; interviewee; discussing the Italian American community in Pocatello, Idaho)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">SSDI</subfield>
+  </datafield>
+</record>
