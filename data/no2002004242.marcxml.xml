@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00859nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002004242</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020117052244.0</controlfield>
+  <controlfield tag="008">020116n| acannaabn          |a aad     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002004242</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05667632</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Read, D. B.</subfield>
+    <subfield code="q">(David Breakenridge),</subfield>
+    <subfield code="d">1823-1904</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Read, David Breakenridge,</subfield>
+    <subfield code="d">1823-1904</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN01-7709: The lieutenant-governors of upper Canada and Ontario, 1899</subfield>
+    <subfield code="b">(hdg.: Read, D. B. (David Breakenridge), 1823-1904; usage: D.B. Read)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">resAnet database, Jan. 16, 2002</subfield>
+    <subfield code="b">(NLC hdg.: Read, D. B. (David Breakenridge), 1823-1904; pred. usage: D.B. Read; usage: David B. Read)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dict. of Canadian biog., v. 8 (1994)</subfield>
+    <subfield code="b">(Read, David Breakenridge; b. June 13, 1823 in Augusta Twnshp., Upper Canada; d. May 11, 1904; lawyer, politician, educator, and author)</subfield>
+  </datafield>
+</record>
