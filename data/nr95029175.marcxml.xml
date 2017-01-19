@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00920cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 95029175 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080411080049.0</controlfield>
+  <controlfield tag="008">950809n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95029175 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03898364</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Riggs, Stephen Seaman,</subfield>
+    <subfield code="d">1809-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Riggs, S. S.</subfield>
+    <subfield code="q">(Stephen Seaman),</subfield>
+    <subfield code="d">1809-1859</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Riggs,</subfield>
+    <subfield code="d">1809-1859</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Averill, C. An address delivered before a branch of the American Association, at Schenectady, January 18, 1832, 1832:</subfield>
+    <subfield code="b">t.p. (S.S. Riggs; printer at Schenectady)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marsh, S.B. The practical song book, 1858:</subfield>
+    <subfield code="b">cover (Riggs; printer at Schenectady)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wallace, J.H. Genealogy of the Riggs family, v. 1, 1901:</subfield>
+    <subfield code="b">p. 81 (Stephen Seaman Riggs, son of Isaac; grew up in his father's newspaper business, to which he succeeded and carried on until his death; b. Schenectady 6/4/1809; d. 11/4/1859)</subfield>
+  </datafield>
+</record>
