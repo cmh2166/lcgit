@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00490nz  a2200133n  4500</leader>
+  <controlfield tag="001">nb 99134194 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000510053018.0</controlfield>
+  <controlfield tag="008">000509n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99134194 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kumar, Anand,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Auditing breast cancer care, 1998:</subfield>
+    <subfield code="b">t.p. (Anand Kumar) p.[iii] (Head of School Health Studies, Chichester Institute of Higher Education) BL AL sent 3 May 2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 9 May 2000</subfield>
+    <subfield code="b">(Anand Kumar, born 2 July 1952)</subfield>
+  </datafield>
+</record>
