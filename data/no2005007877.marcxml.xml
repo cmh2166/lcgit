@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00600nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2005007877</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050128051920.0</controlfield>
+  <controlfield tag="008">050127n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005007877</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06544297</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Chinese Student Association of New York</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Niuyue Zhongguo tong xue lian yi hui</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Directory of Chinese students and alumni in Greater New York, 1962:</subfield>
+    <subfield code="b">t.p. (Chinese Student Association of New York; P.O. Box 321, Cathedral Station, New York, N.Y.) p. vii (Niuyue Zhongguo tong xue lian yi hui [in Chi.]; est. 1959)</subfield>
+  </datafield>
+</record>
