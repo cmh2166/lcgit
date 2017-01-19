@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00866cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2003005972</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030502180325.0</controlfield>
+  <controlfield tag="008">030428n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003005972</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Canadian Army.</subfield>
+    <subfield code="b">Canadian Corps, I</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Canadian Army.</subfield>
+    <subfield code="b">Canadian Corps, 1st</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">NLC consulted.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Liri Valley, c2003:</subfield>
+    <subfield code="b">CIP data sheet ("...struggles of I Canadian Corps...") p. 1 advance book information (...I Canadian Corps...) LC on-line 4-28-03 Canadian Army 1943-44 (I Canadian Corps formed Sept 1,1939) LC on-line 4-28-03 Osprey - The Canadian Army p.3 (I Canadian Corps in Sicily and Italy 1943-1944, NW Europe, 1944-1945)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Directorate of History and Heritage, Dept. of National Defence, 2003-04-30:</subfield>
+    <subfield code="b">(I Canadian Corps; variant name: 1st Canadian Corps)</subfield>
+  </datafield>
+</record>
