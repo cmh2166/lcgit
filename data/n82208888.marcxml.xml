@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00638cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82208888 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141208112522.0</controlfield>
+  <controlfield tag="008">830224n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82208888 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meyers, S. P.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Meyers, Samuel P.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Determination of the environmental impact of several substitute chemicals in agriculturally affected wetlands, 1982:</subfield>
+    <subfield code="b">t.p. (S.P. Meyers) p. 4 (Center for Wetland Resources, Louisiana State Univ., Baton Rouge, LA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Warmwater Fish Culture Workshop (1982 : Charleston, S.C.). Proceedings ... 1983:</subfield>
+    <subfield code="b">t.p. (Samuel P. Meyers)</subfield>
+  </datafield>
+</record>
