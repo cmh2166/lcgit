@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00469cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  50055840 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141217100050.0</controlfield>
+  <controlfield tag="008">810427n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50055840 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00090551</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Educational Media Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">EMC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moldstad, J. A.</subfield>
+    <subfield code="b">Sources of information ... 1963.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 17, 2014</subfield>
+    <subfield code="b">(Established 1960)</subfield>
+  </datafield>
+</record>
