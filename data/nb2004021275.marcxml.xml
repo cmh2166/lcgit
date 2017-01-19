@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00429nz  a2200121n  4500</leader>
+  <controlfield tag="001">nb2004021275</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040220051529.0</controlfield>
+  <controlfield tag="008">040219n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2004021275</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pruden, Albert C.,</subfield>
+    <subfield code="d">1932-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ashtead in focus, 2003:</subfield>
+    <subfield code="b">t.p. (Albert C. Pruden) back cover (born in East End of London, 1932; former aerodynamicist with Vickers-Armstrongs and lecturer at NESCOT)</subfield>
+  </datafield>
+</record>
