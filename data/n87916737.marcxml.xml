@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00662cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  87916737 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000628064426.0</controlfield>
+  <controlfield tag="008">881121n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87916737 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02407717</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sheffield, Reginald,</subfield>
+    <subfield code="d">1901-1957</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sheffield-Cassan, Matthew Reginald,</subfield>
+    <subfield code="d">1901-1957</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cassan, Matthew Reginald Sheffield-,</subfield>
+    <subfield code="d">1901-1957</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Black sheep [MP] 1935:</subfield>
+    <subfield code="b">credits (cast, Reginald Sheffield)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inter. film necrology, 1981</subfield>
+    <subfield code="b">(Reginald Sheffield; r.n. Matthew Reginald Sheffield-Cassan; actor; b. Feb. 18, 1901, London, Eng.; d. Dec. 8, 1957)</subfield>
+  </datafield>
+</record>
