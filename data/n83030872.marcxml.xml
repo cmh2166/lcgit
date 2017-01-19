@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01229cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  83030872 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130802073716.0</controlfield>
+  <controlfield tag="008">830822n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83030872 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00921307</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1912</subfield>
+    <subfield code="t">1952</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">National League of Nursing Education (U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Liga Nacional de EducacioĚn de Enfermeras (U.S.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">American Society of Superintendents of Training Schools for Nurses</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">National League for Nursing</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: National League of Nursing Education; org. 1893 as American Society of Superintendents of Training Schools for Nurses; name changed to National League of Nursing Education in 1912; in 1952 National League of Nursing Education merged with National Organization for Public Health Nursing and the Association of Collegiate Schools of Nursing to form National League for Nursing)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Curriculum para escuelas de enfermeras, 1934:</subfield>
+    <subfield code="b">t.p. (Liga Nacional de EducacioĚn de Enfermeras)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Amer. Soc. of Supts. of Training Schools for Nurses. Convention. Annual Conventions, 1893-1899, 1985.</subfield>
+  </datafield>
+</record>
