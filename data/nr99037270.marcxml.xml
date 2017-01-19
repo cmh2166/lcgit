@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 99037270 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080907082204.0</controlfield>
+  <controlfield tag="008">991124n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99037270 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05114954</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-N</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-N</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ṣāgharjī, Asʻad Muḥammad Saʻīd</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">صاغرجي، اسعد محمد سعيد</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Ṭahārah, 1994:</subfield>
+    <subfield code="b">t.p. (al-Shaykh Asʻad Muḥammad Saʻīd al-Ṣāgharjī) spine (al-Shaykh Asʻad al-Ṣāgharjī)</subfield>
+  </datafield>
+</record>
