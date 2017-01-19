@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00796nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2011150786</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110930075216.0</controlfield>
+  <controlfield tag="008">110928n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011150786</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0775259</subfield>
+    <subfield code="e">W0775259</subfield>
+    <subfield code="f">N0404200</subfield>
+    <subfield code="g">N0404200</subfield>
+    <subfield code="2">gnis</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08990123</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Jackson (Huntingdon County, Pa. : Township)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Township of Jackson (Huntingdon County, Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Flood insurance study, Township of Jackson, Pennsylvania, Huntingdon County, 1989:</subfield>
+    <subfield code="b">t.p. (Township of Jackson, Pennsylvania, Huntingdon County)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, Sept. 14, 2011</subfield>
+    <subfield code="b">(Township of Jackson, Huntingdon Co., Pa.; civil, 40°42ʹ00ʺN, 077°52ʹ59ʺW; other townships cited)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="z">Jackson (Huntingdon County : Township)</subfield>
+  </datafield>
+</record>
