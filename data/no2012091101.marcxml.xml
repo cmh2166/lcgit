@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00873cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012091101</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130227075154.0</controlfield>
+  <controlfield tag="008">120706n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012091101</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09242701</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1964</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Portugal, Francisco Teixeira</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">fportugal@ufrj.br</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidade Federal do Rio de Janeiro. Programa de Pós-Graduação em Psicologia</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Teixeira Portugal, Francisco</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">História da psicologia, 2008:</subfield>
+    <subfield code="b">t.p. (Francisco Teixeira Portugal)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clio-psyché, 2012:</subfield>
+    <subfield code="b">t.p. (Francisco Teixeira Portugal) t.p. verso (Braz. CIP hdg.: Portugal, Francisco Teixeira, 1964- ) p. 333 (Francisco Teixeira Portugal; Programa de Pós-Graduação em Psicologia, Univ. Federal do Rio de Janeiro--UFRJ; e-mail: fportugal@ufrj.br)</subfield>
+  </datafield>
+</record>
