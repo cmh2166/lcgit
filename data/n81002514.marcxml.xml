@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00730cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81002514 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120802080907.0</controlfield>
+  <controlfield tag="008">810113n| adannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81002514 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00548646</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Umanet︠s︡, Valeriĭ Grigorʹevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Umaneț, Valeriu</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Razdelenie truda v sot︠s︡ialisticheskom selʹskom khozi︠a︡ĭstve, 1980:</subfield>
+    <subfield code="b">t.p. (V. G. Umanet︠s︡) colophon (Valeriĭ Grigorʹevich Umanet︠s︡)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oʹecʹonomicos, 2001:</subfield>
+    <subfield code="b">t.p. (Valeriu Umaneț) cover p. 4 (b. 1941, in jud. Soroca)</subfield>
+  </datafield>
+</record>
