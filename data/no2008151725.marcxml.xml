@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00567nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008151725</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081017074652.0</controlfield>
+  <controlfield tag="008">080918n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008151725</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07907927</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DFo</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DFo</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-pa</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Wallingford (Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Typescript letter signed from Morris Jastrow, Philadelphia, to Dr. I.H. Platt, Runnemede, Wallingford, Pa., 1904.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS</subfield>
+    <subfield code="b">(Wallingford, Delaware County, Pennsylvania; 39Â°53'27"N, 075Â°21'47"W)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="z">Wallingford</subfield>
+  </datafield>
+</record>
