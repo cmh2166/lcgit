@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00468cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  94040627 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060301052421.0</controlfield>
+  <controlfield tag="008">940426n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94040627 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03593529</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Brohltal (Germany)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 04-26-65</subfield>
+    <subfield code="b">(hdg: Brohltal Region; usage: Brohltal)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Unser Deutsch. Autoatlas, 1986.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Germany</subfield>
+    <subfield code="z">Brohltal</subfield>
+  </datafield>
+</record>
