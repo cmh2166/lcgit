@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01055cz  a2200241n  4500</leader>
+  <controlfield tag="001">nr 93021851 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314101004.0</controlfield>
+  <controlfield tag="008">930615n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93021851 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)tb029649</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1757,1758]</subfield>
+    <subfield code="g">1808</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McNayr, James,</subfield>
+    <subfield code="d">1757 or 1758-1808</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Macnayr, James,</subfield>
+    <subfield code="d">1757 or 1758-1808</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">McNayer, James,</subfield>
+    <subfield code="d">1757 or 1758-1808</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">McNayr, James,</subfield>
+    <subfield code="d">1757 or 8-1808</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">M'Nayr, James,</subfield>
+    <subfield code="d">1757 or 1758-1808</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His An essay to demonstrate that contingent debts, cannot, by law, be ranked on estates sequestrated in terms of the statute, 1790:</subfield>
+    <subfield code="b">t.p. (James McNayer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM</subfield>
+    <subfield code="b">(McNayr, James)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(M'Nayr and McNayr, James)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Addison, W. A roll of the graduates of the University of Glasgow from 31st December 1727 to 31st December 1897, 1898</subfield>
+    <subfield code="b">(M'Nayr, James, d. 1808 age 50; writer in Glasgow, LL.D 1800)</subfield>
+  </datafield>
+</record>
