@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00580cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb 99153980 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080403080138.0</controlfield>
+  <controlfield tag="008">000803n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99153980 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)004078785</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fisher, Nick,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fisher, Nicholas John Oldfield,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plays for children, 2000:</subfield>
+    <subfield code="b">t.p. (Nick Fisher) BL AL sent 23 June 2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd 3 Aug. 2000</subfield>
+    <subfield code="b">(Nicholas John Oldfield Fisher, born 28 Nov. 1953)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The River Cottage fish book, 2007:</subfield>
+    <subfield code="b">t.p. (Nick Fisher)</subfield>
+  </datafield>
+</record>
