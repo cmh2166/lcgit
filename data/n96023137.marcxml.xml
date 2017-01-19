@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00674nz  a2200181n  4500</leader>
+  <controlfield tag="001">n  96023137 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960311163503.3</controlfield>
+  <controlfield tag="008">960311n| acaabaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96023137 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Trabajos de investigación (Instituto de Estudios Penales Marqués de Beccaria)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Instituto de Estudios Penales Marqués de Beccaria.</subfield>
+    <subfield code="t">Ejecución de sentencias civiles y penales</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Madrid</subfield>
+    <subfield code="b">Instituto de Estudios Penales Marqués de Beccaria</subfield>
+    <subfield code="b">EUROLEX</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ejecución de sentencias civiles y penales, 1994?:</subfield>
+    <subfield code="b">cover (Trabajos de investigación)</subfield>
+  </datafield>
+</record>
