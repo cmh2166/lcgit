@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00661cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  00015513 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161230073824.0</controlfield>
+  <controlfield tag="008">000929n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00015513 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05324081</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1953-05-05</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bronstein, Janet M.,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adams, E. Kathleen. Expanding managed care in California's public sector, 2000:</subfield>
+    <subfield code="b">t.p. (Janet M. Bronstein) data sheet (d.o.b.: 05-05-53)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Medi-Cal and managed care, 2000:</subfield>
+    <subfield code="b">p. 75 (Janet M. Bronstein is an associate professor in the School of Public Health at the University of Alabama at Birmingham)</subfield>
+  </datafield>
+</record>
