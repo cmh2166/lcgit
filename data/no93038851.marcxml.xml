@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00818cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 93038851 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314093526.0</controlfield>
+  <controlfield tag="008">931220n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93038851 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Minnesota.</subfield>
+    <subfield code="b">Department of Transportation.</subfield>
+    <subfield code="b">State Aid Division</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Minnesota.</subfield>
+    <subfield code="b">Dept. of Transportation.</subfield>
+    <subfield code="b">State Aid Division</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Minnesota.</subfield>
+    <subfield code="b">Department of Transportation.</subfield>
+    <subfield code="b">Office of State Aid</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Minnesota.</subfield>
+    <subfield code="b">Department of Transportation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CSAH apportionment data (St. Paul, Minn. : 1993). CSAH apportionment data, 1993:</subfield>
+    <subfield code="b">t.p. (Mn/DOT, State Aid Division)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">County state aid highway apportionment ... 1991: trans. letter (Minnesota Department of Transportation, Office of State Aid)</subfield>
+  </datafield>
+</record>
