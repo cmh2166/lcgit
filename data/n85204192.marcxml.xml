@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00446nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  85204192 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860221170141.0</controlfield>
+  <controlfield tag="008">851025n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85204192 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mountain, William D.</subfield>
+    <subfield code="q">(William Darwin),</subfield>
+    <subfield code="d">1920-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The ancestry of James March, 1789-1859, 1985- :</subfield>
+    <subfield code="b">v. 1, p. iii (William D. Mountain) p. 11, etc. (William Darwin Mountain; b. 5-8-20; lives in Glen Burnie, Md.)</subfield>
+  </datafield>
+</record>
