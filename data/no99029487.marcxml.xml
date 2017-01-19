@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00896nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99029487 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990428053048.0</controlfield>
+  <controlfield tag="008">990427n| acannaab|          |a anc     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99029487 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04973481 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="c">ICRL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Philosophical Society of New South Wales</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Australian Philosophical Society</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Royal Society of New South Wales</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Journal and proceedings of the Royal Society of New South Wales, v. 10 (1876):</subfield>
+    <subfield code="b">p. 5 (The Royal Society of New South Wales originated in 1821 as the Philosophical Society of Australia; after an interval of inactivity, it was resuscitated in 1850, under the name of the Australian Philosophical Society, by which title it was known until 1856, when the name was changed to the Philosophical Society of New South Wales; and finally, in May 1866 ... it assumed its present title.)</subfield>
+  </datafield>
+</record>
