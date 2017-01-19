@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00819cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88655558 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210080342.0</controlfield>
+  <controlfield tag="008">880816n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88655558 </subfield>
+    <subfield code="z">n  82051655 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1946</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sikka, Vinod K.,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Sikka, V. K.</subfield>
+    <subfield code="q">(Vinod K.),</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-94101: Author's The nature and thermal stability of defects ... 1973</subfield>
+    <subfield code="b">(hdg. on WU rept.: Sikka, Vinod K., 1946- ; usage: Vinod K. Sikka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hammond, J.P. Predicted strain in austenitic stainless steels under transient stress, 1979 (a.e.)</subfield>
+    <subfield code="b">t.p. (V.K. Sikka, Oak Ridge National Lab., Metals and Ceramics Div., Oak Ridge, Tenn.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Physical metallurgy and processing of ... 1994:</subfield>
+    <subfield code="b">CIP t.p. (Vinod K. Sikka) data sheet (b. 07-03-46)</subfield>
+  </datafield>
+</record>
