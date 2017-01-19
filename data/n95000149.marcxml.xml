@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00984cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  89617277 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950109133742.5</controlfield>
+  <controlfield tag="008">890323n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89617277 </subfield>
+    <subfield code="z">n  95000149 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Instituto Argentino de Matemática</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina).</subfield>
+    <subfield code="b">Instituto Argentino de Matemática</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">I.A.M.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">IAM</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-123135: Encuentro de Ecuaciones Diferenciales (1982 : Instituto Argentino de Matemática). Encuentro 1982 de Ecuaciones Diferenciales, 1983</subfield>
+    <subfield code="b">(hdg. on CU rept.: Instituto Argentino de Matemática; usage: Instituto Argentino de Matemática)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3/23/89</subfield>
+    <subfield code="b">(hdg.: Instituto Argentino de Matemática)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Teoremas espectrales, modelos funcionales ... 1991:</subfield>
+    <subfield code="b">t.p. (Consejo Nacional de Investigaciones Científicas y Técnicas, Instituto Argentino de Matemática) cover (I.A.M.)</subfield>
+  </datafield>
+</record>
