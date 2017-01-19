@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00507cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001026303</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814084048.0</controlfield>
+  <controlfield tag="008">010705n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001026303</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Siewerten,</subfield>
+    <subfield code="c">Wittwe</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ein merkwuĚrdiger Hexenprozess, 1800:</subfield>
+    <subfield code="b">p. 531 (Wittwe Siewerten)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NIC files, July 3, 2001</subfield>
+    <subfield code="b">(hdg.: Siewerten, defendant)</subfield>
+  </datafield>
+</record>
