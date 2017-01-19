@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00893cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2003055685</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110303074925.0</controlfield>
+  <controlfield tag="008">031110n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003055685</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06202140</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Novoselov, V. N.</subfield>
+    <subfield code="q">(Vladimir Nikolaevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Novoselov, Vladimir Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Новоселов, Владимир Николаевич</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Novoselov, V. N. Karabash, 2002:</subfield>
+    <subfield code="b">verso t.p. (V.N. Novoselov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, Nov. 10, 2003:</subfield>
+    <subfield code="b">(hdg.: Novoselov, V. N. (Vladimir Nikolaevich))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Novoselov Vladimir Nikolaevich, 2009:</subfield>
+    <subfield code="b">t. p. (Новоселов Владимир Николаевич = Novoselov Vladimir Nikolaevich) p. 8 (b. Nov. 28, 1949, Derzhinsk, Russia; doktor istoricheskikh nauk, professor)</subfield>
+  </datafield>
+</record>
