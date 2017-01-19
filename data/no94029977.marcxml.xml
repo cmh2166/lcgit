@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00642cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 94029977 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090829075251.0</controlfield>
+  <controlfield tag="008">940830n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94029977 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03672624</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DJBF</subfield>
+    <subfield code="d">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lieftinck, P.</subfield>
+    <subfield code="q">(Pieter),</subfield>
+    <subfield code="d">1902-1989</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lieftinck, Pieter,</subfield>
+    <subfield code="d">1902-1989</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Study of the water ... 1967:</subfield>
+    <subfield code="b">t.p. (P. Lieftinck)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 8/30/94</subfield>
+    <subfield code="b">(hdg.: Lieftinck, Pieter, 1902-; usage: P. Lieftinck)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KB online cat., Aug. 27, 2009</subfield>
+    <subfield code="b">(hdg.: Lieftinck, P.  (Pieter),  1902-1989; usage: P. Lieftinck, Pieter Lieftinck)</subfield>
+  </datafield>
+</record>
