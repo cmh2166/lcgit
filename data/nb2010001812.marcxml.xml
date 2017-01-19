@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00611nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2010001812</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100124075228.0</controlfield>
+  <controlfield tag="008">100122n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010001812</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007686586</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Università di Padova.</subfield>
+    <subfield code="b">Dipartimento di sociologia</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Università di Padova.</subfield>
+    <subfield code="b">Département de sociologie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Religion(s) et identité(s) en Europe, c2008:</subfield>
+    <subfield code="b">p. [15] (Département de sociologie de l'Université de Padoue)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its website, 22 Jan. 2010</subfield>
+    <subfield code="b">(Università degli studi di Padova, Dipartimento di sociologia)</subfield>
+  </datafield>
+</record>
