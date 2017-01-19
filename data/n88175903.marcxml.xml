@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00676cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88175903 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890404080302.1</controlfield>
+  <controlfield tag="008">890302n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88175903 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Athénée des arts de Paris</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Athénée</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Lycée des arts</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decorde, M. De l'organisation du travail la plus propre à augmenter le bien-être des classes laborieuses, 1841:</subfield>
+    <subfield code="b">t.p. (l'Athénée des arts de Paris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boursin, E. Dict. de la révolution franç., 1971</subfield>
+    <subfield code="b">(Lycée-des-arts; Lycée des arts; founded 1792; in 1803 name changed to Athénée, or Athénée des arts de Paris)</subfield>
+  </datafield>
+</record>
