@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00866cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2013005586</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130208074951.0</controlfield>
+  <controlfield tag="008">130204n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013005586</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tollentinus, Johannes,</subfield>
+    <subfield code="d">-1517</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tolentinus, Joannes,</subfield>
+    <subfield code="d">-1517</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Preclara prestantissimi viri totoq[ue] orbe terraru[m] clarissimi Ugonis Senensis i[n]terpretatio in prima[m] quarti canonis principis, que de febribus dicitur, anno reconciliate natiuitatis1515 die 14. Junij:</subfield>
+    <subfield code="b">colophon, leaf 74 (... Mag[ist]r[u]m Ioa[n]ne[m] tole[n]tinu[m] Uerone[n]sem); leaf 1 verso (... Ioa[n]nes tole[n]tinus Ueronensis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, database, 4 Feb. 2013</subfield>
+    <subfield code="b">(hdg.: Tolentinus, Joannes)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIAF, database, 4 Feb. 2013</subfield>
+    <subfield code="b">(hdg.: Tollentinus, Johannes, -1517)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">WBIS, database, 4 Feb. 2013</subfield>
+  </datafield>
+</record>
