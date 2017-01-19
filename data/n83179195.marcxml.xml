@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00662cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83179195 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081231070439.0</controlfield>
+  <controlfield tag="008">831024n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83179195 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00997577</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Condy, Thomas D.</subfield>
+    <subfield code="q">(Thomas Doughty),</subfield>
+    <subfield code="d">1779-1858</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A digest of the laws of the United States &amp; the state of South-Carolina, now in force, relating to the militia, 1830:</subfield>
+    <subfield code="b">t.p. (Thomas D. Condy, lieutenant colonel, 17th regiment, South-Carolina Militia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">McKoy, H.B. The McKoy family of North Carolina, 1955:</subfield>
+    <subfield code="b">p. 12 (Thomas Doughty Condy; b. 6/21/1779; d. 5/11/1858)</subfield>
+  </datafield>
+</record>
