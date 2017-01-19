@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01344cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  84721709 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890614120531.0</controlfield>
+  <controlfield tag="008">851017n| acaaaaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84721709 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Mémoires et travaux du Centre de recherches préhistoriques français de Jérusalem</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">MTJ</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">M.T.J.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Centre de recherches préhistoriques français de Jérusalem.</subfield>
+    <subfield code="t">Mémoires et travaux du Centre de recherches préhistoriques français de Jérusalem</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Association Paléorient.</subfield>
+    <subfield code="t">Mémoires et travaux du Centre de recherches préhistoriques français de Jérusalem</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Mémoires et travaux du Centre de recherche français de Jérusalem</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no 1</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Paris</subfield>
+    <subfield code="b">Association Paléorient</subfield>
+    <subfield code="a">Jérusalem</subfield>
+    <subfield code="b">Centre de recherches préhistoriques français de Jérusalem, distributor</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Perrot, J. Tombes à ossuaires de la région côtière palestinienne ... 1980:</subfield>
+    <subfield code="b">ser. t.p.</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Valla, F.R. Les industries de silex ... 1984: ser t.p. (Mémoires et travaux du Centre de recherche français de Jérusalem ; no 3) p. facing t.p. (no 1, Perrot's Tombes à ossuaires, is listed as having been publ. in this series)</subfield>
+  </datafield>
+</record>
