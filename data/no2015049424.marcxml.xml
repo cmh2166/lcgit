@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00733nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015049424</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150415073614.0</controlfield>
+  <controlfield tag="008">150414n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015049424</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10138805</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mobile and Girard Railroad Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Mobile &amp; Girard Railroad Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mobile and Girard Railroad Company. Annual report of the officers of the Mobile &amp; Girard Railroad Co. for the fiscal year ... 1871:</subfield>
+    <subfield code="b">title page (Mobile &amp; Girard Railroad Co.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, viewed 04/14/2015</subfield>
+    <subfield code="b">(heading: Mobile and Girard Railroad Company; usage: Mobile &amp; Girard Railroad Co., Mobile and Girard Railroad Company, Mobile &amp; Girard R.R. Co.</subfield>
+  </datafield>
+</record>
