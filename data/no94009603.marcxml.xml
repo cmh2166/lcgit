@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 94009603 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316094517.0</controlfield>
+  <controlfield tag="008">940323n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94009603 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICRL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1867</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hugo, C.,</subfield>
+    <subfield code="d">1867-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Hugo, C.,</subfield>
+    <subfield code="d">b. 1867</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Lindemann, Hugo,</subfield>
+    <subfield code="d">1867-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handbuch des Sozialismus, 1976:</subfield>
+    <subfield code="b">p. 1 (Dr. phil. C. Hugo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Hugo, C. pseudonym of Lindemann, Carl Hugo, 1867-)</subfield>
+  </datafield>
+</record>
