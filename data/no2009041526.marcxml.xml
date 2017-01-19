@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00966nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2009041526</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090319075540.0</controlfield>
+  <controlfield tag="008">090317n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009041526</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08048928</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICRL</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Incunabula.</subfield>
+    <subfield code="n">Unit 76-77,</subfield>
+    <subfield code="p">Printing in Venice</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Incunabula, the printing revolution in Europe, 1455-1500.</subfield>
+    <subfield code="n">Unit 76-77,</subfield>
+    <subfield code="p">Printing in Venice</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Printing in Venice</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Incunabula collection</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">VE 1</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">ICRL</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">[Woodbridge, Conn.] :</subfield>
+    <subfield code="b">Primary Source Media</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">ICRL</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">ICRL</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">ICRL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Publisher's checklist]</subfield>
+    <subfield code="b">(Incunabula. Unit 76-77, Printing in Venice)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vitta Esopi, 1492;</subfield>
+    <subfield code="b">microfiche header (Incunabula collection; VE 1)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Publisher's checklist binder]</subfield>
+    <subfield code="b">(Incunabula, the printing revolution in Europe, 1455-1500. Unit 76-77, Printing in Venice)</subfield>
+  </datafield>
+</record>
