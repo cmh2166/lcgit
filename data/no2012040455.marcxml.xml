@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00433nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012040455</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120322075329.0</controlfield>
+  <controlfield tag="008">120320n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012040455</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09149081</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Thompson, Luke,</subfield>
+    <subfield code="d">1983-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Luke Thompson music WWW home page, Mar. 8, 2012</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from musician, Mar. 2, 2012</subfield>
+    <subfield code="b">(middle name David; b. June 10, 1983)</subfield>
+  </datafield>
+</record>
