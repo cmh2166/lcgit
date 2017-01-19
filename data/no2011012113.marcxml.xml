@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00517nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011012113</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110127075224.0</controlfield>
+  <controlfield tag="008">110125n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011012113</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08747897</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ItFiC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cascio, Francesco,</subfield>
+    <subfield code="d">1600-1682</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Francesco,</subfield>
+    <subfield code="c">da Licodia,</subfield>
+    <subfield code="d">1600-1682</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Francesco Cascio cappuccino, 2010:</subfield>
+    <subfield code="b">p. 7 (OFM; fra Francesco da Licodia, b. in the province of Syracuse, Italy; missionary) p. 4 of cover (b. 1600, d. 1682)</subfield>
+  </datafield>
+</record>
