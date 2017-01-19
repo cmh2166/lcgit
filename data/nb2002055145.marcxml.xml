@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00556nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2002055145</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020627054111.0</controlfield>
+  <controlfield tag="008">020626n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2002055145</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Stace, Robert,</subfield>
+    <subfield code="d">1821-1912</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stace's report of the presentation of colours to the 34th regiment at Shorncliffe, 1871</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Folkestone herald, Sept. 1912</subfield>
+    <subfield code="b">(Robert Stace, born 1821)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">High Court of Justice, Family Division, Probate Dept., 26 June 2002</subfield>
+    <subfield code="b">(Robert Stace will entry: died 10 Sept. 1912)</subfield>
+  </datafield>
+</record>
