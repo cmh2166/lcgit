@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00886cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85180401 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070213074836.0</controlfield>
+  <controlfield tag="008">850829n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85180401 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bauer, Hank,</subfield>
+    <subfield code="d">1922-2007</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bauer, Henry Albert,</subfield>
+    <subfield code="d">1922-2007</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Championship baseball, 1968:</subfield>
+    <subfield code="b">t.p. (Hank Bauer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC manual auth. cd.</subfield>
+    <subfield code="b">(hdg.: Bauer, Hank, 1922- ; full name: Henry Albert Bauer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times WWW site, Feb. 12, 2007</subfield>
+    <subfield code="b">(in obituary published Feb. 10: Hank Bauer; b. Henry Albert Bauer, July 31, 1922, East St. Louis, Ill.; d. yesterday [Feb. 9, 2007], Shawnee Mission, Kan., aged 84; bruising pipe fitter and decorated combat veteran who became an All-Star outfielder for the Yankees, playing in nine World Series, and who later managed the Baltimore Orioles to a stunning Series victory)</subfield>
+  </datafield>
+</record>
