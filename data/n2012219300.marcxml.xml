@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00926nz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2012219300</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130914062426.0</controlfield>
+  <controlfield tag="008">130914n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012219300</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19760314</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL4659.T363</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tējaśrī, Ja. Nā.,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Hassan, India</subfield>
+    <subfield code="e">Hassan, India</subfield>
+    <subfield code="f">Mysore, India</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">English literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">St. Philomina PU College, Hassan, India</subfield>
+    <subfield code="s">1998</subfield>
+    <subfield code="t">2011</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">kan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tejashree, Ja. Na.,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Avanarivalli, 2011:</subfield>
+    <subfield code="b">t.p. (Ja. Nā. Tējaśrī) t.p. verso (Ja. Na. Tejashree, Hassan, India) author's note (born on March 14, 1976, M.A. in English literature from University of Mysore in 1998, Diploma in translation, worked as lecturer at St. Philomina PU College, Hassan, India from 1998-2011)</subfield>
+  </datafield>
+</record>
