@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00765cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  89632097 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130807073802.0</controlfield>
+  <controlfield tag="008">890531n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89632097 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02535383</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19570928</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fujimoto, James G.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fuijimoto, James G.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">"Fuijimoto" in NUC record's usage per MCM rept.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-56014: His Generation of high intensity femtosecond laser pulses and applications ... c1984</subfield>
+    <subfield code="b">(hdg. on MCM rept.: Fujimoto, James G.; usage: James G. Fuijimoto)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biomedical optical imaging, 2008:</subfield>
+    <subfield code="b">ECIP t.p. (James G. Fujimoto) data sheet (b. 9/28/1957; prof. of electrical engineering &amp; computer science, MIT)</subfield>
+  </datafield>
+</record>
