@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00606cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85349728 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080614075747.0</controlfield>
+  <controlfield tag="008">860819n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85349728 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01682456</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gordon Creed, Henry</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Creed, Henry Gordon</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gordon Creed, R. J. The Gordon Creeds in Afghanistan, 1839 and 1878-79, 1984:</subfield>
+    <subfield code="b">t.p. (Gordon Creeds) p. vii, etc. (Lieutenant (later Colonel) Henry Gordon Creed; served in the Indus Army, 1st &amp; 2nd Afghan Wars)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BLAISE, 7/86</subfield>
+    <subfield code="b">(hdg.: Gordon Creed, Henry)</subfield>
+  </datafield>
+</record>
