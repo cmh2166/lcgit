@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743cz  a2200241n  4500</leader>
+  <controlfield tag="001">nr2002035046</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320100342.0</controlfield>
+  <controlfield tag="008">020923n| azaaaaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002035046</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2001</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cvitan, Dalibor,</subfield>
+    <subfield code="d">1934-</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="f">2001</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cvitan, Dalibor,</subfield>
+    <subfield code="d">1934-</subfield>
+    <subfield code="t">Izabrana djela.</subfield>
+    <subfield code="f">2001</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Cvitan, Dalibor,</subfield>
+    <subfield code="d">1934-</subfield>
+    <subfield code="t">Selections.</subfield>
+    <subfield code="f">2001</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Izabrana djela Dalibora Cvitana.</subfield>
+    <subfield code="f">2001</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">knj. 1</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Zagreb</subfield>
+    <subfield code="b">Stajergraf</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sabrane pjesme, 2001:</subfield>
+    <subfield code="b">ser. t.p. (Izabrana djela Dalibora Cvitana)</subfield>
+  </datafield>
+</record>
