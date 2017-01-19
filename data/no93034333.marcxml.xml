@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01098cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 93034333 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001021070322.0</controlfield>
+  <controlfield tag="008">931111n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93034333 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03514891</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU-Mu</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Villalba Muñoz, Luis,</subfield>
+    <subfield code="d">1873-1921</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Muñoz, Luis Villalba,</subfield>
+    <subfield code="d">1873-1921</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Villalba, Luis,</subfield>
+    <subfield code="d">1873-1921</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Villalba Muñoz, L. Antología de organistas clásicos, siglos XVI-XVII, 1971:</subfield>
+    <subfield code="b">t.p. (P. Luis Villalba Muñoz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Villalba Muñoz, L. X canciones españolas de los siglos XV y XVI, 19--?:</subfield>
+    <subfield code="b">t.p. (P. Luis Villalba, O.S.A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pena, J. Dicc. de la música labor</subfield>
+    <subfield code="b">(Villalba Muñoz, P. Luis; b. 9-22-1873, d. 1-9-21)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Baker, 8th ed.</subfield>
+    <subfield code="b">(Villalba Muñoz, Padre Luis; b. 9-22-1872, Valladolid, d. 1-8-21, Madrid; musicologist, composer, member of Augustinian order)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ricart Matas, J. Dicc. biog. de la música</subfield>
+    <subfield code="b">(Villalba Muñoz, Luis; b. 1873, d. 1921)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Villalba Muñoz, Luis; b. 1872, d. 1921)</subfield>
+  </datafield>
+</record>
