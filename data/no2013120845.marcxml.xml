@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00763nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2013120845</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131101073515.0</controlfield>
+  <controlfield tag="008">131031n| azaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013120845</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09603676</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">AzTeS</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Rand Project Air Force series on resiliency</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series (Publications)</subfield>
+    <subfield code="a">Monographic series</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Project Air Force (U.S.).</subfield>
+    <subfield code="t">Rand Project Air Force series on resiliency</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Project Air Force series on resiliency</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Santa Monica, CA</subfield>
+    <subfield code="b">Rand corporation</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">AzTeS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Physical fitness and resilience, 2013:</subfield>
+    <subfield code="b">title page (Rand Project Air Force series on resiliency)</subfield>
+  </datafield>
+</record>
