@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00708cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2011191668</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120821075431.0</controlfield>
+  <controlfield tag="008">111213n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011191668</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09061325</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU-JRM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU-JRM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1985</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez, Javier,</subfield>
+    <subfield code="d">1956-</subfield>
+    <subfield code="t">Tientos,</subfield>
+    <subfield code="m">piano, woodwinds, strings</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Tiento</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">piano</subfield>
+    <subfield code="a">woodwinds</subfield>
+    <subfield code="a">strings</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez, Javier,</subfield>
+    <subfield code="d">1956-</subfield>
+    <subfield code="t">Tientos for ensemble</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alvarez, J. Tientos for ensemble, 1985:</subfield>
+    <subfield code="b">score (for flute/piccolo, Bâ­ clarinet, violin, cello, piano)</subfield>
+  </datafield>
+</record>
