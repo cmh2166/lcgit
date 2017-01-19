@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00458nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  89659659 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891024133244.4</controlfield>
+  <controlfield tag="008">891024n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89659659 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Erler, Ursula,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-45149: Her Auch Ehen sind nur Liebesgeschicten, 1982, c1979</subfield>
+    <subfield code="b">(hdg. on NRU rept.: Erler, Ursula, 1946- ; usage: Ursula Erler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10/24/89</subfield>
+    <subfield code="b">(hdg.: Erler, Ursula, 1946- )</subfield>
+  </datafield>
+</record>
