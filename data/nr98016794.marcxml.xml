@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 98016794 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980508051738.2</controlfield>
+  <controlfield tag="008">980505n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98016794 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-BR</subfield>
+    <subfield code="c">CtY-BR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Long, Oscar Fitzalan,</subfield>
+    <subfield code="d">1852-1928</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Long, Oscar F.</subfield>
+    <subfield code="q">(Oscar Fitzalan),</subfield>
+    <subfield code="d">1852-1928</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The great race passes, 1928?:</subfield>
+    <subfield code="b">t.p. (Brig. Gen. Oscar F. Long; d. 23 Dec. 1928; Indian fighter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 5 May 1998</subfield>
+    <subfield code="b">(hdg: Long, Oscar Fitzalan, 1852-1928; usage: Oscar Fitzalan Long)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WWWAm</subfield>
+    <subfield code="b">(Long, Oscar Fitzalan; b. 16 June 1852, Utica, N.Y.; d. 22 Dec. 1928; army officer)</subfield>
+  </datafield>
+</record>
