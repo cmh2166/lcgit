@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2015092937</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150716073604.0</controlfield>
+  <controlfield tag="008">150715n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015092937</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10218612</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OkU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20101103</subfield>
+    <subfield code="t">20101105</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Creating_Making Forum</subfield>
+    <subfield code="n">(1st :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Norman, Okla.)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Norman (Okla.)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Architecture--Aesthetics</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Oklahoma. College of Architecture</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Oklahoma.</subfield>
+    <subfield code="b">College of Architecture.</subfield>
+    <subfield code="b">Creating_Making Forum</subfield>
+    <subfield code="n">(1st :</subfield>
+    <subfield code="d">2010 :</subfield>
+    <subfield code="c">Norman, Okla.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proceedings of the 2010 Creating_Making Forum, 2011:</subfield>
+    <subfield code="b">title page (Norman, Oklahoma, 11.03.10-11.05.10)</subfield>
+  </datafield>
+</record>
