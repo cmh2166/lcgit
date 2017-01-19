@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00546nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82151215 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">821109n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82151215 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Tárrega, Francisco,</subfield>
+    <subfield code="d">1852-1909.</subfield>
+    <subfield code="t">Sueño (Estudio)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not to be confused with his Sueño (Mazurka) ; both works for guitar solo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lagoya, A. The Spanish guitar of Alexandre Lagoya [SR] c1980:</subfield>
+    <subfield code="b">label (Étude : Sueño)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Tarrega-Album, 1960:</subfield>
+    <subfield code="b">p. 41 (Sueño : trémolo estudio)</subfield>
+  </datafield>
+</record>
