@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01032nz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2014021698</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140924050904.0</controlfield>
+  <controlfield tag="008">140923n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014021698</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009142265</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2013</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Phoenix Informatics (Organisation)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Nonprofit organizations</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Redwood City (Calif.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">643 Bair Island Rd., Ste 403</subfield>
+    <subfield code="b">Redwood City</subfield>
+    <subfield code="d">USA</subfield>
+    <subfield code="e">CA 94063</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Science</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Arabidopsis Information Resource, viewed on September 29, 2014:</subfield>
+    <subfield code="b">home page (Phoenix Informatics)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phoenix Informatics website viewed on September 29, 2014:</subfield>
+    <subfield code="b">home page (Phoenix Bioinformatics is an independent nonprofit organization established in 2013. The aim is to make scientific data widely available and accessible to the public and scientific community) contact page (Phoenix Bioinformatics, 643 Bair Island Rd, Ste 403, Redwood City, CA 94063, USA)</subfield>
+  </datafield>
+</record>
