@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002100172</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080517074920.0</controlfield>
+  <controlfield tag="008">021101n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002100172</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05902503</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-AT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU-AT</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Markes, Larry,</subfield>
+    <subfield code="d">1921-1999</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Markes, Lawrence Wolcott,</subfield>
+    <subfield code="d">1921-1999</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Carmichael, H. Casanova cricket [SR] 1947:</subfield>
+    <subfield code="b">label (Larry Markes)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ASCAP, 4th ed.</subfield>
+    <subfield code="b">(Markes, Larry; b. Sept 24, 1921, Brooklyn, N.Y.; composer, author)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, May 15, 2008</subfield>
+    <subfield code="b">(Larry Markes; b. Sept. 24, 1921, d. May 19, 1999, Los Angeles, Calif.; birth name: Lawrence Wolcott Markes)</subfield>
+  </datafield>
+</record>
