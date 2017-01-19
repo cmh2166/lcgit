@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00696nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2002076783</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020823052856.0</controlfield>
+  <controlfield tag="008">020822n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002076783</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05845017</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">HU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">HU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cunha, Sonny,</subfield>
+    <subfield code="d">1879-1933</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Cunha,</subfield>
+    <subfield code="d">1879-1933</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cunha, A. R.,</subfield>
+    <subfield code="d">1879-1933</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cunha, Albert Richard,</subfield>
+    <subfield code="d">1879-1933</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">My Honolulu hula girl, c1909:</subfield>
+    <subfield code="b">p. 1 (Sonny Cunha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hapa haole hula girl, 1916:</subfield>
+    <subfield code="b">label (Cunha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kaua i ka hauhuai, 1903:</subfield>
+    <subfield code="b">p. 1 (A.R. Cunha)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">HU files, Aug. 14, 2002:</subfield>
+    <subfield code="b">heading (Cunha, Albert Richard, 1879-1933) usage (A.R. Cunha)</subfield>
+  </datafield>
+</record>
