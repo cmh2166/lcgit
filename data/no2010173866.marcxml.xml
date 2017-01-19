@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00719nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010173866</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101028075304.0</controlfield>
+  <controlfield tag="008">101026n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010173866</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08668553</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clemens, Jeremiah,</subfield>
+    <subfield code="d">1763-1826</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clemens, J.</subfield>
+    <subfield code="q">(Jeremiah),</subfield>
+    <subfield code="d">1763-1826</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Guthrie, J. The American school-master's assistant, 1804:</subfield>
+    <subfield code="b">inscr. (Jeremiah Clemens, June 3d 1805, Danville, Ky) bookplate (J. Clemens)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">FamilySearch, via WWW, Oct. 6, 2010</subfield>
+    <subfield code="b">(Jeremiah Clemens; b. 16 Sep. 1763, Loudon, Virginia; son of James Clemmens and Hannah Walton; m. Jane Cochran 16 Sep. 1790 in Kentucky; d. 8 June 1826, Danville, Kentucky)</subfield>
+  </datafield>
+</record>
