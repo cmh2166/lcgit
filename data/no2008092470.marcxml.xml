@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008092470</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080702075319.0</controlfield>
+  <controlfield tag="008">080623n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008092470</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07802604</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPiU</subfield>
+    <subfield code="d">PPiU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Flood, Timothy E.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Flood, Timothy Edward</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MBA fundamentals, c2008:</subfield>
+    <subfield code="b">t.p. (Timothy Flood) ; cover (Timothy E. Flood, Ph.D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Changing voices, 2002</subfield>
+    <subfield code="b">t.p. (Timothy Edward Flood) ; author's Phd thesis</subfield>
+  </datafield>
+</record>
