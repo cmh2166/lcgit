@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00973cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 95002078 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20051128133723.0</controlfield>
+  <controlfield tag="008">950118n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95002078 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Pennsylvania Salt Manufacturing Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Pennsylvania Salt Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Pennsalt Chemicals Corporation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annual report of the Pennsylvania Salt Manufacturing Company, 1914-1915.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Washington State Historical Society for International Chemical Workers Union, Local 110, Tacoma, Wash., minutes books, 1947-1982</subfield>
+    <subfield code="b">(Pennsylvania Salt Company; Pennwalt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arkema WWW, Nov. 28, 2005</subfield>
+    <subfield code="b">(Pennsylvania Salt Manufacturing Company org. by Philadelphia Quakers and inc. in 1850; in 1957 name changed to Pennsalt Chemicals Corporation; in 1969 reorganized as Pennwalt Corporation; eventually with many mergers reorganized as an international operation under the name Arkema Inc.)</subfield>
+  </datafield>
+</record>
