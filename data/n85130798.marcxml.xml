@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00618cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85130798 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209080024.0</controlfield>
+  <controlfield tag="008">851030n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85130798 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1951</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Robertson, Brian,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">King Bee,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rio Grande heritage, c1985:</subfield>
+    <subfield code="b">CIP t.p. (Brian Robertson; Hidalgo Co. Historical Museum, Edinburg, Tex.) data sheet (b. 1951)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The little blues book, 1996:</subfield>
+    <subfield code="b">CIP t.p. (Brian Robertson) foreword (aka King Bee, Austin, Tex.) data sheet (b. 3-19-51; blues musician turned author)</subfield>
+  </datafield>
+</record>
