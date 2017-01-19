@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00451nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2003043958</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030503073439.0</controlfield>
+  <controlfield tag="008">030502n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003043958</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06039926</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaBeW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaBeW</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Field, Ken</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Music for layered saxophones, p2003:</subfield>
+    <subfield code="b">label (Ken Field) biog. (saxophonist, flutist, percussionist and composer; member of Birdsongs of the Mesozoic since 1988)</subfield>
+  </datafield>
+</record>
