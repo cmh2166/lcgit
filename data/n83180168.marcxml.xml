@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  83180168 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141208121701.0</controlfield>
+  <controlfield tag="008">831103n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83180168 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Udall, Nicholas,</subfield>
+    <subfield code="d">1505-1556.</subfield>
+    <subfield code="t">Ralph Roister Doister</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Udall, Nicholas,</subfield>
+    <subfield code="d">1505-1556.</subfield>
+    <subfield code="t">Play intituled Rauf Ruyster Duster</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Udall, Nicholas,</subfield>
+    <subfield code="d">1505-1556.</subfield>
+    <subfield code="t">Rauf Ruyster Duster</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Udall, Nicholas,</subfield>
+    <subfield code="d">1505-1556.</subfield>
+    <subfield code="t">Roister Doister</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ralph Roister Doister, 1979.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Roister Doister, 1966.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A play intituled Rauf Ruyster Duster, 1566.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10/24/83</subfield>
+    <subfield code="b">(hdg.: Udall, Nicholas, 1505-1556. Ralph Roister Doister)</subfield>
+  </datafield>
+</record>
