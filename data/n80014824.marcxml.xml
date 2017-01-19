@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00799cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  80014824 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150916073814.0</controlfield>
+  <controlfield tag="008">800821n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80014824 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00397281</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCl</subfield>
+    <subfield code="d">DNLM</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CU-SB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1915</subfield>
+    <subfield code="g">2003-09-14</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hardin, Garrett,</subfield>
+    <subfield code="d">1915-2003</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Dallas (Tex.)</subfield>
+    <subfield code="b">Santa Barbara (Calif.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Ecologists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hardin, Garrett James,</subfield>
+    <subfield code="d">1915-2003</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Biology: its human implications, 1949.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Naked emperors, 1982:</subfield>
+    <subfield code="b">CIP t.p. (Garrett Hardin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York times, Oct. 28, 2003:</subfield>
+    <subfield code="b">obituaries (Garrett Hardin; ecologist; b. Garrett James Hardin in Dallas; d. Sept. 14, 2003 in Santa Barbara, Calif. at age 88)</subfield>
+  </datafield>
+</record>
