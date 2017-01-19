@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00966nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2009074962</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090516075713.0</controlfield>
+  <controlfield tag="008">090514n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009074962</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08109544</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DFo</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DFo</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Duff, Thomas,</subfield>
+    <subfield code="d">1823-1892</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Duff, Thomas T.</subfield>
+    <subfield code="q">(Thomas Thatcher),</subfield>
+    <subfield code="d">1823-1892</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Autograph letter signed from Thomas T. Duff, Chicago, to Augustin Daly,  1887</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amer. and Brit. theatrical biog.</subfield>
+    <subfield code="b">(Duff, Thomas (d. 1892 at age 69); American actor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">History of the New York stage, 1903 [via Google books, Dec. 30, 2008] :</subfield>
+    <subfield code="b">p.123 (Thomas Duff, actor, theater manager, lawyer; b. Dec. 27, 1823 in Boston; youngest son of Mary Duff; d. at Quincy, Illinois on June 14, 1892)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mrs. Duff, 1882 [via Google books, Dec. 15, 2008]:</subfield>
+    <subfield code="b">p. 138 (Thomas Thatcher Duff, actor and manager; practiced law in Quincy, Illionois; son of Mrs. [Mary Ann Dyke] Duff)</subfield>
+  </datafield>
+</record>
