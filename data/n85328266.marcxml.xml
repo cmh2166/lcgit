@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85328266 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860904055625.8</controlfield>
+  <controlfield tag="008">860716n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85328266 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DI</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">METF (Organization : Ariz.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Mineral Extraction Task Force (Ariz.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">CAAG Mineral Extraction Task Force</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Central Arizona Association of Governments.</subfield>
+    <subfield code="b">METF</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Central Arizona Association of Governments.</subfield>
+    <subfield code="b">Mineral Extraction Task Force</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National prototype copper mining water ... 1983:</subfield>
+    <subfield code="b">t.p. (METF) p. 4 (CAAG Mineral Extraction Task Force; Central Arizona Association of Governments) p. 6 (Mineral Extraction Task Force)</subfield>
+  </datafield>
+</record>
