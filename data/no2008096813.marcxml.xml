@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00424nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008096813</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080704081111.0</controlfield>
+  <controlfield tag="008">080702n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008096813</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07810223</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrUP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Social Housing Focus Trust (South Africa)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">SHIFT</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brixton urban renewal project, 2007:</subfield>
+    <subfield code="b">t.p. (SHIFT, Social Housing Focus Trust)</subfield>
+  </datafield>
+</record>
