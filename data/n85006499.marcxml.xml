@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01025cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  85006499 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121231130219.0</controlfield>
+  <controlfield tag="008">850503n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85006499 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01307505</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NcD</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">20120816</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ3989.2.B44</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Berthelot, Lilian</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Mauritius</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">History</subfield>
+    <subfield code="a">Literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Historians</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Le participe futur, 197-:</subfield>
+    <subfield code="b">t.p. (Lilian Berthelot)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 4/11/85</subfield>
+    <subfield code="b">(hdg.: Berthelot, Lilian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La vie conjugueĚe, 2012? :</subfield>
+    <subfield code="b">title page (Lilian Berthelot) back cover (historian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le Mauricien.com site, viewed December 19, 2012</subfield>
+    <subfield code="b">(Lilian Berthelot died August 16, 2012, aged 79; wrote literary fiction and historical books about Mauritius)</subfield>
+    <subfield code="u">http://www.lemauricien.com/article/necrologie-%E2%80%94-lilian-berthelot-grande-dame-s%E2%80%99en-allee</subfield>
+  </datafield>
+</record>
