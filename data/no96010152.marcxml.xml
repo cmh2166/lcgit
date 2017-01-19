@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96010152 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960228053853.5</controlfield>
+  <controlfield tag="008">960227n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96010152 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04016881 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="c">CLU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Johnson, Gregory A.,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Doppler, sodium voiding, and isothermal temperature ... 1994:</subfield>
+    <subfield code="b">t.p. (Gregory A. Johnson; Univ. of Calif., Los Angeles; M.S. in Nuclear Engineering)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from UCLA Grad. Division, 1/11/96</subfield>
+    <subfield code="b">(b. 2/13/60)</subfield>
+  </datafield>
+</record>
