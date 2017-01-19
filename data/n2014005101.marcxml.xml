@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00800nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2014005101</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140128093400.0</controlfield>
+  <controlfield tag="008">140128n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014005101</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Pinhook Bicentennial Pageant</subfield>
+    <subfield code="d">(1976 :</subfield>
+    <subfield code="c">South Bend, Ind.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Pinhook Pageant</subfield>
+    <subfield code="d">(1976 :</subfield>
+    <subfield code="c">South Bend, Ind.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pinhook Bicentennial Pageant (1976 : South Bend, Ind.). 1976 Pinhook Bicentennial Pageant [SR] p1976:</subfield>
+    <subfield code="b">label (1976 Pinhook Bicentennial Pageant; directed by James Lewis Casaday ; music composed and directed by Zeal I. Fisher) container (the Pinhook Pageant; lyrics and dialogue by James Lewis Casaday; presented at Pinhook Park in South Bend, Indiana, on July 4 and 5, 1976; production sponsored by the South Bend Bicentennial Committee)</subfield>
+  </datafield>
+</record>
