@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00750cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 93041694 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19931020061327.4</controlfield>
+  <controlfield tag="008">931012n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93041694 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)tb021765</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+    <subfield code="d">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wemyss, James,</subfield>
+    <subfield code="d">1750-1822</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Weemyss, James,</subfield>
+    <subfield code="d">1750-1822</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Wemyss, James</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A scriptural view of kings and magistrates, 1794:</subfield>
+    <subfield code="b">t.p. (James Wemyss, A.M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Wemyss, James, fl. 1794)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Scott, H. Fasti ecclesiae Scoticanae, 1928:</subfield>
+    <subfield code="b">vol. 5, p. 83 (Wemyss, James, 1750-1822; M. of Burntisland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 10-12-93</subfield>
+    <subfield code="b">(hdg.: Wemyss, James)</subfield>
+  </datafield>
+</record>
