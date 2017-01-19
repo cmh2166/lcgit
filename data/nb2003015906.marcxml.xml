@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00537nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2003015906</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030130052209.0</controlfield>
+  <controlfield tag="008">030129n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2003015906</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Michael,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Francis Michael,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n78033581</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Doing it for themselves, 2002:</subfield>
+    <subfield code="b">t.p. (Michael Jones) BL AL sent 21 Jan. 2003</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 29 Jan. 2003</subfield>
+    <subfield code="b">(Francis Michael Jones, born 10 Mar. 1949)</subfield>
+  </datafield>
+</record>
