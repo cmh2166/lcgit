@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01012cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2010065792</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160826094429.0</controlfield>
+  <controlfield tag="008">101002n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010065792</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meléndez Julio, Inocencio</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">San Onofre (Colombia)</subfield>
+    <subfield code="c">Colombia</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Public contracts</subfield>
+    <subfield code="a">Law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Fundación Universitaria Autónoma de Colombia</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lawyers</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Julio, Inocencio Meléndez</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Meléndez Julio, Inocencio. La responsabilidad contractual en el derecho público de los contratos estatales, 2009:</subfield>
+    <subfield code="b">t.p. (Inocencio Meléndez Julio) p. 4 of cover (b. en San Onofre, Sucre; es abogado ... Univ. Autónoma de Colombia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Tratado de derecho de los contratos estatales y de la responsailidad contractual, 2015 :</subfield>
+    <subfield code="b">title page (Inocencio Meléndez Julio) page 11 (Inocencio Meléndez Julio. Abogado... Profesor Universitario)</subfield>
+  </datafield>
+</record>
