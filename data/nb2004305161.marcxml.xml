@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01030cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2004305161</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816081335.0</controlfield>
+  <controlfield tag="008">041004n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2004305161</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006014833</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">NATO Advanced Study Institute on Forces, Growth and Form in Soft Condensed Matter</subfield>
+    <subfield code="d">(2003 :</subfield>
+    <subfield code="c">Geilo, Norway)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Advanced Study Institute on Forces, Growth and Form in Soft Condensed Matter, NATO</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Forces, Growth and Form in Soft Condensed Matter, NATO Advanced Study Institute on</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Institute on Forces, Growth and Form in Soft Condensed Matter, NATO Advanced Study</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Forces, growth and form in soft condensed matter, c2004:</subfield>
+    <subfield code="b">t.p.verso (NATO Advanced Study Institute on Forces, Growth and Form in Soft Condensed Matter: At the Interface between Physics and Biology, Geilo, Norway, 24 Mar.-3 Apr. 2004 [i.e. 2003])</subfield>
+  </datafield>
+</record>
