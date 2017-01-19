@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00883cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  88213265 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980813052521.3</controlfield>
+  <controlfield tag="008">900130n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88213265 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02676848 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Polishchuk, L. I.</subfield>
+    <subfield code="q">(Leonid Iosifovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Polishchuk, Leonid Iosifovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Polischuk, Leonid</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Analiz mnogokriterialʹnykh ėkonomiko-matem. modeleĭ, 1989:</subfield>
+    <subfield code="b">t.p. (L.I. Polishchuk) colophon (Polishchuk Leonid Iosifovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russian civil society, 1997:</subfield>
+    <subfield code="b">t.p. (Leonid Polischuk; IRIS Center, University of Maryland, College Park) p. 61, etc. (Polishchuk, L.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to L. Polishchuk, Aug. 7, 1998</subfield>
+    <subfield code="b">(full name is Leonid Iosifovich Polishchuk; author of Analiz mnogokriterialʹnykh ėkonomiko-matem. modeleĭ, and of Russian civil society)</subfield>
+  </datafield>
+</record>
