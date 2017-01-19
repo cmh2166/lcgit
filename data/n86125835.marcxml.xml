@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  86125835 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19860918071325.6</controlfield>
+  <controlfield tag="008">860811n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86125835 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Eslinger, Richard L.</subfield>
+    <subfield code="q">(Richard Laurence),</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A new hearing, c1987:</subfield>
+    <subfield code="b">CIP t.p. (Richard L. Eslinger) data sheet (b. 5/29/40) author's statement (Richard Laurence Eslinger; assoc. prof., Christian worship, Duke Univ. Divinity School)</subfield>
+  </datafield>
+</record>
