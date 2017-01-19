@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00568cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009004731</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121218074933.0</controlfield>
+  <controlfield tag="008">090113n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009004731</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07984104</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Di Bonaventura, Allegra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bonaventura, Allegra di</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Di Bonaventura, Dorothe Christina Allegra</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bonaventura, Dorothe Christina Allegra di</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">This little world, 2008:</subfield>
+    <subfield code="b">t.p.(Allegra di Bonaventura) p. 2 (Dorothe Christina Allegra di Bonaventura)</subfield>
+  </datafield>
+</record>
