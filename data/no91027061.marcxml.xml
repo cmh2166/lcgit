@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00618nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 91027061 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911112140003.9</controlfield>
+  <controlfield tag="008">911109n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91027061 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Mozambique.</subfield>
+    <subfield code="b">Serviços de Veterinária</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Mozambique.</subfield>
+    <subfield code="b">Veterinária, Serviços de</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Mozambique.</subfield>
+    <subfield code="b">Serviços de Veterinária e Indústria Animal</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anais dos Serviços de Veterinária, 1955-1959:</subfield>
+    <subfield code="b">t.p. (Provincia de Moçambique)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Anais dos Serviços de Veterinária e Indústria Animal, 1947: t.p. (Provincia de Moçambique)</subfield>
+  </datafield>
+</record>
