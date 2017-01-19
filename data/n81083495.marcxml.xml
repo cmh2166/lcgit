@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00764nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  81083495 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">810805n| acannaab|          |n ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81083495 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MnHi</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Minnesota.</subfield>
+    <subfield code="b">Constitutional Convention</subfield>
+    <subfield code="d">(1857 :</subfield>
+    <subfield code="g">Republican)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The Democratic and the Republican delegates to the Minnesota Constitutional Convention met separately, and each faction drafted a constitution. A joint committee of the two factions them met to prepare a single document. (Cf. Folwell, W.W. A history of Minnesota, 1956: v. 1, p. 397-421)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Debates and proceedings of the Constitutional Convention for the territory of Minnesota, 1858:</subfield>
+    <subfield code="b">t.p. (Constitutional Convention for the territory of Minnesota)</subfield>
+  </datafield>
+</record>
