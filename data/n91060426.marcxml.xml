@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01190cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  91060426 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130807073739.0</controlfield>
+  <controlfield tag="008">910618n| azaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91060426 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03087571</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU</subfield>
+    <subfield code="d">TxU</subfield>
+    <subfield code="d">TxU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">FU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Serie Monografías históricas</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universidad Católica de Valparaíso.</subfield>
+    <subfield code="b">Instituto de Historia.</subfield>
+    <subfield code="t">Serie Monografías históricas</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Monografías históricas (Valparaíso, Chile)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Colección Monografías históricas</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 4</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">TxU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Valparaíso, Chile</subfield>
+    <subfield code="b">Instituto de Historia, Universidad Católica de Valparaíso</subfield>
+    <subfield code="b">Editorial Iártole</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">TxU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">TxU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">TxU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Urbina B., R. Las misiones franciscanas de Chiloé ... 1990:</subfield>
+    <subfield code="b">t.p. (Serie Monografías históricas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La división político-administrativa de Chile, 1541-1811, 1989:</subfield>
+    <subfield code="b">t.p. (Serie Monografías históricas) prelim. p. 1 (Colección Monografías históricas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Valparaíso, c2000:</subfield>
+    <subfield code="b">t.p. (Serie Monografías históricas)</subfield>
+  </datafield>
+</record>
