@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00946cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 89010440 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161227172513.0</controlfield>
+  <controlfield tag="008">890727n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89010440 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02572992</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19030716</subfield>
+    <subfield code="g">19710417</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lombardo, Carmen,</subfield>
+    <subfield code="d">1903-1971</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thrill of a lifetime [MP] 1937:</subfield>
+    <subfield code="b">credits (Carmen Lombardo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Perf. arts biog. master index, c1981</subfield>
+    <subfield code="b">(Lombardo, Carmen; b. 1903 (4 sources) b. 1904 (1 source) d. 1971)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The enc. of mus. in Canada WWW site, Oct. 18, 2012</subfield>
+    <subfield code="b">(Carmen Lombardo; b. July 16, 1903, Ont., d. Apr. 17, 1971, Miami; saxophonist, singer, songwriter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Social Security death master file WWW site, Oct. 18, 2012</subfield>
+    <subfield code="b">(Carmen Lombardo; b. July 16, 1903, d. Apr. 1971)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Find a grave WWW site, Oct. 18, 2012</subfield>
+    <subfield code="b">(Carmen Lombardo; 1903-1971)</subfield>
+  </datafield>
+</record>
