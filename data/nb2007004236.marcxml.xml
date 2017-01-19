@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00697nz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2007004236</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070215075013.0</controlfield>
+  <controlfield tag="008">070213n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2007004236</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006720550</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferrero di Lavriano, F. M.</subfield>
+    <subfield code="q">(Francesco Maria)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Di Lavriano, F. M. Ferrero</subfield>
+    <subfield code="q">(Francesco Maria Ferrero)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lavriano, F. M. Ferrero di</subfield>
+    <subfield code="q">(Francesco Maria Ferrero di)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ferrero di Lavriano, Francesco Maria</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Histoire geĚneaĚlogique de la maison royale de Savoye, 2003?:</subfield>
+    <subfield code="b">t.p. (F.M. Ferrero di Lavriano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN database, 13 Feb. 2007</subfield>
+    <subfield code="b">(hdg.: Ferrero di Lavriano, Francesco Maria)</subfield>
+  </datafield>
+</record>
