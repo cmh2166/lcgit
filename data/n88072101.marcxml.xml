@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00788cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88072101 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070726074914.0</controlfield>
+  <controlfield tag="008">880720n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88072101 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Barkan, Elliott Robert</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Barkan, Elliott R.</subfield>
+    <subfield code="q">(Elliott Robert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Portrait of a party, 1988:</subfield>
+    <subfield code="b">CIP t.p. (Elliott Robert Barkan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 7-18-88</subfield>
+    <subfield code="b">(hdg.: Barkan, Elliott Robert; usage: Elliott Robert Barkan; Elliott R. Barkan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Making it in America, 2001:</subfield>
+    <subfield code="b">ECIP t.p. (Elliott Robert Barkan) data view (b. Dec. 15, 1940)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boundaries, borders, and bonds, 2007:</subfield>
+    <subfield code="b">CIP t.p. (Elliott R. Barkan) data view (emeritus professor, history and ethnic studies, California State U., San Bernardino)</subfield>
+  </datafield>
+</record>
