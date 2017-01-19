@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00497nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2011076734</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111103075019.0</controlfield>
+  <controlfield tag="008">111102n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011076734</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jiang, Guangyou,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">蒋光友,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jinuo yu can kao yu fa, 2010:</subfield>
+    <subfield code="b">t.p. (蒋光友 = Jiang Guangyou) front flap (b. 1966, lecturer, Chongqing li gong da xue wai guo yu xue yuan)</subfield>
+  </datafield>
+</record>
