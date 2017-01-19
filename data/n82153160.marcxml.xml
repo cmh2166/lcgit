@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00783cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  82153160 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081106075402.0</controlfield>
+  <controlfield tag="008">830209n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82153160 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00849171</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kuwahara, Yōko,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sangwŏn, Yangja,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">桑原洋子,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Shakai fukushi hōsei yōsetsu, 1982:</subfield>
+    <subfield code="b">t.p. (Kuwahara Yōko) colophon (r; b. Shōwa 6; prof., Hanazono Daigaku Bungakubu Shakai Fukushi Gakka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yŏsŏng kwa pokchi, 1997:</subfield>
+    <subfield code="b">t.p. (Kuwahara Yōko [in jpn. r.]; Sangwŏn Yangja [in kor. r.])</subfield>
+  </datafield>
+</record>
