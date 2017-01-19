@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00846cz  a2200193n  4500</leader>
+  <controlfield tag="001">nb2012020282</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130328080711.0</controlfield>
+  <controlfield tag="008">120829n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2012020282</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008566803</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1350?</subfield>
+    <subfield code="g">1412?</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Diego,</subfield>
+    <subfield code="c">de Valencia de León, fray,</subfield>
+    <subfield code="d">1350?-1412?</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Valencia de León, Diego,</subfield>
+    <subfield code="c">fray,</subfield>
+    <subfield code="d">1350?-1412?</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Valencia de León, Diego de,</subfield>
+    <subfield code="c">fray,</subfield>
+    <subfield code="d">1350?-1412?</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le poesie di fray Diego de Valencia de León, c2012:</subfield>
+    <subfield code="b">back cover (doctor, theologian, poet; author of 42 works written between 1380-1410) p. 9 (Franciscan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 29 Aug. 2012</subfield>
+    <subfield code="b">(hdg.: Diego de Valencia de León, 1350?-1412?)</subfield>
+  </datafield>
+</record>
