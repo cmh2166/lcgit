@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00485nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  84805907 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19841113091822.8</controlfield>
+  <controlfield tag="008">841109n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84805907 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Oberg, Erik,</subfield>
+    <subfield code="d">1881-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Oberg, Erik Valdemar,</subfield>
+    <subfield code="d">1881-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 21-4405: His Solution of triangles, 1921</subfield>
+    <subfield code="b">(hdg.: Oberg, Erik Valdemar, 1881- ; usage: Erik Oberg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10-31-84</subfield>
+    <subfield code="b">(hdg.: Oberg, Erik Valdemar, 1881- )</subfield>
+  </datafield>
+</record>
