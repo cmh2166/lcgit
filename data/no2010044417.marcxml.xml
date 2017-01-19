@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00484nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010044417</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100318075246.0</controlfield>
+  <controlfield tag="008">100316n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010044417</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08427210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Beake, Lesley.</subfield>
+    <subfield code="t">Last minute.</subfield>
+    <subfield code="l">Xhosa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Beake, Lesley.</subfield>
+    <subfield code="t">Ngomzuzu wokugqibela</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ngomzuzu wokugqibela, 2007.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">Beake, Lesley,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Last minute.</subfield>
+    <subfield code="l">Xhosa</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
