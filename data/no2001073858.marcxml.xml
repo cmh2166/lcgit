@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00573nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001073858</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010918071043.0</controlfield>
+  <controlfield tag="008">010917n| acaabaaa           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001073858</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05583688</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB-M</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB-M</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Faszination Musik</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Holzgerlingen, Germany</subfield>
+    <subfield code="b">HaĚnssler Classic</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">RPB-M</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">RPB-M</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">RPB-M</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wunderlich, F. Geistliche Lieder [SR] p2000:</subfield>
+    <subfield code="b">label (Faszination Musik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 27, 2001:</subfield>
+    <subfield code="b">(hdg.: Faszination Musik)</subfield>
+  </datafield>
+</record>
