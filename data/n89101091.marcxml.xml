@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00526cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  89101091 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940204163841.7</controlfield>
+  <controlfield tag="008">930924n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89101091 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Budhauliyā, Harimohana</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Harimohana Budhauliyā</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Hari Mohan Budholia</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Budholia, Hari Mohan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Amr̥ta aura visha, punarmūlyāṅkana, 1993:</subfield>
+    <subfield code="b">t.p. (Do. Harimohana Budhauliyā) t.p. verso (Hari Mohan Budholia) p. 11 (Vikram U., Ujjain)</subfield>
+  </datafield>
+</record>
