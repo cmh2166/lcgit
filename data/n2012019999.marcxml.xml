@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00864nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2012019999</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120327074852.0</controlfield>
+  <controlfield tag="008">120326n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012019999</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pirozhkov, V. N.</subfield>
+    <subfield code="q">(Valentin Nikolaevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Пирожков, В. Н.</subfield>
+    <subfield code="q">(Валентин Николаевич)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pirozhkov, Valentin Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Пирожков, Валентин Николаевич</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Opredelenii︠a︡ Verkhovnogo Suda Rossiĭskoĭ Federat︠s︡ii po delam ob osparivanii normativnykh pravovykh aktov subʺektov Rossiĭskoĭ Federat︠s︡ii : 2008, 2009:</subfield>
+    <subfield code="b">t.p. verso (В.H. Пирожков = V.N. Pirozhkov;  Валентин Николаевич Пирожков = Valentin Nikolaevich Pirozhkov)</subfield>
+  </datafield>
+</record>
