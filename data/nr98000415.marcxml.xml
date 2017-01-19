@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00453nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 98000415 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980214051107.9</controlfield>
+  <controlfield tag="008">980106n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98000415 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Malmen, Lennart</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Elvira Madigan, 1967:</subfield>
+    <subfield code="b">credits (Lennart Malmer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Jan. 6, 1998</subfield>
+    <subfield code="b">(Lennart Malmer, cinematographer, director, miscellaneous crew, writer, producer, actor, composer)</subfield>
+  </datafield>
+</record>
