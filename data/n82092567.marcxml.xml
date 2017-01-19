@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00784cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  82092567 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090115080712.0</controlfield>
+  <controlfield tag="008">820713n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82092567 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00789197</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shalabī, Ismāʻīl ʻAbd al-Raḥīm</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ismāʻīl ʻAbd al-Raḥīm Shalabī</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">شلبي، إسماعيل عبد الرحيم</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His al-Takāmul al-iqtiṣādī bayna al-duwal al-Islāmīyah, 1980:</subfield>
+    <subfield code="b">t.p. (Duktūr Ismāʻīl ʻAbd al-Raḥīm Shalabī, Jām. al Malik ʻAbd al-ʻAzīz, Kull. al-Sharīʻah wa-al-Dir. al-Islām.)</subfield>
+  </datafield>
+</record>
