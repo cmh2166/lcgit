@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00786cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr2003022283</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080916082001.0</controlfield>
+  <controlfield tag="008">030709n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003022283</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06101963</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sin, Kwi-hyŏn,</subfield>
+    <subfield code="d">1934-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">신 귀현,</subfield>
+    <subfield code="d">1934-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">신귀현,</subfield>
+    <subfield code="d">1934-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tʻoegye Yi Hwang, ye itko twi rŭl yŏrŏ kogŭm ŭl kkwe tturŭsyŏsso, 2001:</subfield>
+    <subfield code="b">t.p. (Sin Kwi-hyŏn) front flap (b. 1943 in Kyŏngbuk Yŏngdŏk; grad, Sŏul Taehakkyo Chʻŏrhakkwa; Ph.D., Sŭwisŭ Pajel Taehakkyo Chʻŏrhak Yŏksa Hakpu; ex. prof., Yongnamdae)</subfield>
+  </datafield>
+</record>
