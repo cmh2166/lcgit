@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00761cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84229383 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000523064231.0</controlfield>
+  <controlfield tag="008">841022n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84229383 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01212360</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Saravia Antúnez, José R.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Saravia Antunez, J. R.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Saravia Antúnez, J. R.</subfield>
+    <subfield code="q">(José R.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Antúnez, José R. Saravia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Las prerrogativas de la administración pública, c1983:</subfield>
+    <subfield code="b">t.p. (José R. Saravia Antúnez; profesor adscripto de derecho administrativo, Facultad de Derecho y Ciencias Sociales) p. 7 (uruguayo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10/3/84</subfield>
+    <subfield code="b">(hdg.: Saravia Antunez, J. R.; usage: J.R. Saravia Antunez)</subfield>
+  </datafield>
+</record>
