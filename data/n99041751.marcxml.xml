@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00738cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  99041751 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120313074749.0</controlfield>
+  <controlfield tag="008">990604n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99041751 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG3549.C48</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cherent︠s︡ova, Oli︠a︡</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cherentsova, Olya</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cherent︠s︡ova, Olʹga</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cherent︠s︡ova, O. L.</subfield>
+    <subfield code="q">(Olʹga Lʹvovna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gorod v Tekhase, 1999:</subfield>
+    <subfield code="b">CIP t.p. (Oli︠a︡ Cherent︠s︡ova) verso t.p. (Olya Cherentsova [in rom.]) p. 164 (b. in Moscow; emigrated to U.S. in 1981)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dvoĭnik, 2009:</subfield>
+    <subfield code="b">t.p. (Olʹga Cherent︠s︡ova) t.p. verso (Cherent︠s︡ova O.L.) colophon (Olʹga Lʹvovna Cherent︠s︡ova)</subfield>
+  </datafield>
+</record>
