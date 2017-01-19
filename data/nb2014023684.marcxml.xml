@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00702nz  a2200193n  4500</leader>
+  <controlfield tag="001">nb2014023684</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141017050902.0</controlfield>
+  <controlfield tag="008">141016n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014023684</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009161048</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vöhringer, Nicola</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Canada</subfield>
+    <subfield code="e">Toronto (Ont.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Toronto. Department of Germanic Languages</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spatial practices, 2014:</subfield>
+    <subfield code="b">t.p. (Nicola Vöhringer) back cover (She studied at the Universities of Tübingen, Strasbourg and Nebraska; currently a on a PhD programme at the University of Toronto, Department of Germanic Languages)</subfield>
+  </datafield>
+</record>
