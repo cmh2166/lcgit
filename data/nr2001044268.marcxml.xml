@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00612cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2001044268</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020314033208.0</controlfield>
+  <controlfield tag="008">011026n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001044268</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Srpska književnost za decu.</subfield>
+    <subfield code="n">Šesto kolo</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Srpska književnost za decu.</subfield>
+    <subfield code="n">6. kolo</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Srpska književnost za decu.</subfield>
+    <subfield code="n">VI kolo</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Beograd</subfield>
+    <subfield code="b">Bookland</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orlovi rano lete, 2000:</subfield>
+    <subfield code="b">ser. t.p. (Srpska književnost za decu. Šesto kolo) p. 4 of cover (VI kolo)</subfield>
+  </datafield>
+</record>
