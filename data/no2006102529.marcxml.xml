@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00735cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2006102529</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323093945.0</controlfield>
+  <controlfield tag="008">060927n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006102529</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07063455</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NIC-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">flute, orchestra,</subfield>
+    <subfield code="n">K. 313,</subfield>
+    <subfield code="r">G major;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">flute, orchestra,</subfield>
+    <subfield code="n">K. 313,</subfield>
+    <subfield code="r">G major;</subfield>
+    <subfield code="o">arr.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">panpipes, orchestra,</subfield>
+    <subfield code="n">K. 313,</subfield>
+    <subfield code="r">G major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Syrinx. Syrinx joue, p1985:</subfield>
+    <subfield code="b">container (Concerto pour fluĚte et orchestre no. 1, KV. 313 (solo part adapted for panpipes))</subfield>
+  </datafield>
+</record>
