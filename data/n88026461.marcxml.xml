@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00661cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88026461 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080312075416.0</controlfield>
+  <controlfield tag="008">880805n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88026461 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02335189</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">American Architectural Foundation</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">American Institute of Architects Foundation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Energy design for architects, c1989:</subfield>
+    <subfield code="b">CIP t.p. (American Architectural Foundation; American Institute of Architects Foundation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to the Foundation, 8/3/88</subfield>
+    <subfield code="b">(American Institute of Architects Foundation changed its name to American Architectural Foundation)</subfield>
+  </datafield>
+</record>
