@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2001061332</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010323085830.0</controlfield>
+  <controlfield tag="008">010323n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001061332</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zaratiegui, J. A.</subfield>
+    <subfield code="q">(Juan Antonio),</subfield>
+    <subfield code="d">1804-1869</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zaratiegui, Juan Antonio,</subfield>
+    <subfield code="d">1804-1869</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Zaratiegui, Juan Antonio de,</subfield>
+    <subfield code="d">1804-1869</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zaratiegui, J. A. Vida y hechos de don Tomaás Zumalacarregui, duque de la Victoria, conde de Zumalacarregui, y capitán general del ejército de S.M. don Carlos V, 1845:</subfield>
+    <subfield code="b">t.p. (general del mismo ejército D. J.A. Zaratiegui)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Mar. 23, 2001</subfield>
+    <subfield code="b">(hdg.: Zaratiegui, Juan Antonio de, 1804-1869. [from old catalog])</subfield>
+  </datafield>
+</record>
