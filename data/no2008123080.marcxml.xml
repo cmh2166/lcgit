@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008123080</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080827080924.0</controlfield>
+  <controlfield tag="008">080822n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008123080</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07859267</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shemesh, Avraham</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">שמש, אברהם</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Śiaḥ Avraham, 2007 or 2008-  :</subfield>
+    <subfield code="b">v. 1, t.p. (אברהם שמש = Avraham Shemesh) haskamot (R. Avraham Shemesh, rosh mosdot ʻAṭeret Aharon, Ramat ha-Sharon &amp; Elʻad)</subfield>
+  </datafield>
+</record>
