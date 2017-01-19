@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00819cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2004000405</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070207084043.0</controlfield>
+  <controlfield tag="008">040106n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004000405</subfield>
+    <subfield code="z">n 2003108179</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Rossiĭskiĭ nauchno-issledovatelʹskiĭ i proektno-izyskatelʹskiĭ institut zemelʹnykh resursov</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">RosNIIzemproekt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pochvennyĭ pokrov i zemelʹnye resursy Rossiĭskoĭ Federat︠s︡ii, 2001:</subfield>
+    <subfield code="b">t.p. (Rossiĭskiĭ nauchno-issledovatelʹskiĭ i proektno-izyskatelʹskiĭ institut zemelʹnykh resursov (RosNIIzemproekt))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Predostavlenie zemelʹnykh uchastkov dli︠a︡ stroitelʹstva obʺektov neftegazovogo kompleksa, promyshlennosti, transporta, liniĭ svi︠a︡zi i ėlektroperedachi, 2001:</subfield>
+    <subfield code="b">t.p. (RosNIIzemproekt)</subfield>
+  </datafield>
+</record>
