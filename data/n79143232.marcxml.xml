@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00404cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  79143232 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060518155754.0</controlfield>
+  <controlfield tag="008">791219n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79143232 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hughes, Ted,</subfield>
+    <subfield code="d">1930-1998.</subfield>
+    <subfield code="t">Crow.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hughes, Ted,</subfield>
+    <subfield code="d">1930-1998.</subfield>
+    <subfield code="t">Selections from Crow and Wodwo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Selections from Crow and Wodwo [SR] p1979.</subfield>
+  </datafield>
+</record>
