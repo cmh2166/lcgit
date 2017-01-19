@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00710cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  90694503 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316085905.0</controlfield>
+  <controlfield tag="008">900918n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90694503 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1953</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jones, P. C.</subfield>
+    <subfield code="q">(Peter C.),</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Peter C.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Peter,</subfield>
+    <subfield code="d">1953 September 21-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Peter C.,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Public sector auditing, 1990:</subfield>
+    <subfield code="b">CIP t.p. (P. Jones) data sheet (Jones, Peter) bk. t.p. (P.C. Jones, BSc (Econ), IPFA, MIIA; chief internal auditor, North Avon District Council) cover, p. 4 (Peter Jones)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call from Chapman and Hall, 9-17-90</subfield>
+    <subfield code="b">(Peter Jones; b. 9-21-53)</subfield>
+  </datafield>
+</record>
