@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00491nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015150040</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151110073604.0</controlfield>
+  <controlfield tag="008">151109n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015150040</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10317015</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brivio, Giuseppina</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Lissone (Italy)</subfield>
+    <subfield code="c">Italy</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Women sculptors</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giuseppina Brivio, 1962</subfield>
+    <subfield code="b">first unnumbered page (sculptress) fourth unnumbered page (born and lives in Lissone)</subfield>
+  </datafield>
+</record>
