@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00852cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96066325 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030708052602.0</controlfield>
+  <controlfield tag="008">961216n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96066325 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04230422</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VtMiM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">VtMiM-Mu</subfield>
+    <subfield code="d">MNS-J</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="n">op. 11.</subfield>
+    <subfield code="n">No. 5</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">violin, string orchestra,</subfield>
+    <subfield code="n">RV 202,</subfield>
+    <subfield code="r">C minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">violin, string orchestra,</subfield>
+    <subfield code="n">P. 417,</subfield>
+    <subfield code="r">C minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vivaldi, Antonio,</subfield>
+    <subfield code="d">1678-1741.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">violin, string orchestra,</subfield>
+    <subfield code="n">F. I, 210,</subfield>
+    <subfield code="r">C minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vivaldi, A. Concerto in do min., op. XI, n. 5, per violino e orchestra d'archi, 1960.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ryom</subfield>
+    <subfield code="b">(RV 202, Concerto en ut mineur, Op. 11 no 5; Pincherle: 417 = Fanna: F. I n. 210)</subfield>
+  </datafield>
+</record>
