@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 95000821 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950111123828.7</controlfield>
+  <controlfield tag="008">950111n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95000821 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DGPO</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Winston, Rhonda Reid,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Reid, Rhonda Lavonne,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Cong. Senate. Comm. on Governmental Affairs. Nominations of Judith Bartnoff, Zoe Alice Bush, and Rhonda Reid Winston, hearing, 1994:</subfield>
+    <subfield code="b">t.p. (Rhonda Reid Winston; to be associate judge, Superior Court of the District of Columbia) p. 22 (Rhonda Reid Winston; Rhonda Lavonne Reid, Rhonda L. Reid; b. May 22, 1954)</subfield>
+  </datafield>
+</record>
