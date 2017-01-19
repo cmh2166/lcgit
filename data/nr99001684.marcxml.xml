@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00907nz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 99001684 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990120051526.8</controlfield>
+  <controlfield tag="008">990115n| acannaab|          |a aac     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99001684 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Mehmet Esat Dede,</subfield>
+    <subfield code="d">1841-1911</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Mehmed Esad Dede,</subfield>
+    <subfield code="d">1841-1911</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Esat Dede,</subfield>
+    <subfield code="d">1841-1911</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Mehmet Esat,</subfield>
+    <subfield code="d">1841-1911</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Esat, Mehmet,</subfield>
+    <subfield code="d">1841-1911</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mümune-yi kavaid, 1890 or 1891:</subfield>
+    <subfield code="b">t.p. (Mehmet Esat; Mekteb-i Nümune-yi Terakki Lisan-ı Farisi muallimi) p. 104 (Mehmet Esat Dede) p. 105 (Esat Dede Efendi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Özege</subfield>
+    <subfield code="b">no. 15601 (Mehmed Esad Dede)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Türk dili ve edeb. ansik.</subfield>
+    <subfield code="b">(Esad Dede; Sufi poet; Selânik 1841- Istanbul 1911)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Türk edeb. ansik.</subfield>
+    <subfield code="b">(Esat Dede; poet; Selanik 1841- Istanbul 1911; father's name Recep)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Büyük Lûgat ve ansik.;</subfield>
+    <subfield code="a">Türk ansik.</subfield>
+  </datafield>
+</record>
