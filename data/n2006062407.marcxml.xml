@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00678cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2006062407</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323081952.0</controlfield>
+  <controlfield tag="008">060815n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006062407</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2002</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Făttakh, Nurikhan,</subfield>
+    <subfield code="d">1928-</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="f">2002</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Făttakh, Nurikhan,</subfield>
+    <subfield code="d">1928-</subfield>
+    <subfield code="t">Izbrannye proizvedenii︠a︡.</subfield>
+    <subfield code="f">2002</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Făttakh, Nurikhan,</subfield>
+    <subfield code="d">1928-</subfield>
+    <subfield code="t">Saĭlanma ăsărlăr.</subfield>
+    <subfield code="f">2002</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Făttakh, Nurikhan,</subfield>
+    <subfield code="d">1928-</subfield>
+    <subfield code="t">Selections.</subfield>
+    <subfield code="f">2002</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Făttakh, Nurikhan. Saĭlanma ăsărlăr, 2002:</subfield>
+    <subfield code="b">added t.p. (Izbrannye proizvedenii︠a︡)</subfield>
+  </datafield>
+</record>
