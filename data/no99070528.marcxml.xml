@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 99070528 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100524075146.0</controlfield>
+  <controlfield tag="008">990927n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99070528 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0764335</subfield>
+    <subfield code="e">W0764335</subfield>
+    <subfield code="f">N0425508</subfield>
+    <subfield code="g">N0425508</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05072105</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AzTeS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AzTeS</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Cayuga (N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Flood insurance study, 1977:</subfield>
+    <subfield code="b">t.p. (village of Cayuga, New York, Cayuga County)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, 20 Sept. 1999 (Cayuga, Cayuga County, New York, 425̊5' N 0764̊3' W)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 42°55ʹ08ʺN 076°43ʹ35ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">New York (State)</subfield>
+    <subfield code="z">Cayuga</subfield>
+  </datafield>
+</record>
