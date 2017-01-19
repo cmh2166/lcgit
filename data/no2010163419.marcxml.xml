@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00581cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010163419</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101122151816.0</controlfield>
+  <controlfield tag="008">101007n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010163419</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08649748</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PA5638.23.E45</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mēllas, Giōrgos,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Μηλλάς, Γιώργος,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hoso se paei to oneiro, 2009:</subfield>
+    <subfield code="b">t.p. (Γιώργος Μηλλάς = Giōrgos Mēllas) cover flap (b. 1936, in Athens)</subfield>
+  </datafield>
+</record>
