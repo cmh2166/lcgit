@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00779cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012035273</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140514073843.0</controlfield>
+  <controlfield tag="008">120309n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012035273</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09139493</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PSt</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20110228</subfield>
+    <subfield code="t">20110301</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Early Childhood Care and Education Workforce: A Workshop</subfield>
+    <subfield code="d">(2011 :</subfield>
+    <subfield code="c">Georgetown University)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Georgetown University</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Workshop, Early Childhood Care and Education Workforce</subfield>
+    <subfield code="d">(2011 :</subfield>
+    <subfield code="c">Georgetown University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The early childhood care and education workforce, challenges and opportunities, c2012:</subfield>
+    <subfield code="b">p. 99 (Early Childhood Care and Education Workforce: A Workshop, Feb. 28 and March 1, 2011, Georgetown Univ., Washington, D.C.)</subfield>
+  </datafield>
+</record>
