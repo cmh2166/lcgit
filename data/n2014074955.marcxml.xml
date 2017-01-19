@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00606nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2014074955</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141203164347.0</controlfield>
+  <controlfield tag="008">141203n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014074955</subfield>
+    <subfield code="z">n  79015374 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19120829</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Atkins, Peter,</subfield>
+    <subfield code="d">1912-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentaited name record: n  79015374</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Buffoon in flight, some misadventures of an observer, 24 Squadron S.A.A.F., 1978:</subfield>
+    <subfield code="b">t.p. (Peter Atkins)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB correspondence with author, Jan. 16, 1979</subfield>
+    <subfield code="b">(b. Aug. 29, 1912)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="7">
+    <subfield code="a">Atkins, Peter,</subfield>
+    <subfield code="d">1912-</subfield>
+    <subfield code="2">sanb</subfield>
+  </datafield>
+</record>
