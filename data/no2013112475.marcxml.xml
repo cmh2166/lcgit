@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00906nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013112475</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131012073621.0</controlfield>
+  <controlfield tag="008">131011n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013112475</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09589141</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PE-LiPUB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PE-LiPUB</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arrieta Valderrama, Gustavo Andrés</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Mechanical engineer</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Valderrama, Gustavo Andrés Arrieta</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Metodología de optimización numérica multi-objetivo y de simulación numérica de la interacción fluido-estructura del desempeño de un agitador con impulsor PBT variando ángulo, altura y velocidad de rotación utilizando ANSYS CFX, MECHANICAL y DESIGN EXPLORER, 2012:</subfield>
+    <subfield code="b">t.p. (Gustavo Andrés Arrieta Valderrama; Pontificia Universidad Católica del Perú. Facultad de Ciencias e Ingeniería; Licenciado en Ingeniería Mecánica)</subfield>
+  </datafield>
+</record>
