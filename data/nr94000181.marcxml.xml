@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01065cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 94000181 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940205065425.8</controlfield>
+  <controlfield tag="008">940104n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94000181 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+    <subfield code="d">MiU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</subfield>
+    <subfield code="b">Local 148 (Long Beach, Calif.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Local 148 UAW-CIO</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">UAW-CIO Local 148</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</subfield>
+    <subfield code="b">Douglas Long Beach Local 148</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Douglas Long Beach Local 148 UAW-CIO</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Long Beach UAW-CIO Local No. 148</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tradewind (Long Beach, Calif.), Dec. 4, 1944, surrogate:</subfield>
+    <subfield code="b">caption (Local 148 UAW-CIO) p. 2 (UAW-CIO Local 148)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Free press (International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America. Local 148 (Long Beach, Calif.)), Oct. 30, 1944, surrogate:</subfield>
+    <subfield code="b">caption (Douglas Long Beach Local 148 UAW-CIO) p. 1 (Long Beach UAW-CIO Local No. 148)</subfield>
+  </datafield>
+</record>
