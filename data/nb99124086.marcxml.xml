@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00463nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb 99124086 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000329050307.0</controlfield>
+  <controlfield tag="008">000328n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 99124086 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Harris, Cindy,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Harris, Cynthia Joyce,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The whole house book, 1998:</subfield>
+    <subfield code="b">t.p. (Cindy Harris) BL AL sent 21 Mar. 2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 28 Mar. 2000</subfield>
+    <subfield code="b">(Cynthia Joyce Harris, born 12 Nov. 1947)</subfield>
+  </datafield>
+</record>
