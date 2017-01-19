@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  95922758 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101101074620.0</controlfield>
+  <controlfield tag="008">960821n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95922758 </subfield>
+    <subfield code="z">no 96051844 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04189183</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Silva, Marinalva Freire da,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Da Silva, Marinalva Freire,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Freire da Silva, Marinalva,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plural dos nomes em -ão na língua portuguesa, 1993?:</subfield>
+    <subfield code="b">t.p. (Marinalva Freire da Silva) p. 93 (b. in João Pessoa, 09/13/48; prof. Universidade Fed. da Paraíba; doctoral course in romanic philology, Spain)</subfield>
+  </datafield>
+</record>
