@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00466nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 89005414 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890509060652.1</controlfield>
+  <controlfield tag="008">890505n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89005414 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Jasniewicz, G.</subfield>
+    <subfield code="q">(Gérard)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Jasniewicz, Gérard</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Journées de Strasbourg (10th : 1988). Détection et classification des étoiles variables, 1988:</subfield>
+    <subfield code="b">t.p. (G. Jasniewicz) p. 1 (Gérard, Observatoire de Strasbourg)</subfield>
+  </datafield>
+</record>
