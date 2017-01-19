@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00866nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015158994</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151201073548.0</controlfield>
+  <controlfield tag="008">151130n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015158994</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10332339</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">European Radiation Dosimetry Group.</subfield>
+    <subfield code="b">Annual Meeting</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Meetings</subfield>
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Radiation dosimetry</subfield>
+    <subfield code="a">Radiography, Medical</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">See also related access points for individual instances of this meeting which include specific information about the number, date or place of the individual meeting</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Achievements of the CONRAD coordination action (FP6) and workshop on dosimetric issues in the medical use of ionizing radiation, 2008:</subfield>
+    <subfield code="b">title page (EURADOS Annual Meeting, Paris, France, January 23-25, 2008)</subfield>
+  </datafield>
+</record>
