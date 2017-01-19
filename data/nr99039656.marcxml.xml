@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743nz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 99039656 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011006033214.0</controlfield>
+  <controlfield tag="008">991215n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99039656 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Deschamps-Jéhin, Blanche,</subfield>
+    <subfield code="d">1857-1923</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Deschamps-Jéhin, Marie Blanche,</subfield>
+    <subfield code="d">1857-1923</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jéhin, Blanche Deschamps-,</subfield>
+    <subfield code="d">1857-1923</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jéhin, Marie Blanche Deschamps-,</subfield>
+    <subfield code="d">1857-1923</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harold Wayne collection. Volume 26 [SR], p1996:</subfield>
+    <subfield code="b">container (Blanche Deschamps-Jéhin) insert (Blanche Deschamps-Jéhin; b. 1857, Lyon; married conductor Leon Jéhin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove dict. of opera</subfield>
+    <subfield code="b">(b. Sept. 18, 1857, Lyons; d. June 1923, Paris; French contralto)</subfield>
+  </datafield>
+</record>
