@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00634nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2011095181</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110622075433.0</controlfield>
+  <controlfield tag="008">110620n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011095181</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08891978</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1942</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Custance, Michael,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Devon, England</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">director</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">producer</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">writer</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Party time, 2000:</subfield>
+    <subfield code="b">title frame (Michael Custance, producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDB, via WWW, June 17, 2011</subfield>
+    <subfield code="b">(Michael Custance; director, producer, writer; born 1942 in Devon, England)</subfield>
+  </datafield>
+</record>
