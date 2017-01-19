@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00713cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 00006068 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000531033904.0</controlfield>
+  <controlfield tag="008">000223n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00006068 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">SFP productions</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">SFP production</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Sociéte française de production.</subfield>
+    <subfield code="b">SFP productions</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SFP productions, created in 1994, is the production arm for all non-documentary films within the Sociéte française de production (SFP)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">France. Ministère des affaires étrangères website, Feb. 23, 2000:</subfield>
+    <subfield code="b">cinéma distributeurs (SPF productions, Paris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Frères, 1994:</subfield>
+    <subfield code="b">credits (une coproduction SFP production)</subfield>
+  </datafield>
+</record>
