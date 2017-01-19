@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00929cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2002039291</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120817084556.0</controlfield>
+  <controlfield tag="008">021023n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002039291</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05897576</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kim, Hyŏng-suk,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kim, Hyung Suk,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김 형숙,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hanʼgukhyŏng misulpʻum kyŏngmae chedo toip pangan yŏnʼgu, 2000:</subfield>
+    <subfield code="b">t.p. (Kim Hyŏng-suk; lecturer, Sŏultae Misul Ironkwa) p. 247 (Kim Hyung Suk [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nate Inmul Kŏmsaek WWW Home Page, Aug. 16, 2012</subfield>
+    <subfield code="b">(김 형숙 = Kim Hyŏng-suk; b. Feb. 14, 1967; grad., Sŏul Taehakkyo Taehagwŏn &amp; Ohio Churip Taehakkyo Taehagwŏn; asst. prof., Sŏul Taehakkyo Misuk Taehak Tongyanghwakwa)</subfield>
+  </datafield>
+</record>
