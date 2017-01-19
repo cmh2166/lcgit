@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01036nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2014129259</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141001073612.0</controlfield>
+  <controlfield tag="008">140930n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014129259</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09975644</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2009</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">Contra Nicostratum.</subfield>
+    <subfield code="l">Greek</subfield>
+    <subfield code="s">(Dilts)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">grc</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Dilts</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">Contra Nicostratum.</subfield>
+    <subfield code="l">Greek</subfield>
+    <subfield code="s">(Scriptorum classicorum bibliotheca Oxoniensis)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">Πρὸς Νικόστρατον</subfield>
+    <subfield code="s">(Dilts)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Demosthenes.</subfield>
+    <subfield code="t">Pros Nikostraton</subfield>
+    <subfield code="s">(Dilts)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Editor:</subfield>
+    <subfield code="a">Dilts, Mervin R.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">r</subfield>
+    <subfield code="i">In series:</subfield>
+    <subfield code="a">Scriptorum classicorum bibliotheca Oxoniensis</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Demosthenes. Demosthenis Orationes, MMII, 2002-2009:</subfield>
+    <subfield code="b">tomus 4 (2009) title page (recognivit ... M.R. Dilts) running title (Πρὸς Νικόστρατον) series title page (Scriptorum classicorum bibliotheca Oxoniensis)</subfield>
+  </datafield>
+</record>
