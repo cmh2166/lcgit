@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00571cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb 90004604 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050818105138.0</controlfield>
+  <controlfield tag="008">990802n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 90004604 </subfield>
+    <subfield code="z">n  50070267 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6053.R57</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Cronin, Michael,</subfield>
+    <subfield code="d">1907-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Cronin, Brendan Leo,</subfield>
+    <subfield code="d">1907-</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="a">Miles, David,</subfield>
+    <subfield code="d">1907-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Epitaph for a lady, 1980:</subfield>
+    <subfield code="b">t.p. (Michael Cronin) BL AL sent 20 Oct. 1988</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 24 Oct. 1988</subfield>
+    <subfield code="b">(Michael Cronin, born 17 June 1907; real name, Brendan Leo Cronin)</subfield>
+  </datafield>
+</record>
