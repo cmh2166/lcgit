@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00695nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004121284</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041216071055.0</controlfield>
+  <controlfield tag="008">041215n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004121284</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06517625</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VtMiM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">VtMiM-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Appleton, Jon H.,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">Sashasonjon</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Appleton, Jon H.,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">In memorium: Alexander Walden</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Appleton, Jon H.,</subfield>
+    <subfield code="d">1939-</subfield>
+    <subfield code="t">In memoriam: Alexander Walden</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Appleton, J.H. Four fantasies for synclavier [SR] p2002:</subfield>
+    <subfield code="b">container (Sashasonjon : In memorium [i.e. memoriam]: Alexander Walden (1981))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, Dec. 15, 2004</subfield>
+    <subfield code="b">(Sashasonjon, live elec, 1981)</subfield>
+  </datafield>
+</record>
