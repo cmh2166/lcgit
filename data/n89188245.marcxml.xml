@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00937cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  92057981 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020206052943.0</controlfield>
+  <controlfield tag="008">920529n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92057981 </subfield>
+    <subfield code="z">n  89188245 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03180172</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK8548.S56</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sital, Karapet,</subfield>
+    <subfield code="d">1891-1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shahinyan, Karapet,</subfield>
+    <subfield code="d">1891-1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sidal, Garabed,</subfield>
+    <subfield code="d">1891-1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sital, K.</subfield>
+    <subfield code="q">(Karapet),</subfield>
+    <subfield code="d">1891-1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sital, Karapet Shaenovich,</subfield>
+    <subfield code="d">1891-1972</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Oske hundz, 1962:</subfield>
+    <subfield code="b">t.p. (Karapet Sital) p. 3 (real name: Karapet Shahinyan; b. 1891, Kasht or Kachet vill., Shatakh dist., Vaspurakan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hayk. sovet. hanragit., 1984- :</subfield>
+    <subfield code="b">v. 10 (Sidal (Shahinyan) Karapet Shaheni, 1891-5/26/72, Philadelphia, PA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mam u Zin, 1951:</subfield>
+    <subfield code="b">t.p. (K. Sital)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DyutsĘťaznakan, 1957:</subfield>
+    <subfield code="b">t.p. verso (Karapet Shaenovich Sital)</subfield>
+  </datafield>
+</record>
