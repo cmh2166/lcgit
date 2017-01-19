@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00576nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014163036</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141211073541.0</controlfield>
+  <controlfield tag="008">141210n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014163036</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10036996</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1942</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martin, Floyd H.,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Martin, Floyd H. A case study of three alternative schools, 1972</subfield>
+    <subfield code="b">(Floyd H. Martin; Ed. D., University of Massachusetts, 1972) UMI data sheet (Martin, Floyd H., 1942- ) abstract (M.S., University of Hartford; B.S., Central Connecticut State College)</subfield>
+  </datafield>
+</record>
