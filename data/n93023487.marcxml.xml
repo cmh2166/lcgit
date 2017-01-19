@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00730cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  93023487 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080506074902.0</controlfield>
+  <controlfield tag="008">930312n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93023487 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03336141</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kawamura, R.</subfield>
+    <subfield code="q">(Ryūma),</subfield>
+    <subfield code="d">1918-2008</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kawamura, Ryūma,</subfield>
+    <subfield code="d">1918-2008</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fluid dynamics of high angle of attack, c1993:</subfield>
+    <subfield code="b">CIP t.p. (R. Kawamura) CIP t.p. verso (Prof. emeritus, Dept. Aeronautics, Fac. of Engineering, Univ. Tokyo) data sheet (b. 03/24/18)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kenkyūsha sōran, shizen, 1984:</subfield>
+    <subfield code="b">p. 1097 (Kawamura Ryūma; b. 3/24/18; D.Eng.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Asahi.com, May 4, 2008</subfield>
+    <subfield code="b">(Kawamura Ryūma; r; d. May 3, 2008 at age 90)</subfield>
+  </datafield>
+</record>
