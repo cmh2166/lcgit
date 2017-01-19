@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>02595cz  a2200325n  4500</leader>
+  <controlfield tag="001">no 91019630 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160405075418.0</controlfield>
+  <controlfield tag="008">910808n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91019630 </subfield>
+    <subfield code="z">n  81005476 </subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">http://viaf.org/viaf/114525625</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(ISNI)0000000081827835</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02998264</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1864</subfield>
+    <subfield code="g">1939</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pansier, P.</subfield>
+    <subfield code="q">(Pierre),</subfield>
+    <subfield code="d">1864-1939</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Pierre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Pansier, P.</subfield>
+    <subfield code="q">(Pierre),</subfield>
+    <subfield code="d">1864-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Pansier, P.</subfield>
+    <subfield code="q">(Pierre),</subfield>
+    <subfield code="d">b. 1864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Pansier, Paul</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pansier, Paul,</subfield>
+    <subfield code="d">1864-1939</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pansier, Pedro,</subfield>
+    <subfield code="d">1864-1939</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pansier, Pierre,</subfield>
+    <subfield code="d">1864-1939</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Les hôpitaux d'Avignon au moyen âge, 1907:</subfield>
+    <subfield code="b">t.p. (Dr. P. Pansier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 5-10-91</subfield>
+    <subfield code="b">(hdg.: Pansier, Pierre, 1864- ; usage: Paul [sic] Pansier, P. Pansier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Dictionnaire des anciennes rues d'Avignon, 1979:</subfield>
+    <subfield code="b">t.p. (Paul Pansier) 1930 t.p. (Dr P. Pansier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Aug. 21, 2013</subfield>
+    <subfield code="b">(hdg.: Pansier, Pedro, 1864- [from old catalog])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National Library of Catalonia via VIAF, Apr. 4, 2016</subfield>
+    <subfield code="b">(identifier: http://viaf.org/viaf/114525625; variant: Pansier, P. (Pierre), Pansier, P., Pansier, Paul, Pansier, Pierre; field of activity: Ecole de Médicine de Montpellier; related: Truc, Hermentaire, 1857-1929, Valude, Émile, 1857-; related title: Tractatus de conservatione sanitatis oculorum, Histoire de la langue provençale a Avignon du XIIe au XIXe siècle, Les Peintres d'Avignon aux XIVme et XVme siècles, Histoire du livre et de l'imprimerie à Avignon, Histoire de l'ophtalmologie a l'École de Montpellier du XIIe au XXe siècle, Histoire de la langue provençale à Avignon aux XIIme au XIXme. siècle, Traité d'électrothérapie oculaire, Breve conspecto de la oftalmología árabe)</subfield>
+    <subfield code="u">http://www.viaf.org/processed/BNC%7Ca11931073</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ISNI via VIAF, Apr. 4, 2016</subfield>
+    <subfield code="b">(ISNI: (ISNI)0000000081827835; variant: Pansier, Pierre, Pansier, P., Pansier, Paul, Pansier, Pedro; related: Clamon, Joseph, Millas Vallicrosa, J.M., Pamard, Alfred, 1837-1920), Pamard, Pierre François Bénézet, 1728-1793), Pansier, Fernande, Seguin, N., 16..-....), Teulié, Henri, Truc, Hermentaire, 1857-1929), Zacharias (Maître))</subfield>
+    <subfield code="u">http://www.viaf.org/processed/ISNI%7C0000000081827835</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sudoc [ABES], France via VIAF, Apr. 4, 2016</subfield>
+    <subfield code="b">(identifier: 0000000081827835; born: 1864; died: 1939)</subfield>
+    <subfield code="u">http://www.viaf.org/processed/SUDOC%7C034951741</subfield>
+  </datafield>
+</record>
