@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00401nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 96000067 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960104053257.6</controlfield>
+  <controlfield tag="008">960102n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96000067 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Abbatiale Saint-Michel (Gaillac, France)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Abbatiale Saint-Michel de Gaillac (Gaillac, France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'Abbatiale Saint-Michel de Gaillac et ses orgues, 1992.</subfield>
+  </datafield>
+</record>
