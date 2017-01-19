@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01145nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2011030878</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110228074707.0</controlfield>
+  <controlfield tag="008">110226n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011030878</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08780890</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Starhemberg, Kamillo Heinrich von,</subfield>
+    <subfield code="d">1835-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Von Starhemberg, Kamillo Heinrich,</subfield>
+    <subfield code="d">1835-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Starhemberg, Camillo Heinrich,</subfield>
+    <subfield code="c">Fürst von,</subfield>
+    <subfield code="d">1835-1900</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Von Starhemberg, Camillo Heinrich,</subfield>
+    <subfield code="c">Fürst,</subfield>
+    <subfield code="d">1835-1900</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Katalog einer reichhaltigen Sammlung von Ölgemälden, Aquarellen und Kupferstichen moderner und alter Meister, verschiedener anderer Kunstgegenstände, Bronzen, Münzen, Pretiosen etc. aus dem Nachlasse Sr. Durchlaucht des Herrn Camillo Heinrich Reichsfürsten zu Starhemberg, 1901.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Österreichisches Biographisches Lexikon 1815 - 1950, online ed., Jan. 30, 2011</subfield>
+    <subfield code="b">(Starhemberg, Camillo Heinrich Fürst von; politician and functionary; b. Jul. 31, 1835, Celje, Slovenia; d. Feb. 3, 1900, Vienna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB in VIAF, Jan. 30, 2011</subfield>
+    <subfield code="b">(hdg.: Starhemberg, Kamillo Heinrich von, 1835-1900)</subfield>
+  </datafield>
+</record>
