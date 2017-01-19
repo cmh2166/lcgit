@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91083324 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150901092307.0</controlfield>
+  <controlfield tag="008">910819n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91083324 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1943-12-09</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vance, Kenny</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rosenberg, Kenneth,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Heart of Dixie [SR] p1989:</subfield>
+    <subfield code="b">label (Kenny Vance)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All Music Guide, April 2, 2010:</subfield>
+    <subfield code="b">(Kenny Vance, singer, songwriter, producer, b. Kenneth Rosenberg, Dec. 9, 1943)</subfield>
+  </datafield>
+</record>
