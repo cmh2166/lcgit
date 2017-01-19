@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00773cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  84150984 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081029075244.0</controlfield>
+  <controlfield tag="008">840906n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84150984 </subfield>
+    <subfield code="z">n  84005587 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01192646</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pak, Sŏn-yŏng,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Park, Sun Young,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Boku, Sen'ei,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">朴先栄,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">朴先榮,</subfield>
+    <subfield code="d">1941-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pulgyo ŭi sasang, 1981:</subfield>
+    <subfield code="b">t.p. (Pak Sŏn-yŏng) p. 239, etc. (Park Sun Young [in rom.]; b. 1941; Ph. D.; prof., Tongguk Taehakkyo Sabŏm Taehak Kyoyuk Hakkwa)</subfield>
+  </datafield>
+</record>
