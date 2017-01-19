@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00768nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00026388 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000415150020.0</controlfield>
+  <controlfield tag="008">000414n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00026388 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05197794</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez F., Mercedes M.</subfield>
+    <subfield code="q">(Mercedes Margarita Alvarez Freytes),</subfield>
+    <subfield code="d">1912-1968</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alvarez Freytes, Mercedes M.</subfield>
+    <subfield code="q">(Mercedes Margarita),</subfield>
+    <subfield code="d">1912-1968</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El Tribunal del Real Consulado de Caracas, 1967:</subfield>
+    <subfield code="b">t.p. (Mercedes M. Alvarez F.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Diccionario de historia de Venezuela, 1989</subfield>
+    <subfield code="b">(Alvarez Freytes, Mercedes Margarita, b. Mar. 13, 1912 in Caracas; d. Aug. 21, 1968; writer, historian, educator, specialist in commercial aspects of colonialism in the 18th and early 19th centuries)</subfield>
+  </datafield>
+</record>
