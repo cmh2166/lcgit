@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01012cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 91001429 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140606162610.0</controlfield>
+  <controlfield tag="008">910122n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91001429 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19260609</subfield>
+    <subfield code="g">20140523</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Freeman, Mona</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Baltimore (Md.)</subfield>
+    <subfield code="b">Beverly Hills (Calif.)</subfield>
+    <subfield code="e">Beverly Hills (Calif.)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Acting</subfield>
+    <subfield code="a">Painting, American</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actors</subfield>
+    <subfield code="a">Painters</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Freeman, Monica Elizabeth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Playhouse 90. Sizeman and son [MP] 1956:</subfield>
+    <subfield code="b">credits (Mona Freeman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Los Angeles times WWW site, June 6, 2014</subfield>
+    <subfield code="b">(in obituary dated June 5, 2014: Mona Freeman; b. Monica Elizabeth Freeman, June 9, 1926, Baltimore; died May 23 at her Beverly Hills home, at 87; film star of the 1940s and '50s; also was a painter; appeared in many TV productions; toured with Edward G. Robinson in a 1958 production of the Paddy Chayefsky play, "Middle of the Night")</subfield>
+  </datafield>
+</record>
