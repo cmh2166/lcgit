@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00851cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2010171925</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110408075220.0</controlfield>
+  <controlfield tag="008">101021n| acabaaaan          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010171925</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08664218</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-EA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Gendai manga taikan</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">現代漫畵大觀</subfield>
+  </datafield>
+  <datafield tag="640" ind1="1" ind2=" ">
+    <subfield code="a">Complete in 10 v.</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">dai 2-hen</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DPCC photo-offset reprint</subfield>
+    <subfield code="5">NNC-EA</subfield>
+    <subfield code="5">NNC-EA photo-offset reprint</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tōkyō-shi</subfield>
+    <subfield code="b">Chūō Bijutsusha</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NNC-EA</subfield>
+    <subfield code="5">NNC-EA photo-offset reprint</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DPCC photo-offset reprint</subfield>
+    <subfield code="5">NNC-EA</subfield>
+    <subfield code="5">NNC-EA photo-offset reprint</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NNC-EA</subfield>
+    <subfield code="5">NNC-EA photo-offset reprint</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bungei meisaku manga, 1928:</subfield>
+    <subfield code="b">t.p. (現代漫畵大觀 = Gendai manga taikan)</subfield>
+  </datafield>
+</record>
