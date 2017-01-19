@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00532cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 95030521 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010226163937.0</controlfield>
+  <controlfield tag="008">950626n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95030521 </subfield>
+    <subfield code="z">nb 99122297 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03864046</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NmU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NmU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rivero Noval, Ma. Cristina</subfield>
+    <subfield code="q">(María Cristina)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Noval, Ma. Cristina Rivero</subfield>
+    <subfield code="q">(María Cristina Rivero)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rivero Noval, María Cristina</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La ruptura de la paz civil, 1992:</subfield>
+    <subfield code="b">t.p. (Ma. Cristina Rivero Noval</subfield>
+  </datafield>
+</record>
