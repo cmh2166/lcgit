@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00851cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001060312</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080917081634.0</controlfield>
+  <controlfield tag="008">010731n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001060312</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05546898</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OU</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shif, Menasheh Yitsḥaḳ Meʼir</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">שיף, מנשה יצחק מאיר</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">שיף, מנשה יצחק מאיר בן יוסף בן אלעזר מ.א</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Zikhron Elimelekh, 2001:</subfield>
+    <subfield code="b">t.p. (Menasheh Yitsḥaḳ Meʼir Shif) p. [4] (ben Yosef ... dor 7 le-rabenu R. Elimelekh mi-Lizensḳ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sefer Tsadiḳe ʻolam, 2004:</subfield>
+    <subfield code="b">t.p. (Menasheh Yitsḥaḳ Meʼir b. la-a.a.m. ṿe-r. ... Yosef, sheliṭa, Shif)</subfield>
+  </datafield>
+</record>
