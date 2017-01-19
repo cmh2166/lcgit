@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00923cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  98095422 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080830080505.0</controlfield>
+  <controlfield tag="008">981023n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98095422 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04848114</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hubei Sheng Macheng Shi di fang zhi bian zuan wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hu-pei sheng Ma-chʻeng shih ti fang chih pien tsuan wei yüan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Hu bei sheng ma cheng shi di fang zhi bian zuan wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Macheng Shi di fang zhi bian zuan wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">湖北省麻城市地方志编纂委员会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ma-chʻeng hsien chih, 1996:</subfield>
+    <subfield code="b">t.p. (Hu-pei sheng Ma-chʻeng shih ti fang chih pien tsuan wei yüan hui) cover (Ma-chʻeng shih ti fang chih pien tsuan wei yüan hui)</subfield>
+  </datafield>
+</record>
