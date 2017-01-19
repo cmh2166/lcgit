@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01023nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2009184112</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091003075240.0</controlfield>
+  <controlfield tag="008">091002n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009184112</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1452185</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of California, Berkeley.</subfield>
+    <subfield code="b">School of Nursing</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">University of California, San Francisco.</subfield>
+    <subfield code="b">School of Nursing</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Conference on Research in Nursing, January 20 - February 1, 1958, 1958:</subfield>
+    <subfield code="b">t.p. (School of Nursing, University of California, Berkeley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of California, San Francisco WWW site, Sept. 25</subfield>
+    <subfield code="b">(instruction in public health nursing leading to certification was first offered to graduate nurses in 1918 on the Berkeley campus; the Berkeley and San Francisco programs were brought together administratively in 1934; on March 17, 1939, the Regents authorized the establishment of a School of Nursing; fall of 1959, all activities of the School of Nursing were consolidated onto the San Francisco campus)</subfield>
+  </datafield>
+</record>
