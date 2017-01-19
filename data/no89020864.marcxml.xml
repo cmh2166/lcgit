@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00786cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 89020864 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141215133542.0</controlfield>
+  <controlfield tag="008">891218n| acannaabn          |n aba     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89020864 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">E.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Added entry for Contributions directes]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Contributions directes, 1848:</subfield>
+    <subfield code="b">p. 3 (signed, E.xxxx, controleur des contributions)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Author of The overland India mail by Genoa and Switzerland]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's The overland India mail by Genoa and Switzerland, 1847:</subfield>
+    <subfield code="b">p. 12 (signed, E.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">QueĚrard;</subfield>
+    <subfield code="a">Barbier;</subfield>
+    <subfield code="a">Halkett &amp; Laing;</subfield>
+    <subfield code="a">Cushing.</subfield>
+  </datafield>
+</record>
