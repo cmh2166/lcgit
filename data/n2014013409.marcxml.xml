@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014013409</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151007144429.0</controlfield>
+  <controlfield tag="008">140314n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014013409</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19570427</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Beresford, Bonnie,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Beresford, Barbara,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Developing human capital, 2014:</subfield>
+    <subfield code="b">ECIP t.p. (Barbara "Bonnie" Beresford) data view screen (b. 04/27/1957) book t.p. (Bonnie Beresford)</subfield>
+  </datafield>
+</record>
