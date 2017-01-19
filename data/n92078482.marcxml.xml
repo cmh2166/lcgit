@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00519cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  92078482 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920807103741.9</controlfield>
+  <controlfield tag="008">920804n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92078482 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wallace, Stephen,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Turtle beach [MP] 1992:</subfield>
+    <subfield code="b">credits (director, Stephen Wallace)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stewart, J. An encyclopaedia of Australian film, 1984:</subfield>
+    <subfield code="b">p. 257 (Stephen Wallace; b. 1943 in New South Wales; director of feature films and director and writer of documentaries)</subfield>
+  </datafield>
+</record>
