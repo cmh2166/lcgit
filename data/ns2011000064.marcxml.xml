@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00512nz  a2200157n  4500</leader>
+  <controlfield tag="001">ns2011000064</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110305075353.0</controlfield>
+  <controlfield tag="008">110303n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">ns2011000064</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaEvSKY)skya9502305</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiEM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiEM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wang, Rugang,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">王汝刚,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhi zhe Shifa, 2009:</subfield>
+    <subfield code="b">t.p. (王汝刚 = Wang Rugang) p [4] of cover (1952年生于上海 = 1952 nian sheng yu Shanghai)</subfield>
+  </datafield>
+</record>
