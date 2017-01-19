@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00628cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98114602 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814082651.0</controlfield>
+  <controlfield tag="008">981012n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98114602 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04835953</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxCM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxCM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1828</subfield>
+    <subfield code="g">1890</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Graham, Lumley,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1828-1890</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tactical deductions from the War of 1870-71, c1996:</subfield>
+    <subfield code="b">t.p. (Lumley Graham)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, Oct. 7, 1998</subfield>
+    <subfield code="b">(hdg.: Graham, Lumley, Sir, 1828-1890; usage Graham Lumley)</subfield>
+  </datafield>
+</record>
