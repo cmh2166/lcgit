@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00412nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008004102</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080111071915.0</controlfield>
+  <controlfield tag="008">080109n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008004102</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07624137</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kamaev, Vladimir,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">SOAMO,</subfield>
+    <subfield code="d">1966-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sedสนmoe izmerenie, 2006:</subfield>
+    <subfield code="b">t.p. (Vladimira Kamaeva) p. [163] (aka SOAMO, b. 1966)</subfield>
+  </datafield>
+</record>
