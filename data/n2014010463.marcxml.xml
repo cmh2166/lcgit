@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01019cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2014010463</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161107114352.0</controlfield>
+  <controlfield tag="008">140227n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014010463</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09693083</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6103.A72743</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carroll, Elizabeth</subfield>
+    <subfield code="c">(Suspense fiction writer)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">California</subfield>
+    <subfield code="f">Great Britain</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Women authors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nicholson, Carol</subfield>
+    <subfield code="c">(Suspense fiction writer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Killing in time, 2012:</subfield>
+    <subfield code="b">t.p. (Elizabeth Carroll); t.p. verso ([copyright] Carol Nicholson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Website, viewed Feb. 27, 2014</subfield>
+    <subfield code="b">(Elizabeth Carroll is the literary name for a pediatric physician and researcher now publishing the Killing Series of forensic thrillers; a life-long writer, Elizabeth has studied creative writing and crime fiction both in California and the United Kingdom (Oxford); she has published extensively in pediatric science and medicine; Killing in Time is her first novel)</subfield>
+  </datafield>
+</record>
