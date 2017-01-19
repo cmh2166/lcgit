@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00827cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81111130 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120809081454.0</controlfield>
+  <controlfield tag="008">811007n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81111130 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Symposium on Inland Waterways for Navigation, Flood Control, and Water Diversions</subfield>
+    <subfield code="d">(1976 :</subfield>
+    <subfield code="c">Colorado State University)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Inland Waterways for Navigation, Flood Control, and Water Diversions, Symposium on</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Rivers '76, c1976:</subfield>
+    <subfield code="b">t.p. (Symposium on Inland Waterways for Navigation, Flood Control, and Water Diversions; 3rd annual symposium of the Waterways, Harbors, and Coastal Engineering Div. of ASCE, Colo. State Univ., Fort Collins, Colo., Aug. 10-12, 1976)</subfield>
+  </datafield>
+</record>
