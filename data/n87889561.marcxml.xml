@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00529nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87889561 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880226070230.6</controlfield>
+  <controlfield tag="008">880114n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87889561 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Institute of Industrial Administration (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">British Institute of Management.</subfield>
+    <subfield code="b">Institute of Industrial Administration</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">British management review, Apr. 1957:</subfield>
+    <subfield code="b">t.p. (Institute of Industrial Administration) p. 78 (professional wing of the British Institute of Management)</subfield>
+  </datafield>
+</record>
