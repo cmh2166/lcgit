@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00926cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  93114167 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160505160519.0</controlfield>
+  <controlfield tag="008">931122n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93114167 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NIC-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Liszt, Franz,</subfield>
+    <subfield code="d">1811-1886.</subfield>
+    <subfield code="t">Années de pèlerinage,</subfield>
+    <subfield code="n">3e année.</subfield>
+    <subfield code="p">Aux cyprès de la Villa d'Este (No. 2)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Liszt, Franz,</subfield>
+    <subfield code="d">1811-1886.</subfield>
+    <subfield code="t">Aux cyprès de la Villa d'Este,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Aux cyprès de la Villa d'Este no. 1-2 are no. 2-3 in the 3e année of Années de pèlerinage.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Aux cyprès de la Villa d'Este, 199-?:</subfield>
+    <subfield code="b">p. 1 (meter indication, 3/4)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(S. 163, R. 10e; Années de pèlerinage, troisième année: 2, Aux cyprès de la Villa d'Este (3/4))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nyiregyházi plays Liszt [SR] p1978:</subfield>
+    <subfield code="b">container (Aux cyprès de la Villa d'Este no. 1, from Années de pèlerinage, troisème année)</subfield>
+  </datafield>
+</record>
