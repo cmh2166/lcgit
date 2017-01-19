@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00556nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2005004900</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050223033117.0</controlfield>
+  <controlfield tag="008">050218n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005004900</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">O'Gara, A. P. A.,</subfield>
+    <subfield code="d">1839-1918</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">MacDermott, W. R.,</subfield>
+    <subfield code="d">1839-1918</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The green republic, 2005 :</subfield>
+    <subfield code="b">t.p. (A. P. A. O'Gara) p.4 of cover (William Robert MacDermott (1839-1918)) p.vii etc. (MacDermott casts The green republic as a work of non-fiction written by an Irish-American doctor, A. P. A. O'Gara)</subfield>
+  </datafield>
+</record>
