@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00537cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  96117246 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001111071850.0</controlfield>
+  <controlfield tag="008">961205n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96117246 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04223223</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rey Alfonso, Francisco</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alfonso, Francisco Rey</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alicia Alonso, oĚrbita de una leyenda, 1996:</subfield>
+    <subfield code="b">cover (Francisco Rey Alfonso)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La huella cubana de Sarah Bernhardt, 1998:</subfield>
+    <subfield code="b">back flap (Francisco Rey Alfonso, b. 1951, Havana)</subfield>
+  </datafield>
+</record>
