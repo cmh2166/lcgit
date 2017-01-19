@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00831cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2005050389</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816082407.0</controlfield>
+  <controlfield tag="008">050527n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005050389</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06644842</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DJBF</subfield>
+    <subfield code="d">DJBF</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Regional Conference on the Assessment of the Phase-Out of Leaded Gasoline in Sub-Saharan Africa</subfield>
+    <subfield code="d">(2004 :</subfield>
+    <subfield code="c">Nairobi, Kenya)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on the Assessment of the Phase-Out of Leaded Gasoline in Sub-Saharan Africa, Regional</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Progress towards phasing out leaded ... 2004:</subfield>
+    <subfield code="b">cover (Regional Conference on the Assessment of the Phase-Out of Leaded Gasoline in Sub-Saharan Africa; UNEP Headquarters, Nairobi, Kenya, May 5-7, 2004)</subfield>
+  </datafield>
+</record>
