@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00660nz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2009029165</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091118075350.0</controlfield>
+  <controlfield tag="008">091116n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009029165</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007632417</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Masters, Christopher,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated name record n85813443</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc85-50882: His Homogeneous transition-metal catalysis, 1981</subfield>
+    <subfield code="b">(hdg. on NcGU rept.: Masters, Christopher; usage: Christopher Masters)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 12 Apr. 1996</subfield>
+    <subfield code="b">(Christopher Masters, born 2 May 1947)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 16 Nov. 2009</subfield>
+    <subfield code="b">(hdg.: Masters, Christopher, 1947-)</subfield>
+  </datafield>
+</record>
