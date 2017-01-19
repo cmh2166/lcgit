@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82232879 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850404101833.2</controlfield>
+  <controlfield tag="008">831228n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82232879 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hughes, Patricia J.,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her The power of VisiCalc real estate, c1981:</subfield>
+    <subfield code="b">t.p. (Patricia J. Hughes)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Lotus symphony, c1985:</subfield>
+    <subfield code="b">CIP t.p. (Patricia J. Hughes)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 3/13/85</subfield>
+    <subfield code="b">(Patricia J. Hughes; b. 7/22/43)</subfield>
+  </datafield>
+</record>
