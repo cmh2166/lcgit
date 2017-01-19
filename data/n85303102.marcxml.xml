@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01117cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85303102 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319163748.0</controlfield>
+  <controlfield tag="008">860904n| azannaab           |a ana     a</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85303102 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNAL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Ontario.</subfield>
+    <subfield code="b">Horticultural Experiment Station (Simcoe, Ont.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Ontario.</subfield>
+    <subfield code="b">Department of Agriculture.</subfield>
+    <subfield code="b">Horticultural Experiment Station (Simcoe, Ont.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Horticultural Research Institute of Ontario.</subfield>
+    <subfield code="b">Horticultural Experiment Station (Simcoe, Ont.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Ontario.</subfield>
+    <subfield code="b">Department of Agriculture</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 4/28/86</subfield>
+    <subfield code="b">(AACR 2: Ontario. Horticultural Experiment Station (Simcoe, Ont.))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Research report (Horticultural Research Institute of Ontario. Horticultural Experiment Station (Simcoe, Ont.)). Research report, Dec. 1983:</subfield>
+    <subfield code="b">t.p. (Horticultural Research Institute of Ontario, Horticultural Experiment Station, Simcoe, Ontario, Ministry of Agriculture and Food, Ontario)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC 4/28/86</subfield>
+    <subfield code="b">(AACR 2: Horticultural Research Institute of Ontario. Horticultural Experiment Station (Simcoe, Ont.))</subfield>
+  </datafield>
+</record>
