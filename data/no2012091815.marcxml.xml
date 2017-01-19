@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00651nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012091815</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120711075225.0</controlfield>
+  <controlfield tag="008">120709n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012091815</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09243967</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Grabundzija, Maggy,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jirābindizījā, Mājī,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Societe civile, associations et pouvoir local au Yemen, c2008:</subfield>
+    <subfield code="b">t.p. (Maggy Grabundzija)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Mujtamaʻ al-madanī wa-al-jamʻiyāt wa-al-sulṭāt al-maḥalīyam 2008:</subfield>
+    <subfield code="b">t.p. (Mājī Jirābindizījā)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIAF, July 9, 2012</subfield>
+    <subfield code="b">(hdg: Grabundzija, Maggy,  1974-)</subfield>
+  </datafield>
+</record>
