@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00381cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 91024124 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980402111832.3</controlfield>
+  <controlfield tag="008">911007n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91024124 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2="0">
+    <subfield code="a">Breslau (Ecclesiastical principality)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2="0">
+    <subfield code="a">Bistum Breslau</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seng, U. Die Schulpolitik des Bistums Breslau im 19. Jahrhundert, 1989.</subfield>
+  </datafield>
+</record>
