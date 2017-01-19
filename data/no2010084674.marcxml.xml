@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00397nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2010084674</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100523080030.0</controlfield>
+  <controlfield tag="008">100521n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010084674</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08502637</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InIU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InIU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dobson, William Greswell</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Death duties, 1909:</subfield>
+    <subfield code="b">t.p. (William Greswell Dobson, of the Inner Temple, barrister-at-law)</subfield>
+  </datafield>
+</record>
