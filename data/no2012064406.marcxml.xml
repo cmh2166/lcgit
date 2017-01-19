@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00612nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012064406</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120510075319.0</controlfield>
+  <controlfield tag="008">120508n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012064406</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09193068</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DHMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DHMM</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Brzezie (Województwo Małopolskie, Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">US Holocaust Memorial Museum catalog, 8 May 2012</subfield>
+    <subfield code="b">(Brzezie, Krakow County, Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 8 May 2012</subfield>
+    <subfield code="b">(Brzezie; PPL, 50°07ʹ31ʺN, 019°49ʹ28ʺE; Małopolskie, Poland; one other Brzezie in Małopolskie listed)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Poland</subfield>
+    <subfield code="z">Brzezie (Województwo Małopolskie)</subfield>
+  </datafield>
+</record>
