@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00604cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2011018043</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110317075005.0</controlfield>
+  <controlfield tag="008">110316n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011018043</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Las Terrazas (Cuba)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Terrazas (Cuba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ConversacioĚn en Las Terrazas, c2010:</subfield>
+    <subfield code="b">p. 4 of cover (town created by Plan Sierra del Rosario reforestation project begun in 1968, which gathered in one community families that had been living dispersed in those hills; included in the Sierra del Rosario biosphere reserve)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Mar. 16, 2011</subfield>
+  </datafield>
+</record>
