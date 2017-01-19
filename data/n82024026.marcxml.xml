@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00427cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82024026 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19871028092726.4</controlfield>
+  <controlfield tag="008">820325n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82024026 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">O'Neal, Lawrence W.,</subfield>
+    <subfield code="d">1923-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">O'Neal, Lawrence Wayne,</subfield>
+    <subfield code="d">1923-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Surgery of the adrenal glands, 1968.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, 8/4/87</subfield>
+    <subfield code="b">(hdg.: O'Neal, Lawrence W., 1923- )</subfield>
+  </datafield>
+</record>
