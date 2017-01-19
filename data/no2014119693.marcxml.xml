@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00801nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014119693</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140911073510.0</controlfield>
+  <controlfield tag="008">140910n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014119693</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09957470</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DeGH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DeGH</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19620202</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">United States Plastic Corp.</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Corporations</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Lima (Ohio)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Plastics industry and trade</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">United States Plastic Corporation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its, Industrial plastics, 1987:</subfield>
+    <subfield code="b">cover (United States Plastic Corp.; headquarters in Lima, Ohio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ohio Secretary of State, Business filing portal, viewed via www, September 10, 2014:</subfield>
+    <subfield code="b">(United States Plastic Corp.; incorporated February 2, 1962; located in Lima, Ohio)</subfield>
+  </datafield>
+</record>
