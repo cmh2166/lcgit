@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00779cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2007041491</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090329184458.0</controlfield>
+  <controlfield tag="008">070612n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007041491</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07435515</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-ru---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Antropovskiĭ raĭon (Russia)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Antropovskiy rayon (Russia)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Palkinskiy rayon (Russia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fleĭman, E. Kostromskoe selo Palkino--malai︠a︡ rodina v istoricheskom prostranstve Rossii, 2005:</subfield>
+    <subfield code="b">p. 3 (Antropovskiĭ raĭon; in Kostroma Region)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, June 12, 2007</subfield>
+    <subfield code="b">(Antropovskiy rayon; ADMD; 58°10ʹN 43°00ʹE;  in Kostromskaya oblastʹ; variant: Palkinskiy rayon)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Russia (Federation)</subfield>
+    <subfield code="z">Antropovskiĭ raĭon</subfield>
+  </datafield>
+</record>
