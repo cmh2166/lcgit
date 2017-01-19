@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00779cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 98102080 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081113075826.0</controlfield>
+  <controlfield tag="008">980812n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98102080 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04792120</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB-ME</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB-ME</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Khuḍayr, ʻAbd al-Karīm ibn ʻAbd Allāh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Khaḍīr, ʻAbd al-Karīm ibn ʻAbd Allāh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Khuḍayyir, ʻAbd al-Karīm ibn ʻAbd Allāh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">خضير، عبد الكريم بن عبد الله</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Ḥadīth al-ḍaʻīf wa-ḥukm al-iḥtijāj bih, 1997:</subfield>
+    <subfield code="b">t.p. (D. ʻAbd al-Karīm ibn ʻAbd Allāh al-Khaḍīr)</subfield>
+  </datafield>
+</record>
