@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00727cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  79029990 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090225075415.0</controlfield>
+  <controlfield tag="008">790402n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79029990 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00263650</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Peterson Research Group of Princeton, New Jersey</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Princeton, N.J.</subfield>
+    <subfield code="b">Peterson Research Group</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Peterson's Guides, Inc.</subfield>
+    <subfield code="b">Peterson Research Group of Princeton, New Jersey</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its A guide to training ... c1975:</subfield>
+    <subfield code="b">verso of t.p. (Peterson Research Group of Princeton, New Jersey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub. 3/6/79</subfield>
+    <subfield code="b">(Peterson Research Group used to be a div. of Peterson's Guides; ceased after project was finished)</subfield>
+  </datafield>
+</record>
