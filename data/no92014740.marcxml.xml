@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00438cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 92014740 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061027075031.0</controlfield>
+  <controlfield tag="008">920609n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92014740 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zakariyyā, Muḥammad,</subfield>
+    <subfield code="d">1898-1982.</subfield>
+    <subfield code="t">Tablīg̲h̲ī niṣāb.</subfield>
+    <subfield code="n">2.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zakariyyā, Muḥammad,</subfield>
+    <subfield code="d">1898-1982.</subfield>
+    <subfield code="t">Virtues of charity and haj</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Virtues of charity and haj, 1982.</subfield>
+  </datafield>
+</record>
