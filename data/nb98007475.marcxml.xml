@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00806cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb 98007475 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140708073829.0</controlfield>
+  <controlfield tag="008">980114n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb 98007475 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04602498</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kellerhals, Andreas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kellerhals-Maeder, A.</subfield>
+    <subfield code="q">(Andreas)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Maeder, Andreas Kellerhals-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aufbruch in den Frieden?, 1996:</subfield>
+    <subfield code="b">verso t.p. (Andreas Kellerhals) p. 7 (A. Kellerhals-Maeder)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The origin and the development of the Swiss antitrust law ... 1992:</subfield>
+    <subfield code="b">t.p. (Andreas O. Kellerhals, FuĚrsprech und Notar, LL. M., admitted at Swiss and Zurich bar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Das Haager Trust-UĚbereinkommen und die Schweiz, 2003:</subfield>
+    <subfield code="b">t.p. (Andreas Kellerhals) Vorwort (Dr.)</subfield>
+  </datafield>
+</record>
