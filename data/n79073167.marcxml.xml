@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  79073167 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011128052501.0</controlfield>
+  <controlfield tag="008">790713n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79073167 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00305910</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PQ9282.A96</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tavares, Zé Falcão,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Falcão Tavares, Zé</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tavares, José Manuel Falcão</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Falcão Tavares, José Manuel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His O tu das manhãs, 1978:</subfield>
+    <subfield code="b">t.p. (Zé Falcão Tavares) p. 4 of cover (autobiography: Falcão Tavares; b. 7/15/53; baptismal name, José Manuel)</subfield>
+  </datafield>
+</record>
