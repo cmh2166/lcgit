@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00583cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  78024098 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011121064116.0</controlfield>
+  <controlfield tag="008">780510n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78024098 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00160433</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL3988.H482</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Khuiṅʻ Yañʻ Mvanʻ</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mun, Hkaing Yin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Hkaing Yin Mun</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mvanʻ, Khuiṅʻ Yañʻ</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Hkaing mạ, 1976:</subfield>
+    <subfield code="b">t.p. (Hkaing Yin Mun)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her ʼA phrū roṅʻ ʼa sai, 1976:</subfield>
+    <subfield code="b">t.p. (Khuiṅʻ Yañʻ Mvanʻ)</subfield>
+  </datafield>
+</record>
