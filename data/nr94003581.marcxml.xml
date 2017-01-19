@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00625cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 94003581 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110422075342.0</controlfield>
+  <controlfield tag="008">940201n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94003581 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Müstecablıoğlu, Esat Âdil</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Adil, Esat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Esat Adil</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Mehmet Akif, 1937:</subfield>
+    <subfield code="b">t.p. (Esat Âdil Müstecablıoğlu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Karaca, E. Unutulmuş sosyalist, 2008:</subfield>
+    <subfield code="b">t.p. (Esat Adil; Esat Adil Müstecaplıoğlu) p. 18, etc. (b. 1904 in Balya ilçesi, Balıkesir, Turkey; d. 1958; former president of Turkish Socialist Party, journalist)</subfield>
+  </datafield>
+</record>
