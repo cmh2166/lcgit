@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00628cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2009023180</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160920075345.0</controlfield>
+  <controlfield tag="008">090415n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009023180</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08079438</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">P</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hôpitaux de Lannemezan</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Psychiatric hospitals</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Hôpital psychiatrique de Lannemezan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Demi-Lune (Psychiatric hospital)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">De l'asile de la Demi-Lune aux Hôpitaux de Lannemezan, 2008:</subfield>
+    <subfield code="b">t.p. (Hôpitaux de Lannemezan) p. 4 of cover (also called Hôpital psychiatrique de Lannemezan, Demi-Lune)</subfield>
+  </datafield>
+</record>
