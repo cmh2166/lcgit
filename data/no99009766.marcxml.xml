@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99009766 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020406073230.0</controlfield>
+  <controlfield tag="008">990212n| acannaabn           a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99009766 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04919099</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK2579.D35135</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dāśa, Baḷarāma</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Baḷarāma Dāśa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Janakanandinī, 1998:</subfield>
+    <subfield code="b">t.p. (Baḷarāma Dāśa) prelim. p. 4 (Teacher at Niali High School, 1967-1976)</subfield>
+  </datafield>
+</record>
