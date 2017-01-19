@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00520cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2009066085</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091016075150.0</controlfield>
+  <controlfield tag="008">091015n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009066085</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Takahashi, Hidetoshi,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">高橋秀寿,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gurōbarizēshon to shokuminchi shugi, 2009:</subfield>
+    <subfield code="b">t.p. (高橋秀寿 = Takahashi Hidetoshi) p. 373 (r; b. 1957; prof., Ritsumeikan Daigaku Bungakubu; Ltt. D.)</subfield>
+  </datafield>
+</record>
