@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01184cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  79066876 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090313075335.0</controlfield>
+  <controlfield tag="008">790628n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79066876 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00299758</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Esso Research and Engineering Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Standard Oil Development Company</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Exxon Research and Engineering Company</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">retrospective heading</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Výkladový slovnícek, 1956:</subfield>
+    <subfield code="b">leaf ii (Esso Research and Engineering Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Moody's indus. man., 1962, under Standard Oil Co. subsidiaries.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Indus. res. labs. ... 1960</subfield>
+    <subfield code="b">(under Standard Oil Co. (New Jersey): Esso Research and Engineering Co., Linden, N. J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to C. Reziniak, 10/12/78</subfield>
+    <subfield code="b">(In 1955 Standard Oil Development became Esso Research and Engineering Company; in 1974 name changed to Exxon Research and Engineering Company)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC/NAF, Mar. 12, 2009</subfield>
+    <subfield code="b">665 note (In 1955 the Standard Oil Development Company became the Esso Research and Engineering Company. The name was changed in 1974 to Exxon Research and Engineering Company)</subfield>
+  </datafield>
+</record>
