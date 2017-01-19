@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00634cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2001084769</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010702112653.0</controlfield>
+  <controlfield tag="008">010702n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001084769</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Oleksashenko, H. P.</subfield>
+    <subfield code="q">(Hryhoriĭ Panteleĭmonovych)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Oleksashenko, Hryhoriĭ Panteleĭmonovych</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Oleksashenko, Grigoriĭ Panteleĭmonovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Z︠H︡uk, V. N. Hradyzʹk, 1968:</subfield>
+    <subfield code="b">leaf preceding t.p. (H.P. Oleksashenko) colophon (Oleksashenko Grigoriĭ Panteleĭmonovich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC PreMARC file</subfield>
+    <subfield code="b">(hdg.: Oleksashenko, Hryhoriĭ Panteleĭmonovych)</subfield>
+  </datafield>
+</record>
