@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00654cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85272104 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140617095844.0</controlfield>
+  <controlfield tag="008">860212n| azannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85272104 </subfield>
+    <subfield code="z">n  87134145 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">London Thornton manuscript</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">British Library.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">Additional 31042</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">British Museum.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">Additional 31042</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thompson, J.J. Robert Thornton and the London Thornton manuscript, 1986:</subfield>
+    <subfield code="b">CIP t.p. (British Library MS Additional 31042)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Quatrefoil of love, 1987:</subfield>
+    <subfield code="b">CIP t.p. (Brit. Mus. MS. Add. 31042) introd. (contains 179 paper folios)</subfield>
+  </datafield>
+</record>
