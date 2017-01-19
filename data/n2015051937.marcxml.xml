@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2015051937</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150825070010.0</controlfield>
+  <controlfield tag="008">150825n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015051937</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1894</subfield>
+    <subfield code="l">1895</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taneev, SergeiĚ Ivanovich,</subfield>
+    <subfield code="d">1856-1915.</subfield>
+    <subfield code="t">Preludes,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="r">F major</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Preludes (Music)</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">F major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bunin, V. Teacher and student [SR] p2012:</subfield>
+    <subfield code="b">container (Prelude in F major) insert (1894?)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Aug. 25, 2015:</subfield>
+    <subfield code="b">(Prelude, F, 1894-5)</subfield>
+  </datafield>
+</record>
