@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00755cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  87128029 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020126072642.0</controlfield>
+  <controlfield tag="008">870916n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87128029 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01942269</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PC839.I77</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Isac, Emil,</subfield>
+    <subfield code="d">1886-1954</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Isac, Emiliu Pompiliu-Virgiliu,</subfield>
+    <subfield code="d">1886-1954</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Poezii, 1986:</subfield>
+    <subfield code="b">t.p. (Emil Isac)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base 09-16-87</subfield>
+    <subfield code="b">(hdg.: Isac, Emil, 1886-1954)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Popa, Mic DictĚŚ. de lit. rom. cont., 1977</subfield>
+    <subfield code="b">(Isac, Emil, b. 5-17-1886, in Cluj; d. 3-25-54 ; wrote poetry, prose, and drama)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His ProzaĚ, teatru, 1896 i.e. 1986:</subfield>
+    <subfield code="b">t.p. (Emil Isac) p. 35 (Emiliu Pompiliu-Virgiliu Isac)</subfield>
+  </datafield>
+</record>
