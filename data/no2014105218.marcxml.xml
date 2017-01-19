@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01000cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014105218</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140812172923.0</controlfield>
+  <controlfield tag="008">140808n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014105218</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09930320</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">N cGU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NcGU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Gate City Camerata</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Instrumental ensembles</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Greensboro (N.C.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">UNCG Gate City Camerata</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of North Carolina at Greensboro.</subfield>
+    <subfield code="b">Gate City Camerata</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gate City Camerata, 2011:</subfield>
+    <subfield code="b">recital program (Gate City Camerata)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">UNCG School of Music, Theatre and Dance website, viewed August 5, 2014</subfield>
+    <subfield code="b">(The Gate City Camerata; unique opportunity for UNCG graduate and undergraduate string majors to collaborate with the String faculty; membership in this professional-level faculty/student ensemble is by audition; composed of approximately 17 players and performs without a conductor)</subfield>
+    <subfield code="u">https://performingarts.uncg.edu/orchestras/camerata</subfield>
+  </datafield>
+</record>
