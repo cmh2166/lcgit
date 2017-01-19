@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00454cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2002101397</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140905073833.0</controlfield>
+  <controlfield tag="008">020507n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002101397</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05757459</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Réfabert, Philippe</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Réfabert, Philippe. De Freud à Kafka, c2001:</subfield>
+    <subfield code="b">t.p. (Philippe Réfabert) p. 4 of cover (clinicien renommé; est psychiatre et psychoanalyste)</subfield>
+  </datafield>
+</record>
