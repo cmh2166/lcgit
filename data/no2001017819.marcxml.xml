@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00438cz  a2200133n  4500</leader>
+  <controlfield tag="001">no2001017819</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011206053159.0</controlfield>
+  <controlfield tag="008">010306n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001017819</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05431590</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC-P</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCoLC-P</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Fédération des syndicats médicaux du Hainaut</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annales médico-chirurgicales, janv. 1903:</subfield>
+    <subfield code="b">cover (Fédération des syndicats médicaux du Hainaut)</subfield>
+  </datafield>
+</record>
