@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00589nz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2007015152</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070628075024.0</controlfield>
+  <controlfield tag="008">070626n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2007015152</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006837776</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Montgomery, H. C.</subfield>
+    <subfield code="q">(Henry Conyngham),</subfield>
+    <subfield code="d">1803-1878</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Montgomery, Henry Conyngham,</subfield>
+    <subfield code="d">1803-1878</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Postscript to the Memorandum on the Carnatic stipendiaries], 1854:</subfield>
+    <subfield code="b">p. [1] (Sir H.C. Montgomery, Baronet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Concise dictionary of national biography, 1979</subfield>
+    <subfield code="b">(Montgomery, Sir Henry Conyngham, 1803-1878)</subfield>
+  </datafield>
+</record>
