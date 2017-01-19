@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00688nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  97800682 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970506080414.1</controlfield>
+  <controlfield tag="008">970506n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97800682 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Heller, Joh. Florian</subfield>
+    <subfield code="q">(Johann Florian),</subfield>
+    <subfield code="d">1813-1871</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heller, Johann Florian,</subfield>
+    <subfield code="d">1813-1871</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heller, J. Flor.</subfield>
+    <subfield code="q">(Johann Florian),</subfield>
+    <subfield code="d">1813-1871</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Harnconcretionen, ihre Entstehung, Erkennung und Analyse, 1860</subfield>
+    <subfield code="b">t.p. (Joh. Florian Heller, Med. et Chem. Dr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aus dem Wiener pathologisch-chem. Laboratorium, 1852:</subfield>
+    <subfield code="b">p. 10 (J. Flor. Heller)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hirsch. Biog. Lex.</subfield>
+    <subfield code="b">(Heller, Johann Florian, 5/4/1813-11/21/1871)</subfield>
+  </datafield>
+</record>
