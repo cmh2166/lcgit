@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00545nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2006077526</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060727051802.0</controlfield>
+  <controlfield tag="008">060726n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006077526</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07005698</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">AAP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">AAP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Droz, M. E.</subfield>
+    <subfield code="q">(Marcel Emile),</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Droz, Marcel Emile,</subfield>
+    <subfield code="d">1908-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Experimental electronics, 1942:</subfield>
+    <subfield code="b">t.p. (M.E. Droz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 7/26/2006</subfield>
+    <subfield code="b">(hdg.: Droz, Marcel Emile, Droz, Marcel Emile, 1908- ; usage: Marcel Emile Droz, Marcel E. Droz, M.E. Droz)</subfield>
+  </datafield>
+</record>
