@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00415nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2013123725</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131107073522.0</controlfield>
+  <controlfield tag="008">131106n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013123725</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09608605</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CoU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Feria, Ramón,</subfield>
+    <subfield code="d">1909-1942.</subfield>
+    <subfield code="t">Works</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Feria, Ramón,</subfield>
+    <subfield code="d">1909-1942.</subfield>
+    <subfield code="t">Obras completas</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Feria, Ramón. Obras completas, 2008.</subfield>
+  </datafield>
+</record>
