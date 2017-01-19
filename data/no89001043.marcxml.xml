@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01073cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 89001043 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120621074940.0</controlfield>
+  <controlfield tag="008">890131n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89001043 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02465103</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dubois de Montpéreux, Frédéric,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Montpéreux, Frédéric Dubois,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Montpéreux, Frédéric Dubois de,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Монпере, Фредерик Дюбуа де,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Monpere, Frederik Di︠u︡bua de,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Де Монпере, Фредерик Дюбуа,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Monpere, Frederik Di︠u︡bua,</subfield>
+    <subfield code="d">1798-1849</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Voyage autour du Causase, 1839:</subfield>
+    <subfield code="b">t.p. (Frédéric Dubois de Montpéreux)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC data base, 1/29/89</subfield>
+    <subfield code="b">(hdg.: Dubois de Montpéreux, Frédéric, 1798-1849)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Puteshestvie vokrug Kavkaza, 2002:</subfield>
+    <subfield code="b">t.p. (Frederik Di︠u︡bua de Monpere)</subfield>
+  </datafield>
+</record>
