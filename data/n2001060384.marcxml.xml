@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00719cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2001060384</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101026074758.0</controlfield>
+  <controlfield tag="008">010418n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001060384</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Lottie E. Cook (Schooner)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Cook (Schooner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nantucket Historical Association for Whaling vessels accounts, 1880-1883</subfield>
+    <subfield code="b">(Lottie E. Cook; schooner; out of New Bedford, Mass.; mastered by Antone Vieira)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from New Bedford Whaling Museum for Logbook of the schooner Lottie E. Cook, 1885 Oct. 19-1887 July 31</subfield>
+    <subfield code="b">(Whaling vessel (82 tons), out of New Bedford, Mass., owner-agent: Joseph Vera; built at Newburyport, Mass., 1867)</subfield>
+  </datafield>
+</record>
