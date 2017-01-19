@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00946cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  88022490 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000624065854.0</controlfield>
+  <controlfield tag="008">881007n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88022490 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02377210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Christiano Jr.</subfield>
+    <subfield code="q">(Christiano Junior)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Christiano Junior</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Junior, Christiano</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Junior, José Christiano de Freitas Henriques</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Henriques Junior, José Christiano de Freitas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Freitas Henriques Junior, José Christiano de</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gorender, J. Escravos brasileiros do século XIX na fotografia de Christiano Jr., 1988:</subfield>
+    <subfield code="b">p. ix (José Christiano de Freitas Henriques Junior) p. x, etc. (Brazilian photographer of the mid-19th century; Christiano Junior)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Verbo encic. luso-bras. da cultura, 1963;</subfield>
+    <subfield code="a">Cavalcanti, C. Dic. bras. de artes plás., 1973;</subfield>
+    <subfield code="a">Louzada, J. Artes plásticas, 1984.</subfield>
+  </datafield>
+</record>
