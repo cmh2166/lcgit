@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00548cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81136140 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315083708.0</controlfield>
+  <controlfield tag="008">811125n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81136140 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">18</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Blo-bzaṅ-rdo-rje,</subfield>
+    <subfield code="d">active 19th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Blo-bzaṅ-rdo-rje,</subfield>
+    <subfield code="d">19th cent.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Byaṅ chub lam gyi rim paʼi mthaʼ dpyod gsuṅ rab rgya mtshor ʼjug paʼi gru gziṅs, 1980:</subfield>
+    <subfield code="b">t.p. (Blo-bzaṅ-rdo-rje [in rom.]) pref. (Mongol teacher, belongs to 19th cent.)</subfield>
+  </datafield>
+</record>
