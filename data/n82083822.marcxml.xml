@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01069cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  82083822 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091219074938.0</controlfield>
+  <controlfield tag="008">820621nc acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82083822 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00780508</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">HkUST</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Guo li Gaoxiong shi fan xue yuan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Guo li gao xiong shi fan xue yuan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Kuo li Kao-hsiung shih fan hsüeh yüan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">國立高雄師範學院</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kaohsiung Teachers College</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Gaoxiong shi yuan</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Guo li Gaoxiong shi fan da xue</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chiao yü hsüeh kʻan, June 1981 (subdiv.)</subfield>
+    <subfield code="b">t.p. (國立高雄師範學院 = Kuo li Kao-hsiung shih fan hsüeh yüan) cover p. 4 (Kaohsiung Teachers College)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Kao-hsiung shih yüan hsüeh pao, 1972; t.p. (高雄師院 = Kao-hsiung shih yüan);</subfield>
+    <subfield code="a">Kuo li Kao-hsiung shih fan ta hsüeh hsiao kʻan, Dec. 1992.</subfield>
+  </datafield>
+</record>
