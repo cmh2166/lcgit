@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83135257 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950929093040.4</controlfield>
+  <controlfield tag="008">831114n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83135257 </subfield>
+    <subfield code="z">n  85149263 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00966920 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DJBF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Benis, Martin,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Benis, M.,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Carmichael, D. R. Wiley-Ronald auditing service, 1984:</subfield>
+    <subfield code="b">CIP t.p. (Martin Benis) data sheet (b. 1/19/27)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Standarty i normy audita, 1995:</subfield>
+    <subfield code="b">t.p. (M. Benis)</subfield>
+  </datafield>
+</record>
