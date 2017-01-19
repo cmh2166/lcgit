@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00642nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2002108652</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021130071018.0</controlfield>
+  <controlfield tag="008">021129n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002108652</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05922562</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Koornhof, Hannes,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Koornhof, Johannes Jochemus Eucharistius,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sal ek kan aanhou glo? 1997:</subfield>
+    <subfield code="b">t.p. (Hannes Koornhof)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB database, Nov. 29, 2002</subfield>
+    <subfield code="b">(hdg.: Koornhof, Hannes, 1949- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SANB correspondence with author, June 2, 1997</subfield>
+    <subfield code="b">(full names: Koornhof, Johannes Jochemus Eucharistius)</subfield>
+  </datafield>
+</record>
