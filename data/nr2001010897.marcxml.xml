@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001010897</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320094313.0</controlfield>
+  <controlfield tag="008">010328n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001010897</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">StEdNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">StEdNL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Glasgow.</subfield>
+    <subfield code="b">Economics and Finance of Property and Housing Research Group</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Glasgow.</subfield>
+    <subfield code="b">Department of Urban Studies.</subfield>
+    <subfield code="b">Economics and Finance of Property and Housing Research Group</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">University of Glasgow.</subfield>
+    <subfield code="b">Department of Urban Studies</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The role of property in the Scottish economy, 2000:</subfield>
+    <subfield code="b">cover (Economics and Finance of Property and Housing Research Group, Department of Urban Studies, University of Glasgow)</subfield>
+  </datafield>
+</record>
