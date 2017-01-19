@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00640cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85319741 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19870211121554.6</controlfield>
+  <controlfield tag="008">861008n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85319741 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Saxby, Trevor J.</subfield>
+    <subfield code="q">(Trevor John),</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Saxby, T. J.</subfield>
+    <subfield code="q">(Trevor J.),</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pilgrims of a common life, 1987:</subfield>
+    <subfield code="b">CIP t.p. (Trevor J. Saxby) data sheet, etc. (Trevor John Saxby; b. 4/11/54 at Epsom, Surrey, England; Ph. D. in theology, Oxford, 1984; lives at Pattishall in Northamptonshire, England)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The quest for the new Jerusalem ..., 1987:</subfield>
+    <subfield code="b">CIP t.p. (T.J. Saxby)</subfield>
+  </datafield>
+</record>
