@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00630nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002020424</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020313052857.0</controlfield>
+  <controlfield tag="008">020312n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002020424</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05709921</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Somsak Ngāmphānit,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ngāmphānit, Somsak,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Somsak Ngampanich,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ngampanich, Somsak,</subfield>
+    <subfield code="d">1949-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thatsanakhati khō̜ng nakthō̜ngthīeo chāo tāngprathēt ... 1993:</subfield>
+    <subfield code="b">t.p. (Somsak Ngāmphānit) prelim. p. 4 (Pol. Lt. Col. Somsak Ngampanich) p. 217 (b. 22 Thanwākhom 2492)</subfield>
+  </datafield>
+</record>
