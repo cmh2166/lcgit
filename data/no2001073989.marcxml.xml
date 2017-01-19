@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2001073989</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020125052231.0</controlfield>
+  <controlfield tag="008">010917n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001073989</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05583819</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">CU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Association pour la recherche interdisciplinaire en littérature persane (Paris, France)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Anjuman-i Pizhūhishī-i Shiʻr va Adab-i Pārsī (Paris, France)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">A.R.I.L.P.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kārnāmah, 1999:</subfield>
+    <subfield code="b">t.p. (Anjuman-i Pizhūhishī-i Shiʻr va Adab-i Pārsī) added t.p. (Association pour la recherche interdisciplinaire en littérature persane, Paris, France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Littérature persane, 1998 (4):</subfield>
+    <subfield code="b">verso of t.p. (A.R.I.L.P.)</subfield>
+  </datafield>
+</record>
