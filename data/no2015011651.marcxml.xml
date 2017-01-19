@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00646nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015011651</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150128073523.0</controlfield>
+  <controlfield tag="008">150127n| azannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015011651</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10070949</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Quan Mei Zhong can ye lian meng</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">American Chinese Restaurant Alliance</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ACRA</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">全美中餐业联盟</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference(s) not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pin wei Zhongguo, September 2014:</subfield>
+    <subfield code="b">colophon page, etc. (全美中餐业联盟 = Quan Mei Zhong can ye lian meng; American Chinese Restaurant Alliance, ACRA)</subfield>
+  </datafield>
+</record>
