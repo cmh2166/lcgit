@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00898cz  a2200241n  4500</leader>
+  <controlfield tag="001">n 2005013396</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130411074913.0</controlfield>
+  <controlfield tag="008">050223n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005013396</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06570029</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WU</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Begalin, Kaĭrat</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+    <subfield code="a">kaz</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Begalin, K. I.</subfield>
+    <subfield code="q">(Kaĭrat I.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бегалин, К. И.</subfield>
+    <subfield code="q">(Кайрат И.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Бегалин, Кайрат</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Begalin, Qaĭrat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Begalin, K. Mamli︠u︡ki, 2004:</subfield>
+    <subfield code="b">t.p. (Kaĭrat Begalin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Begalin, K. Mamli︠u︡ki, 2009:</subfield>
+    <subfield code="b">t.p. (Кайрат Бегалин = Kaĭrat Begalin) verso t.p. (Бегалин К.И. = Begalin K.I.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Begalin, Qaĭrat. Altyn Orda khandary, 2009:</subfield>
+    <subfield code="b">t.p. (Qaĭrat Begalin)</subfield>
+  </datafield>
+</record>
