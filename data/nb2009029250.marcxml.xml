@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00737cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2009029250</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120818081117.0</controlfield>
+  <controlfield tag="008">091116n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009029250</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007632512</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Maxwell, John,</subfield>
+    <subfield code="c">of Barnbauchle</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Maxuel, John,</subfield>
+    <subfield code="c">of Barnbauchle</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Created by ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information for George Maxuel of Munsches against John Maxuel of Barnbauchle, [1695?]:</subfield>
+    <subfield code="b">p.1 (John Maxwell)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">BL database, 16 Nov. 2009;</subfield>
+    <subfield code="a">ODNB, 16 Nov. 2009;</subfield>
+    <subfield code="a">Anderson, W. Scottish nation, 1863;</subfield>
+    <subfield code="a">Biographical dict. eminent Scotsmen</subfield>
+  </datafield>
+</record>
