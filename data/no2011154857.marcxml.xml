@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00545cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011154857</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131204073703.0</controlfield>
+  <controlfield tag="008">111006n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011154857</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08997281</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">SaPrNL</subfield>
+    <subfield code="d">SaPrNL</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">sanb</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mlilwana, Vuyo</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Illustrators</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sipho naSiphiwe, c2008:</subfield>
+    <subfield code="b">verso t.p. (illustrations by Vuyo Mlilwana)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford kganya. Kereiti ya 3, Buka ya moithuti, 2011:</subfield>
+    <subfield code="b">verso t.p. (illustrators: Vuyo Mlilwana)</subfield>
+  </datafield>
+</record>
