@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00638cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  81046185 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111203074921.0</controlfield>
+  <controlfield tag="008">810515n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81046185 </subfield>
+    <subfield code="z">n 2003018260</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00591748</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">FMFIU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR6069.U84</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sutherland-Smith, James,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Smith, James Sutherland-,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Smith, James Sutherland</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A singer from Sabiya, 1979:</subfield>
+    <subfield code="b">t.p. (James Sutherland-Smith) p. 4 of cover (b. 1948 in Aberdeen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">In search of beauty, 2004:</subfield>
+    <subfield code="b">CIP t.p. (James Sutherland Smith)</subfield>
+  </datafield>
+</record>
