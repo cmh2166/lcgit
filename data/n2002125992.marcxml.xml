@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00654cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2002125992</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020611172003.0</controlfield>
+  <controlfield tag="008">020611n| acannaabn          sa ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002125992</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">West Bengal State Council of Science &amp; Technology</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">West Bengal State Council of Science and Technology</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">West Bengal (India).</subfield>
+    <subfield code="b">Council of Science &amp; Technology</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">West Bengal State Council of Science &amp; Technology. Zoning atlas for siting of industries : based on environmental considerations : Bankura district, West Bengal, 2000:</subfield>
+    <subfield code="b">t.p. (West Bengal State Council of Science &amp; Technology)</subfield>
+  </datafield>
+</record>
