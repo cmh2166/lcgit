@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00967cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86041860 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120622074726.0</controlfield>
+  <controlfield tag="008">870727n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86041860 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01904517</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR5779.W19</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Westall, William,</subfield>
+    <subfield code="d">1835-1903</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Westall, William Bury,</subfield>
+    <subfield code="d">1834-1903</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Roy of Roy's Court, 189-?:</subfield>
+    <subfield code="b">t.p. (William Westall)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The old factory, 2000:</subfield>
+    <subfield code="b">t.p. (William Bury Westall (1834-1903)) prelim. (born Oswaldtwistle, Lancashire in 1834, son of a cotton mill owner. Moved to Geneva in 1874, as foreign correpondent for "The Times" and editor of "Swiss Times". Became British Consul in Russia and war correspondent in Crimean and Armenian Civil Wars. Translator of Russian literature and writer of novels drawing on his experiences in Lancashire, the continent and further afield. Died Heathfield, Sussex on 9 Sept. 1903)</subfield>
+  </datafield>
+</record>
