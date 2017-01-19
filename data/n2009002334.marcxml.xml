@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00779cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2007034677</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150720145215.0</controlfield>
+  <controlfield tag="008">070516n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007034677</subfield>
+    <subfield code="z">n 2009002334</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07412505</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1962</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ouyang, Yao,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">欧阳嶢,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zhongguo dui wai zhi jie tou zi dao lun, 2005:</subfield>
+    <subfield code="b">t.p. (Ouyang Yao) back flap (b. 1962, Ningyuan, Hunan; MA in philosophy, Zhongguo ren min da xue; Ph.D. in economics, Hunan da xue)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Min ying qi ye dui wai zhi jie tou zi, 2007:</subfield>
+    <subfield code="b">t.p. (欧阳嶢 = Ouyang Yao)</subfield>
+  </datafield>
+</record>
