@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00582nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010182045</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101115134938.0</controlfield>
+  <controlfield tag="008">101109n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010182045</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08681816</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DHMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DHMM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">IJsendoorn, Annemarie van</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van IJsendoorn, Annemarie</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Over het hoofd gezien : recent gevonden beelden van een joodse familie, 1940-1945, c2009:</subfield>
+    <subfield code="b">verso t.p. (Annemarie van IJsendoorn, co-author)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Koninklijke Bibliotheek web site, 9 Nov. 2010</subfield>
+    <subfield code="b">(hdg.: IJsendoorn, Annemarie van)</subfield>
+  </datafield>
+</record>
