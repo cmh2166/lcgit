@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  87872041 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060104114418.0</controlfield>
+  <controlfield tag="008">870622n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87872041 </subfield>
+    <subfield code="z">n  89654515 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UkOxU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bowden, Mark</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bowden, M. C. B.</subfield>
+    <subfield code="q">(Mark Christopher Brett)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">From Cornwall to Caithness, 1989:</subfield>
+    <subfield code="b">t.p. (Mark Bowden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-87519: Groube, L.M. The archaeology of rural Dorset, 1982</subfield>
+    <subfield code="b">(hdg. on CLU rept.: Bowden, M. C. B.; usage: M.C.B. Bowden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from author, Nov. 14, 2005</subfield>
+    <subfield code="b">(Mark Christopher Brett Bowden; b. May 5, 1957)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Brit. nat. bibl, Jan.-Sept., 1989;</subfield>
+    <subfield code="a">Cont. auth., 1988</subfield>
+  </datafield>
+</record>
