@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01406cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2006164530</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110816074753.0</controlfield>
+  <controlfield tag="008">060824n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006164530</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Woodfords Congregational Church (Portland, Me.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Woodfords Church (Portland, Me.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">First Parish Church (Portland, Me.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Woodfords Universalist Church (Portland, Me.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Historical Society for First Parish Church records, 1892-1902</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">First Parish Church WWW, Aug. 24, 2006</subfield>
+    <subfield code="b">(First Parish Church;  buildings at various times also known as Old Jerusalem and Bradley Meeting House; in 1809 united with American Unitarian Association; in 1826 4th church building (current building) dedicated; in 1867 group from First Parish separated to form Woodfords Congregational Church; also found: Woodfords Church)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Woodfords Congregational Church WWW, Aug. 24, 2006</subfield>
+    <subfield code="b">(the First Woodfords Church opened its doors in 1872 across Woodford St., from site of present parish house; formed in 1867 by neighborhood residents, some of whom met at Bradley Meeting House)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Historical Society for History of the Pollyanna Club, ca. 1945</subfield>
+    <subfield code="b">(Woodfords Universalist Church; Portland, Me.; earlier known as Woodfords Congregational Church)</subfield>
+  </datafield>
+</record>
