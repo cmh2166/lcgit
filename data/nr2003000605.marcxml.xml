@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00711nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2003000605</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030116033111.0</controlfield>
+  <controlfield tag="008">030108n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003000605</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Baxter, Francis Marion,</subfield>
+    <subfield code="d">1782?-1817</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Baxter, F.</subfield>
+    <subfield code="q">(Francis),</subfield>
+    <subfield code="d">1782?-1817</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hoff's agricultural and commercial almanac, calculated for the states of Georgia and the Carolinas; for the year of our Lord 1812, 1811:</subfield>
+    <subfield code="b">t.p. (F. Baxter; Georgetown bookseller)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, Jan. 6, 2003</subfield>
+    <subfield code="b">(hdg.: Baxter, Francis Marion, 1782?-1817)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Baxter, Francis Marion, 1782?-1817; note: Georgetown, S.C. printer and publisher)</subfield>
+  </datafield>
+</record>
