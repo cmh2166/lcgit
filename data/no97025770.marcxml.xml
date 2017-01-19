@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00720cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 97025770 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130423075028.0</controlfield>
+  <controlfield tag="008">970424n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97025770 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04325081</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InNd</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">InNd</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19950329</subfield>
+    <subfield code="t">19950331</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Seminário sobre Exploração Sexual de Meninas e Adolescentes no Brasil</subfield>
+    <subfield code="d">(1995 :</subfield>
+    <subfield code="c">Brasília, Distrito Federal, Brazil)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Conference</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Brasília, Distrito Federal, Brazil</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Exploração sexual de meninas e adolescentes no Brasil, 1995:</subfield>
+    <subfield code="b">p. 5 (Seminário sobre Exploração Sexual de Meninas e Adolescentes no Brasil; held in Brasília, Brazil, 29-31 Mar. 1995)</subfield>
+  </datafield>
+</record>
