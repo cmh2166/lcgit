@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00938cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89133237 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120808083050.0</controlfield>
+  <controlfield tag="008">900724n| acannaab           |a ana     b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89133237 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">ISBT/AABB Joint Congress</subfield>
+    <subfield code="d">(1990 :</subfield>
+    <subfield code="c">Los Angeles, Calif.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Society of Blood Transfusion/American Association of Blood Banks Joint Congress</subfield>
+    <subfield code="d">(1990 :</subfield>
+    <subfield code="c">Los Angeles, Calif.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Transfusion medicine in the 1990's, 1990:</subfield>
+    <subfield code="b">CIP foreword (1990 ISBT/AABB Joint Congress)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to pub., 7/11/90</subfield>
+    <subfield code="b">(will be held in Los Angeles, Calif., Nov. 1990)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Abstracts of papers to be presented at the International Society of Blood Transfusion/American Association of Blood Banks Joint Congress, c1990:</subfield>
+    <subfield code="b">cover (ISBT &amp; AABB 1990 Joint Congress)</subfield>
+  </datafield>
+</record>
