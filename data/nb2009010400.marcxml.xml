@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00632cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2009010400</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100317075138.0</controlfield>
+  <controlfield tag="008">090429n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009010400</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007433458</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alexander, D.</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Alexander, David</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Antiquities of Moray, 1843:</subfield>
+    <subfield code="b">t.p. (drawn and etched by D. Alexander)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 77366979: His The role of profile disturbances in channel morphology, 1976</subfield>
+    <subfield code="b">(usage: David Alexander)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL Web OPAC, Mar. 16, 2010</subfield>
+    <subfield code="b">(The role of profile disturbances in channel morphology, hdg.: Alexander D.)</subfield>
+  </datafield>
+</record>
