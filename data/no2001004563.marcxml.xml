@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00517nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001004563</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010119070049.0</controlfield>
+  <controlfield tag="008">010118n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001004563</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05395331</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Basnayake, Hema Henry,</subfield>
+    <subfield code="d">1902-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The legislative enactments of Ceylon in force on the 30th day of June, 1956, 1958:</subfield>
+    <subfield code="b">t.p. (Hema Henry Basnayake, Chief Justice of Ceylon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Jan. 18, 2001</subfield>
+    <subfield code="b">(Basnayake, Hema Henry, 1902- )</subfield>
+  </datafield>
+</record>
