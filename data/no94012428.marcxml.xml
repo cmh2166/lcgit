@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 94012428 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731083540.0</controlfield>
+  <controlfield tag="008">940415n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94012428 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schubert, Franz,</subfield>
+    <subfield code="c">Dr. Senatsrat</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die Bauordnung fuĚr Wien, 1950-1953:</subfield>
+    <subfield code="b">v. 2 t.p. (Dr. Franz Schubert, Senatsrat)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Wer ist wer in OĚsterreich, 1953;</subfield>
+    <subfield code="a">WW in Austria, 1959/1960.</subfield>
+  </datafield>
+</record>
