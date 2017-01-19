@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00588nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010064758</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100421075427.0</controlfield>
+  <controlfield tag="008">100419n| acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010064758</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08465471</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">"Yulong Naxizu Zizhixian gai kuang" bian xie zu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">《玉龙纳西族自治县概况》编写组</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yulong Naxizu Zizhixian gai kuang, 2008:</subfield>
+    <subfield code="b">t.p. (《玉龙纳西族自治县概况》编写组 = "Yulong Naxizu Zizhixian gai kuang" bian xie zu)</subfield>
+  </datafield>
+</record>
