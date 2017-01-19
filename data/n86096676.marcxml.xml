@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01284cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  82121962 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19951108083419.3</controlfield>
+  <controlfield tag="008">821127n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82121962 </subfield>
+    <subfield code="z">n  86096675 </subfield>
+    <subfield code="z">n  86096676 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00818310 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">ICU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Istituto universitario orientale (Naples, Italy).</subfield>
+    <subfield code="b">Sezione linguistica</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Naples.</subfield>
+    <subfield code="b">Istituto orientale.</subfield>
+    <subfield code="b">Sezione linguistica</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Istituto universitario orientale (Naples, Italy).</subfield>
+    <subfield code="b">Seminario di studi del mondo classico.</subfield>
+    <subfield code="b">Sezione linguistica</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Istituto universitario orientale (Naples, Italy).</subfield>
+    <subfield code="b">Dipartimento di studi del mondo classico e del Mediterraneo antico.</subfield>
+    <subfield code="b">Sezione linguistica</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Istituto orientale di Napoli.</subfield>
+    <subfield code="b">Sezione linguistica</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aion, 1979, surrogate:</subfield>
+    <subfield code="b">t.p. (Istituto Universitario orientali, Napoli; Seminario di studi del mondo classico; Sezione linguistica)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Silvestri, D. The earliest script of Uruk, 1990:</subfield>
+    <subfield code="b">ser. t.p. (Istituto universitario orientale. Dipartimento di studi del mondo classico e del Mediterraneo antico. Sezione linguistica)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Annali (Istituto orientale di Napoli. Sezione linguistica). Annali, 1961: t.p. (Istituto orientale di Napoli, Sezione linguistica)</subfield>
+  </datafield>
+</record>
