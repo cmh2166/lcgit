@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 00101875 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320084506.0</controlfield>
+  <controlfield tag="008">001218n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00101875 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05379290</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MBU-T</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MBU-T</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1886</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Blanchet, Emile,</subfield>
+    <subfield code="d">1886-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blanchet,</subfield>
+    <subfield code="d">1886-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Blanchet, Emile,</subfield>
+    <subfield code="d">b. 1886</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blanchet,</subfield>
+    <subfield code="c">Mgr.,</subfield>
+    <subfield code="d">1886-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Blanchet,</subfield>
+    <subfield code="c">Monseigneur,</subfield>
+    <subfield code="d">1886-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Message et spiritualiteĚ du PeĚre de Foucauld ... 1951:</subfield>
+    <subfield code="b">t.p. (Mgr. Blanchet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 18, 2000:</subfield>
+    <subfield code="b">(hdg.: Blanchet, Emile, 1886- ; usage: Mrg. Blanchet; Monseigneur Blanchet; Blanchet)</subfield>
+  </datafield>
+</record>
