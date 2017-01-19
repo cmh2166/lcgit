@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00517nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2010070339</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100430075438.0</controlfield>
+  <controlfield tag="008">100428n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010070339</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08477133</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cassen, Benedict</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The practice of nuclear medicine, 1958:</subfield>
+    <subfield code="b">t.p. (Benedict Cassen, Ph.D.; chief, medical physics section, Atomic Energy Project and clinical professor of biophysics, University of California at Los Angeles School of Medicine)</subfield>
+  </datafield>
+</record>
