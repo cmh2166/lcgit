@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2014050208</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140819071234.0</controlfield>
+  <controlfield tag="008">140819n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014050208</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1964</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kim, So-yŏng,</subfield>
+    <subfield code="d">1964-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김 소영,</subfield>
+    <subfield code="d">1964</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kyosa rŭl wihan hakkyo p'ongnyŏk ŭi ihae, 2013:</subfield>
+    <subfield code="b">t.p. (김 소영 = Kim So-yŏng) colophon (prof., Sŏhae Taehak Yua Kyoyukkwa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chosŏn inmul kŏmsaek, viewed Aug. 19, 2014</subfield>
+    <subfield code="b">(b. 1964)</subfield>
+  </datafield>
+</record>
