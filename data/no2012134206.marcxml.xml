@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00544nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012134206</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121013075354.0</controlfield>
+  <controlfield tag="008">121011n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012134206</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09322392</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">GU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Giuliani, Mauro,</subfield>
+    <subfield code="d">1781-1829.</subfield>
+    <subfield code="t">Divertimenti notturni d'una facilitaĚ progressiva.</subfield>
+    <subfield code="n">N. 11</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Giuliani, Mauro,</subfield>
+    <subfield code="d">1781-1829.</subfield>
+    <subfield code="t">Nocturnes,</subfield>
+    <subfield code="m">flute, guitar,</subfield>
+    <subfield code="n">op. 86.</subfield>
+    <subfield code="n">No. 11</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Giuliani, M. Works for flute and guitar, p2011:</subfield>
+    <subfield code="b">container (Notturno, op. 86, Nr. 11)</subfield>
+  </datafield>
+</record>
