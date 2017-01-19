@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 98071771 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161102075349.0</controlfield>
+  <controlfield tag="008">980313n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98071771 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04681503</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICRL</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1850</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Missouri State Medical Association</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Medical Association of the State of Missouri</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Medical Association of Missouri</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Journal of the Missouri State Medical Association, July 1904</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Transactions of the Medical Association of the State of Missouri, 1851</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poisoned wounds, 1854:</subfield>
+    <subfield code="b">t.p. (Medical Association of Missouri)</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">Missouri State Medical Association was founded in 1850.</subfield>
+  </datafield>
+</record>
