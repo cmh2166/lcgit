@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01120nz  a2200265n  4500</leader>
+  <controlfield tag="001">no2012075727</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120602075303.0</controlfield>
+  <controlfield tag="008">120531n| acaaaaaan          sa ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012075727</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09214021</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoU</subfield>
+  </datafield>
+  <datafield tag="086" ind1=" " ind2=" ">
+    <subfield code="a">UCSU5/13.14</subfield>
+    <subfield code="z">UCSU1.16/</subfield>
+    <subfield code="z">HED5/1.11/</subfield>
+    <subfield code="2">codocs</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Hydrology papers</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Colorado State University.</subfield>
+    <subfield code="b">Hydrology and Water Resources Program.</subfield>
+    <subfield code="t">Hydrology papers</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Colorado State University hydrology paper series</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Water resources papers</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 1</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CoU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Fort Collins</subfield>
+    <subfield code="b">Colorado State University [Hydrology and Water Resources Program]</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">CoU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CoU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">CoU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fluctuations of wet and dry years. Part 1, Research data assembly and mathematical models, 1963:</subfield>
+    <subfield code="b">ser. t.p. (Hydrology papers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Complete list, keywords, and abstracts, 1981:</subfield>
+    <subfield code="b">p.1 (Colorado State University hydrology paper series)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Modeling of monthly intermittent streamflow processes, 1992: ser. t.p. (Water resources papers)</subfield>
+  </datafield>
+</record>
