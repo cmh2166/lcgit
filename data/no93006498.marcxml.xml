@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00769cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 93006498 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971209053833.0</controlfield>
+  <controlfield tag="008">930305n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93006498 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Monastero di Santa Maria del Bosco di Calatamauro</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Monasterio di Santa Maria del Bosco (Sicily, Italy)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Monasterium Sanctae Maria de Nemore Calatamauri (Sicily, Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Le pergamene del Monastero di Santa ... 1991:</subfield>
+    <subfield code="b">t.p. (Monastero di Santa Maria del Bosco di Calatamauro)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Memorie antiche del monastero di santa Maria del Bosco, c1995:</subfield>
+    <subfield code="b">p. 3 (Monastero di Santa Maria del Bosco) p. 113, etc. ( ... monasterio Sanctae Mariae de Nemore Calatamauri; Benedictine monastery in Sicily)</subfield>
+  </datafield>
+</record>
