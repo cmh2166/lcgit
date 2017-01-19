@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01320cz  a2200289n  4500</leader>
+  <controlfield tag="001">no2011072404</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140710073847.0</controlfield>
+  <controlfield tag="008">110509n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011072404</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">170977303</subfield>
+    <subfield code="2">viaf</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08850674</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoU</subfield>
+    <subfield code="d">MoU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1978</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, Joe</subfield>
+    <subfield code="q">(Joseph),</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Photography</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">San Francisco Art Institute</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="t">2001</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Massachusetts College of Art</subfield>
+    <subfield code="2">naf</subfield>
+    <subfield code="t">2004</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Missouri--Columbia. College of Arts and Science</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Photographers</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, Joseph,</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Re-altered landscapes, 2010, viewed on April 29, 2011:</subfield>
+    <subfield code="b">t.p. (Professor Joseph Johnson, Chairperson of Supervisory Committee, Univ. of Missouri--Columbia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from author, April 29, 2011</subfield>
+    <subfield code="b">(prefers Joe Johnson, 1978-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Art Department at the University of Missouri. Faculty, viewed July 8, 2014:</subfield>
+    <subfield code="b">Joe Johnson (Assistant Professor ; MFA, Photography, Massachusetts College of Art, Boston, MA, 2004 ; BFA, Photography, San Francisco Art Institute, San Francisco, 2001)</subfield>
+    <subfield code="u">http://art.missouri.edu/full-time-faculty/joe-johnson.html</subfield>
+  </datafield>
+</record>
