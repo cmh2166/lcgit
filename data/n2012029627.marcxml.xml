@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00784cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2012029627</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120531074847.0</controlfield>
+  <controlfield tag="008">120502n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012029627</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Abdij van Onze-Lieve-Vrouw van het Heilig Hart van Westmalle.</subfield>
+    <subfield code="k">Manuscript.</subfield>
+    <subfield code="n">12 A-B</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="t">Antiphonary (Manuscript Abdij van Onze-Lieve-Vrouw van het Heilig Hart van Westmalle. 12 A-B)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The "A" and "B" of the access point represent the separately foliated Temporale (A) and Sanctorale (B) of the antiphonary, the Temporale ending on fol. 1r of the Sanctorale. Treat as a single manuscript.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Scarcez, A. L'antiphonaire 12 A-B de Westmalle dans l'histoire du chant cistercien au XIIe sieĚcle, c2011.</subfield>
+  </datafield>
+</record>
