@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00441cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  84219187 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930714143612.8</controlfield>
+  <controlfield tag="008">850107n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84219187 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Disch, Peter</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">50 anni di architettura in Ticino, 1930-1980, c1983:</subfield>
+    <subfield code="b">verso t.p. (Peter Disch arch.; Novaggio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mario Botta, c1990:</subfield>
+    <subfield code="b">t.p. (Peter Disch) flap (b. 1933 in Olten, Switzerland)</subfield>
+  </datafield>
+</record>
