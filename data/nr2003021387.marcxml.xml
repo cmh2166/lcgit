@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00737cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2003021387</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081003075501.0</controlfield>
+  <controlfield tag="008">030701n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003021387</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06092734</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-HC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt-HC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Babad, M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Babad, Mosheh Yuda Leybush</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Babad, Moysheh Yuda Leybush</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">באב״ד, משה יודא ליבוש</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ḥumash ha-mevoʼar be-Yudish, 2002 or 2003-:</subfield>
+    <subfield code="b">v.1, t.p. (Mosheh Yuda Leybush Babad, melamed ... de-Ḥaside Belza, Boro Parḳ) t.p. verso (M. Babad ... Brooklyn, N.Y.)</subfield>
+  </datafield>
+</record>
