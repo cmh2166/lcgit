@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00380cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  88278646 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900307144706.8</controlfield>
+  <controlfield tag="008">900228n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88278646 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Parkfairfax Community Association</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Detail plan, Parkfairfax, Alexandria, Virginia, c1950:</subfield>
+    <subfield code="b">map recto (Parkfairfax Community Association)</subfield>
+  </datafield>
+</record>
