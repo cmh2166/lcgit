@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00328nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  90667401 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900910093315.6</controlfield>
+  <controlfield tag="008">900710n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90667401 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="c">TxU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Marc Antony</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Antony, Marc</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The council of three, 1871:</subfield>
+    <subfield code="b">t.p. (Marc Antony)</subfield>
+  </datafield>
+</record>
