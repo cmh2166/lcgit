@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00458nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  81065581 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">810706n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81065581 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Askin, Frederic B.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Katzenstein, A. A. Surgical pathology of non-neoplastic lung disease, 1982 (a.e.)</subfield>
+    <subfield code="b">t.p. (Frederic B. Askin; prof. of pathology, dir., Div. of Surgical Pathology, Univ. of N. C. Sch. of Med., Chapel Hill)</subfield>
+  </datafield>
+</record>
