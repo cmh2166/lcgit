@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01160nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2015169508</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151223073511.0</controlfield>
+  <controlfield tag="008">151222n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015169508</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10350449</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-SB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-SB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cowan, Rosemarie S.</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Albuquerque  (N.M.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Miniature books</subfield>
+    <subfield code="a">Artists' books</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Book artists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cowan, R. S.</subfield>
+    <subfield code="q">(Rosemarie S.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cowan, Rosemary S.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Nothing great was ever achieved without enthusiasm], 1991:</subfield>
+    <subfield code="b">verso of strip attached to covers (New Source Studios c/o R.S. Cowan ... 2605 Caitlin Ct. NW, Albuquerque  NM 87120)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Artist Books 3.0 WWW site, viewed October 20, 2015:</subfield>
+    <subfield code="b">members (Rosemarie S. Cowan; name of press/studio: New Source Studio, New Source Print Studio; BFA, University of Iowa; advanced printmaking, artists books)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A visit to Printed Matter in 1992, November 19, 2013 via UDC793 WWW site, viewed October 20, 2015</subfield>
+    <subfield code="b">(Rosemary S. Cowan, creator of miniature books, Albuquerque NM, New Source Studios)</subfield>
+  </datafield>
+</record>
