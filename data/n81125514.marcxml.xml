@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01122cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  81125514 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090122081315.0</controlfield>
+  <controlfield tag="008">811220nc acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81125514 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00670428</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Shanghai di 1 yi xue yuan.</subfield>
+    <subfield code="b">"Shi yong nei ke xue" bian ji wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Shang-hai ti i i hsüeh yüan.</subfield>
+    <subfield code="b">Shih yung nei kʻo hsüeh pien chi wei yüan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Shanghai di yi yi xue yuan.</subfield>
+    <subfield code="b">"Shi yong nei ke xue" bian ji wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Shang-hai ti 1 i hsüeh yüan.</subfield>
+    <subfield code="b">"Shih yung nei kʻo hsüeh" pien chi wei yüan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">上海第一医学院.</subfield>
+    <subfield code="b">《实用内科学》编辑委员会</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Shanghai di 1 yi xue yuan.</subfield>
+    <subfield code="b">Shi yong nei ke xue bian xie zu</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Shih yung nei kʻo hsüeh, 1962.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shih yung nei kʻo hsüeh, 1981:</subfield>
+    <subfield code="b">t.p. (Shang-hai ti i i hsüeh yüan "Shih yung nei kʻo hsüeh" pien chi wei yüan hui)</subfield>
+  </datafield>
+</record>
