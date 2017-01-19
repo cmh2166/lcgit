@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00414nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 89009155 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890708063449.7</controlfield>
+  <controlfield tag="008">890705n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89009155 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Hafrannsóknastofnunin (Iceland).</subfield>
+    <subfield code="b">Fiskideild</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Háskóli Íslands.</subfield>
+    <subfield code="b">Fiskideild</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rit Fiskideildar, 4. bindi, nr. 5 (1968):</subfield>
+    <subfield code="b">t.p. (Hafrannsóknastofnunin)</subfield>
+  </datafield>
+</record>
