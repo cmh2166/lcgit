@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00377nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98091642 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980616051011.1</controlfield>
+  <controlfield tag="008">980615n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98091642 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04751337 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="c">OCl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Galland, Leo.</subfield>
+    <subfield code="t">Four pillars of healing</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Galland, Leo.</subfield>
+    <subfield code="t">Power healing</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Power healing, c1997.</subfield>
+  </datafield>
+</record>
