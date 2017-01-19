@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595nz  a2200193n  4500</leader>
+  <controlfield tag="001">nb2014015754</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140715050906.0</controlfield>
+  <controlfield tag="008">140714n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014015754</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009082095</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2010</subfield>
+    <subfield code="t">2010</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Colloquium Lentia</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Linz, Austria)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Linz (Austria)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Excavations (Archaeology)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Lentia Colloquium</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Linz, Austria)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Colloquium Lentia 2010, 2012:</subfield>
+    <subfield code="b">t.p. (held in Linz, Austria)</subfield>
+  </datafield>
+</record>
