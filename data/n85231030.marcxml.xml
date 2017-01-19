@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00940cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  85231030 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150921140538.0</controlfield>
+  <controlfield tag="008">851002n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85231030 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01418478</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OU</subfield>
+    <subfield code="d">UkOxU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1893-04-15</subfield>
+    <subfield code="g">1973</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bishop, Morris,</subfield>
+    <subfield code="d">1893-1973</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, W. Bolingbroke,</subfield>
+    <subfield code="d">1893-1973</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Middle Ages, 1985:</subfield>
+    <subfield code="b">CIP t.p. (Morris Bishop) data sheet (b. 4/15/1893)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 9/26/85</subfield>
+    <subfield code="b">(hdgs.: Bishop, Morris, 1893-; Bishop, Morris, 1893-1973) LC manual auth cd. (Bishop, Morris, 1893-1973)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(hdg.: Bishop, Morris, 1893- ; usages: Morris Bishop; W. Bolingbroke Johnson; note: Full name: Morris Gilbert Bishop)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wright, G. Auth. bibliog. of English lang. fiction ... 1973</subfield>
+    <subfield code="b">(x-ref.: Johnson, W. Bolingbroke, pseud. see Bishop, Morris Gilbert, 1893- )</subfield>
+  </datafield>
+</record>
