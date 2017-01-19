@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00777nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2002112787</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021213071142.0</controlfield>
+  <controlfield tag="008">021212n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002112787</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05931795</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Technical paper (Ohio State University. Mapping and Charting Research Laboratory)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ohio State University.</subfield>
+    <subfield code="b">Mapping and Charting Research Laboratory.</subfield>
+    <subfield code="t">Technical paper</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">no. 146</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">OU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Columbus, Ohio</subfield>
+    <subfield code="b">Ohio State University Research Foundation</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">OU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">OU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">OU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strip charting from radar PPI photographs, 1951:</subfield>
+    <subfield code="b">ser. t.p. (Ohio State University. Mapping and Charting Research Laboratory. Technical paper)</subfield>
+  </datafield>
+</record>
