@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85286060 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920520141619.7</controlfield>
+  <controlfield tag="008">861216n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85286060 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Rosenthal, Ionel</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Rosenthal, I.</subfield>
+    <subfield code="q">(Ionel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Photomedicine, 1987:</subfield>
+    <subfield code="b">CIP t.p. (Ionel Rosenthal, Ph.D.; head, Division of Food Technology, Agricultural Research Organization, Volcani Center, Bet Dagan, Israel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Electromagnetic radiations in food science, 1992:</subfield>
+    <subfield code="b">CIP t.p. (I. Rosenthal)</subfield>
+  </datafield>
+</record>
