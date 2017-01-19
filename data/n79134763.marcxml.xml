@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01297cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  79134763 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218064858.0</controlfield>
+  <controlfield tag="008">791128n| acannaabn          |n aba      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79134763 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00366125</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Monroe, John</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Compiler of Papers of the Monroe, Caudy, and Kackley families]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Papers of the Monroe, Caudy, and Kackley families, 1775-1948:</subfield>
+    <subfield code="b">data sheet from Duke Univ. Libr. (John Monroe, sheriff and county official, on Capon Bridge, Hampshire Co., Va. [now W. Va.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Joint author of The order of Rome]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Holland, J. The order of Rome, 1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (John Monroe) phone call to publisher, 10/30/79 (John Monroe is a pseud.; author does not wish to divulge his real name)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Co-author of First light]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">First light, 1999:</subfield>
+    <subfield code="b">t.p. (John Monroe) p. 3 (guest curator)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">W. Va. direct., 1895-96;</subfield>
+    <subfield code="a">Sage. Early records Hampshire Co., Va., 1939;</subfield>
+    <subfield code="a">Pugh. Capon Valley, 1946;</subfield>
+    <subfield code="a">Maxwell &amp; Swisher. Hist. of Hampshire Co., 1897; Biog. and geneal. master index. Apr. 22, 2002.</subfield>
+  </datafield>
+</record>
