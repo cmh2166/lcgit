@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00792cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2006005543</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816083919.0</controlfield>
+  <controlfield tag="008">060306n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006005543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Conference "Student Journeys : the Special Education Routes"</subfield>
+    <subfield code="d">(2004 :</subfield>
+    <subfield code="c">University College Dublin)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Student Journeys : the Special Education Routes</subfield>
+    <subfield code="d">(2004 :</subfield>
+    <subfield code="c">University College Dublin)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Student journeys : the special education routes : summary of proceedings held in ... University College Dublin December 6th and 7th, 2004, 2005 :</subfield>
+    <subfield code="b">p.6 (the Conference which was titled "Student Journeys : the Special Education Routes")</subfield>
+  </datafield>
+</record>
