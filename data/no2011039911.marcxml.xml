@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00614nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011039911</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110316075254.0</controlfield>
+  <controlfield tag="008">110314n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011039911</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08796010</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DCS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DCS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bell, Sam H.,</subfield>
+    <subfield code="d">1925-2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Cong. Senate. Comm. on the Judiciary. Confirmation of federal judges, 1982-1983, pt. 4:</subfield>
+    <subfield code="b">p. 275 (Sam H. Bell, nominee, U.S. District Judge, Northern District of Ohio, b. Dec. 31, 1925, Rochester, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. dir. of fed. judges, Mar. 8, 2011</subfield>
+    <subfield code="b">(Samuel H. Bell, d. Dec. 23, 2010 in Akron, Ohio)</subfield>
+  </datafield>
+</record>
