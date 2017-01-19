@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  95119208 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140117151715.0</controlfield>
+  <controlfield tag="008">951212n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95119208 </subfield>
+    <subfield code="z">n 2013073697</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fenich, George G.</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Casino gaming dictionary, c1996:</subfield>
+    <subfield code="b">t.p. (George G. Fenich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Production and logistics in meetings, expositions, events and conventions, 2015:</subfield>
+    <subfield code="b">ECIP t.p. (George G. Fenich, Ph. D.)</subfield>
+  </datafield>
+</record>
