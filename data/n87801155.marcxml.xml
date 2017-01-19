@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01168cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  87801155 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160802075301.0</controlfield>
+  <controlfield tag="008">870108n| azannaabn          |a aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87801155 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01739698</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MoSU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1540</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gresbeck, Heinrich,</subfield>
+    <subfield code="d">active 1540</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Germany</subfield>
+    <subfield code="e">Münster in Westfalen (Germany)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Anabaptists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gresbeck, Henry,</subfield>
+    <subfield code="d">active 1540</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Gresbeck, Heinrich,</subfield>
+    <subfield code="d">fl. 1540</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-1252: Berichte der Augenzeugen über das münsterische Wiedertauferreich, 1983</subfield>
+    <subfield code="b">(hdg. on PU rept.: Gresbeck, Heinrich, fl. 1540; usage: Heinrich Gresbeck)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">False prophets and preachers : Henry Gresbeck's account of the Anabaptist Kingdom of Münster, 2016:</subfield>
+    <subfield code="b">page 1 (Henry Gresbeck; wrote an eyewitness acount of the events in the Anabaptist kingdom of Münster in Westfalen, Germany, 1534-1535) page 29 (was a "young man" at the time of the siege of Münster, so was probably born between 1510 and 1515; he is documented in 1542, but nothing is known of him after that date)</subfield>
+  </datafield>
+</record>
