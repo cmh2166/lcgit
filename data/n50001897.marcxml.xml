@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00867cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  50001897 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110130074633.0</controlfield>
+  <controlfield tag="008">800214n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50001897 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00037585</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Wa</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Artz, Curtis P.</subfield>
+    <subfield code="q">(Curtis Price),</subfield>
+    <subfield code="d">1915-1977</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Artz, Curtis Price,</subfield>
+    <subfield code="d">1915-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The treatment of burns, 1957.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11-27-85</subfield>
+    <subfield code="b">(hdg.: Artz, Curtis Price, 1915- ; usage: Curtis P. Artz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, 11/6/85</subfield>
+    <subfield code="b">(hdg.: Artz, Curtis P. (Curtis Price), 1915- ; usage: Curtis P. Artz)</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">M.D., F.A.C.S., Lt. Col., MC, USA, Ret.;</subfield>
+    <subfield code="a">associate professor of surgery, Univ. of Mississippi Medical Center, Jackson, Miss.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Died in Dec 1977, Social Security Death Index; http://www.jeromevillage.com/pdf/V2_Schools.pdf</subfield>
+  </datafield>
+</record>
