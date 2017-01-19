@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00684nz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2014034366</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140612191820.0</controlfield>
+  <controlfield tag="008">140612n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014034366</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1917</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Keene, Lonnie</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="b">Philadelphia</subfield>
+    <subfield code="c">Pa.</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Keene, L. Wiltbank</subfield>
+    <subfield code="q">(Lonnie Wiltbank)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His For the sake of your Uncle Sam, 1917:</subfield>
+    <subfield code="b">caption (Lonnie Keene) handwritten on pasted-in lyric sheet (L. Wiltbank Keene)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catalogue of copyright entries. Pt. 3, Musical compositions, 1917, new ser., v. 1</subfield>
+    <subfield code="b">(Lonnie Keene; L. Wiltbank Keene; Philadelphia, Pa.)</subfield>
+  </datafield>
+</record>
