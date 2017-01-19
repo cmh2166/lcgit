@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00465nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2015189277</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151022044103.0</controlfield>
+  <controlfield tag="008">151022n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015189277</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1667873</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Prajapati, Raju</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Raju Prajapati</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Training, recruitment, placement, and retention of health professionals, May 2012:</subfield>
+    <subfield code="b">t.p. verso (Mr. Raju Prajapati (BPH, MPH Europubhealth))</subfield>
+  </datafield>
+</record>
