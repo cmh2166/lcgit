@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00746cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2011056146</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140227081457.0</controlfield>
+  <controlfield tag="008">110408n| azaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011056146</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08822926</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMFIU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">FMFIU</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Cuadernos del doctorado</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universidad Nacional de Colombia.</subfield>
+    <subfield code="b">Sede Bogotá.</subfield>
+    <subfield code="t">Cuadernos del doctorado</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">12</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">FMFIU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Bogotá</subfield>
+    <subfield code="b">Universidad Nacional de Colombia, Sede Bogotá, Interfacultades</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">FMFIU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">FMFIU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">FMFIU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ambiente y salud pública, 2005:</subfield>
+    <subfield code="b">t.p. (Cuadernos del doctorado)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VIH y SIDA, 2010:</subfield>
+    <subfield code="b">ser. t.p. (Cuadernos del doctorado)</subfield>
+  </datafield>
+</record>
