@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2006009905</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060509033105.0</controlfield>
+  <controlfield tag="008">060411n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006009905</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkOxU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mozarthaus Vienna</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Wien Museum.</subfield>
+    <subfield code="b">Mozartwohnung</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mozarthaus Vienna, c2006:</subfield>
+    <subfield code="b">p. 4 of cover (Domgasse 5; from Jan. 27, 2006 onward, the life and work of Mozart will be presented in the Mozarthaus Vienna in an exhibition that stretches over six floors)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mozarthaus Vienna mit Wien Museum Mozartwohnung WWW homepage, Apr. 21, 2006</subfield>
+    <subfield code="b">(Mozarthaus Vienna with Wien Museum Mozart's apartment; a new centre devoted to the life and works of Mozart including the historical apartment; Domgasse 5 )</subfield>
+  </datafield>
+</record>
