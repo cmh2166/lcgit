@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00906cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80078791 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090220080357.0</controlfield>
+  <controlfield tag="008">800810n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80078791 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00460125</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Nuorten työelämään sijoittumistoimikunta</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Kommissionen för ungdomens arbetsplacering</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Työvoimaministeriö.</subfield>
+    <subfield code="b">Nuorten työelämään sijoittumistoimikunta</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Työvoimaministeriö.</subfield>
+    <subfield code="b">Kommissionen för ungdomens arbetsplacering</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Finland.</subfield>
+    <subfield code="b">Ungdomens arbetsplacering, Kommissionen för</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Nuorten työelämään sijoittumistoimikunnan mietintö, c1979:</subfield>
+    <subfield code="b">t.p. (Nuorten työelämään sijoittumistoimikunnan; Kommissionen för ungdomens arbetsplacering) pref. (set up by Työvoimaministeriö in 1978)</subfield>
+  </datafield>
+</record>
