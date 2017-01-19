@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00932cz  a2200229n  4500</leader>
+  <controlfield tag="001">nr2002027254</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100527080439.0</controlfield>
+  <controlfield tag="008">020723n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002027254</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0741559</subfield>
+    <subfield code="e">W0741559</subfield>
+    <subfield code="f">N0405504</subfield>
+    <subfield code="g">N0405504</subfield>
+    <subfield code="2">gnis</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05886771</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-nj</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Mountain View (N.J.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Mead's Basin (N.J.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Overland Trails Digital Library Collection, 2002</subfield>
+    <subfield code="b">(Mountain View (N.J.))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, June 19, 2002</subfield>
+    <subfield code="b">(Mountain View, populated place, Passaic County, New Jersey 40deg. 55min. 04sec.N 074deg. 15min. 59sec.W)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Early Schools in Passaic County, via WWW, June 19, 2002</subfield>
+    <subfield code="b">(Mountain View (Mead's Basin))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Times and Seasons, 1842:</subfield>
+    <subfield code="b">vol. 4, no. 2 (conference held at Mead's Basin, Passaic Co., N.J.)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Getty, June 19, 2002</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">New Jersey</subfield>
+    <subfield code="z">Mountain View</subfield>
+  </datafield>
+</record>
