@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00458cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  85189478 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209081104.0</controlfield>
+  <controlfield tag="008">910821n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85189478 </subfield>
+    <subfield code="z">no 91021220 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Mundo &amp; Associates</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Mundo and Associates</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Conway Borough, Beaver County, Pennsylvania, 1986:</subfield>
+    <subfield code="b">map recto (Mundo &amp; Associates, town planning &amp; economic development, Beaver, Pa.)</subfield>
+  </datafield>
+</record>
