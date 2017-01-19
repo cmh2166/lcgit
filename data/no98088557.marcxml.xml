@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00734nz  a2200217n  4500</leader>
+  <controlfield tag="001">no 98088557 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980601044550.5</controlfield>
+  <controlfield tag="008">980530n| acabaaaa|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98088557 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04740412 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU</subfield>
+    <subfield code="c">GU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Instrumental music.</subfield>
+    <subfield code="k">Selections (Hyperion)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Complete original music for flute</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Complete original music for flute</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">2</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">London</subfield>
+    <subfield code="b">Hyperion</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mozart, W.A. Flute quartets ; Adagio and rondo, p1990, c1989:</subfield>
+    <subfield code="b">container (The complete original music for flute / Mozart)</subfield>
+  </datafield>
+</record>
