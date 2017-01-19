@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00574nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83067552 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">830601n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83067552 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lazarenko, N. N.</subfield>
+    <subfield code="q">(Nikolaĭ Nikolaevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Lazarenko, Nikolaĭ Nikolaevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Kolebanii︠a︡ urovni︠a︡ mori︠a︡, 1961.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Konf. baltiĭskikh okeanografov (12th : 1980 : Leningrad, R.S.F.S.R.). Trudy XII Konf. baltiĭskikh okeanografov ... 1981:</subfield>
+    <subfield code="b">verso t.p. (kand. geogr. nauk N. N. Lazarenko)</subfield>
+  </datafield>
+</record>
