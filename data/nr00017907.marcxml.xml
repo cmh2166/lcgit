@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00754cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 00017907 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011130084741.0</controlfield>
+  <controlfield tag="008">000526n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00017907 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Reflexiones para el debate</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Fundación DEMUCA.</subfield>
+    <subfield code="t">Reflexiones para el debate</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Agencia Española de Cooperación Internacional.</subfield>
+    <subfield code="t">Reflexiones para el debate</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">San José, Costa Rica</subfield>
+    <subfield code="b">Fundación DEMUCA-Cooperación Española</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">CSt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Municipalismo en Centroamérica, 1997:</subfield>
+    <subfield code="b">t.p. (Reflexiones para el debate; Fundación DEMUCA-Cooperación Española)</subfield>
+  </datafield>
+</record>
