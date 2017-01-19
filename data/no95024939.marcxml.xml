@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00828nz  a2200193n  4500</leader>
+  <controlfield tag="001">no 95024939 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950523052506.4</controlfield>
+  <controlfield tag="008">950522n| acaabaaa|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95024939 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03841765 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU</subfield>
+    <subfield code="c">GU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Conference report of the Center for International Security and Arms Control</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Stanford University.</subfield>
+    <subfield code="b">Center for International Security and Arms Control.</subfield>
+    <subfield code="t">Conference report of the Center for International Security and Arms Control</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Stanford, Calif.</subfield>
+    <subfield code="b">Center for International Security and Arms Control, Stanford University</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The transformation of the Asian Pacific region, c1991:</subfield>
+    <subfield code="b">t.p. (A conference report of the Center for International Security and Arms Control)</subfield>
+  </datafield>
+</record>
