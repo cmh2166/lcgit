@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00553cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002040230</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140814073830.0</controlfield>
+  <controlfield tag="008">020509n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002040230</subfield>
+    <subfield code="z">n 2003042568</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05758156</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">FMU</subfield>
+    <subfield code="d">IAhCCS</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1968</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Penn, Zak,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Last action hero, 1993:</subfield>
+    <subfield code="b">credits (story by Zak Penn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Movie Database</subfield>
+    <subfield code="b">(b. 1968; graduated from Wesleyan University in 1990)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The art of X2, 2003:</subfield>
+    <subfield code="b">t.p. (Zak Penn)</subfield>
+  </datafield>
+</record>
