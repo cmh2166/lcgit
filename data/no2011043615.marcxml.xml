@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2011043615</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160907075359.0</controlfield>
+  <controlfield tag="008">110320n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011043615</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08802968</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1972</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carr, Ruth,</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Corporate body:</subfield>
+    <subfield code="a">Minuit (Musical group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I felt like a fight, alright?, c2011:</subfield>
+    <subfield code="b">t.p. (Ruth Carr)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ legal dep. form</subfield>
+    <subfield code="b">(b. 1972)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, via WWW, viewed on July 6, 2016:</subfield>
+    <subfield code="b">Minuit (band) page (Minuit are an electronic band from New Zealand, members ... Ruth Carr)</subfield>
+  </datafield>
+</record>
