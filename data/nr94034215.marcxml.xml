@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00744cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 94034215 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150915073924.0</controlfield>
+  <controlfield tag="008">941014n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94034215 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03700945</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">TxU-Mu</subfield>
+    <subfield code="d">NRU-Mus</subfield>
+    <subfield code="d">NN-MUS</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1962-08-06</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shewan, Stephen,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Warsaw (N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Composers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shewan, Stephan,</subfield>
+    <subfield code="d">1962-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">American voices II, p1990:</subfield>
+    <subfield code="b">label (Stephan Shewan) insert (b. 1962)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shewan, S. Parables of God and man [SR] 1999:</subfield>
+    <subfield code="b">insert (Stephen Shewan; b. Aug, 6, 1962, Warsaw, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Williamsville East Composition Project, 2002:</subfield>
+    <subfield code="b">t.p. (Stephen Shewan)</subfield>
+  </datafield>
+</record>
