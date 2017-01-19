@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00474nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2008068481</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081008080604.0</controlfield>
+  <controlfield tag="008">081007n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008068481</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Polevyĭ, V. I.</subfield>
+    <subfield code="q">(Volodymyr Ivanovych)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Polevyĭ, Volodymyr Ivanovych</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Konstytut︠s︡iĭna vidpovidalʹnistʹ politychnykh partiĭ v Ukraïni, 2007:</subfield>
+    <subfield code="b">t.p. (V.I. Polevyĭ) colophon (Polevyĭ Volodymyr Ivanovych)</subfield>
+  </datafield>
+</record>
