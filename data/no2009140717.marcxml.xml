@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00708cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009140717</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090911075358.0</controlfield>
+  <controlfield tag="008">090904n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009140717</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08229396</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+    <subfield code="d">IeDuTC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">O Connor, Á.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">O'Connor, Á.</subfield>
+    <subfield code="q">(Áine)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">O'Connor, Áine,</subfield>
+    <subfield code="c">Dr.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Foster, G. N. Ireland red list no. 1 : water beetles, 2009 :</subfield>
+    <subfield code="b">t.p. (Á. O Connor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Irish scientist website, 4 Sept. 2009 :</subfield>
+    <subfield code="b">2002 (Postdoctoral fellow Aine O'Connor ... National University of Ireland, Galway)</subfield>
+    <subfield code="u">http://www.irishscientist.ie/2002/contents.asp?contentxml=02p160a.xml&amp;contentxsl=is02pages.xsl</subfield>
+  </datafield>
+</record>
