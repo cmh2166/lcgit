@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00637cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85185526 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080614075220.0</controlfield>
+  <controlfield tag="008">861029n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85185526 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01750957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tanner, James,</subfield>
+    <subfield code="d">1844-1927</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from New Jersey Historical Soc. for Morris, G.P. Papers, 1843-1918</subfield>
+    <subfield code="b">(James Tanner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base 10-22-86</subfield>
+    <subfield code="b">(hdg.: Tanner, James, 1844-1827)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC file</subfield>
+    <subfield code="b">(Tanner, James, 1844-1927; lost both legs at 2d Bull Run; lobbyist for GAR; pension attorney; commissioner of pensions under Harrison)</subfield>
+  </datafield>
+</record>
