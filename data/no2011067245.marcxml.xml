@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00494nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011067245</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110502130336.0</controlfield>
+  <controlfield tag="008">110428n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011067245</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08842013</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Broström, Tobias.</subfield>
+    <subfield code="t">Tableaux</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Broström, Tobias.</subfield>
+    <subfield code="t">Trois tableaux</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Broström, Tobias.</subfield>
+    <subfield code="t">3 tableaux</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Broström, T. Trois tableaux, c2009:</subfield>
+    <subfield code="b">t.p. (Trois tableaux : pour marimba seul)</subfield>
+  </datafield>
+</record>
