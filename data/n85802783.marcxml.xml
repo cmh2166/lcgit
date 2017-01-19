@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00844cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  85802783 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890817155411.0</controlfield>
+  <controlfield tag="008">850402n| acaaaaaa|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85802783 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="c">MH</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Studies in international security (Macmillan Press)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">International Institute for Strategic Studies.</subfield>
+    <subfield code="t">Studies in international security (Macmillan Press)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">16</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">London</subfield>
+    <subfield code="b">Macmillan Press</subfield>
+    <subfield code="d">some volumes</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Houndmills, Basingstoke, Hampshire</subfield>
+    <subfield code="b">Macmillan</subfield>
+    <subfield code="b">IISS</subfield>
+    <subfield code="d">some volumes</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Other title on jacket: An International Institute for Strategic Studies book</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cable, J. Gunboat diplomacy, 1919-1979, 1981:</subfield>
+    <subfield code="b">t.p.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Roberts, A. Nations in arms, 1986:</subfield>
+    <subfield code="b">series t.p.</subfield>
+  </datafield>
+</record>
