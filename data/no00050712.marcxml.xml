@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00931nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 00050712 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000719064048.0</controlfield>
+  <controlfield tag="008">000718n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00050712 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05261162</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burgwyn, Henry King,</subfield>
+    <subfield code="d">1813-1877</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">H. K. B.,</subfield>
+    <subfield code="d">1813-1877</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Citizen of North-Carolina,</subfield>
+    <subfield code="d">1813-1877</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Considerations relative to a Southern confederacy, 1860:</subfield>
+    <subfield code="b">t.p. (By A citizen of North-Carolina) p. 3 (Thornburg Plantation, Northampton Co., N.C.) p. 20 (H. K. B. of Northampton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dictionary of North Carolina biography, A-C, 1979:</subfield>
+    <subfield code="b">p. 279 (Henry King Burgwyn, planter of Thornburg, Northampton County)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jones, W.B. John Burgwin, Carolinian, John Jones, Virginian: their ancestors and descendants, 1913:</subfield>
+    <subfield code="b">p. 29 (Henry King Burgwyn was born in New York, Jan. 7, 1813 ... died Richmond, Va., Feb. 2, 1877)</subfield>
+  </datafield>
+</record>
