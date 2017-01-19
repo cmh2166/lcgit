@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00550nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 94030422 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19941027120816.5</controlfield>
+  <controlfield tag="008">940902n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94030422 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">APHG (Association)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Association des professeurs de l'histoire et de géographie de la Guyane</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">A.P.H.G.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Revue guyanaise d'histoire et de géographie, janv.-févr.-mars 1978:</subfield>
+    <subfield code="b">t.p. (APHG); p. i (l'Association des professeurs d'histoire et de géographie (A.P.H.G.) de la Guyane)</subfield>
+  </datafield>
+</record>
