@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01352cz  a2200277n  4500</leader>
+  <controlfield tag="001">nr 96022550 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160323075334.0</controlfield>
+  <controlfield tag="008">960618n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96022550 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04197971</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">NcD</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1814-12-30</subfield>
+    <subfield code="g">1894-07-05</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PT1889.G2</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Paoli, Betty,</subfield>
+    <subfield code="d">1814-1894</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Vienna (Austria)</subfield>
+    <subfield code="b">Baden (Austria)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lyricists</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="a">Journalists</subfield>
+    <subfield code="a">Translators</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Glück, Barbara Elisabeth,</subfield>
+    <subfield code="d">1814-1894</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Glück, Babette Elisabeth,</subfield>
+    <subfield code="d">1814-1894</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Julie Rettich, ein Lebens- und Charakterbild, 1866:</subfield>
+    <subfield code="b">t.p. (Betty Paoli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 6-18-96</subfield>
+    <subfield code="b">(hdgs.: Glück, Barbara Elisabeth, 1814-1894; Paoli, Betty, 1814-1894; usage: Betty Paoli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN, 6-18-94</subfield>
+    <subfield code="b">(hdg.: Glück, Barbara Elisabeth, 1814-1894; usage: Betty Paoli)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliothek der deutschen Literatur, Bibliographie und Register, 1995</subfield>
+    <subfield code="b">(Paoli, Betty (Babette Elisabeth Glück), 1815-1894)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, German, via WWW, October 29, 2015</subfield>
+    <subfield code="b">(Betty Paoli, pseudonym of Barbara Elisabeth Anna Glück; born December 30, 1814 in Vienna; died July 5, 1894 in Baden near Vienna; Austrian lyricist, writer, journalist, and translator)</subfield>
+  </datafield>
+</record>
