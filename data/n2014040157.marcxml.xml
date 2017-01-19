@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00570nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014040157</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140708132244.0</controlfield>
+  <controlfield tag="008">140708n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014040157</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1892</subfield>
+    <subfield code="g">1943</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Răkhim, Gali,</subfield>
+    <subfield code="d">1892-1943</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">tat</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Gali Mȯkhămmătshakir uly</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Raḥīm, ʻAlī,</subfield>
+    <subfield code="d">1982-1943</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gali Răkhim, 2008:</subfield>
+    <subfield code="b">title page (Gali Răkhim) cover (ʻAlī Raḥīm) page 3 (Gali Mȯkhămmătshakir uly Răkhim (1892-1943))</subfield>
+  </datafield>
+</record>
