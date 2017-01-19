@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01075nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2014014792</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140204073612.0</controlfield>
+  <controlfield tag="008">140203n| azabaaaan          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014014792</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09673708</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IOrQBI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IOrQBI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McLoon, Linda Snow.</subfield>
+    <subfield code="t">Brookmeade young riders series</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Series (Publications)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Multipart monograph</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Brookmeade young riders series</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="5">DPCC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">North Pomfret, Vermont</subfield>
+    <subfield code="b">Trafalgar Square</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">IOrQBI</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">IOrQBI</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">IOrQBI</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Crown Prince, 2012:</subfield>
+    <subfield code="b">t.p. (The Brookmeade young riders series) spine (The Brookmeade young riders series; 1) p. 4 of cover (don't miss the second book in the Brookmeade young riders series, Crown prince challenged)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Crown prince challenged, 2012:</subfield>
+    <subfield code="b">t.p. (The Brookmeade young riders series) spine (The Brookmeade young riders series; 1) p. 4 of cover (don't miss the first book in the Brookmeade young riders series, Crown prince)</subfield>
+  </datafield>
+</record>
