@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01103cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  79000734 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141215080730.0</controlfield>
+  <controlfield tag="008">790109n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79000734 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00234977</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bund Deutscher Steuerbeamten</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">BDSt</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Bund Deutscher Reichssteuerbeamten</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Deutsche Steuer-Gewerkschaft</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Retrospective heading</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Finanzkolleg, 1965 (a.e.)</subfield>
+    <subfield code="b">t.p. (Bund Deutscher Steuerbeamten)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Fünfzig Jahre deutsche Steuerfachverwaltung, 1970:</subfield>
+    <subfield code="b">t.p. (Bund Deutscher Steuerbeamten (BDSt)) p. 146 (Bund Deutscher Reichssteuerbeamten (BDR))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Taschenb. d. öffentl. Lebens, 1966</subfield>
+    <subfield code="b">(Bund Deutscher Steuerbeamten)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Halbj. Verz., 1976</subfield>
+    <subfield code="b">(Bund Deutscher Steuerbeamten später Deutsche Steuer-Gewerkschaft)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 15, 2014</subfield>
+    <subfield code="b">(In 1949 Bund Deutscher Reichssteuerbeamten changed its name to Bund Deutscher Steuerbeamten and in 1976 to Deutsche Steuer-Gewerkschaft.)</subfield>
+  </datafield>
+</record>
