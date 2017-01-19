@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00594nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  95922730 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961003052926.1</controlfield>
+  <controlfield tag="008">960420n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95922730 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Biblioteca Nacional (Brazil).</subfield>
+    <subfield code="b">Divisão de Microrreprodução</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Biblioteca Nacional (Brazil).</subfield>
+    <subfield code="b">Departamento de Processos Técnicos.</subfield>
+    <subfield code="b">Divisão de Microrreprodução</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catálogo de periódicos brasileiros microfilmados, 1994:</subfield>
+    <subfield code="b">t.p. (Fundação Biblioteca Nacional, Departamento de Processos Técnicos, Divisão de Microrreprodução)</subfield>
+  </datafield>
+</record>
