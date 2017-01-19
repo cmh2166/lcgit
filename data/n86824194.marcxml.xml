@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01125cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  86824194 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040129134347.0</controlfield>
+  <controlfield tag="008">860501n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86824194 </subfield>
+    <subfield code="z">n  86828350 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Toltz, King, Duvall, Anderson, and Associates</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Toltz, King, Duvall, Anderson &amp; Assocs.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Toltz, King &amp; Day</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">TKDA (Firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-39906: Red Wing civic center, 1980</subfield>
+    <subfield code="b">(hdg. on CaOTP rept.: Toltz, King, Duvall, Anderson, and Associates; usage: Toltz, King, Duvall, Anderson, and Associates)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amer. architects dir., 1970</subfield>
+    <subfield code="b">(Toltz, King, Duvall, Anderson &amp; Assocs., Inc., successor to Toltz, King &amp; Day, Inc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">TKDA Web site, Jan. 29, 2004</subfield>
+    <subfield code="b">(TKDA; architects, engineers, planners; Toltz Engineering Company [no publs. in LC database] inc. 1910; name changed 1919 to Toltz, King and Day; name changed 1956 to Toltz, King, Duvall, Anderson and Associates)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from N.D. Inst. for Reg. Studies for Kurke Assocs. Records, 1915-1963</subfield>
+    <subfield code="a">(Toltz, King, and Day; Minneapolis; architects)</subfield>
+  </datafield>
+</record>
