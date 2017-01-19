@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00723cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81110930 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315083526.0</controlfield>
+  <controlfield tag="008">811006n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81110930 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Iowa.</subfield>
+    <subfield code="b">Department of Banking</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Iowa.</subfield>
+    <subfield code="b">Banking, Department of</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Iowa.</subfield>
+    <subfield code="b">Dept. of Banking</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Iowa.</subfield>
+    <subfield code="b">Division of Banking</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Iowa. Credit Union Dept. (subdiv.) Annual report of the administrator, 1978:</subfield>
+    <subfield code="b">p.i (Department of Banking)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Iowa. Division of Banking. Annual report of the Superintendent of Banking of the State of Iowa for the year ending ... June 30, 1991: cover (Division of Banking, State of Iowa)</subfield>
+  </datafield>
+</record>
