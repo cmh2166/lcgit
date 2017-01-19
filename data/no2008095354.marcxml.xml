@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00606cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008095354</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150505073845.0</controlfield>
+  <controlfield tag="008">080627n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008095354</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07807608</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Cincinnati Children's Hospital Medical Center</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Children's Hospital Medical Center (Cincinnati, Ohio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Annual report, 2001:</subfield>
+    <subfield code="b">cover (Cincinnati Children's Hospital Medical Center) p. 4 (name changed from Children's Hospital Medical Center to Cincinnati Children's Hospital Medical Center)</subfield>
+  </datafield>
+</record>
