@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00339nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 00001870 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000121013617.0</controlfield>
+  <controlfield tag="008">000119n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00001870 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN-PD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wavelet, Christophe</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Danse et utopie, c1999:</subfield>
+    <subfield code="b">p. 195 (Christophe Wavelet; dancer, dance critic)</subfield>
+  </datafield>
+</record>
