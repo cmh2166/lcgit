@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00517cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2006008586</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140414101251.0</controlfield>
+  <controlfield tag="008">060206n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006008586</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Giornata di studio nell'anniversario della "Sacrosanctum Concilium"</subfield>
+    <subfield code="n">(1st :</subfield>
+    <subfield code="d">2004 :</subfield>
+    <subfield code="c">Rome, Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Il martirologio romano, 2005:</subfield>
+    <subfield code="b">t.p. (atti della I Giornata di studio nell'anniversario della "Sacrosanctum Concilium," Roma, Palazzo della cancelleria, 4 dicembre 2004)</subfield>
+  </datafield>
+</record>
