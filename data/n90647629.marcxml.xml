@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00551cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90647629 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981114052842.9</controlfield>
+  <controlfield tag="008">900522n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90647629 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wilson, Sally,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Wilson, Sally Tatlow,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc90-33885: Wilson, I. Wilderness seasons, 1987</subfield>
+    <subfield code="b">(hdg. on CaBVaU rept.: Wilson, Sally Tatlow, 1955- ; usage: Sally Tatlow Wilson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gold rush, 1996:</subfield>
+    <subfield code="b">t.p. (Sally Wilson; Sally Tatlow Wilson) Can. CIP (Wilson, Sally, 1955- )</subfield>
+  </datafield>
+</record>
