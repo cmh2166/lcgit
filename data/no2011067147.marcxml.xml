@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00857cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2011067147</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160609075357.0</controlfield>
+  <controlfield tag="008">110428n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011067147</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08841915</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UCS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UCS</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Todman, Bill,</subfield>
+    <subfield code="c">Jr.</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">New York (N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Motion picture producers and directors</subfield>
+    <subfield code="a">Television producers and directors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Todman, William S.,</subfield>
+    <subfield code="c">Jr.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">X-Men, c2010, c2000:</subfield>
+    <subfield code="b">credits (William S. Todman, Jr., co-producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet Movie Database, via WWW, 04-26-11,</subfield>
+    <subfield code="b">(Bill Todman Jr.; b. New York City, New York, USA; son of game show producer Bill Todman; producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The in-laws, c2008:</subfield>
+    <subfield code="b">credits (Bill Todman, Jr.; producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, June 8, 2016:</subfield>
+    <subfield code="b">(predominant usage: Bill Todman, Jr.)</subfield>
+  </datafield>
+</record>
