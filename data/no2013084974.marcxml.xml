@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00961cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2013084974</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160121073737.0</controlfield>
+  <controlfield tag="008">130809n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013084974</subfield>
+    <subfield code="z">no2015079581</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09540521</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2009</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">ZOFO duet</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Musical groups</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">San Francisco (Calif.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ZOFO (Musical group)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Member:</subfield>
+    <subfield code="a">Nakagoshi, Keisuke</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Member:</subfield>
+    <subfield code="a">Zimmermann, Eva-Maria,</subfield>
+    <subfield code="d">1972-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mind meld, â2012:</subfield>
+    <subfield code="b">label (ZOFO duet) insert (ZOFO; ZOFO duet: pianists Keisuke Nakagoshi and Eva-Maria Zimmermann; formed in the spring of 2009 to focus on the four-hand repertoire; based in San Francisco)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ZOFO duet WWW site, August 9, 2013</subfield>
+    <subfield code="b">(logo: ZOFO duet; ZOFO; the name is shorthand for 20-finger orchestra (ZO=20 and FO=finger orchestra))</subfield>
+    <subfield code="u">http://www.zofoduet.com</subfield>
+  </datafield>
+</record>
