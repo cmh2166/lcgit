@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00470cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2003012065</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040408033149.0</controlfield>
+  <controlfield tag="008">030407n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003012065</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNMM</subfield>
+    <subfield code="d">NNMM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Galerie Vanuxem</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Galerie Renaud Vanuxem</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Masques d'ombres, 2002:</subfield>
+    <subfield code="b">t.p. (Galerie Vanuxem) label on colophon (54, rue Mazarine, 75006 Paris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Time bless art, 2004:</subfield>
+    <subfield code="b">t.p. (Galerie Renaud Vanuxem)</subfield>
+  </datafield>
+</record>
