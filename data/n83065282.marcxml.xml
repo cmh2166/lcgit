@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01299cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  83065282 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160723075412.0</controlfield>
+  <controlfield tag="008">830223n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83065282 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00948633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MoSU</subfield>
+    <subfield code="d">InFwCT</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1901-06-26</subfield>
+    <subfield code="g">1977-01-21</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bornkamm, Heinrich,</subfield>
+    <subfield code="d">1901-1977</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Wuitz (Germany)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="b">Heidelberg (Germany)</subfield>
+    <subfield code="c">Germany</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Luther, Martin, 1483-1546</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Hessische Ludwigs-Universität Giessen</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universität Leipzig (1409-1953)</subfield>
+    <subfield code="a">Universität Heidelberg</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Theologians</subfield>
+    <subfield code="a">Church historians</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">Males</subfield>
+    <subfield code="2">lcdgt</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Imago dei ..., 1932.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Luther in mid-career, 1521-1530, c1983:</subfield>
+    <subfield code="b">t.p. (Heinrich Bornkamm) translator's preface (b. June 26, 1901; d. Jan. 21, 1977)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia (German), July 22, 2016:</subfield>
+    <subfield code="b">Heinrich Bornkamm (born June 26, 1901, in Wuitz, Kreis Zeitz; died Jan. 21, 1977, in Heidelberg; he was a German Lutheran theologian with a focus on Luther research; he taught church history as a professor at the universities of Giessen, Leipzig, and Heidelberg; he was a brother of the New Testament scholar Günther Bornkamm)</subfield>
+  </datafield>
+</record>
