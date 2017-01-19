@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00325cz  a2200133n  4500</leader>
+  <controlfield tag="001">no 96046052 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960926053652.8</controlfield>
+  <controlfield tag="008">960912n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96046052 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04159676 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="c">OCl</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Paulsen, Amy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">True Friends, c1996:</subfield>
+    <subfield code="b">t.p. (Amy Poulsen)</subfield>
+  </datafield>
+</record>
