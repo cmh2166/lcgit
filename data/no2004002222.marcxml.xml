@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004002222</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040110071117.0</controlfield>
+  <controlfield tag="008">040109n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004002222</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06243394</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiEM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiEM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lir, Edana,</subfield>
+    <subfield code="d">1969-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jackson, Linda M.,</subfield>
+    <subfield code="d">1969-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Cinderella prophecy, c2003:</subfield>
+    <subfield code="b">t.p. (Edana Lir)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Personal communication from the author, Nov. 24, 2003</subfield>
+    <subfield code="b">(Edana Lir is a pseudonym of Linda M. Jackson, b. 1969.)</subfield>
+  </datafield>
+</record>
