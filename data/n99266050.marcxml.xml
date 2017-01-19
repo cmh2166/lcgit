@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00643nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  99266050 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991105182412.0</controlfield>
+  <controlfield tag="008">991105n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99266050 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Histadrut rofʼe ha-shinayim be-Erets-Yiśraʼel</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Palestine Dental Association</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Histadrut rofʼe ha-shinayim be-Yiśraʼel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Refuʼat ha-shinayim (Tel Aviv, Israel : 1944). Refuʼat ha-shinayim, Merts 1944:</subfield>
+    <subfield code="b">t.p. (Histadrut rofʼe ha-shinayim be-Erets-Yiśraʼel) added t.p. (Palestine Dental Association); Nov. 1952: t.p. (Histadrut rofʼe ha-shinayim be-Yiśraʼel)</subfield>
+  </datafield>
+</record>
