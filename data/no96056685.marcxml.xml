@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96056685 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990825090553.0</controlfield>
+  <controlfield tag="008">961030n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96056685 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04195003</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrU</subfield>
+    <subfield code="c">OrU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Bishop Scott Grammar School</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Bishop Scott Grammar and Divinity School</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Bishop Scott Academy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catalogue of the Bishop Scott Grammar School, 1882</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catalogue of the Bishop Scott Grammar and Divinity School, 1879-80:</subfield>
+    <subfield code="b">p. 6, etc. (Bishop Scott Grammar School)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Catalogue of the Bishop Scott Academy..., 1888-9: p. 19 (founded...under the name...Bishop Scott Grammar School)</subfield>
+  </datafield>
+</record>
