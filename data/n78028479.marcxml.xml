@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01282cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  78028479 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140814073723.0</controlfield>
+  <controlfield tag="008">780524n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78028479 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00164766</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1936</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Petitmengin, Pierre</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Inscriptions, Latin</subfield>
+    <subfield code="a">Paleography, Latin</subfield>
+    <subfield code="a">Latin literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Centre d'études anciennes de la Rue d'Ulm</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">École normale supérieure (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="a">Librarians</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Employer:</subfield>
+    <subfield code="a">École normale supérieure (France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Lucien Herr ... 1977:</subfield>
+    <subfield code="b">p. 2 (Pierre Petitmengin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliothèque nationale de France, via VIAF, 13 August 2014</subfield>
+    <subfield code="b">(Petitmengin, Pierre; born 1936; French philologist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">École normale supérieure Département Sciences de l'Antiquité, via WWW, 13 August 2014</subfield>
+    <subfield code="b">(Pierre Petitmengin, Latin palaeography)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Guide de l'épigraphiste, 2010:</subfield>
+    <subfield code="b">page 9 (Pierre Petitmengin; director of the library at École normale supérieure ; professor emeritus at Centre d'études anciennes de la Rue d'Ulm; specializes in transmission of Latin literature)</subfield>
+  </datafield>
+</record>
