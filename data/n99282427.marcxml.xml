@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00536cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  91101167 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010214104412.0</controlfield>
+  <controlfield tag="008">911003n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91101167 </subfield>
+    <subfield code="z">n  99282427 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Finley, Mark,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vandeman, G.E. The overcomers, c1992:</subfield>
+    <subfield code="b">CIP t.p. (Mark Finley) data sheet (b. 1945)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Confidence amid chaos, c1992:</subfield>
+    <subfield code="b">CIP t.p. (Mark Finley) data sheet (Finley, Mark A.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">2000 and beyond, c1996:</subfield>
+    <subfield code="b">CIP data sheet (b. July 23, 1945)</subfield>
+  </datafield>
+</record>
