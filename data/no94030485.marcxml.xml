@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00495nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 94030485 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940906095025.0</controlfield>
+  <controlfield tag="008">940902n| acannaab|          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 94030485 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU</subfield>
+    <subfield code="c">TxU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Instituto de Planejamento EconoĚmico e Social.</subfield>
+    <subfield code="b">Instituto de Planejamento.</subfield>
+    <subfield code="b">Coordenadoria de Agricultura e Abastecimento</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AnaĚlise dos dados do censo agrop. de 1985, 1989:</subfield>
+    <subfield code="b">t.p. (Instituto de Planejamento--IPLAN, Coordenadoria de Agricultura e Abastecimento)</subfield>
+  </datafield>
+</record>
