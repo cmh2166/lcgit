@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01000nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2015107612</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150814073622.0</controlfield>
+  <controlfield tag="008">150813n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015107612</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10243709</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19761031</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Winther, Thomas,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Denmark</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Horror tales</subfield>
+    <subfield code="a">Horror in literature</subfield>
+    <subfield code="a">Editing</subfield>
+    <subfield code="a">Authorship</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Authors</subfield>
+    <subfield code="a">Editors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Index til gyserantologier, 2007:</subfield>
+    <subfield code="b">title page (Thomas Winther)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 2, 2015</subfield>
+    <subfield code="b">(access point: Winther, Thomas, 1976-; usage: Thomas Winther)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bogpriser.DK web site viewed Aug. 2, 2015:</subfield>
+    <subfield code="b">article web page (Thomas Winther, author of "Index til gyserantologier", is Denmark's foremost literary expert on H. P. Lovecraft and his works, and on horror fiction as a genre. He is editor of the Lovecraft-related fanzine "Nyarlathotep" and "Heaven ship", and author of the website www.hplovecraft.dk)</subfield>
+  </datafield>
+</record>
