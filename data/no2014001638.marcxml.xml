@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2014001638</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140108073517.0</controlfield>
+  <controlfield tag="008">140107n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014001638</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09650477</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNMM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNMM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1976</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Blanckaert, Pénélope,</subfield>
+    <subfield code="d">1976-</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Fashion</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Blanckaert, Pénélope. Trésors du vintage : la mode aux enchéres, 1900-2000, c2013:</subfield>
+    <subfield code="b">title page (Pénélope Blanckaert; founder of PB Fashion)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BnF via VIAF, December 24, 2013</subfield>
+    <subfield code="b">(access point: Blanckaert, Pénélope, 1976-; fashion expert)</subfield>
+  </datafield>
+</record>
