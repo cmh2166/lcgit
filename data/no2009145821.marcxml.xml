@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00840cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2009145821</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120818082038.0</controlfield>
+  <controlfield tag="008">090914n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009145821</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08238819</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Hawaii.</subfield>
+    <subfield code="t">Treaties, etc.</subfield>
+    <subfield code="g">United States,</subfield>
+    <subfield code="d">1897 June 16</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Treaty for the Annexation of the Republic of Hawaii to the United States</subfield>
+    <subfield code="d">(1897)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Treaties, etc.</subfield>
+    <subfield code="g">Hawaii,</subfield>
+    <subfield code="d">1897 June 16</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Annexation of the Republic of Hawaii to the United States, 1897:</subfield>
+    <subfield code="b">p. 1 (a treaty for the annexation of the Republic of Hawaii to the United States, signed at Washington, by the plenipotentiaries of the parties, June 16, 1897)</subfield>
+  </datafield>
+</record>
