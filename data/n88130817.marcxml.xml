@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88130817 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880914162930.8</controlfield>
+  <controlfield tag="008">880908n| acannaab|          |n ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88130817 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Great Britain.</subfield>
+    <subfield code="b">Parliament.</subfield>
+    <subfield code="b">House of Commons.</subfield>
+    <subfield code="b">Select Committee on the Education of the Lower Orders in the Metropolis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its First Report of the minutes of evidence taken before the Select Committee of the House of Commons appointed to inquire into the education of the lower orders of the metropolis, 1816.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MdU/G-K files</subfield>
+    <subfield code="b">(hdg.: Gt. Brit. Parliament. House of Commons. Select Committee on the Education of the Lower Orders; usage: Select Committee on the Education of the Lower Orders in the Metropolis)</subfield>
+  </datafield>
+</record>
