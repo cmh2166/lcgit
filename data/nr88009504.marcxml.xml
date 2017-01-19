@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00504cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 88009504 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910916065817.3</controlfield>
+  <controlfield tag="008">881007n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 88009504 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lew, R.</subfield>
+    <subfield code="q">(Roland)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lew, Roland</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bureaucraties chinoises, 1986:</subfield>
+    <subfield code="b">t.p. (R. Lew) p. 43 (Roland Lew)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Une DernieĚre chance aĚ l'Est? c1989:</subfield>
+    <subfield code="b">t.p. (R. Lew) p. 179 (Roland Lew; b. 1944; sociologue et politologue, Univ. libre de Bruxelles)</subfield>
+  </datafield>
+</record>
