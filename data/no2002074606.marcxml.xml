@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00674cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002074606</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151201073939.0</controlfield>
+  <controlfield tag="008">020816n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002074606</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05840223</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+    <subfield code="d">NyAhCCSB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schaffner, Sue</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Photographers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Founded corporate body:</subfield>
+    <subfield code="a">Dyke Action Machine! (Art project)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dyke Action Machine (Group of artists). Straight to hell, c2002:</subfield>
+    <subfield code="b">t.p. (Sue Schaffner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dyke Action Machine WWW page, Aug. 16, 2002</subfield>
+    <subfield code="b">(Sue Schaffner; editorial and advertising photographer; collaborates with Carrie Moyer in Dyke Action Machine)</subfield>
+  </datafield>
+</record>
