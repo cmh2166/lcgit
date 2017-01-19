@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00538cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  93005578 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070516074920.0</controlfield>
+  <controlfield tag="008">930122n| acannaab|          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93005578 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Liberace, George</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A Treasure chest of song hits [SR] 1954?:</subfield>
+    <subfield code="b">container (George Liberace)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL database, 24 July 2002</subfield>
+    <subfield code="b">(hdg.: Liberace, George, 1911-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Myers, Gary E. On that Wisconsin beat, c2006:</subfield>
+    <subfield code="b">p.15 (George Liberace; b. July 31, 1911, Menasha; d. Oct. 16, 1983)</subfield>
+  </datafield>
+</record>
