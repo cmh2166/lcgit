@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00646nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015014613</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150204073525.0</controlfield>
+  <controlfield tag="008">150203n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015014613</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10076599</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bastian, Rene</subfield>
+    <subfield code="c">(Producer)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Hamburg (Germany)</subfield>
+    <subfield code="e">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cold in July, 2014:</subfield>
+    <subfield code="b">end credits (Rene Bastian, producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Variety website, viewed Feb. 3, 2015</subfield>
+    <subfield code="b">(Rene Bastian, motion picture producer and co-founder/owner with producer Linda Moran of Belladonna Productions; born in Hamburg, Germany and now lives in the United States)</subfield>
+  </datafield>
+</record>
