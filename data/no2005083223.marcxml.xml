@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00603nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2005083223</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050908052032.0</controlfield>
+  <controlfield tag="008">050826n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005083223</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06726353</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxAbC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TxAbC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Paul, H. G.</subfield>
+    <subfield code="q">(Harry Gilbert),</subfield>
+    <subfield code="d">1874-1945</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Paul, Harry Gilbert,</subfield>
+    <subfield code="d">1874-1945</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Sir Roger de Coverley papers from the Spectator, c1930:</subfield>
+    <subfield code="b">t.p. (H. G. Paul)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 26, 2005:</subfield>
+    <subfield code="b">(hdgs.: Paul, Harry Gilbert, 1874-1945; Paul, Harry Gilbert, 1874- Paul, Harry G. ; usages: H.G. Paul; Harry G. Paul)</subfield>
+  </datafield>
+</record>
