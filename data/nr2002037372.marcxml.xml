@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00538cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2002037372</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100810093946.0</controlfield>
+  <controlfield tag="008">021008n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002037372</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaQMCCA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaQMCCA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Okas, JuĚri,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beyond control, 1991:</subfield>
+    <subfield code="b">p. 31 (Juri Okas; b. Tallinn, Estonia in 1950; graduated as an architect from the State Art Institute of Estonia in 1974; lives and works in Tallinn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AMICUS database, Oct. 8, 2002</subfield>
+    <subfield code="b">(hdg.: Okas, Juri, 1950-; usage: Juri Okas)</subfield>
+  </datafield>
+</record>
