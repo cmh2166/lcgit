@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00746nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014091323</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140710073602.0</controlfield>
+  <controlfield tag="008">140709nn azannaabn           n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014091323</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09903808</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1935</subfield>
+    <subfield code="g">2012</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Woolf, David V.,</subfield>
+    <subfield code="d">1935-2012</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="f">Far Rockaway (New York, N.Y.)</subfield>
+    <subfield code="f">Manhattan (New York, N.Y.)</subfield>
+    <subfield code="f">Forest Hills (New York, N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Accounting</subfield>
+    <subfield code="a">Buses</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">David Val</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Correspondence from donor to Northwestern University, July 3, 2014</subfield>
+    <subfield code="b">(David Val Woolf, 1935-2012, he grew up in Far Rockaway, N.Y., resident of Manhattan and Forest Hills, accountant and bus hobbyist)</subfield>
+  </datafield>
+</record>
