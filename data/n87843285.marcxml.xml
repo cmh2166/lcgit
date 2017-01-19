@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00530cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87843285 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130509074853.0</controlfield>
+  <controlfield tag="008">880125n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87843285 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02187923</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">American Association of Nurse Anesthetists</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Principles and practice of nurse anesthesia, 1987:</subfield>
+    <subfield code="b">t.p. (American Association of Nurse Anesthetists)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC/NLM files, 12/22/87</subfield>
+    <subfield code="b">(hdg.: American Association of Nurse Anesthetists)</subfield>
+  </datafield>
+</record>
