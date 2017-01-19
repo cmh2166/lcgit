@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00886nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009132549</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090826075649.0</controlfield>
+  <controlfield tag="008">090824n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009132549</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08215074</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSmH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSmH</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bellère, Balthazar,</subfield>
+    <subfield code="d">1564-1639</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bellerus, Balthazar,</subfield>
+    <subfield code="d">1564-1639</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Franciscus a Sancta Clara. Epistolium continens confutationem duarum propositionum astrologicarum cum principiis aduersus iudiciariam astrologiam, 1626:</subfield>
+    <subfield code="b">t.p. (ex typographia Balthazaris Belleri)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bibliotheque nationale Catalogue Bn-Opale plus Autorités, searched 20 July 2009</subfield>
+    <subfield code="b">(Bellère, Balthazar, born 12 Sept. 1564, died 18 Aug. 1639; Belgian printer and bookseller in Anvers in 1589 and Douai 1590?-1639; son of Jean Bellère and son-in-law of Jean I Bogard, printer in Douai; address: Rue des Écoles)</subfield>
+  </datafield>
+</record>
