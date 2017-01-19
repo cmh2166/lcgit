@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00687cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2012181121</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120307075019.0</controlfield>
+  <controlfield tag="008">120207n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012181121</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09109548</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shimanko, I. I.</subfield>
+    <subfield code="q">(Ilʹi︠a︡ Isaakovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shimanko, Ilʹi︠a︡ Isaakovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Шиманко, И. И.</subfield>
+    <subfield code="q">(Илья Исаакович)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ulʹtrafioletovye luchi v medit︠s︡ine, 1948:</subfield>
+    <subfield code="b">t.p. (I.I. Shimanko = И.И. Шиманко)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 3, 2012</subfield>
+    <subfield code="b">(hdg.: Shimanko, I. I. (Ilʹi︠a︡ Isaakovich))</subfield>
+  </datafield>
+</record>
