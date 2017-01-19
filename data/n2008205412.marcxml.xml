@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00493nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2008205412</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080620074243.0</controlfield>
+  <controlfield tag="008">080619n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008205412</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Salal Hydroelectric Project</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Salāla Jalavidhuta Parijojanā</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Salal Project</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Salal Hydroelectric Project, J &amp; K, Stage--I, 2007:</subfield>
+    <subfield code="b">t.p. (Salal Hydroelectric Project; Salāla Jalavidhuta Parijojanā) pref. (Salal Project)</subfield>
+  </datafield>
+</record>
