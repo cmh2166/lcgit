@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00605cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  80102098 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141014142530.0</controlfield>
+  <controlfield tag="008">800811n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80102098 </subfield>
+    <subfield code="z">n 2013065221</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19450616</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Morris, Allison,</subfield>
+    <subfield code="d">1945-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Lawbreakers, 1974.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Women, crime, and criminal justice, 1987:</subfield>
+    <subfield code="b">CIP t.p. (Allison Morris) data sheet (b. 6/16/45)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Family group conferences, 1996:</subfield>
+    <subfield code="b">t.p. (Allison Morris) p. viii (Dir., Inst. of Criminology, Victoria Univ. of Wellington, Wellington, N.Z.)</subfield>
+  </datafield>
+</record>
