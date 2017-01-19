@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00906cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  81011012 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319161053.0</controlfield>
+  <controlfield tag="008">810211n| aznnnabbn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81011012 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Serbia.</subfield>
+    <subfield code="b">Sovereign (1321-1331 : Stefan Uroš III Dečanski)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="a">Stefan Uroš Dečanski,</subfield>
+    <subfield code="b">III,</subfield>
+    <subfield code="c">King of Serbia,</subfield>
+    <subfield code="d">approximately 1285-1331</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a subject. Works about this person are entered under Stefan Uroš III Dečanski, King of Serbia, ca. 1285-1331</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Dečanske hrisovulje, 1976:</subfield>
+    <subfield code="b">t.p. (Dečanske hrisovulje) p. 18 (Dečanske hrisovulje are documents issued by Stefan Uroš III Dečanski during his reigning (1321-1331) for founding of Monastery Dečani)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encikl. Jug., 1955-71:</subfield>
+    <subfield code="b">v. 8, p. 142 (Stefan Uroš III Dečanski, kralj srpski (1321-1331))</subfield>
+  </datafield>
+</record>
