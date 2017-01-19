@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00910cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  82101425 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150617181239.0</controlfield>
+  <controlfield tag="008">820927n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82101425 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00797986</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">WU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1910</subfield>
+    <subfield code="g">1977</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nikolʹskiĭ, G. V.</subfield>
+    <subfield code="q">(Georgiĭ Vasilʹevich),</subfield>
+    <subfield code="d">1910-1977</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Никольский, Г. В.</subfield>
+    <subfield code="q">(Георгий Васильевич),</subfield>
+    <subfield code="d">1910-1977</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nikolʹskiĭ, Georgiĭ Vasilʹevich,</subfield>
+    <subfield code="d">1910-1977</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nikolski, G. W.,</subfield>
+    <subfield code="d">1910-1977</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nikolsky, G.,</subfield>
+    <subfield code="d">1910-1977</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chastnai︠a︡ ikhtiologii︠a︡, 1950.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sovremennye prob. ikhtiologii, 1981:</subfield>
+    <subfield code="b">t.p. (chlena korrespondenta AN SSSR G. V. Nikolʹskogo) leaf facing t.p. (1910-1977)</subfield>
+  </datafield>
+</record>
