@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00917nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2009099493</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090628075112.0</controlfield>
+  <controlfield tag="008">090626n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009099493</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08155689</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brandt, Nicolaus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brand, Nikolaus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brandius, Nicol.</subfield>
+    <subfield code="q">(Nicolaus)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brandt, Nikolaus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brandus, Nicolaus</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Disputatio inauguralis de legitima maleficos et sagas investigandi et convincendi ratione, 1662:</subfield>
+    <subfield code="b">t.p. (Nicolaus Brandt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World biographical information system [electronic resource], Feb. 9, 2009</subfield>
+    <subfield code="b">(hdg.: Brand, Nikolaus; jurist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CERL [electronic resource], Feb. 9, 2009</subfield>
+    <subfield code="b">(hdg.: Brandt, Nicolaus; respondent in Giessen; jurist; var.: Brand, Nikolaus; Brandius, Nicol.; Brandt, Nikolaus; Brandus, Nicolaus)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VD17</subfield>
+    <subfield code="b">(hdg.: Brandt, Nicolaus)</subfield>
+  </datafield>
+</record>
