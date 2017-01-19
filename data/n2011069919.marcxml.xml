@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2011069919</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111006075006.0</controlfield>
+  <controlfield tag="008">111005n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011069919</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">North Bros. Mfg. Co.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">North Brothers Manufacturing Co.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Forest City Screwdriver Co.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maine Historical Society for Pages from a catalog relating to Maine screwdriver makers, 1896</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WK fine tools.com, Oct. 5, 2011</subfield>
+    <subfield code="b">(Forest City Screwdriver Co., purchased by North Brothers Manufacturing Co., 1897; on letterhead: North Bros. Mfg. Co.)</subfield>
+  </datafield>
+</record>
