@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00523nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 90019593 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901005055503.6</controlfield>
+  <controlfield tag="008">901003n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 90019593 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Burrowes, Ray</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Burrowes, Roy</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shepp, A. There's a trumpet in my soul [SR] p1975:</subfield>
+    <subfield code="b">label (Ray Burrowes) container (Roy Burrowes, trumpet &amp; flugel horn)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">New Grove dict. of jazz;</subfield>
+    <subfield code="a">Feather, L. Dict. of jazz in the 70s;</subfield>
+    <subfield code="a">Bruyninckx, W. 60 years of recorded jazz.</subfield>
+  </datafield>
+</record>
