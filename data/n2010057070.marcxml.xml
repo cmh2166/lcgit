@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01118cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2010057070</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100901074917.0</controlfield>
+  <controlfield tag="008">100831n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010057070</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Protasov, V. I︠U︡.</subfield>
+    <subfield code="q">(Vladimir I︠U︡rʹevich),</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Протасов, В. Ю.</subfield>
+    <subfield code="q">(Владимир Юрьевич),</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Protasov, Vladimir I︠U︡rʹevich,</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Протасов, Владимир Юрьевич,</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Protasov, V. Yu.</subfield>
+    <subfield code="q">(Vladimir Yur'evich),</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Protasov Vladimir Yur'evich,</subfield>
+    <subfield code="d">1970-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Novikov, I. I︠A︡. Wavelet theory, 2010:</subfield>
+    <subfield code="b">ECIP t.p. (V. Yu. Protasov) data view (b. Oct. 19, 1970)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Math-Net.ru web site, Aug. 31, 2010</subfield>
+    <subfield code="b">persons index (Протасов Владимир Юрьевич = Protasov Vladimir I︠U︡rʹevich; Protasov Vladimir Yur'evich [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Novikov, I. I︠A︡. Teorii︠a︡ vspleskov, 2005:</subfield>
+    <subfield code="b">t.p. (В.Ю. Протасов = V.I︠U︡. Protasov)</subfield>
+  </datafield>
+</record>
