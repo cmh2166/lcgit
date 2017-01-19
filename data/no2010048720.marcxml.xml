@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00898nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010048720</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100325075422.0</controlfield>
+  <controlfield tag="008">100323n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010048720</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08435107</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Akademija nauka i umetnosti Kosova.</subfield>
+    <subfield code="b">Odeljenje društvenih nauka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Akademija nauka i umetnosti Kosova.</subfield>
+    <subfield code="b">Section of Social Sciences</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Akademia e Shkencave dhe e Arteve e Kosovës.</subfield>
+    <subfield code="b">Seksioni i Shkencave Shoqërore</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tito për kosovën, Kosova për Titon, 1979:</subfield>
+    <subfield code="b">t.p. (Akademija nauka i umetnosti Kosova, Odeljenje društvenih nauka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kosova sot dhe statusi i saj i ardhshëm, aspekte e këndkundrime, 2004:</subfield>
+    <subfield code="b">t.p. (Akademia e Shkencave dhe e Arteve e Kosovës, Seksioni i Shkencave Shoqërore) added t.p. (Kosova Academy of Sciences and Arts, Section of Social Sciences)</subfield>
+  </datafield>
+</record>
