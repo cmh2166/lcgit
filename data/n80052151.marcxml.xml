@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00762cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80052151 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060417112020.0</controlfield>
+  <controlfield tag="008">800702n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80052151 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wieniawski, Henri,</subfield>
+    <subfield code="d">1835-1880.</subfield>
+    <subfield code="t">Ecole moderne</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Wieniawski, Henri,</subfield>
+    <subfield code="d">1835-1880.</subfield>
+    <subfield code="t">Etudes,</subfield>
+    <subfield code="m">violin,</subfield>
+    <subfield code="n">op. 10</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Wieniawski, Henri,</subfield>
+    <subfield code="d">1835-1880.</subfield>
+    <subfield code="t">Caprices,</subfield>
+    <subfield code="m">violin,</subfield>
+    <subfield code="n">op. 10</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Wieniawski, Henri,</subfield>
+    <subfield code="d">1835-1880.</subfield>
+    <subfield code="t">Etudes-caprices,</subfield>
+    <subfield code="n">op. 10</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Virtuoso music for solo violin [SR] p1979 (subdiv.)</subfield>
+    <subfield code="b">container (École moderne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(op. 10; L'école moderne : 10 études, vn; 1854)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'école moderne, c1991:</subfield>
+    <subfield code="b">t.p. (Lʹecole moderne : (Etudes-caprices) opus 10)</subfield>
+  </datafield>
+</record>
