@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2007008400</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070607075233.0</controlfield>
+  <controlfield tag="008">070503n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2007008400</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNPM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNPM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lamotte, Alphonse,</subfield>
+    <subfield code="d">1844-1914</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lamotte, A.</subfield>
+    <subfield code="q">(Alphonse),</subfield>
+    <subfield code="d">1844-1914</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Militona, 1887:</subfield>
+    <subfield code="b">t.p. (A. Lamotte)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Allgem. Künstlerlexikon, Bio-bibl. Index, 2000</subfield>
+    <subfield code="b">(Lamotte, Alphonse; b. Le Havre, Dec. 5, 1844; d. Le Havre, May 11, 1914; copper engraver)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bénézit, 2006</subfield>
+    <subfield code="b">(Lamotte, Alphonse; b. 1844; d. 1914; engraver)</subfield>
+  </datafield>
+</record>
