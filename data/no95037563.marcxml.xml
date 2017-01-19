@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00781cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 95037563 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120811084002.0</controlfield>
+  <controlfield tag="008">950807n| acannaab           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95037563 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03892522</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Conference on a National Strategy for Occupational Musculoskeletal Injuries--Implementation Issues and Research Needs</subfield>
+    <subfield code="d">(1991 :</subfield>
+    <subfield code="c">Ann Arbor, Mich.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A national strategy for occupational musculoskeletal injuries ... [MI] 1992:</subfield>
+    <subfield code="b">p. 1 (Conference on a National Strategy for Occupational Musculoskeletal Injuries--Implementation Issues and Research Needs) p. 3 (held in Ann Arbor, Mich., Apr. 1991)</subfield>
+  </datafield>
+</record>
