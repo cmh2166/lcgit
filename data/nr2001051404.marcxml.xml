@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr2001051404</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090808075511.0</controlfield>
+  <controlfield tag="008">011211n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001051404</subfield>
+    <subfield code="z">nr 93002663 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Free Vietnam Alliance</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Alliance Vietnam Liberté</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Liên Minh Việt Nam Tự Do</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">FVA</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Viêt Nam infos, nov. 2001:</subfield>
+    <subfield code="b">masthead (Alliance Vietnam Liberté) address return on accompanying envelope (Liên Minh Việt Nam Tự Do; Free Vietnam Alliance)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vietnam democracy, Nov. 1992:</subfield>
+    <subfield code="b">caption (Free Vietnam Alliance; FVA)</subfield>
+  </datafield>
+</record>
