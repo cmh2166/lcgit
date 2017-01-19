@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00642nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2013047971</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130503075715.0</controlfield>
+  <controlfield tag="008">130501n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013047971</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09463899</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViW-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViW-L</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ho, Benny</subfield>
+    <subfield code="c">(Business consultant)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Hong Kong</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">New business enterprises</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Business consultants</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The accidental career, 2013</subfield>
+    <subfield code="b">cover (Benny Ho, Master in Architecture from Harvard University, management consultant at McKinsey &amp; Company, later the Hong Kong Managing Director of a global internet incubator)</subfield>
+  </datafield>
+</record>
