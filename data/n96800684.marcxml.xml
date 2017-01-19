@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00451nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  96800684 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960730084652.2</controlfield>
+  <controlfield tag="008">960725n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96800684 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wolff, L.</subfield>
+    <subfield code="q">(Linda)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Wolff, Linda</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Molecular aspects of myeloid stem cell development, 1996:</subfield>
+    <subfield code="b">t.p. (L. Wolff) t.p. verso (Linda Wolff, Ph.D.; sr. investigator, Lab. of Genetics, NCI, NIH, Bethesda, MD)</subfield>
+  </datafield>
+</record>
