@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  96118133 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961209101935.1</controlfield>
+  <controlfield tag="008">961209n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96118133 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Trotti, S. W.</subfield>
+    <subfield code="q">(Samuel Wilds),</subfield>
+    <subfield code="d">1810-1856</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Trotti, Samuel Wilds,</subfield>
+    <subfield code="d">1810-1856</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Address of the Hon. S.W. Trotti to the people of Colleton and Beaufort, Orangeburgh and Barnwell Districts, South Carolina, 1843.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biog. dict. Amer. Congress, 1774-1971</subfield>
+    <subfield code="b">(Samuel Wilds Trotti, Rep. from S.C.; b. July 18, 1810 in Barnwell, S.C.; d. June 24, 1856 in Buckhead, Fairfield Dist. (now County), S.C.; elected to 27th Congress to fill vacancy caused by resignation of Sampson H. Butler; served Dec. 17, 1842-Mar. 3, 1843)</subfield>
+  </datafield>
+</record>
