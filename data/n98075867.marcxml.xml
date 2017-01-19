@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  98075867 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980824121320.1</controlfield>
+  <controlfield tag="008">980824n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98075867 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Citizens Action for Free and Fair Elections</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">CAFFE</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The 1997 general elections in Jamaica, c1998:</subfield>
+    <subfield code="b">t.p. (Citizens Action for Free and Fair Elections; CAFFE) p. 8 (launched on Sept. 3, 1997)</subfield>
+  </datafield>
+</record>
