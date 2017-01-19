@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010127284</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100807075524.0</controlfield>
+  <controlfield tag="008">100805n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010127284</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08583381</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">N</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">N</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-ny</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Fallsburg (N.Y. : Town)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Code of the town of Fallsburg, county of Sullivan, state of New York, 2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, July 28, 2010:</subfield>
+    <subfield code="b">(Fallsburg, Town of, Civil, NY, Sullivan Co., 414410 N 0743614 W)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">New York (State)</subfield>
+    <subfield code="z">Fallsburg (Town)</subfield>
+  </datafield>
+</record>
