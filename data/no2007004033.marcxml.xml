@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00782cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2007004033</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140910073813.0</controlfield>
+  <controlfield tag="008">070111n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007004033</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07298404</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PSt</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UkCU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1901</subfield>
+    <subfield code="g">1967</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weltmann, Lutz,</subfield>
+    <subfield code="d">1901-1967</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">ElblaĚ¨g (Poland)</subfield>
+    <subfield code="b">London (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Weltmann, Lutz,</subfield>
+    <subfield code="d">b. 1901</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Weltmann, Lutz,</subfield>
+    <subfield code="d">1901-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Siegfried Sassoon letters, 1919-1955</subfield>
+    <subfield code="b">(Dr. Lutz Weltmann, Ph.D.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Jan. 11, 2007</subfield>
+    <subfield code="b">(hdg.: Weltmann, Lutz, 1901- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB database, September 9, 2014</subfield>
+    <subfield code="b">(Weltmann, Lutz; born 1901 in ElblaĚ¨g; died 1967 in London)</subfield>
+  </datafield>
+</record>
