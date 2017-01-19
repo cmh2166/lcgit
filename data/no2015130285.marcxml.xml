@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00621nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2015130285</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150930073632.0</controlfield>
+  <controlfield tag="008">150929n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015130285</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10282700</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaBVa</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CaBVa</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19740116</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vax,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Charleville-Mézières (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cara, Vincent,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sensei, 2015:</subfield>
+    <subfield code="b">title page (illustration, Vax)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Babelio website, viewed September 29, 2015</subfield>
+    <subfield code="b">(Vincent Cara, known under the name Vax, born in 1974 (16 January 1974) in Charleville Mézières)</subfield>
+  </datafield>
+</record>
