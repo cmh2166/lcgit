@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00884cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 00019971 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320093428.0</controlfield>
+  <controlfield tag="008">000619n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00019971 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNPM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNPM</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1402</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mauléon, Guillaume,</subfield>
+    <subfield code="d">active 1402</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mauléon, Guileume,</subfield>
+    <subfield code="d">active 1402</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Mauléon, Guillaume,</subfield>
+    <subfield code="d">fl. 1402</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Catholic Church. Book of hours (Ms. Pierpont Morgan Library. M.515), 1402:</subfield>
+    <subfield code="b">fol. 94 (Guileume Mauleon; original provenance inscription naming the patron reads: Ceste matines sont a Guileume Mauleon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">French painting in the time of Jean de Berry : the Limbourgs and their contemporaries, 1974:</subfield>
+    <subfield code="b">p. 336 (Guillaume Mauléon; original owner of the manuscript now known as Pierpont Morgan Library. MS M.515, which was written and illuminated in Nantes in 1402)</subfield>
+  </datafield>
+</record>
