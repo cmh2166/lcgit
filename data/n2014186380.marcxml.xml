@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00565nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2014186380</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140716044102.0</controlfield>
+  <controlfield tag="008">140716n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014186380</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1618982</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bloem, Hans L.</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Leiden (Netherlands)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Leids Universitair Medisch Centrum</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Musculoskeletal imaging, 2015:</subfield>
+    <subfield code="b">ECIP t.p. (Hans L. Bloem, MD, PhD, Professor and Chairman, Department of Radiology, Leiden University Medical Center, Leiden, The Netherlands)</subfield>
+  </datafield>
+</record>
