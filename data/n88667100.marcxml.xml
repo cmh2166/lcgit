@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726nz  a2200217n  4500</leader>
+  <controlfield tag="001">n  88667100 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19881013130526.8</controlfield>
+  <controlfield tag="008">881012n| acaaaaaa|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88667100 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Colección de teatro mexicano.</subfield>
+    <subfield code="p">Serie Dame el pie</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Serie Dame el pie</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Dame el pie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Universidad Autónoma Metropolitana.</subfield>
+    <subfield code="b">Unidad Xochimilco.</subfield>
+    <subfield code="t">Colección de teatro mexicano.</subfield>
+    <subfield code="p">Serie Dame el pie</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">7</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">México, D.F.</subfield>
+    <subfield code="b">Universidad Autónoma Metropolitana, Unidad Xochimilco</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Solana, R. Camerino de segundas, 1987:</subfield>
+    <subfield code="b">series t.p.</subfield>
+  </datafield>
+</record>
