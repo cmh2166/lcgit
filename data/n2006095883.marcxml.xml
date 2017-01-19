@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00916cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2006095883</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080828080315.0</controlfield>
+  <controlfield tag="008">061220n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006095883</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07285835</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Chen Zizhuang mei shu xue yuan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Chen Zizhuang Arts College</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Chongqing Yu xi xue yuan.</subfield>
+    <subfield code="b">Chen Zizhuang Arts College</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Chongqing Yu xi xue yuan.</subfield>
+    <subfield code="b">Chen Zizhuang mei shu xue yuan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">陈子庄美术学院</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Di yu, shi yu, 2004:</subfield>
+    <subfield code="b">t.p. (Chongqing Yu xi xue yuan, Chen Zizhuang mei shu xue yuan) fwd. (Chen Zizhuang Arts College; est. with support of Chongqing Yu xi xue yuan (in Yongchuan Shi, Chongqing) and with permission of artist Chen Zizhuang's children)</subfield>
+  </datafield>
+</record>
