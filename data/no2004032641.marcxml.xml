@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00426nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004032641</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040406052227.0</controlfield>
+  <controlfield tag="008">040405n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004032641</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06316275</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Domalik, Andrzej</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zygfryd, 1995:</subfield>
+    <subfield code="b">credits (Andrzej Domalik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Mar. 22, 2004</subfield>
+    <subfield code="b">(Andrzej Domalik; writer, director)</subfield>
+  </datafield>
+</record>
