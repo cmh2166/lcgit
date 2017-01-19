@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  81030228 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731080954.0</controlfield>
+  <controlfield tag="008">810410n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81030228 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Conference on the Clever Hans Phenomenon: Communication with Horses, Whales, Apes, and People</subfield>
+    <subfield code="d">(1980 :</subfield>
+    <subfield code="c">New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Clever Hans Phenomenon: Communication with Horses, Whales, Apes, and People, Conference on the</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Clever Hans phenomenon, 1981 (a.e.)</subfield>
+    <subfield code="b">Table of contents (Conference on the Clever Hans Phenomenon: Communication with Horses, Whales, Apes, and People, held by the New York Academy of Sciences, May 6-7, 1980)</subfield>
+  </datafield>
+</record>
