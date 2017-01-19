@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00664cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  90726691 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130314085605.0</controlfield>
+  <controlfield tag="008">901221n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90726691 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">PPL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1863</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Hugh Williams,</subfield>
+    <subfield code="d">-1863</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Evans, H. W.</subfield>
+    <subfield code="q">(Hugh Williams),</subfield>
+    <subfield code="d">-1863</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Evans, Hugh Williams,</subfield>
+    <subfield code="d">d. 1863</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Maryland Historical Society Lib. for Evans and Heathcote family papers, 1790-1850</subfield>
+    <subfield code="b">(Hugh Williams Evans; merchant and financier, of Baltimore, Md.; d. 1863)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Matchett's Baltimore dir., 1842</subfield>
+    <subfield code="b">(Evans, H.W., 23 Hanover St.)</subfield>
+  </datafield>
+</record>
