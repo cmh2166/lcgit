@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00623cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  50003885 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141211122447.0</controlfield>
+  <controlfield tag="008">800228n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50003885 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1931</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wesley, George Randolph,</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Wesley, George R.</subfield>
+    <subfield code="q">(George Randolph),</subfield>
+    <subfield code="d">1931-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A primer of misbehavior, 1972.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Carroll, M.A. Ethics in the practice of psychology, 1984, c1985:</subfield>
+    <subfield code="b">CIP t.p. (George R. Wesley)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 11, 2014</subfield>
+    <subfield code="b">(prof. Appalachian State Univ., Boone, N.C.; Ph.D.)</subfield>
+  </datafield>
+</record>
