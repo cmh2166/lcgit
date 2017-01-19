@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00818nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2003020546</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030305052827.0</controlfield>
+  <controlfield tag="008">030304n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003020546</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05987457</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Samson.</subfield>
+    <subfield code="p">Symfony.</subfield>
+    <subfield code="p">Menuet</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Samson.</subfield>
+    <subfield code="p">Menuet</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Minuets,</subfield>
+    <subfield code="m">orchestra,</subfield>
+    <subfield code="n">HWV 57,</subfield>
+    <subfield code="r">G major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handel, G.F. Minuet, from Samson, c1920.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Murray, T. The transcriber's art [SR] p1992:</subfield>
+    <subfield code="b">container (Overture to Samson) insert (consists of 3 sections (Andante pomposo, Allegro, Minuet))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">HaĚndel-Handbuch</subfield>
+    <subfield code="b">(57. Samson. Symfony. Menuet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bell</subfield>
+    <subfield code="b">(131. Samson. Minuet)</subfield>
+  </datafield>
+</record>
