@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00681cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2001067389</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040903052015.0</controlfield>
+  <controlfield tag="008">010823n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001067389</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05566230</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+    <subfield code="d">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Picard, Jan,</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Picard, J. H.</subfield>
+    <subfield code="q">(Jan Hijmen),</subfield>
+    <subfield code="d">1935-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pienaar, F. F. Op kommando met Steyn en de Wet, 2000:</subfield>
+    <subfield code="b">t.p. (Jan Picard) p. vi (Dr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 21 Aug. 2001</subfield>
+    <subfield code="b">(hdg.: Picard, Jan, 1935- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reklame vir die sakeman, 1970:</subfield>
+    <subfield code="b">t.p. (J.H. Picard)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLSA online cat., Sept. 2, 2004</subfield>
+    <subfield code="b">(Picard, Jan Hijmen, 1935- see Picard, Jan, 1935-)</subfield>
+  </datafield>
+</record>
