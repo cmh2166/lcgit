@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00790nz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91124906 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911211102719.6</controlfield>
+  <controlfield tag="008">911211n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91124906 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">United States Concave Spring Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">U.S. Concave Spring Company</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">US Concave Spring Company</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Univ. of Ill. at Urbana-Champaign Archives for Elliptic Concave Leaf Spring Company. Records, 1881</subfield>
+    <subfield code="b">(United States Concave Spring Company; U.S. Concave Spring Company; with Krepps Brothers, held rights to Edward Spaulding's 1881 patent to "a new and improved concave spring")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marvyn Scudder manual of extinct or obsolete companies, 1926- :</subfield>
+    <subfield code="b">v. 1, p. 1258 (U.S. Concave Spring Co.; dissolved in 1886)</subfield>
+  </datafield>
+</record>
