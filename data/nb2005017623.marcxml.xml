@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00583cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2005017623</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100523075335.0</controlfield>
+  <controlfield tag="008">051111n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005017623</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0172900</subfield>
+    <subfield code="e">E0172900</subfield>
+    <subfield code="f">N0463900</subfield>
+    <subfield code="g">N0463900</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06780472</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-hu---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Somogyszentpál (Hungary)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Somogyszentpál egyháztörténete, 2004</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 11 Nov. 2005</subfield>
+    <subfield code="b">(Somogyszentpál, Hungary; PPL, 46°39ʹ00ʺN, 017°29ʹ00ʺE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Hungary</subfield>
+    <subfield code="z">Somogyszentpál</subfield>
+  </datafield>
+</record>
