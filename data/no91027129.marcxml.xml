@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00463nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 91027129 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911113050437.3</controlfield>
+  <controlfield tag="008">911111n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91027129 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Heilmann, Harald.</subfield>
+    <subfield code="t">Kleine Suite,</subfield>
+    <subfield code="n">no. 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heilmann, Harald.</subfield>
+    <subfield code="t">Kleine Suite II</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heilmann, Harald.</subfield>
+    <subfield code="t">Kleine Suite 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Heilmann, Harald.</subfield>
+    <subfield code="t">Kleine Suite zwei</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Kleine Suite II, c1989.</subfield>
+  </datafield>
+</record>
