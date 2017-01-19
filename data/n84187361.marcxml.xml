@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  84187361 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150129073730.0</controlfield>
+  <controlfield tag="008">850114n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84187361 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01255612</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18410922</subfield>
+    <subfield code="g">19020706</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG9048.P9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pumpurs, Andrejs,</subfield>
+    <subfield code="d">1841-1902</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">lav</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pumpur, Andreĭ,</subfield>
+    <subfield code="d">1841-1902</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Tēvijā, 1980:</subfield>
+    <subfield code="b">t.p. (Andrejs Pumpurs) colophon (Adreĭ Pumpur)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Latv. PSR mazā enc., 1970</subfield>
+    <subfield code="b">(Pumpurs, Andrejs; b. 9-22-1841; d. 7-6-02; Latvian poet)</subfield>
+  </datafield>
+</record>
