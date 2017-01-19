@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01073nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 99088197 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991210070139.0</controlfield>
+  <controlfield tag="008">991209n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99088197 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05117946</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Tennessee Disability Information and Referral Office</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Tennessee Developmental Disabilities Council.</subfield>
+    <subfield code="b">Tennessee Disability Information and Referral Office</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">John F. Kennedy Center for Research on Education and Human Development.</subfield>
+    <subfield code="b">Tennessee Disability Information and Referral Office</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">TDIR</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Disability services and supports directory. East Tennessee, 1999:</subfield>
+    <subfield code="b">t.p. (Tennessee Disability Information and Referral Office, John F. Kennedy Center) cover (Tennessee Disability Information and Referral Office, a project of the Tennessee Developmental Disabilities Council) introd. (The Tennessee Disability Information and Referral (TDIR) office is funded by a grant of the Tennessee Developmental Disabilities Council and sponsored by the John F. Kennedy Center)</subfield>
+  </datafield>
+</record>
