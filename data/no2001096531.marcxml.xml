@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00669cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 96031052 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150219073806.0</controlfield>
+  <controlfield tag="008">960826n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96031052 </subfield>
+    <subfield code="z">no2001096531</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04150203</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smet, D. De</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Smet, D.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Smet, Daniel de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Smet, Daniel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Egypt and Syria in the Fatimid ... 1995:</subfield>
+    <subfield code="b">t.p. (D. De Smet) p. 11 (Dr. D. De Smet (Leuven))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Empedocles arabus, 1998:</subfield>
+    <subfield code="b">t.p. (Daniel de Smet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KB Web OPAC, June 21, 2004</subfield>
+    <subfield code="b">(Smet, DanieĚl de)</subfield>
+  </datafield>
+</record>
