@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00709cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2006096449</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130827073748.0</controlfield>
+  <controlfield tag="008">061222n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006096449</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07287058</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">But︠s︡kiĭ, Evgeniĭ</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Буцкий, Евгений</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">But︠s︡kiĭ, E. Z.</subfield>
+    <subfield code="q">(Evgeniĭ Z.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Буцкий, Е. З.</subfield>
+    <subfield code="q">(Евгений З.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">But︠s︡kiĭ, Evgeniĭ. Transportnyĭ samolet Antonov An-12, 2004:</subfield>
+    <subfield code="b">t.p. (Evgeniĭ But︠s︡kiĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zabytye i nezabytye, 2009:</subfield>
+    <subfield code="b">t.p. (E.Z. But︠s︡kiĭ)</subfield>
+  </datafield>
+</record>
