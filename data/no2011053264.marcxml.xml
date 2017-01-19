@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00544nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2011053264</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110406082630.0</controlfield>
+  <controlfield tag="008">110404n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011053264</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08817690</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NRU-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NRU-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sbrega, Dominic,</subfield>
+    <subfield code="d">1991-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sindell, J. Jessica Sindell, flute [SR], 2010:</subfield>
+    <subfield code="b">notes (Dominic Sbrega, double bass)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Electronic communication from Eastman School of Music Student Programs Office, Dec. 10, 2010</subfield>
+    <subfield code="b">(Sbrega, Dominic Mancini; b. Oct. 9, 1989)</subfield>
+  </datafield>
+</record>
