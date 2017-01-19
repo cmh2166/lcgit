@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2001031110</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050930113318.0</controlfield>
+  <controlfield tag="008">010320n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001031110</subfield>
+    <subfield code="z">n 2001025171</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05444301</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Phyllis</subfield>
+    <subfield code="q">(Phyllis Wright-Herman)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wright-Herman, Phyllis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Herman, Phyllis Wright-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">MikWright, Phyllis</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">MikWright, Ltd.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hey, girl!, c2000:</subfield>
+    <subfield code="b">t.p. (Phyllis) biog. note, etc. (Phyllis Wright-Herman; resides near Charlotte, N.C.; co-founder of MikWright, Ltd.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MikWright, Tim. Your mother looks good, c2001:</subfield>
+    <subfield code="b">t.p. (Phyllis MikWright)</subfield>
+  </datafield>
+</record>
