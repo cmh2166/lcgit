@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00547nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  84232155 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850325000000.0</controlfield>
+  <controlfield tag="008">850123n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84232155 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Group Hospitalization, Inc.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Group Hospitalization and Medical Services, Inc.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">United States. Group Hospitalization and ... 1984:</subfield>
+    <subfield code="b">p. 1 (Group Hospitalization, Inc., incorporation approved August 11, 1939, amended by inserting in lieu thereof, Group Hospitalization and Medical Services, Inc.)</subfield>
+  </datafield>
+</record>
