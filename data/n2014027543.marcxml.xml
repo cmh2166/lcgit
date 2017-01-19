@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2014027543</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140515085549.0</controlfield>
+  <controlfield tag="008">140515n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014027543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1963</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yun, Wŏn-gi,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Sinaenmul,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Suyŏn,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">윤 원기,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cheju poda k'ŭn Kŏje iyagi, 2013:</subfield>
+    <subfield code="b">t.p. (시냇물 윤 원기 = Sinaenmul Yun Wŏn-gi) front flap (b. 1963 in Taejŏn; work, Han'guk Sujawŏn Kongsa; h. Suwŏn, Sinaenmul"</subfield>
+  </datafield>
+</record>
