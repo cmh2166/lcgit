@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 97042922 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971204053059.9</controlfield>
+  <controlfield tag="008">971203n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 97042922 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Selss, Albert M.</subfield>
+    <subfield code="q">(Albert Maximilian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Goethe's Faust, 1880</subfield>
+    <subfield code="b">t.p. (Albert M. Selss, Ph.D., M.A., Prof. of German in the University of Dublin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Dec. 3, 1997</subfield>
+    <subfield code="b">(hdg.: Selss, Albert Maximilian; usage: Albert M. Selss)</subfield>
+  </datafield>
+</record>
