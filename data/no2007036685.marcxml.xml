@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2007036685</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070405075207.0</controlfield>
+  <controlfield tag="008">070403n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007036685</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07373006</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU-AT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU-AT</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Duo Rosado</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Rosado, Andy</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">FalcoĚn, Miguel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Duo Rosado. Mi primer testimonio [SR] 196-?:</subfield>
+    <subfield code="b">label (Duo Rosado; Andy Rosado and Miguel FalcoĚn, vocals)</subfield>
+  </datafield>
+</record>
