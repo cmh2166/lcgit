@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00655cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  91042789 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313094213.0</controlfield>
+  <controlfield tag="008">910430n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91042789 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1930</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Maxwell, Joseph,</subfield>
+    <subfield code="d">-1930</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Maxwell, Joe,</subfield>
+    <subfield code="d">-1930</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Maxwell, Joseph,</subfield>
+    <subfield code="d">d. 1930</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Married virgin [MP] 1918:</subfield>
+    <subfield code="b">credits (director, Joseph Maxwell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Variety obituaries, 1929-1938:</subfield>
+    <subfield code="b">July 2, 1930 (Joseph A. Maxwell; d. 6/27/1930, age 59; producer, manager, vaudevillian)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Only a solder boy [SR] 1904:</subfield>
+    <subfield code="b">label (Joe Maxwell, tenor)</subfield>
+  </datafield>
+</record>
