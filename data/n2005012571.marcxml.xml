@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00708nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2005012571</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050218161701.0</controlfield>
+  <controlfield tag="008">050218n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005012571</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Martin, Laurent,</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not to be confused with: Martin, Laurent, pianist</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Laurent Martin, c2001:</subfield>
+    <subfield code="b">p. 126 (b. 6 June 1959, Toulon; after some experiences as a jazz musician, he decided in 1985 to dedicate himself to composition)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, Feb. 18, 2005</subfield>
+    <subfield code="b">(Martin, Laurent; b. Toulon, 6 June 1959; French composer; at first a jazz pianist, he discovered contemporary classical music only when settling in Paris in 1987)</subfield>
+  </datafield>
+</record>
