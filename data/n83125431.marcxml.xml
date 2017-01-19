@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00876cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  83125431 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141007074146.0</controlfield>
+  <controlfield tag="008">831027n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83125431 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00960071</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1809</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">no. 24, op. 78,</subfield>
+    <subfield code="r">F♯ major</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Sonatas</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="a">no. 24</subfield>
+    <subfield code="b">op. 78</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">F♯ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">For Therese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">Für Therese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Beethoven, Ludwig van,</subfield>
+    <subfield code="d">1770-1827.</subfield>
+    <subfield code="t">A Thérèse</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beethoven, L. van. Piano sonatas [SR] 1982:</subfield>
+    <subfield code="b">container (Sonata no. 24 in F sharp op. 78, for piano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(op. 78 Sonata no. 24, F♯, 1809)</subfield>
+  </datafield>
+</record>
