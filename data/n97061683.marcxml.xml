@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00901cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  97061683 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970616162136.8</controlfield>
+  <controlfield tag="008">970616n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97061683 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">IBM Deutschland.</subfield>
+    <subfield code="b">Institut für Logik und Linguistik</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">IBM Deutschland.</subfield>
+    <subfield code="b">Wissenschaftliches Zentrum.</subfield>
+    <subfield code="b">Institute für Logik und Linguistik</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">IBM Deutschland.</subfield>
+    <subfield code="b">Institute for Logic and Linguistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">IBM Deutschland.</subfield>
+    <subfield code="b">Institute for Logic &amp; Linguistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">ILL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ein approximierender Algorithmus für die simultane ... 1994:</subfield>
+    <subfield code="b">cover (IBM Deutschland Informationssysteme GmbH; Scientific Centre, Institute for Logic and Linguistics; ILL; Institute for Logic &amp; Linguistics)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IBM Global Services, Wissenschaft u. Technologie, Heidelberg homepage, June 16, 1997</subfield>
+    <subfield code="b">(Institut für Logik und Linguistik)</subfield>
+  </datafield>
+</record>
