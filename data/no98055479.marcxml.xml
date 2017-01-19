@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01164cz  a2200229n  4500</leader>
+  <controlfield tag="001">no 98055479 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150507073751.0</controlfield>
+  <controlfield tag="008">980202n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98055479 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04642991</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU-Mu</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1952</subfield>
+    <subfield code="l">1953</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stockhausen, Karlheinz,</subfield>
+    <subfield code="d">1928-2007.</subfield>
+    <subfield code="t">Kontra-Punkte</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">flute</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">clarinet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">bass clarinet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">bassoon</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">trumpet</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">trombone</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">harp</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">violin</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">cello</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">10</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Stockhausen, Karlheinz,</subfield>
+    <subfield code="d">1928-2007.</subfield>
+    <subfield code="t">Kontrapunkte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Stockhausen, Karlheinz,</subfield>
+    <subfield code="d">1928-2007.</subfield>
+    <subfield code="t">Counterpoint</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 96-704367: Contemporary Chamber Ensemble. Library of Congress Music Division concert, 1963-11-15, 1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brody, J. Form in Karlheinz Stockhausen's Kontra-Punkte and Zeitmasse, 1968.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stockhausen, K. Kontra-Punkte, c1953:</subfield>
+    <subfield code="b">t.p. (Kontra-Punkte : Nr. 1)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, May 10, 2004</subfield>
+    <subfield code="b">(numbered works, 1950-77: 1, Kontra-Punkte, fl, cl, b cl, bn, tpt, trbn, pf, hp, vn, vc, 1952, rev. 1953)</subfield>
+  </datafield>
+</record>
