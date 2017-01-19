@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00579cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  82028924 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920502100211.0</controlfield>
+  <controlfield tag="008">820406n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82028924 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">ICRL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Deutsche Kinotechnische Gesellschaft</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">DKG</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">D.K.G.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Deutsche Kinotechnische Gesellschaft fuĚr Film und Fernsehen</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kinotechnik u.Filmtechnik ... Ausg. A.</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Fernseh- und Kino-Technik, Jan. 1969: caption t.p. (Deutschen Kinotechnischen Gesellschaft fuĚr Film und Fernsehen; DKG)</subfield>
+  </datafield>
+</record>
