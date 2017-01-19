@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2006026841</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061206075301.0</controlfield>
+  <controlfield tag="008">061009n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2006026841</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cowart, Jeff,</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World War II, 2002:</subfield>
+    <subfield code="b">t.p. (Jeff Cowart; b. 23 Oct. 1977; student at Brigham Young University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Brigham Young University, L. Tom Perry Special Collections worksheet, Oct. 9, 2006</subfield>
+    <subfield code="b">(Jeff Cowart; b. 1977)</subfield>
+  </datafield>
+</record>
