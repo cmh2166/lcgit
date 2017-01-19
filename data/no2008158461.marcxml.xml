@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00525nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008158461</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081030081326.0</controlfield>
+  <controlfield tag="008">081028n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008158461</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07919900</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Antheil, George,</subfield>
+    <subfield code="d">1900-1959.</subfield>
+    <subfield code="t">Ben Hecht valses</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Adler, J. James Adler plays syncopated rhythms [SR] 2008:</subfield>
+    <subfield code="b">container (The Ben Hecht valses : 1943 / George Antheil)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Oct. 28, 2008</subfield>
+    <subfield code="b">(Piano: The Ben Hecht valses, 1943)</subfield>
+  </datafield>
+</record>
