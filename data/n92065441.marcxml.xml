@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00826cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  92065441 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000722065518.0</controlfield>
+  <controlfield tag="008">920624n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92065441 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03193817</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Meck, Galina Nikolaevna von,</subfield>
+    <subfield code="d">1891-1985</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mekk, Galina Nikolaevna fon,</subfield>
+    <subfield code="d">1891-1985</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Von Meck, Galina Nikolaevna,</subfield>
+    <subfield code="d">1891-1985</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fon Mekk, Galina Nikolaevna,</subfield>
+    <subfield code="d">1891-1985</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Columbia Univ. Libraries, Bakhmeteff Archives (New York, N.Y.) for Her Papers, ca. 1861-1974</subfield>
+    <subfield code="b">(Meck, Galina Nikolaevna von, 1891-1985; grandniece of composer Peter Ilich Tchaikovsky, and granddaughter of his patroness Nadezhda von Meck)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Bolʹsh. sov. ėnt︠s︡ikl.;</subfield>
+    <subfield code="a">Muzyk. ėnt︠s︡ikl.</subfield>
+  </datafield>
+</record>
