@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00585nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2006081371</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060805071031.0</controlfield>
+  <controlfield tag="008">060802n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006081371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07014297</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjR</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjR</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carr, Tom</subfield>
+    <subfield code="q">(Thomas DeVane)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Carr, Thomas DeVane</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beauty walks in Atlantic City, c2004:</subfield>
+    <subfield code="b">panel (Tom Carr) back panel (McDonough, Ga. trial attorney)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">lawyers.com Web page, Aug. 2, 2006</subfield>
+    <subfield code="b">(Thomas DeVane Carr)</subfield>
+    <subfield code="u">http://www.lawyers.com/Georgia/McDonough/Thomas-DeVane-Carr-883227-a.html</subfield>
+  </datafield>
+</record>
