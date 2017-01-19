@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00467nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 95032874 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950711055916.1</controlfield>
+  <controlfield tag="008">950710n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95032874 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03872439 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">James, David P.</subfield>
+    <subfield code="q">(David Phillip),</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mentoring guide for community colleges, 1995:</subfield>
+    <subfield code="b">t.p. (David P. James)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Who's Who among Black Americans, 1995:</subfield>
+    <subfield code="b">(James, David Phillip, 1940-)</subfield>
+  </datafield>
+</record>
