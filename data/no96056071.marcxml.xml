@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96056071 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961029052652.4</controlfield>
+  <controlfield tag="008">961028n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96056071 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04193152 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KU</subfield>
+    <subfield code="c">KU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Balzer, Hans,</subfield>
+    <subfield code="d">1891-1960</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Die lachende Muse, 1955:</subfield>
+    <subfield code="b">t.p. (Hans Balzer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 10/23/96</subfield>
+    <subfield code="b">(hdgs.: Balzer, Hans, 1891-1960; Balzer, Hans, 1891-; Balzer, Hans)</subfield>
+  </datafield>
+</record>
