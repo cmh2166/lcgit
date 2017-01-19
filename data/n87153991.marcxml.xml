@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00666cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  87153991 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080914080354.0</controlfield>
+  <controlfield tag="008">871230nc acannaabn          |b aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87153991 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02173216</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Xu, Zeng,</subfield>
+    <subfield code="d">1824-1903</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hsü, Tseng,</subfield>
+    <subfield code="d">1824-1903</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">許増,</subfield>
+    <subfield code="d">1824-1903</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">許增,</subfield>
+    <subfield code="d">1824-1903</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-133968: Chang, Y. Shan chung pai yün ... 1968</subfield>
+    <subfield code="b">(hdg. on InU rept.: Hsü, Tseng, 1824-1903; usage: Hsü Tseng)</subfield>
+  </datafield>
+</record>
