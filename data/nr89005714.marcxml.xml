@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01030cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 89005714 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120802083939.0</controlfield>
+  <controlfield tag="008">890512n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89005714 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">European Conference of the Art Libraries of IFLA</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Colloque européen des Bibliothèques d'art de IFLA</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Convegno europeo IFLA, sezione Biblioteche d'arte</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Europäisches IFLA Kolloquium der Kunstbibliotheken</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its (2nd : 1986 : Amsterdam, Netherlands). Art periodicals, 1986:</subfield>
+    <subfield code="b">t.p. (2nd European Conference of the Art Libraries of IFLA; Colloque européen des Bibliothèques d'art de IFLA; Europäisches IFLA Kolloquium der Kunstbibliotheken; Amsterdam, 13-17 Oct. 1986)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dieci anni di cataloghi a Firenze, 1977-1987, c1988:</subfield>
+    <subfield code="b">t.p. (3₀ Convegno europeo IFLA, sezione Biblioteche d'arte, Firenze, 2-5 novembre 1988)</subfield>
+  </datafield>
+</record>
