@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2004014810</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081022083234.0</controlfield>
+  <controlfield tag="008">040513n| acannaabn          |b ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004014810</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06348641</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Pingxiang (Jiangxi Sheng, China).</subfield>
+    <subfield code="b">Ren min dai biao da hui.</subfield>
+    <subfield code="b">Chang wu wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Pingxiang shi ren da chang wei hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Pingxiang Shi ren min dai biao da hui chang wu wei yuan hui</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">萍乡 (Jiangxi Sheng, China).</subfield>
+    <subfield code="b">人民代表大会.</subfield>
+    <subfield code="b">常务委员会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pingxiang Shi ren min dai biao da hui zhi, 2001:</subfield>
+    <subfield code="b">t.p. (Pingxiang Shi ren da chang wei hui)</subfield>
+  </datafield>
+</record>
