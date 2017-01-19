@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00825cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  92000297 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150110073916.0</controlfield>
+  <controlfield tag="008">920102n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92000297 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03084290</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ilchev, Stefan</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">bul</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Илчев, Стефан</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sbornik damaskin na originalen i dneshen ezik, 1942:</subfield>
+    <subfield code="b">t.p. (Stefan Ilchev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rechnik na bŭlg. psevd.</subfield>
+    <subfield code="b">(Ilchev, Stefan Petrov, linguist, humorist, 1898-1978, journal. pseuds. include Kare Valeta, Naĭden Gramatik, Riro, Svilarov, Stefanos, Crown)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Kratka bŭlg. ent︠s︡.</subfield>
+  </datafield>
+</record>
