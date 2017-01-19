@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00826cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 93023529 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140203134154.0</controlfield>
+  <controlfield tag="008">930810n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93023529 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hampton Roads Planning District Commission (Va.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">HRPDC</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Peninsula Planning District Commission (Va.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Southeastern Virginia Planning District (Va.).</subfield>
+    <subfield code="b">Commission</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Focazio, M.J. Documentation of geographic-information-system coverages ... 1993:</subfield>
+    <subfield code="b">t.p. (Hampton Roads Planning District Commission; Virginia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">HRPDC home page, Mar. 9, 1999</subfield>
+    <subfield code="b">(Hampton Roads Planning District Commission (HRPDC) formed 1990 by merger of Southeastern Virginia Planning District Commission and Peninsula Planning District Commission)</subfield>
+  </datafield>
+</record>
