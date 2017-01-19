@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00515nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2003023525</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030719033141.0</controlfield>
+  <controlfield tag="008">030718n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003023525</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tumanov, V. P.</subfield>
+    <subfield code="q">(Vladimir P.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tumanov, Vladimir P.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tumanov, Volodymyr Pavlovych</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kni︠a︡zʹi︠a︡ Kievskoĭ Rusi i dinastii︠a︡ Romanovykh, 2001:</subfield>
+    <subfield code="b">t.p. (Vladimir Tumanov) copyright (Tumanov V.P.) colophon (Tumanov Volodymyr Pavlovych)</subfield>
+  </datafield>
+</record>
