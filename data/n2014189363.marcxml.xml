@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00820nz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2014189363</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141023044103.0</controlfield>
+  <controlfield tag="008">141023n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014189363</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)938301</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1883</subfield>
+    <subfield code="g">1962</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Toulant, P. F.</subfield>
+    <subfield code="q">(Pierre F.),</subfield>
+    <subfield code="d">1883-1962</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Pierre F.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Toulant, Pierre F.,</subfield>
+    <subfield code="d">1883-1962</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Toulant, Pierre,</subfield>
+    <subfield code="d">1883-1962</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Toulant, P.</subfield>
+    <subfield code="q">(Pierre),</subfield>
+    <subfield code="d">1883-1962</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Observations and reflections on various ocular aspects of the onchocerciasis problem resulting from a survey carried out in French West Africa, 14 September1953:</subfield>
+    <subfield code="b">t.p. (Professor P.F. Toulant)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SUDOC in VIAF, Oct. 7, 2014:</subfield>
+    <subfield code="b">(hdg.:  Toulant, Pierre, 1883-1962; usage: Pierre Toulant, P. Toulant)</subfield>
+  </datafield>
+</record>
