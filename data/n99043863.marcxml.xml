@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00541cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99043863 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161122074200.0</controlfield>
+  <controlfield tag="008">990614n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99043863 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05007181</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1970-06-07</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Halliwell, Martin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Romantic science and the experience of self, 1999:</subfield>
+    <subfield code="b">CIP t.p. (Martin Halliwell)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Modernism and morality, 2001:</subfield>
+    <subfield code="b">CIP t.p. (Martin Halliwell, Univ. of Leicester) CIP data sheet (b. 6-7-1970)</subfield>
+  </datafield>
+</record>
