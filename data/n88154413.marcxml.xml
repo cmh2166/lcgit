@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00802cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88154413 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120811082534.0</controlfield>
+  <controlfield tag="008">890615n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88154413 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">North Dakota AFL-CIO.</subfield>
+    <subfield code="b">Convention</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">North Dakota AFL-CIO.</subfield>
+    <subfield code="b">General Convention</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">North Dakota State Federation of Labor.</subfield>
+    <subfield code="b">Convention</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from State Hist. Soc. N.D. for North Dakota AFL-CIO. Records, 1911-1982</subfield>
+    <subfield code="b">(North Dakota AFL-CIO, Convention; General Convention; held annually; not to be confused with Constitutional Convention, also held annually; formerly: North Dakota State Federation of Labor, Convention)</subfield>
+  </datafield>
+</record>
