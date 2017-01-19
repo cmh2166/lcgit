@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00670nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2002002571</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020111071122.0</controlfield>
+  <controlfield tag="008">020110n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002002571</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05662919</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caplet, Anselmus Maria,</subfield>
+    <subfield code="d">1836-1916</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Caplet, Anselmo Maria,</subfield>
+    <subfield code="d">1836-1916</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Regesti Bernardi I abbatis Casinensis fragmenta ex Archivo Casinensi ..., 1890:</subfield>
+    <subfield code="b">t.p. (D. Anselmi Mariae Caplet, monachi Casinatis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Oct. 4, 2001</subfield>
+    <subfield code="b">(hdgs.: Caplet, Anselmus Maria; Caplet, Anselmo Maria)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A Benedictine bibliography, 1962</subfield>
+    <subfield code="b">(Caplet, Anselmo Marie, 1836-1916)</subfield>
+  </datafield>
+</record>
