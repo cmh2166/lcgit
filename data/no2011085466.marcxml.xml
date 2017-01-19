@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01333cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2011085466</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327092459.0</controlfield>
+  <controlfield tag="008">110601n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011085466</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08874210</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Zak</subfield>
+    <subfield code="c">(Graffiti artist)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">ZBW</subfield>
+    <subfield code="c">(Graffiti artist)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chapter 1, 2008.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vicious Gallery WWW site, viewed June 1, 2011:</subfield>
+    <subfield code="b">Artists (ZBW) ZBW (ZBW [listed as artist in description of book "Chapter 1"]; ZAK [name in URL])</subfield>
+    <subfield code="u">http://www.viciousgallery.com/artist.html</subfield>
+    <subfield code="u">http://www.viciousgallery.com/zak.html</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Berlin Graffiti WWW site, viewed June 1, 2011:</subfield>
+    <subfield code="b">(ein gewisser "ZBW")</subfield>
+    <subfield code="u">http://berlingraffiti.de/angeschmiert-graffiti-in-deutschland/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Streetart WWW site, viewed June 1, 2011:</subfield>
+    <subfield code="b">("Chapter 1", ZAK (author))</subfield>
+    <subfield code="u">http://streetfiles.org/market/product/341</subfield>
+    <subfield code="u">http://streetfiles.org/tags/zak/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I Love Graffiti WWW site, viewed June 1, 2011:</subfield>
+    <subfield code="b">("Chapter 1", book from Zak from Hamburg; artist ZAK)</subfield>
+    <subfield code="u">http://ilovegraffiti.de/blog/2008/12/05/chapter1-x-zak-buch/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New York Times WWW site, viewed June 1, 2011:</subfield>
+    <subfield code="b">ON LOCATION: The Clockmaker's Retreat, February 4, 2010 (Zak, a Hamburg graffiti artist)</subfield>
+    <subfield code="u">http://query.nytimes.com/gst/fullpage.html?res=9D01E0D81F3CF937A35751C0A9669D8B63</subfield>
+  </datafield>
+</record>
