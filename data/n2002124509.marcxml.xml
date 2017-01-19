@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00716cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2002124509</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519075107.0</controlfield>
+  <controlfield tag="008">020112n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002124509</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0163200</subfield>
+    <subfield code="e">E0163200</subfield>
+    <subfield code="f">N0543200</subfield>
+    <subfield code="g">N0543200</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05665962</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-pl---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Jarosławiec (Słupsk, Poland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">FotKart s.c. Darłowo, Mielno, Jarosławiec, Sarbinowo, Ustronie Morskie, Łazy, plany miejscowości wypoczynkowych, mapa turystyczna, 1996.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, 11 Jan. 2002</subfield>
+    <subfield code="b">(Jarosławiec, PPL, 54°32ʹ00ʺN 16°32ʹ00ʺE, in Słupsk Voiv., Poland; cites others)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Poland</subfield>
+    <subfield code="z">Jarosławiec (Słupsk)</subfield>
+  </datafield>
+</record>
