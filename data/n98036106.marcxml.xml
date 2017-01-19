@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01255cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  98036106 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160412075334.0</controlfield>
+  <controlfield tag="008">980417n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98036106 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04709097</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CoU</subfield>
+    <subfield code="d">CoU-DA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Colorado Boulder.</subfield>
+    <subfield code="b">Business Advancement Center</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">CUBAC</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">CU Business Advancement Center</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">University of Colorado Boulder.</subfield>
+    <subfield code="b">Business Advancement Centers</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">University of Colorado Boulder.</subfield>
+    <subfield code="b">Small Business Assistance Center</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Colorado photonics industry, 1997:</subfield>
+    <subfield code="b">t.p. (CU Business Advancement Center, University of Colorado) p. 1 (CUBAC)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Colorado brand and identity guidelines website, viewed July 23, 2013 : (The University should be referred to as University of Colorado Boulder. It should not include "at", a hyphen, or a comma.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CU Business Advancement Centers : your professional consulting service, 1988</subfield>
+    <subfield code="b">(University of Colorado Boulder. Business Advancement Centers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Small Business Assistance Center : your professional consulting service, 1988</subfield>
+    <subfield code="b">(University of Colorado Boulder, Small Business Assistance Center)</subfield>
+  </datafield>
+</record>
