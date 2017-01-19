@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00578nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009028181</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090226082226.0</controlfield>
+  <controlfield tag="008">090224n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009028181</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08025065</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Parker, Hershel.</subfield>
+    <subfield code="t">Herman Melville</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Herman Melville, 1996:</subfield>
+    <subfield code="b">t.p. (Herman Melville: a biography, [by] Hershel Parker).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Common review, Vol.2 no.1, 2002:</subfield>
+    <subfield code="b">p. 40 (article title: Melville's agony: after the whale: Herman Melville: a biography, 1851-1891, vol. 2, reviewed by Elizabeth Schultz)</subfield>
+  </datafield>
+</record>
