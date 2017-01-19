@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00419cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2006010028</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060209173925.0</controlfield>
+  <controlfield tag="008">060209n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006010028</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lowell, Robert,</subfield>
+    <subfield code="d">1917-1977.</subfield>
+    <subfield code="t">Correspondence.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lowell, Robert,</subfield>
+    <subfield code="d">1917-1977.</subfield>
+    <subfield code="t">Letters of Robert Lowell</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lowell, Robert. The letters of Robert Lowell, 2005.</subfield>
+  </datafield>
+</record>
