@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01142cz  a2200265n  4500</leader>
+  <controlfield tag="001">n  87882883 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151126060609.0</controlfield>
+  <controlfield tag="008">871007n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87882883 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01956703</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaEvSKY)skya3051682</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">MX-MxCID</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1952</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Porras Nadales, Antonio,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Constitutional law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad de Sevilla</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Professor</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nadales, Antonio Porras,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Nadales, Antonio Joaquín Porras,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Porras Nadales, Antonio Joaquín,</subfield>
+    <subfield code="d">1952-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Geografía electoral de Andalucía, 1985:</subfield>
+    <subfield code="b">t.p. (Antonio Porras Nadales) flap of cover (Antonio Joaquín Porras Nadales; b. 1952; profesor titular de derecho político en la Facultad de Derecho de la Universidad de Sevilla)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La acción de gobierno: gobernabilidad, gobernanza, gobermedia, 2014:</subfield>
+    <subfield code="b">flap of cover (Antonio Porras Nadales es constitucionalista vinculado en la actualidad a la Universidad de la Sevilla)</subfield>
+  </datafield>
+</record>
