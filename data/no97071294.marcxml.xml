@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00878cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 97071294 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312095807.0</controlfield>
+  <controlfield tag="008">971210n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97071294 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04550406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSW-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MoSW-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Victoria, Tomás Luis de,</subfield>
+    <subfield code="d">approximately 1548-1611.</subfield>
+    <subfield code="t">Officium Hebdomadae Sanctae.</subfield>
+    <subfield code="p">Astiterunt reges</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Victoria, Tomás Luis de,</subfield>
+    <subfield code="d">approximately 1548-1611.</subfield>
+    <subfield code="t">Astiterunt reges</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Victoria, Tomás Luis de,</subfield>
+    <subfield code="d">ca. 1548-1611.</subfield>
+    <subfield code="t">Officium Hebdomadae Sanctae.</subfield>
+    <subfield code="p">Astiterunt reges</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Washington University (Saint Louis, Mo.). Choir. Washington University Department of Music presents the Washington University Choir [SR] 1960?:</subfield>
+    <subfield code="b">label (Astiterunt reges / Tomas Ludovici de Victoria)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Astiterunt reges, 4vv; from Officium Hebdomadae Sanctae)</subfield>
+  </datafield>
+</record>
