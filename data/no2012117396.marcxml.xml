@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01164nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2012117396</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120901075627.0</controlfield>
+  <controlfield tag="008">120830n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012117396</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E1055704</subfield>
+    <subfield code="e">E1055704</subfield>
+    <subfield code="f">N0210631</subfield>
+    <subfield code="g">N0210631</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09290471</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">a-vt---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Đình Bảng (Từ Sơn, Vietnam)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Phường Đình Bảng (Từ Sơn, Vietnam)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Từ Sơn (Vietnam).</subfield>
+    <subfield code="b">Đình Bảng</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Đội thiếu niên du kích Đình Bảng vang mãi bản hùng ca, 2008:</subfield>
+    <subfield code="b">p. 10 (Phường Đình Bảng, thị xã Từ Sơn, tỉnh Bắc Ninh; covers an area of 852 ha; population: 15,000)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Aug. 29, 2012</subfield>
+    <subfield code="b">(Đình Bảng, Bắc Ninh, Vietnam; populated place; 21°06ʹ31ʺ N; 105°57ʹ04ʺ E)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia (Vietnamese), Aug. 29, 2012</subfield>
+    <subfield code="b">(Đình Bảng, Từ Sơn; Đình Bảng is a ward of Từ Sơn urban city, Bắc Ninh province; covers an area of 8.3 km²; population in 2008: 16,771)</subfield>
+  </datafield>
+</record>
