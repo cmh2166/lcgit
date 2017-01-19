@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00746cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001010916</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120814083030.0</controlfield>
+  <controlfield tag="008">010208n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001010916</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05412527</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNAL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNAL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Water Environment Federation and Purdue University Industrial Wastes Technical Conference</subfield>
+    <subfield code="d">(2000 :</subfield>
+    <subfield code="c">Saint Louis, Mo.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">2000 Water Environment Federation and Purdue University Industrial Wastes Technical Conference, c2000:</subfield>
+    <subfield code="b">t.p. (Water Environment Federation and Purdue University Industrial Wastes Technical Conference, St. Louis, Missouri, May 21-24, 2000)</subfield>
+  </datafield>
+</record>
