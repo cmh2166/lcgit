@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00607cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 98003890 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316095801.0</controlfield>
+  <controlfield tag="008">980106n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98003890 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04576735</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schnittke, Alfred,</subfield>
+    <subfield code="d">1934-1998.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">cello, piano,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">cello</subfield>
+    <subfield code="a">piano</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="a">no. 1</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Schnittke, Alfred,</subfield>
+    <subfield code="d">1934-1998.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">violoncello, piano,</subfield>
+    <subfield code="n">no. 1</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 88-753099: ThedeĚen, T. The Russian cello, p1986</subfield>
+  </datafield>
+</record>
