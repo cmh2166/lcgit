@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00728cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  84055601 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120910113021.0</controlfield>
+  <controlfield tag="008">841211n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84055601 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01231284</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OkU</subfield>
+    <subfield code="d">OrU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Morgan, James P.</subfield>
+    <subfield code="q">(James Plummer),</subfield>
+    <subfield code="d">1919-1995</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Morgan, James Plummer,</subfield>
+    <subfield code="d">1919-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Accelerating retreat rates along Louisiana's coast, 1983:</subfield>
+    <subfield code="b">t.p. (James P. Morgan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 1/28/85</subfield>
+    <subfield code="b">(hdg.: Morgan, James Plummer, 1919- ; usage: James P. Morgan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Journal of coastal research, v. 14:</subfield>
+    <subfield code="b">p. 695 (The world deltas conference : a tribute to the late Professor James Plummer Morgan, 1919-1995)</subfield>
+  </datafield>
+</record>
