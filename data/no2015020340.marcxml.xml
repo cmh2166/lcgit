@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2015020340</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150304073916.0</controlfield>
+  <controlfield tag="008">150213n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015020340</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10088043</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiFliG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MiFliG</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rillings, James H.</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">General Motors Corporation. Research Laboratories</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rillings, J. H.</subfield>
+    <subfield code="q">(James H.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cassidy, J. F., Jr. Transient engine testing by computer control, 1972:</subfield>
+    <subfield code="b">cover (J.H. Rillings, Research Laboratories, General Motors Corporation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, December 16, 2014</subfield>
+    <subfield code="b">(access points: Rillings, James H.; Rillings, J.H.; usage: James H. Rillings; J. H. Rillings)</subfield>
+  </datafield>
+</record>
