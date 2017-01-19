@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00968nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2015030484</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150307073626.0</controlfield>
+  <controlfield tag="008">150306n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015030484</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10105040</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICNPT</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICNPT</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1919</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sponberg, L. Birger</subfield>
+    <subfield code="q">(Lars-Birger),</subfield>
+    <subfield code="d">1919-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">VaĚrnamo (Sweden)</subfield>
+    <subfield code="f">Chicago (Ill.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Art Institute of Chicago. School</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Artists</subfield>
+    <subfield code="a">Painters</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Lars-Birger</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sponberg, Lars-Birger,</subfield>
+    <subfield code="d">1919-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">There was a man : his name : Paul Carlson, 1965</subfield>
+    <subfield code="b">t.p. (drawings by L. Birger Sponberg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dal-Lars Studio website</subfield>
+    <subfield code="b">website biography (Lars-Birger Sponberg ; b. 1919, VaĚrnamo, Sweden ; migrated to America in 1930 ; educated at the School of the Art Institute of Chicago ; two galleries of photos of his paintings) ;</subfield>
+    <subfield code="u">http://www.dallarsart.com/Lars-Birger_Sponberg/Biographical.html</subfield>
+  </datafield>
+</record>
