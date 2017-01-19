@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00319nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  90699583 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901001124534.9</controlfield>
+  <controlfield tag="008">901001n| acannaab|          |n aad |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90699583 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Adrien, J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc90-61024: Author's NeĚron [MI] 1827</subfield>
+    <subfield code="b">(usage on GmC rept.: J. Adrien)</subfield>
+  </datafield>
+</record>
