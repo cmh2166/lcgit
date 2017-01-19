@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2001043283</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130320085456.0</controlfield>
+  <controlfield tag="008">010530n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001043283</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05499351</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ovid,</subfield>
+    <subfield code="d">43 B.C.-17 A.D. or 18 A.D.</subfield>
+    <subfield code="t">Epistulae ex Ponto.</subfield>
+    <subfield code="l">Spanish &amp; Latin</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ovid,</subfield>
+    <subfield code="d">43 B.C.-17 A.D. or 18 A.D.</subfield>
+    <subfield code="t">Cartas desde el ponto</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Ovid,</subfield>
+    <subfield code="d">43 B.C.-17 or 18 A.D.</subfield>
+    <subfield code="t">Epistulae ex Ponto.</subfield>
+    <subfield code="l">Spanish &amp; Latin</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cartas desde el ponto, 2000.</subfield>
+  </datafield>
+</record>
