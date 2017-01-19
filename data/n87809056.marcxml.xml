@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  87809056 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315100316.0</controlfield>
+  <controlfield tag="008">870217n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87809056 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01806469</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1868</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lake, David Minor,</subfield>
+    <subfield code="d">1868-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Lake, David Minor, 1868-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Lake, David Minor,</subfield>
+    <subfield code="d">b. 1868</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-84215: His Descendants of Thomas Lake ... [MI] 1908</subfield>
+    <subfield code="b">(hdg. on NN rept.: Lake, David Minor, 1868- ; usage: David Minor Lake)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(LC hdg.: Lake, David Minor, 1868- ; usage: David Minor Lake)</subfield>
+  </datafield>
+</record>
