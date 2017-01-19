@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  77002175 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519074648.0</controlfield>
+  <controlfield tag="008">770524n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  77002175 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W1095806</subfield>
+    <subfield code="e">W1095806</subfield>
+    <subfield code="f">N0531301</subfield>
+    <subfield code="g">N0531301</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00118881</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Southminster (Sask.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">South from Lloydminster, 1975:</subfield>
+    <subfield code="b">p. [1] of cover (Southminster)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">C 76-829-9</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC (Southminster, Sask.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(region; 53°13ʹ01ʺN 109°58ʹ06ʺW)</subfield>
+  </datafield>
+</record>
