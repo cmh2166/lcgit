@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00858nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014069591</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140520073620.0</controlfield>
+  <controlfield tag="008">140519n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014069591</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09860639</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSt-Mus</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1896</subfield>
+    <subfield code="g">1967</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lerch, Louise,</subfield>
+    <subfield code="d">1896-1967</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Ardmore (Pa.)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="a">Operas</subfield>
+    <subfield code="a">Songs</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Sopranos (Singers)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brien, Louise Lerch,</subfield>
+    <subfield code="d">1896-1967</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vocal Record Collectors' Society. 2009 annual issue, 2009:</subfield>
+    <subfield code="b">container (Louise Lerch (Brien), soprano) insert (Louise Lerch (Brien) (1896-1967); born Ardmore, Pennsylvania; Metropolitan Opera debut in a Sunday Night Concert in 1926; remained with Metropolitan Opera until 1932; married Donal G. Brien; opera and concert appearances)</subfield>
+  </datafield>
+</record>
