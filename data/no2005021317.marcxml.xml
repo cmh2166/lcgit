@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00999cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2005021317</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120816082227.0</controlfield>
+  <controlfield tag="008">050304n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005021317</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06575480</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Symposium on Isotope Hydrology and Integrated Water Resources Management</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Symposium on Isotope Hydrology and Integrated Water Resources Management, International</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Cannnot determine title of preceding symposium held in 1999.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Isotope hydrology and integrated water resources management, 2004:</subfield>
+    <subfield code="b">foreword (starting in 1963, the IAEA's quadrennial symposia on isotope hydrology ...; 11th symposium in this series convened by IAEA) p. 1 (11th International Symposium on Isotope Hydrology and Integrated Water Resources Management was held 19-23 May 2003 in Vienna, Austria)</subfield>
+  </datafield>
+</record>
