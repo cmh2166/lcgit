@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01245cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  80081577 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090204080448.0</controlfield>
+  <controlfield tag="008">800826n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80081577 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00462851</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">American Association of State Highway Officials.</subfield>
+    <subfield code="b">Special Committee on Urban Planning Seminars</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">American Association of State Highway Officials.</subfield>
+    <subfield code="b">Sub-committee on Urban Transportation Planning</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">The Special Committee on Urban Planning Seminars of the American Association of State Highway Officials was established in 1960. In 1962 the name was changed to Sub-committee on Urban Transportation Planning, in 1968 to Urban Transportation Planning, Socio-economic and Environmental Factors Committee, in 1970 to Administrative Sub-committee on Urban Affairs and Socio-economic Factors, and in 1973 to Planning Sub-committee on Environmental, Social and Economic Affairs under the American Association of State Highway and Transportation Officials.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Urban transportation planning, 1968? (info. ref.)</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. rec'd from G. Sharp, AASHTO</subfield>
+    <subfield code="b">(1960-61, AASHO Special Committee on Urban Planning Seminars)</subfield>
+  </datafield>
+</record>
