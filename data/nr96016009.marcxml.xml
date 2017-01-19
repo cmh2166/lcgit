@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 96016009 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970412051329.7</controlfield>
+  <controlfield tag="008">960426n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96016009 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04068178 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="c">NIC</subfield>
+    <subfield code="d">DNAL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Roslin Institute</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Institute of Animal Physiology and Genetics Research (Great Britain).</subfield>
+    <subfield code="b">Roslin Institute</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Edinburgh Research Station</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Annual report, from 1 Apr. 93 to 31 Mar. 94:</subfield>
+    <subfield code="b">t.p. (Roslin Institute) p. 7 (Roslin Institute was created on Apr. 1, 1993, from the Edinburgh Research Station of the Institute of Animal Physiology and Genetics Research)</subfield>
+  </datafield>
+</record>
