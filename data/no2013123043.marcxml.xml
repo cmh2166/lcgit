@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00969nz  a2200241n  4500</leader>
+  <controlfield tag="001">no2013123043</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131106073536.0</controlfield>
+  <controlfield tag="008">131105n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013123043</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09607430</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19550824</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wilson, Dale,</subfield>
+    <subfield code="d">1955-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Ellensburg, Wash.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Aeronautics</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Central Washington University</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Dale R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Managing risk, 2013:</subfield>
+    <subfield code="b">ECIP t.p. (Dale Wilson) ECIP data view (Professor Dale Wilson has more than 30 years' experience as a pilot, flight instructor and safety educator, and teaches courses in risk and error management at Central Washington University in Ellensburg, WA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CWU Aviation WWW site , Nov. 4, 2013:</subfield>
+    <subfield code="b">directory page (Dale R. Wilson, professor, aviation)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from publisher, Nov. 4, 2013</subfield>
+    <subfield code="b">(Dale Wilson, b. Aug. 24, 1955)</subfield>
+  </datafield>
+</record>
