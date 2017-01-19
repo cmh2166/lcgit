@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00671cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2004019957</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322110121.0</controlfield>
+  <controlfield tag="008">040702n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004019957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MWA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1815</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Damon, Rufus Wyman,</subfield>
+    <subfield code="d">1815-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Damon, Rufus Wyman,</subfield>
+    <subfield code="d">b. 1815</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Clowes, J. The caterpillars and the gooseberry bush, 1802:</subfield>
+    <subfield code="b">inscr. (Rufus Damon ... Reading; former owner)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancestry Plus, July 2, 2004:</subfield>
+    <subfield code="b">Ancestry World Tree (Rufus Wyman Damon; b. 27 Jun. 1815 in Reading, Middlesex Co., Mass.; son of Rufus Damon and Betsy Bancroft; m. Hannah Porter 2 May 1838 in Reading)</subfield>
+  </datafield>
+</record>
