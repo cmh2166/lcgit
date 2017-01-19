@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00958cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  93054122 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319170516.0</controlfield>
+  <controlfield tag="008">930608n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93054122 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03386575</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MoSW-Mu</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">organ, orchestra,</subfield>
+    <subfield code="n">op. 4.</subfield>
+    <subfield code="n">No. 5.</subfield>
+    <subfield code="p">Presto;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Concertos,</subfield>
+    <subfield code="m">organ, orchestra,</subfield>
+    <subfield code="n">op. 4.</subfield>
+    <subfield code="n">No. 5.</subfield>
+    <subfield code="p">Presto;</subfield>
+    <subfield code="o">arr.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Gigues,</subfield>
+    <subfield code="m">flute, piano,</subfield>
+    <subfield code="n">op. 4, no. 5,</subfield>
+    <subfield code="r">F major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Handel, George Frideric,</subfield>
+    <subfield code="d">1685-1759.</subfield>
+    <subfield code="t">Prestos,</subfield>
+    <subfield code="m">organ, piano,</subfield>
+    <subfield code="n">op. 4, no. 5,</subfield>
+    <subfield code="r">F major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handel, G.F. Siciliana and presto (from Organ concerto no. 4) for organ and piano, c1985.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">HaĚndel Handbuch</subfield>
+    <subfield code="b">(289-294, 6 Konzerte fuĚr Orgel und Orgel, op. 4. 293, Konzert Nr. 5 F-Dur. 3, Alla siciliana; 4, Presto)</subfield>
+  </datafield>
+</record>
