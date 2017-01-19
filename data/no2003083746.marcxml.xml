@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00616cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003083746</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815082526.0</controlfield>
+  <controlfield tag="008">030820n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003083746</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06132039</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Jornadas sobre la Reforma de la Legislación Concursal</subfield>
+    <subfield code="d">(2002 :</subfield>
+    <subfield code="c">Madrid, Spain)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La reforma de la legislación concursal, 2003:</subfield>
+    <subfield code="b">t.p. (Jornadas sobre la Reforma de la Legislación Concursal; Madrid, 6 a 10 de mayo de 2002)</subfield>
+  </datafield>
+</record>
