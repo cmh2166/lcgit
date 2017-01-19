@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00647cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  79007209 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120803075446.0</controlfield>
+  <controlfield tag="008">790209n| adannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79007209 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1909</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pochin, Edward Eric,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1909-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pochin, Edward,</subfield>
+    <subfield code="d">1909-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Estimated population exposure from nuclear ...</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nuclear radiation, 1983:</subfield>
+    <subfield code="b">t.p. (Edward Pochin; consult. to dir. of Nat'nl Radiological Protection Board)</subfield>
+  </datafield>
+  <datafield tag="678" ind1=" " ind2=" ">
+    <subfield code="a">MD, FRCP</subfield>
+  </datafield>
+</record>
