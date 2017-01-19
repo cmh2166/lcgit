@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00439nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96060731 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961119053124.6</controlfield>
+  <controlfield tag="008">961118n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96060731 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04211266 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="c">CoU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Brewer, Wm. Alan</subfield>
+    <subfield code="q">(William Alan)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Brewer, William Alan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Multi-wavelength electronic distance measurement, 1994:</subfield>
+    <subfield code="b">(Wm. Alan Brewer; Ph.D., Univ. of Colo.)</subfield>
+  </datafield>
+</record>
