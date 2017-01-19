@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00688cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84091276 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960209054727.1</controlfield>
+  <controlfield tag="008">840514n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84091276 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01108598 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSfA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Melville, R. V.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Melville, Richard V.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's British regional geology, 1982:</subfield>
+    <subfield code="b">t.p. (R. V. Melville, MSc)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Towards stability in the names of animals, 1995:</subfield>
+    <subfield code="b">t.p. (Richard V. Melville) p. ix (1914-1993)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 2-8-96</subfield>
+    <subfield code="b">(hdgs.: Melville, R. V. (Richard V.); Melville, Richard V.; Melville, R. V.; usage: R.V. Melville; Richard V. Melville)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">BLAISE</subfield>
+  </datafield>
+</record>
