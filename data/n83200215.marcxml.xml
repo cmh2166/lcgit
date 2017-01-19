@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00685cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83200215 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080304072115.0</controlfield>
+  <controlfield tag="008">830614n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83200215 </subfield>
+    <subfield code="z">no2008029126</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01013090</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">SaPrUSA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dube, S. W. D.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dube, Sydney W. D.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Symp. on Afro-Amer. and African Poetry and the Teaching of Poetry in Schools (1981 : U. of Zululand). Proceedings of the Symp. on Afro-Amer. and African Poetry and the Teaching of Poetry in Schools, c1982 (a.e.)</subfield>
+    <subfield code="b">t.p. (S. W. D. Dube)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Medicine in the economic life of the Zulu village, 1975:</subfield>
+    <subfield code="b">t.p. (Sydney W.D. Dube)</subfield>
+  </datafield>
+</record>
