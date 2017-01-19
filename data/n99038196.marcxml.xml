@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00794cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  99038196 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990709052802.5</controlfield>
+  <controlfield tag="008">990521n| acannaabn          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99038196 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04992083 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bennett, G. H.</subfield>
+    <subfield code="q">(George Henry),</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bennett, George Henry,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">British foreign policy during ... 1995:</subfield>
+    <subfield code="b">t.p. (G.H. Bennett; lecturer in history, Univ. of Plymouth) jkt. flap (G.H. Bennett; postgraduate student at Leicester)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Survivors, 1999:</subfield>
+    <subfield code="b">CIP t.p. (G.H. ... Bennett) CIP data sheet (Bennett, George Henry; b. 1-4-1967) CIP galley (Univ. of Plymouth)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">World of learning, 1995;</subfield>
+    <subfield code="a">European faculty directory, 1991;</subfield>
+    <subfield code="a">American men &amp; women of science, c1994.</subfield>
+  </datafield>
+</record>
