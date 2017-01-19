@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00565nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98100162 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980801052735.8</controlfield>
+  <controlfield tag="008">980731n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98100162 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04784216 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ODaU</subfield>
+    <subfield code="c">ODaU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Fitzgerald, William Francis,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The parish census and the liber status animarum, 1954:</subfield>
+    <subfield code="b">t.p. (Rev. William Francis Fitzgerald, A.B., S.T.L., J.C.L., priests of the Diocese of Trenton)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 7/31/98</subfield>
+    <subfield code="b">(hdg.: Fitzgerald, William Francis, 1926-; Fitzgerald, William Francis))</subfield>
+  </datafield>
+</record>
