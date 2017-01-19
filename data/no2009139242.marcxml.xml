@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00372nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2009139242</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090904075450.0</controlfield>
+  <controlfield tag="008">090902n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009139242</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08227209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Esquirol, Michel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dance Vivaldi [VR] 2006</subfield>
+    <subfield code="b">closing credits (reĚalisation, Michel Esquirol)</subfield>
+  </datafield>
+</record>
