@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00438nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2002056116</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020628061236.0</controlfield>
+  <controlfield tag="008">020627n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002056116</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05797326</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DI-GS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DI-GS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Buchanan, Janis Taylor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Decision report, a literature review and case studies in the Central Valley of California, 2001 or 2002?:</subfield>
+    <subfield code="b">t.p. (Janis Taylor Buchanan)</subfield>
+  </datafield>
+</record>
