@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01382nz  a2200253n  4500</leader>
+  <controlfield tag="001">no2014160061</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141205073551.0</controlfield>
+  <controlfield tag="008">141204n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014160061</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10031865</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">18640623</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Immaculate Conception Church (Celina, Ohio)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Catholic Church buildings</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Celina (Ohio)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">229 W. Anthony Street</subfield>
+    <subfield code="b">Celina</subfield>
+    <subfield code="c">Ohio</subfield>
+    <subfield code="d">United States</subfield>
+    <subfield code="e">45822</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Religion</subfield>
+    <subfield code="a">Worship</subfield>
+    <subfield code="a">Christianity</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Catholic Church. Archdiocese of Cincinnati (Ohio)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Immaculate Conception Parish (Celina, Ohio)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Church of the Immaculate Conception of the Blessed Virgin Mary (Celina, Ohio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Immaculate Conception Parish, Celina, Ohio, 1864-1964:</subfield>
+    <subfield code="b">page 4 (Immaculate Conception Church, located at 229 W. Anthony Street, Celina, Ohio 45822) end page (Church of the Immaculate Conception of the Blessed Virgin Mary)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its website, viewed November 19, 2014:</subfield>
+    <subfield code="b">history page (it was decided that the corner of Walnut and Anthony would be a better location for the parish; on June 23, 1864, a lot was bought there from John B. Hohne and here the parish church was built)</subfield>
+    <subfield code="u">http://celina-ic.org/wp-content/uploads/History-of-I-C-Final-8-25-14.pdf</subfield>
+  </datafield>
+</record>
