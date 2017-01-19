@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00522cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83146497 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011214072331.0</controlfield>
+  <controlfield tag="008">831114n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83146497 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00975228</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PT2667.U48</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gulden, Alfred,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nur auf der Grenze bin ich zu Haus, c1982:</subfield>
+    <subfield code="b">t.p. (Alfred Gulden) p. 6 (b. 1944 in Saarlouis/Roden; lives in Munich)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11-9-83</subfield>
+    <subfield code="b">(hdg.: Gulden, Alfred, 1944- )</subfield>
+  </datafield>
+</record>
