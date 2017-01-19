@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010048610</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100325075407.0</controlfield>
+  <controlfield tag="008">100323n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010048610</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08434505</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PSt</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Barr (Pa. : Township)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Township of Barr (Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">FIRM, flood insurance rate map, Township of Barr, PA (Cambria County), 1985 :</subfield>
+    <subfield code="b">map recto (Township of Barr, PA, Cambria County)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, March 18, 2010</subfield>
+    <subfield code="b">(Township of Barr, Cambria County, Pa.; civil, 40°36ʹ32ʺN, 078°48ʹ10ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="z">Barr (Township)</subfield>
+  </datafield>
+</record>
