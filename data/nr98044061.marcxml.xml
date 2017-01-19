@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 98044061 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981211051938.5</controlfield>
+  <controlfield tag="008">981210n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98044061 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Wiggins, Guy C.</subfield>
+    <subfield code="q">(Guy Carleton),</subfield>
+    <subfield code="d">1883-1962</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wiggins, Wiggins &amp; Wiggins, c1998:</subfield>
+    <subfield code="b">half-t.p. (Guy C. Wiggins, 1883-1962) p. 6 (Guy Carleton Wiggins; son of Carleton Wiggins) p. 7 (b. Brooklyn, N.Y., 1883; Guy Wiggins)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">W Was W in Amer. art, 1985</subfield>
+    <subfield code="b">(Wiggins, Guy C.; painter, teacher; b. Feb. 23, 1883, Brooklyn; d. Apr. 25, 1962, St. Augustine, Fla.)</subfield>
+  </datafield>
+</record>
