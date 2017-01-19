@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00408nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006045239</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060504051734.0</controlfield>
+  <controlfield tag="008">060323n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006045239</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06928712</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OBgU-MA</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Friendship (Musical group : Rich Kelly)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Kelly, Rich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kelly, R. Encore! Encore! [SR] 197-:</subfield>
+    <subfield code="b">label (Friendship)</subfield>
+  </datafield>
+</record>
