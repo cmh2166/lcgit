@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00723cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  95072666 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20111020074807.0</controlfield>
+  <controlfield tag="008">950724n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95072666 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03883293</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-OK</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Cameroon.</subfield>
+    <subfield code="b">Ministry of Tourism</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Cameroon.</subfield>
+    <subfield code="b">Ministère du tourisme</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Cameroon.</subfield>
+    <subfield code="b">Tourism, Ministry of</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">MINTOUR</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">National plan for ... 1991:</subfield>
+    <subfield code="b">t.p. (Republic of Cameroon, Ministry of Tourism)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cameroon, 19--:</subfield>
+    <subfield code="b">t.p. (Ministère du tourisme)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le développement de l'industrie du tourisme au Cameroun, c2011:</subfield>
+    <subfield code="b">t.p. (MINTOUR) p. 78 (MINTOUR, Ministère du Tourisme)</subfield>
+  </datafield>
+</record>
