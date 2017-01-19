@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00539nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014060996</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141001135619.0</controlfield>
+  <controlfield tag="008">141001n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014060996</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Iakobišvili-Pʻirališvili, L.</subfield>
+    <subfield code="q">(Lela)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Iakobišvili-Pʻirališvili, Lela</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Iakobišvili, Lela</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cerilebi kʻartʻul identobaze, 2007:</subfield>
+    <subfield code="b">title page (L. Iakobišvili-Pʻirališvili) cover (Lela Iakobišvili) added title page (Lela Iakobišvili-Pʻirašvili)</subfield>
+  </datafield>
+</record>
