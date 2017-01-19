@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01426cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 90025165 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160608075237.0</controlfield>
+  <controlfield tag="008">901120n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90025165 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02955249</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OU</subfield>
+    <subfield code="d">StEdNL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1872-01-04</subfield>
+    <subfield code="g">1943-01-21</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3529.L44</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roland, John,</subfield>
+    <subfield code="d">1872-1943</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Oliver, John Rathbone,</subfield>
+    <subfield code="d">1872-1943</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author written under his real name, see also</subfield>
+    <subfield code="b">Oliver, John Rathbone, 1872-1943</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The good shepherd, 1915:</subfield>
+    <subfield code="b">t.p. (John Roland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(x-ref.: Roland, John, pseud. see Oliver, John Rathbone, 1872-1943.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia WWW site, 7 June, 2016</subfield>
+    <subfield code="b">(John Rathbone Oliver; January 4, 1872, Albany, New York-January 21, 1943, Waverley, Massachusetts; an American psychiatrist, medical historian, author, and priest; His novel Victim and Victor was a contender for the 1929 Pulitzer Prize for Fiction, but was beat out by Julia Peterkin's Scarlet Sister Mary; entered the General Theological Seminary, became a priest in 1900; professor of the History of Medicine at the University of Maryland and an Associate Professor at John Hopkins (where he also received a Ph.D. in 1927) from 1930 to 1939; Works by John Rathbone Oliver: The Good Shepherd (1913) (under pseudonym John Roland))</subfield>
+    <subfield code="u">https://en.wikipedia.org/wiki/John_Rathbone_Oliver</subfield>
+  </datafield>
+</record>
