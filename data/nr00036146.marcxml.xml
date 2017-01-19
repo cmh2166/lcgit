@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00379nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr 00036146 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001116034110.0</controlfield>
+  <controlfield tag="008">001115n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00036146 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pagotto, Mario.</subfield>
+    <subfield code="t">Foglie d'album</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pagotto, M. Foglie d'album, c1994:</subfield>
+    <subfield code="b">t.p. (Foglie d'album : per clarinetto in si bem. e pianoforte)</subfield>
+  </datafield>
+</record>
