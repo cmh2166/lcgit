@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00973cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  82089466 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160805075352.0</controlfield>
+  <controlfield tag="008">820915n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82089466 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00786112</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">StEdNL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1905-09-20</subfield>
+    <subfield code="g">1986-03-21</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Žáček, Václav</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="b">Prague (Czech Republic)</subfield>
+    <subfield code="c">Czech Republic</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Historians</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">cze</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Cesty českých studentů na Slovensko ... 1948.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info. converted from 678, 2012-10-02</subfield>
+    <subfield code="b">(b. 1905)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biografický slovník WWW site, 4 Aug., 2016</subfield>
+    <subfield code="b">(Žáček Václav; Václav Žáček; Narození 20.9.1905, Místo narození Bořetice (okr. Pelhřimov); Úmrtí 21.3.1986, Místo úmrtí Praha; Povolání Historik, Pedagog, Spisovatel)</subfield>
+    <subfield code="u">http://biography.hiu.cas.cz/Personal/index.php/%C5%BD%C3%81%C4%8CEK_V%C3%A1clav_20.9.1905-21.3.1986</subfield>
+  </datafield>
+</record>
