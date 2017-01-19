@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00763cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  88027648 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141210065617.0</controlfield>
+  <controlfield tag="008">880815n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88027648 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Deep Sea Trawlers (Firm)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Wakefield's Deep Sea Trawlers Inc.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="a">Wakefield Fisheries</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from U. of Wash. Lib. for Padelford, P.S. Papers, 1947-1968</subfield>
+    <subfield code="b">(name not given; Wakefield Seafoods)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Blackford, M.G. Pioneering a modern small business, 1979</subfield>
+    <subfield code="b">(Wakefield Seafoods; Deep Sea Trawlers acquired Wakefield Fisheries as a subsidiary in 1953)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tel. call to M.G. Blackford 6/4/79</subfield>
+    <subfield code="b">(Deep Sea Trawlers became Wakefield's Deep Sea Trawlers Inc. in 1953)</subfield>
+  </datafield>
+</record>
