@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00563nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2006033531</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060404052005.0</controlfield>
+  <controlfield tag="008">060307n| acaaaaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006033531</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06900461</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjR</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjR</subfield>
+  </datafield>
+  <datafield tag="050" ind1=" " ind2="4">
+    <subfield code="a">F144.T7</subfield>
+    <subfield code="b">H57</subfield>
+    <subfield code="5">NjR</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">History traced by Route 29</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">[1]</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NjR</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Trenton, N.J</subfield>
+    <subfield code="b">New Jersey Dept. of Transportation</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NjR</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NjR</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+    <subfield code="5">NjR</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ancient ways, 2005:</subfield>
+    <subfield code="b">cover (History traced by Route 29)</subfield>
+  </datafield>
+</record>
