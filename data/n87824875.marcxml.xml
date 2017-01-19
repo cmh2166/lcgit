@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87824875 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120425074734.0</controlfield>
+  <controlfield tag="008">870418n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87824875 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Emison, Gerald A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-031518: Lienesch, W.C. Areawide water quality management under Section 208, 1975?</subfield>
+    <subfield code="b">(hdg. on DHUD rept.: Emison, Gerald A.; usage: Gerald A. Emison)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Program evaluations that make a difference, c2007:</subfield>
+    <subfield code="b">ECIP t.p. (Gerald Andrews Emison, Mississippi State Univ.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">True green, c1012:</subfield>
+    <subfield code="b">ECIP t.p. (Gerald Andrews Emison) data view (b. Sept. 15, 1946)</subfield>
+  </datafield>
+</record>
