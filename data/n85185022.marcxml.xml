@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00559cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85185022 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080406074950.0</controlfield>
+  <controlfield tag="008">870826n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85185022 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01927510</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Northern Pacific Railroad Company.</subfield>
+    <subfield code="b">Pacific Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Univ. Wash. Lib. for Cadbury, O.C. Papers, 1890-1952</subfield>
+    <subfield code="b">(Pacific Division, Northern Pacific Railroad)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smalley, E. History of the Northern Pacific Railroad, 1883:</subfield>
+    <subfield code="b">p. 425 (Pacific Division)</subfield>
+  </datafield>
+</record>
