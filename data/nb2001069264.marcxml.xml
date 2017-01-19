@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00714cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2001069264</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020709080615.0</controlfield>
+  <controlfield tag="008">010917n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2001069264</subfield>
+    <subfield code="z">n 2001016013</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">De Paula, Julio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Paula, Julio de</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atkins' physical chemistry, 2002:</subfield>
+    <subfield code="b">t.p. (Julio de Paula, Prof. of Chemistry, Haverford, College, Pennsylvania)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Atkins, P. W. Physical chemistry, 2001:</subfield>
+    <subfield code="b">CIP t.p. (Julio DePaula) book t.p. (Julio de Paula)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haverford College Dept. of Chemistry Web site, July 9, 2002</subfield>
+    <subfield code="b">(Julio C. de Paula; professor of chemistry; b. SaĚo Paulo, Brazil; Ph. D. in Chemistry, Yale University, 1987)</subfield>
+  </datafield>
+</record>
