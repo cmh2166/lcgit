@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00906cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2012098743</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121024075323.0</controlfield>
+  <controlfield tag="008">120723n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012098743</subfield>
+    <subfield code="z">no2010147340</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09256165</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UkCU</subfield>
+    <subfield code="d">DNGA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1973</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caviglia-Brunel, Susanna,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brunel, Susanna Caviglia-,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Caviglia, Susanna,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Charles-Joseph Natoire, 1700-1777, 2012:</subfield>
+    <subfield code="b">t.p. (Susanna Caviglia-Brunel) jkt. (maître de conférences en histoire de l'art moderne et contemporain at the University of Limoges ; specialises in French and Italian 18th-century painting and drawing)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">sudoc database, 15 June 2012</subfield>
+    <subfield code="b">(Caviglia-Brunel, Susanna (1973-))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'événement tragique au cours des périodes moderne et contemporaine, 2009:</subfield>
+    <subfield code="b">t.p. (Susanna Caviglia)</subfield>
+  </datafield>
+</record>
