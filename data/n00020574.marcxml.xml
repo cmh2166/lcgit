@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00550cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  00020574 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100205074828.0</controlfield>
+  <controlfield tag="008">000406n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00020574 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0020300</subfield>
+    <subfield code="e">E0020300</subfield>
+    <subfield code="f">N0504800</subfield>
+    <subfield code="g">N0504800</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05193259</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-fr---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Tournehem (France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, Apr. 6, 2000</subfield>
+    <subfield code="b">(hdg.: Tournehem, France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Apr. 5, 2000</subfield>
+    <subfield code="b">(Tournehem--PPL, 50°48ʹN 2°03ʹE)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">France</subfield>
+    <subfield code="z">Tournehem</subfield>
+  </datafield>
+</record>
