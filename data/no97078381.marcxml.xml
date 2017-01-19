@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00550cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 97078381 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="008">971222n| acannaabn          |n aaa     c</controlfield>
+  <controlfield tag="005">19991021071754.0</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97078381 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04563853</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Donizetti, Gaetano,</subfield>
+    <subfield code="d">1797-1848.</subfield>
+    <subfield code="t">Sinfonie,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">In. 676,</subfield>
+    <subfield code="r">C major</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 84-759372: Donizetti, G. Sinfonia in do maggiore, c1983</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gaetano Donizetti, c1983</subfield>
+    <subfield code="b">(In. 676. Gran sinfonia per pianoforte)</subfield>
+  </datafield>
+</record>
