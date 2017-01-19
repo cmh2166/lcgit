@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00591nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2010025843</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101003075151.0</controlfield>
+  <controlfield tag="008">101001n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010025843</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007932404</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">MacPherson, Neil,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">MacPherson, N. O.</subfield>
+    <subfield code="q">(Neil Ormiston),</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Burma railway, hellships and coalmines, c2007, 2008:</subfield>
+    <subfield code="b">t.p. (Neil MacPherson), verso, Aus. CIP (hdg.: McPherson, Neil Ormiston) p.13 (b. 1922, Aberdeen; emigrated to W.A. in 1924) p.15 (N.O. MacPherson) p.169 (Neil Ormiston MacPherson)</subfield>
+  </datafield>
+</record>
