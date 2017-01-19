@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00467cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  96097113 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19961205051816.9</controlfield>
+  <controlfield tag="008">961005n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96097113 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04177856 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Phong trào giáo dân Việt Nam</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Phong trào giáo dân</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dấn thân, tháng 07, 1990:</subfield>
+    <subfield code="b">t.p. (Phong trào giáo dân Việt Nam; Phong trào giáo dân)</subfield>
+  </datafield>
+</record>
