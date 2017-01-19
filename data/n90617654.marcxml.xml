@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00942cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  90617654 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080813080453.0</controlfield>
+  <controlfield tag="008">900306n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90617654 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02698041</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mgaloblishvili, L. I.</subfield>
+    <subfield code="q">(Levan Iosifovich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mgaloblishvili, Levan Iosifovich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mgaloblišvili, Levan Iosebis że</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Мгалоблишвили, Л. И.</subfield>
+    <subfield code="q">(Леван Иосифович)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ocherki istorii organizat︠s︡ii nauki v Sov. Gruzii, 1988:</subfield>
+    <subfield code="b">t.p. (L.I. Mgaloblishvili) colophon (Mgaloblishvili Levan Iosifovich; Mgaloblišvili Levan Iosebis że)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tri prezidenta Akademii nauk Gruzii, 2003:</subfield>
+    <subfield code="b">t.p. (L.I. Mgaloblishvili) added t.p. (L. Mgaloblishvili [in rom.])</subfield>
+  </datafield>
+</record>
