@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00592cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  87138984 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950518113751.8</controlfield>
+  <controlfield tag="008">871028n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87138984 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Hirabayashi, Lane Ryo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc87-11723: Author's Migration, mutual aid, and association, 1981</subfield>
+    <subfield code="b">(hdg. on TxDaM rept.: Hirabayashi, Lane Ryo; usage: Lane Ryo Hirabayashi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11-17-87</subfield>
+    <subfield code="b">(hdg.: Hirabayashi, Lane Ryo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inside an Am. concentration camp, 1995:</subfield>
+    <subfield code="b">CIP t.p. (Lane Ryo Hirabayashi) CIP data sheet (b. 10/17/52)</subfield>
+  </datafield>
+</record>
