@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00504nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2006056732</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060602071021.0</controlfield>
+  <controlfield tag="008">060526n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006056732</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06956932</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViNeC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViNeC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Smith, Barbara Drucker</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Drucker Smith, Barbara</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A poetic journey, 2004:</subfield>
+    <subfield code="b">t.p. (Barbara Drucker Smith)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poetry Society of Virginia WWW site, May 26, 2006</subfield>
+    <subfield code="b">(Barbara Drucker Smith, Newport News, VA)</subfield>
+  </datafield>
+</record>
