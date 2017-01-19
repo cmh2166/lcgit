@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00519nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002077195</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020824071106.0</controlfield>
+  <controlfield tag="008">020823n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002077195</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05846087</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DI-GS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DI-GS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dover, T. B.</subfield>
+    <subfield code="q">(Tyrus B.),</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dover, Tyrus B.,</subfield>
+    <subfield code="d">1922-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mineral constituents in water and their significance, 1950:</subfield>
+    <subfield code="b">t.p. (T.B. Dover)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Aug. 15, 2002:</subfield>
+    <subfield code="b">(hdg.: Dover, Tyrus B., 1922-; usage: T.B. Dover)</subfield>
+  </datafield>
+</record>
