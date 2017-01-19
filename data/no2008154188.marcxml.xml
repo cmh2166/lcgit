@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00513nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008154188</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081023083036.0</controlfield>
+  <controlfield tag="008">081021n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008154188</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07912621</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OkU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hornig, Charles D.,</subfield>
+    <subfield code="d">1916-1999</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Oct. 21, 2008:</subfield>
+    <subfield code="b">(hdg.: Hornig, Charles D., 1916- ; Hornig, Charles D.; usage: Charles D. Hornig)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ansible 149, via WWW, Oct. 21, 2008:</subfield>
+    <subfield code="b">(1916-1999, d. Oct. 11, editor of Wonder stories)</subfield>
+  </datafield>
+</record>
