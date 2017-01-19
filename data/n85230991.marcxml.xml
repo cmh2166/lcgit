@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00760cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  85230991 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804082152.0</controlfield>
+  <controlfield tag="008">851009n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85230991 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Sayyid G̲h̲ulām.</subfield>
+    <subfield code="t">Khavāriq al-ʻādāt.</subfield>
+    <subfield code="l">Urdu &amp; Persian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Sayyid G̲h̲ulām.</subfield>
+    <subfield code="t">Baʻz̤e karāmāt-i Sayyid Ḥasan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Sayyid G̲h̲ulām.</subfield>
+    <subfield code="t">Taz̲kirah-yi Abūlbarkāt Sayyid Ḥasan Ṣāhib Qādri Gīlānī Ṭhaṭhavī summa Pishāvarī</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Taz̲kirah-yi Abūlbarakāt Sayyid Ḥasan Sāhib Qādrī Gīlānī Ṭhathavī summa Pishāvarī, 1983?</subfield>
+  </datafield>
+</record>
