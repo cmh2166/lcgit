@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00859cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88166993 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150515073812.0</controlfield>
+  <controlfield tag="008">890517n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88166993 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02526407</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">OkU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19160225</subfield>
+    <subfield code="g">20011201</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3566.A34</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hart, Francis,</subfield>
+    <subfield code="d">1916-2001</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Paine, Lauran</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under</subfield>
+    <subfield code="b">Paine, Lauran</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 5-12-89</subfield>
+    <subfield code="b">(hdg.: Paine, Lauran; usage: Francis Hart)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Forgotten Duluthians, May 6, 2015:</subfield>
+    <subfield code="b">(Lauran Paine, best known for his westerns; b. Feb. 25, 1916; d. Yreka, California, Dec. 1, 2001)</subfield>
+    <subfield code="u">http://zenithcity.com/forgotten-duluthian-lauran-paine/</subfield>
+  </datafield>
+</record>
