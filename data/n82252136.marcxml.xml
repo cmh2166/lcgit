@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00870cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  82252136 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090226081529.0</controlfield>
+  <controlfield tag="008">840203n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82252136 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00892967</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Magalhães, António Barbedo de</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Barbedo de Magalhães, António</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Magalhães, António Barbedo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Magalhães, A. Barbedo de</subfield>
+    <subfield code="q">(António Barbedo)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Timor-Leste, 1983:</subfield>
+    <subfield code="b">t.p. (António Barbedo de Magalhães)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Timor Leste, terra de esperança, 1992:</subfield>
+    <subfield code="b">t.p. (A. Barbedo de Magalhães)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Timor-Leste, 2007:</subfield>
+    <subfield code="b">t. 1, t.p. (A. Barbedo de Magalhães) jkt. (António Barbedo de Magalhães; b. Feb. 1943 in Horta, Faial, Azores; pres. of the International Institute for Asian Studies and Interchange)</subfield>
+  </datafield>
+</record>
