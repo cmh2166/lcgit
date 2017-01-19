@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00619nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009115755</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090730075434.0</controlfield>
+  <controlfield tag="008">090728n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009115755</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08185112</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Niger.</subfield>
+    <subfield code="b">Direction de la protection des végétaux</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Niger.</subfield>
+    <subfield code="b">Ministère de l'agriculture et de l'environnement.</subfield>
+    <subfield code="b">Direction de la protection des végétaux</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Principaux ennemis du niébé au Niger et leur contrôle, 1989:</subfield>
+    <subfield code="b">t.p. (Ministère de l'agriculture et de l'environnement, Direction de la protection des végétaux)</subfield>
+  </datafield>
+</record>
