@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01011cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  85175336 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161208073832.0</controlfield>
+  <controlfield tag="008">850821n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85175336 </subfield>
+    <subfield code="z">n  83226923 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01410643</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jumaev, Kai︠u︡m</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">tuk</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jumaev, K.</subfield>
+    <subfield code="q">(Kai︠u︡m)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dzhumaev, K. D.</subfield>
+    <subfield code="q">(Kai︠u︡m D.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dzhumaev, Kai︠u︡m</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aman Kekilov, 1982:</subfield>
+    <subfield code="b">t.p. (Kai︠u︡m Jumaev) add. t.p. (Kai︠u︡m Dzhumaev)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8-16-85</subfield>
+    <subfield code="b">(hdg.: Jumaev, K.; usage: K.D. Dzhumaev)  LC manual cat. (hdg.: Jumaev, Kai︠u︡m; usage: K. Jumaev, Kai︠u︡m Jumaev, Kai︠u︡m Dzhumaev; variant: Dzhumaev, K.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Orazov, A. Tu̇rkmen prozasynda dȯvu̇r ve gakhrymanyn︠g︡ cheperchilik kont︠s︡ept︠s︡ii︠a︡sy, 1990:</subfield>
+    <subfield code="b">t.p. (filologii︠a︡ ylymlarynyn︠g︡ kandidaty K. Jumaev) Russian added t.p. (K. Dzhumaev)</subfield>
+  </datafield>
+</record>
