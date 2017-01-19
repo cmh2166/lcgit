@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00410cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  84172550 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031113033232.0</controlfield>
+  <controlfield tag="008">841113n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84172550 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Taine, Hippolyte,</subfield>
+    <subfield code="d">1828-1893.</subfield>
+    <subfield code="t">Philosophie de l'art.</subfield>
+    <subfield code="l">Chinese</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Taine, Hippolyte,</subfield>
+    <subfield code="d">1828-1893.</subfield>
+    <subfield code="t">Yi shu zhe xue</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His I shu che hsuĚeh, 1963 (1981 printing)</subfield>
+  </datafield>
+</record>
