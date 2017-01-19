@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00986nz  a2200229n  4500</leader>
+  <controlfield tag="001">nb2014021397</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140919050907.0</controlfield>
+  <controlfield tag="008">140918n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2014021397</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)009137103</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20120515</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Oficina de l'Any Espriu</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Committees</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Spain</subfield>
+    <subfield code="e">Catalonia (Spain)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Espriu, Salvador--Anniversaries</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">cat</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Catalonia (Spain).</subfield>
+    <subfield code="b">Oficina de l'Any Espriu</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Any Espriu 1913/2813 (Committee)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Espriu, l'escriptor compromès, el místic, el gran sarcàstic, 2013:</subfield>
+    <subfield code="b">p. 157 (Oficina de l'Any Espriu) back cover (Any Espriu 1913/2013)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Any Espriu 1913/2013 website, 18 September 2014</subfield>
+    <subfield code="b">(the Oficina de l'Any Espriu was formed on 15 May 2012 by agreement of the Generalitat de Catalunya; 2013 was designated as the year of Espriu (Any Espriu) in order to promote his work and legacy)</subfield>
+  </datafield>
+</record>
