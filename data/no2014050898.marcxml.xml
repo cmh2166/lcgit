@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00873nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014050898</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140418073531.0</controlfield>
+  <controlfield tag="008">140417n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014050898</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09736683</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Nat︠s︡ionalna biblioteka "Sv. sv. Kiril i Metodiĭ"</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Bulgaria</subfield>
+    <subfield code="e">Sofia, Bulgaria</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Национална библиотека "Св. св. Кирил и Методий"</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Narodna biblioteka "Sv. sv. Kiril i Metodiĭ"</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Godishen otchet, 2010:</subfield>
+    <subfield code="b">t.p. (Национална библиотека "Св. св. Кирил и Методий" = Nat︠s︡ionalna biblioteka "Sv. sv. Kiril i Metodiĭ")</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Narodna biblioteka "Sv. sv. Kiril i Metodiĭ". Godishen otchet, 2008</subfield>
+  </datafield>
+</record>
