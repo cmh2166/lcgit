@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00363nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2011126710</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110818075245.0</controlfield>
+  <controlfield tag="008">110815n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011126710</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08945674</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PE-LiPUB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PE-LiPUB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferreyros, Eduardo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Machu Picchu, 2010:</subfield>
+    <subfield code="b">t.p. (proĚlogo de Eduardo Ferreyros)</subfield>
+  </datafield>
+</record>
