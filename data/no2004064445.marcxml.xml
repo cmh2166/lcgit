@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00738cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004064445</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090815075430.0</controlfield>
+  <controlfield tag="008">040707n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004064445</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06386979</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOxM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOxM-Mu</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Buxtehude, Dietrich,</subfield>
+    <subfield code="d">1637-1707.</subfield>
+    <subfield code="t">Trio sonatas,</subfield>
+    <subfield code="m">violin, viola da gamba, continuo,</subfield>
+    <subfield code="n">BuxWV 252,</subfield>
+    <subfield code="r">F major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Buxtehude, Dietrich,</subfield>
+    <subfield code="d">1637-1707.</subfield>
+    <subfield code="t">Trio sonatas,</subfield>
+    <subfield code="m">violin, viola da gamba, continuo,</subfield>
+    <subfield code="n">op. 1, no. 1,</subfield>
+    <subfield code="r">F major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Buxtehude, D. Sonate I fuĚr Geige, Gambe und Cembalo, Opus I/1, 1937.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove Music Online WWW site, July 7, 2004</subfield>
+    <subfield code="b">(BuxWV 252-8, VII suonate (F, G, a, Bâ­, C, d, e), vn, va da gamba, hpd, op. 1, (?1694))</subfield>
+  </datafield>
+</record>
