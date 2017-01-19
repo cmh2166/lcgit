@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00613nz  a2200193n  4500</leader>
+  <controlfield tag="001">nb2013008242</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130426075157.0</controlfield>
+  <controlfield tag="008">130424n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2013008242</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008733641</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19991216</subfield>
+    <subfield code="t">19991218</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">ISAAC (Symposium)</subfield>
+    <subfield code="n">(10th :</subfield>
+    <subfield code="d">1999 :</subfield>
+    <subfield code="c">Chennai, India)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Congresses and conventions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Chennai, India</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Algorithms</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Algorithms and computation, c1999:</subfield>
+    <subfield code="b">t.p. (10th International Symposium, ISAAC'99, Chennai, India, December 16-18, 1999)</subfield>
+  </datafield>
+</record>
