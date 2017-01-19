@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01264cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 98081411 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990308100557.8</controlfield>
+  <controlfield tag="008">980425n| acaaaaaa|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98081411 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04714677 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU</subfield>
+    <subfield code="c">GU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Cahier d'information (Québec (Province). Ministère de l'agriculture, des pêcheries et de l'alimentation. Direction de l'innovation et des technologies)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Québec (Province).</subfield>
+    <subfield code="b">Ministère de l'agriculture, des pêcheries et de l'alimentation.</subfield>
+    <subfield code="b">Direction de l'innovation et des technologies.</subfield>
+    <subfield code="t">Cahier d'information</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">131</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Gaspé, Québec</subfield>
+    <subfield code="b">Gouvernement du Québec, Ministère de l'agriculture, des pêcheries et de l'alimentation, Direction générale des pêches et de l'agriculture commerciales</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Variations saisonnières de la taille et de la composition chimique des gonades chez l'oursin vert (Strongylocentrotus droebachiensis) de l'estuaire et du golfe du Saint-Laurent, 1997:</subfield>
+    <subfield code="b">ser. t.p. (Cahier d'information / Ministère de l'agriculture, des pêcheries et de l'alimentation, Direction de l'innovation et des technologies)</subfield>
+  </datafield>
+</record>
