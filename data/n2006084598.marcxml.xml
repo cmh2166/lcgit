@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00580cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2006084598</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323082318.0</controlfield>
+  <controlfield tag="008">061103n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006084598</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07116057</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MiKW</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McGrath, William</subfield>
+    <subfield code="c">(Tenor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Handel, George Frideric. Judas MaccabaĚus, [SR] 2004:</subfield>
+    <subfield code="b">container (no name given) audition (William McGrath, tenor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Parmenter, Ross. New York Times, Apr. 29, 1959:</subfield>
+    <subfield code="b">p. 29 (William McGrath, as Judas most of the time, but an Israelite at the start)</subfield>
+  </datafield>
+</record>
