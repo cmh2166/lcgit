@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00836cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  91037309 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130418074907.0</controlfield>
+  <controlfield tag="008">910417n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91037309 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02930898</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19460822</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ranford, Cherrie,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Cherrie Anne</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Penney, Cherrie,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Parker, Cherrie Anne,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ranford, C. A.</subfield>
+    <subfield code="q">(Cherrie Anne),</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her The Thomsen family, 1849-1990, 1990:</subfield>
+    <subfield code="b">t.p. (Cherrie Penney) p. 59 (Parker, Cherrie Anne, b. 22-8-1946; married Colin Frederick Penney, 29-2-1964)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Thomsen family book of stories.  Volume 3, 2013:</subfield>
+    <subfield code="b">title page (Cherrie Ranford) cover (CA Ranford) page 92 (Cherrie Ranford nee Parker (formally Penney))</subfield>
+  </datafield>
+</record>
