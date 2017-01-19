@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 99027893 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20000722064208.0</controlfield>
+  <controlfield tag="008">990421n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99027893 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04970002</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="c">DLC-ON</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Debasena, Subodha</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Subodha Debasena</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Subodh Debsen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Debsen, Subodh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bāṃlā kathāsāhitye brātyasamāja, 1923-47, 1999:</subfield>
+    <subfield code="b">t.p. (Ḍa. Subodha Debasena) t.p. verso (Subodh Debsen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rabīndrasāhitye brātyasamāja, 2000:</subfield>
+    <subfield code="b">jkt. (b. 01/02/1948)</subfield>
+  </datafield>
+</record>
