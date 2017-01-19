@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00541cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  88004665 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080303075851.0</controlfield>
+  <controlfield tag="008">880308n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88004665 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02222089</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Tennessee Baptist Convention.</subfield>
+    <subfield code="b">Executive Board</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Executive Board of the Tennessee Baptist Convention</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sullivan, J.L. Trustee manual, the Tennessee ... 1986, c1985:</subfield>
+    <subfield code="b">copr. p. (Executive Board of the Tennessee Baptist Convention; Brentwood, Tenn.)</subfield>
+  </datafield>
+</record>
