@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00546cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2013042108</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161219162134.0</controlfield>
+  <controlfield tag="008">130711n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013042108</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1932</subfield>
+    <subfield code="g">19830718</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boy, Juma,</subfield>
+    <subfield code="d">1932-1983</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Mombasa, Kenya</subfield>
+    <subfield code="b">London, England</subfield>
+    <subfield code="c">Kenya</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Labor union members</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Makers of a nation. Juma Boy, 2010:</subfield>
+    <subfield code="b">narration (Juma Boy; born Vanga, near Mombasa, Kenya, 1932; died July 18, 1983, London)</subfield>
+  </datafield>
+</record>
