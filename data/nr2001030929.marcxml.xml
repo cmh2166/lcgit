@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00618cz  a2200193n  4500</leader>
+  <controlfield tag="001">nr2001030929</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020424090815.0</controlfield>
+  <controlfield tag="008">010801n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001030929</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Serii︠a︡ Proshlyĭ vek</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Proshlyĭ vek</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Last century series</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Moskva</subfield>
+    <subfield code="b">Mosty kulʹtury</subfield>
+    <subfield code="a">Ierusalim</subfield>
+    <subfield code="b">Gesharim</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Azarkh-Granovskai︠a︡, A. V. Vospominanii︠a︡, 2001:</subfield>
+    <subfield code="b">t.p. verso (Serii︠a︡ Proshlyĭ vek = The Last century series)</subfield>
+  </datafield>
+</record>
