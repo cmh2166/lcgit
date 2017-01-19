@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00721nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2015064999</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151104112820.0</controlfield>
+  <controlfield tag="008">151104n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015064999</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ibn Mawlavī Muḥammad Yūsuf Lāhawrī, Muḥammad Shāh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lāhawrī, Muḥammad Shāh Ibn Mawlavī Muḥammad Yūsuf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mawlavī Muḥammad Yūsuf Lāhawrī, Muḥammad Shāh ibn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Muḥammad Yūsuf Lāhawrī, Muḥammad Shāh Ibn Mawlavī</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yūsuf Lāhawrī, Muḥammad Shāh Ibn Mawlavī Muḥammad</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rāg darshan, 2014:</subfield>
+    <subfield code="b">t.p. (Muḥammad Shāh Ibn Mawlavī Muḥammad Yūsuf Lāhawrī)</subfield>
+  </datafield>
+</record>
