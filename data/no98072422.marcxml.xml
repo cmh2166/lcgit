@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00557cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98072422 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040602051955.0</controlfield>
+  <controlfield tag="008">980317n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98072422 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04683860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DJBF</subfield>
+    <subfield code="c">DJBF</subfield>
+    <subfield code="d">SG-SiILA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ramamani Sundar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sundar, Ramamani</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ramāmaṇi Cuntar</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Household survey of health care utilisation and expenditure, 1995:</subfield>
+    <subfield code="b">t.p. (Ramamani Sundar)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SILAS database, Apr. 19, 2004</subfield>
+    <subfield code="b">(hdg.: Ramamani Sundar; usage: Ramāmaṇi Cuntar)</subfield>
+  </datafield>
+</record>
