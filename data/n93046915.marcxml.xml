@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01179cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  93046915 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151223073816.0</controlfield>
+  <controlfield tag="008">930519n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93046915 </subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">http://www.imdb.com/name/nm0513165</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03374446</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">MoSpS-AV</subfield>
+    <subfield code="d">WaU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1942</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Linson, Art</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Chicago (Ill.)</subfield>
+    <subfield code="c">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Motion pictures--Production and direction</subfield>
+    <subfield code="a">Motion picture authorship</subfield>
+    <subfield code="a">Motion picture plays</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Screenplays</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Motion picture producers and directors</subfield>
+    <subfield code="a">Screenwriters</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">Males</subfield>
+    <subfield code="a">Men</subfield>
+    <subfield code="2">lcdgt</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A pound of flesh, 1993:</subfield>
+    <subfield code="b">CIP t.p. (Art Linson)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Dec. 9, 2003</subfield>
+    <subfield code="b">(Art Linson; b. ca. 1940, Chicago, Ill.; producer, 1970s-2000s)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb, December 21, 2015</subfield>
+    <subfield code="b">(Art Linson; born: 1942 in Chicago, Illinois; producer, writer, director)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, December 21, 2015</subfield>
+    <subfield code="b">(Art Linson (born 1942) is an American film producer, director and screenwriter; born in Chicago, Illinois)</subfield>
+  </datafield>
+</record>
