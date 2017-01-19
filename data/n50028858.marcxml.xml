@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01053cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  50028858 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120606074630.0</controlfield>
+  <controlfield tag="008">800609n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50028858 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00064235</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Auer, Michel</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Collection Michel Auer, 1972.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Auer Foundation for Photography</subfield>
+    <subfield code="b">English (The Auer Foundation for photography; The Auer Foundation (French: La Fondation Auer pour la photographie); Michele and Michel Auer; Working for 40 years on an exceptional collection, rare in its richness and diversity, with more than 500 cameras, 21,000 books, unpublished works, 50,000 original prints, works of art, literature, postcards, posters... Created in March 2008 by M + M Auer, the Auer Photo Foundation for Photography aims to preserve the existing collection, promote it, acquire new objects and photographic works, to organize exhibitions and to diffuse and update daily the International Encyclopaedia of Photographers)</subfield>
+    <subfield code="u">http://auer01.auerphoto.com/</subfield>
+  </datafield>
+</record>
