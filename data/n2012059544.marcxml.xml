@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00366nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2012059544</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120912074924.0</controlfield>
+  <controlfield tag="008">120911n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012059544</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Poulos, Frances Gibson,</subfield>
+    <subfield code="d">1936-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mind out of time, 2008:</subfield>
+    <subfield code="b">t.p. (Frances Gibson Poulos) p. 1 (b. in Modesto Calif. Nov. 7, 1936)</subfield>
+  </datafield>
+</record>
