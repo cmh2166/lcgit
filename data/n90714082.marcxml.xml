@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00407cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  90714082 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19901113124503.7</controlfield>
+  <controlfield tag="008">901113n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90714082 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Editora Abril (Havana, Cuba)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Los Muchachos se divierten, c1989:</subfield>
+    <subfield code="b">t.p. (Editora Abril, Ciudad de La Habana)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">ILMP, 1990;</subfield>
+    <subfield code="a">Pub. intl. ISBN dir., 16th ed.</subfield>
+  </datafield>
+</record>
