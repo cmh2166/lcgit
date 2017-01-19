@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00475cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  86075593 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080321075304.0</controlfield>
+  <controlfield tag="008">870812n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86075593 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01917044</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boteler, Wade,</subfield>
+    <subfield code="d">1888-1943</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ambush [MP] 1939:</subfield>
+    <subfield code="b">credits (cast, Wade Boteler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inter. film necrology, 1981</subfield>
+    <subfield code="b">(Wade Boteler; actor; b. Oct. 3, 1888, Santa Ana, Calif.; d. May 7, 1943)</subfield>
+  </datafield>
+</record>
