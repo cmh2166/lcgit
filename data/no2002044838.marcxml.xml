@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00566nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2002044838</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020524052226.0</controlfield>
+  <controlfield tag="008">020523n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002044838</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05769856</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Schneiderov fotografski arhiv (Strossmayerova galerija starih majstora)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Strossmayerova galerija starih majstora.</subfield>
+    <subfield code="b">Schneiderov fotografski arhiv</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schneiderov fotografski arhiv, 1999:</subfield>
+    <subfield code="b">p. opp. t.p. (Strossmayerova galerija majstora HAZU. Schneiderov fotografski arhiv (Zagreb))</subfield>
+  </datafield>
+</record>
