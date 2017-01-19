@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00789cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2008087068</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131202195329.0</controlfield>
+  <controlfield tag="008">080612n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008087068</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07793054</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SG-SiILA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SG-SiILA</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1973</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lim, Jeremy,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Singapore</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yen, Jeremy Lim Fung,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lim, Fung Yen,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yen, Lim Fung,</subfield>
+    <subfield code="d">1973-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Beyond barriers, c2007:</subfield>
+    <subfield code="b">t.p. verso (Jeremy Lim)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email correspondence with publisher, June 11, 2008</subfield>
+    <subfield code="b">(Jeremy Lim Fung Yen; b. 1973)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SingHealth homepage via WWW, June 12, 2008</subfield>
+    <subfield code="b">(Dr. Jeremy Lim Fung Yen; Director of Policy &amp; Research)</subfield>
+  </datafield>
+</record>
