@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00843nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 89011480 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890819070657.6</controlfield>
+  <controlfield tag="008">890815n| acaabaaa|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89011480 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Collection "Documents pédagogiques"</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Université de droit, d'économie et des sciences d'Aix-Marseille. Institut d'aménagement régional.</subfield>
+    <subfield code="t">Collection "Documents pédagogiques"</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Aix en Provence</subfield>
+    <subfield code="b">Université de droit, d'économie et des sciences d'Aix-Marseille, Institut d'aménagement régional d'Aix en Provence</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Université de droit, d'économie et des sciences d'Aix-Marseille. Séminaire d'aménagement comparé. Expériences étrangères d'aménagement, 1982-83, t. 2, surrogate:</subfield>
+    <subfield code="b">t.p. (Collection "Documents pédagogiques")</subfield>
+  </datafield>
+</record>
