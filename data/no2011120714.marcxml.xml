@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2011120714</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110807075130.0</controlfield>
+  <controlfield tag="008">110805n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011120714</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08935450</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PCarlMH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PCarlMH</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army.</subfield>
+    <subfield code="b">Apache Scouts</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Army.</subfield>
+    <subfield code="b">Indian Scouts.</subfield>
+    <subfield code="b">Apache Scouts</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">"We were recruited from the warriors of many famous nations," cultural preservation, 2010:</subfield>
+    <subfield code="b">t.p. (Apache Scouts)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The red / bluecoats, 1973:</subfield>
+    <subfield code="b">p. 57 (Company A, Apache Scouts)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, Aug. 5, 2011:</subfield>
+    <subfield code="b">Apache Scouts page (Apache Scouts were part of the United States Army Indian Scouts who came from different Apache bands)</subfield>
+  </datafield>
+</record>
