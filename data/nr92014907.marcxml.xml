@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00627cz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 92014907 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120808084954.0</controlfield>
+  <controlfield tag="008">920417n| acannaab           |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92014907 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Semaine d'étude sur le problème des populations stellaires</subfield>
+    <subfield code="d">(1957 :</subfield>
+    <subfield code="c">Vatican City)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Semaine d'étude sur le problème des populations stellaires, 1958:</subfield>
+    <subfield code="b">t.p. (held 20-28 May, 1957) p. xii (held at, and organized by, the Pontifical Academy of Sciences, Vatican City)</subfield>
+  </datafield>
+</record>
