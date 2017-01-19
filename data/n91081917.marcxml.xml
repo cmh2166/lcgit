@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00529cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  91081917 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911214112857.1</controlfield>
+  <controlfield tag="008">910815n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91081917 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Vasubandhu.</subfield>
+    <subfield code="t">Abhidharmakośabhāṣya.</subfield>
+    <subfield code="n">Kośasthāna 1.</subfield>
+    <subfield code="l">Russian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Vasubandhu.</subfield>
+    <subfield code="t">Abhidharmakośabhāṣya.</subfield>
+    <subfield code="n">Razdel 1,</subfield>
+    <subfield code="p">Analiz po klassam ėlementov</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Abkhidkharmakosha (Ėnt︠s︡iklopedii︠a︡ Abkhidkharmy). Razdel pervyĭ, Analiz po klassam ėlementov, 1990.</subfield>
+  </datafield>
+</record>
