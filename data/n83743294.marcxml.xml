@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01012nz  a2200241n  4500</leader>
+  <controlfield tag="001">n  83743294 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19840322000000.0</controlfield>
+  <controlfield tag="008">830331n| acaaaaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83743294 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Museum Altes Rathaus Villingen.</subfield>
+    <subfield code="b">Abt. Kunsthandwerk.</subfield>
+    <subfield code="t">Bestandskatalog des Museum Altes Rathaus Villingen, Abt. Kunsthandwerk</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Bestandskatalog des Museum Altes Rathaus Villingen, Abt. Kunsthandwerk</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Villingen-Schwenningen (Germany)</subfield>
+    <subfield code="t">Bestandskatalog des Museum Altes Rathaus Villingen, Abt. Kunsthandwerk</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Stadtarchiv Villingen.</subfield>
+    <subfield code="t">Bestandskatalog des Museum Altes Rathaus Villingen, Abt. Kunsthandwerk</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Bestandskatalog (Museum Altes Rathaus Villingen. Abt. Kunsthandwerk)</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Villingen-Schwenningen</subfield>
+    <subfield code="b">Stadt Villingen-Schwenningen</subfield>
+    <subfield code="b">Stadtarchiv Villingen</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Document</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hafnerkunst in Villingen, c1978:</subfield>
+    <subfield code="b">t.p.</subfield>
+  </datafield>
+</record>
