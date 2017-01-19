@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00748cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85296326 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315094438.0</controlfield>
+  <controlfield tag="008">860424n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85296326 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1825</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Van Arsdalen, Abraham,</subfield>
+    <subfield code="d">-1825</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arsdalen, Abraham van,</subfield>
+    <subfield code="d">-1825</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van Arsdale, Abraham,</subfield>
+    <subfield code="d">-1825</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Van Arsdalen, Abraham,</subfield>
+    <subfield code="d">d. 1825</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Rutgers Univ. Lib. for His Papers, 1794-1869</subfield>
+    <subfield code="b">(Van Arsdalen, Abraham; sheriff &amp; tax collector; North Brunswick Twp., Middlesex Co., N.J.; d. 1825; incorrectly cited as Abraham Van Arsdale)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Clayton, W.W. Hist. of Union &amp; Middlesex Counties, 1882;</subfield>
+    <subfield code="a">Biog. encycl. NJ, 1877</subfield>
+  </datafield>
+</record>
