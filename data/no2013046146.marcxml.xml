@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00621nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013046146</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130428075115.0</controlfield>
+  <controlfield tag="008">130426n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013046146</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09460629</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Joo, Joonwon</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">U.S.</subfield>
+    <subfield code="f">Phoenix, Ariz.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Local transit</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Sustainable development</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Arizona State University</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A dynamic model of land use transition to achieve sustainable outcomes for urban travel behavior, 2008:</subfield>
+    <subfield code="b">t.p. (Joonwon Joo, Ph.D., Arizona State University, 2008)</subfield>
+  </datafield>
+</record>
