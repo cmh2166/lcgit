@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460cz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2004113481</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040209133436.0</controlfield>
+  <controlfield tag="008">040209n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004113481</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Greater Ithaca Art Trail (Program)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Irondesign.com (Firm). 2003-2004 Greater Ithaca Art Trail, studio tour map, 2003:</subfield>
+    <subfield code="b">map verso (The Greater Ithaca Art Trail is a program of the Community Arts Partnership of Tompkins County)</subfield>
+  </datafield>
+</record>
