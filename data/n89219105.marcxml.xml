@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>02411cz  a2200361n  4500</leader>
+  <controlfield tag="001">n  89219105 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150113073822.0</controlfield>
+  <controlfield tag="008">921217n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89219105 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03288883</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MiU</subfield>
+    <subfield code="d">DNAL</subfield>
+    <subfield code="d">DLC-OI</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">CU</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">CU-S</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Kebun Raya Indonesia</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Botanical gardens</subfield>
+    <subfield code="a">Research institutes</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Indonesia</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Lembaga Ilmu Pengetahuan Indonesia</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Indonesia.</subfield>
+    <subfield code="b">Kebun Raya</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kebun Raja Indonesia</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Kebun Raya</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Indonesian Botanic Garden</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Botanic Gardens of Indonesia</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Lembaga Ilmu Pengetahuan Indonesia.</subfield>
+    <subfield code="b">Kebun Raya Indonesia</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Indonesian Botanic Gardens</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Lembaga Pusat Penjelidikan Alam.</subfield>
+    <subfield code="b">Kebun Raya Indonesia</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Lembaga Ilmu Pengetahuan Indonesia</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">This heading is used for the entity comprising four botanic gardens. Do not confuse with the heading for one of the gardens, located in Bogor: Kebun Raya Bogor (n  95931294).</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rijnberg, T.F. 'sLand Plantentuin, Buitenzorg, 1817-1992, c1992:</subfield>
+    <subfield code="b">t.p. (Kebun Raya Indonesia) p. 8 (f. 1817; Kebun Raya)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 11-18-92</subfield>
+    <subfield code="b">(MLC hdg.: Bogor, Indonesia. Kebun Raya; Kebun Raja Indonesia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Der botanische Garten "'s Lands Plantentuin" zu Buitenzorg auf Java, 1893</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wild orchids, 1995?:</subfield>
+    <subfield code="b">t.p. (Indonesian Botanic Garden) introd. (Kebun Raya Indonesia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An alphabetical list of plants species cultivated in the Bogor Botanical Garden, 2001:</subfield>
+    <subfield code="b">t.p. (Republic of Indonesia, Indonesian Institute of Sciences, Botanic Gardens of Indonesia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Indonesian Botanic Gardens WWW home page, Jan. 3, 2007</subfield>
+    <subfield code="b">(Indonesian Botanic Gardens; Kebun Raya Indonesia; part of the Indonesian Institute of Sciences; comprised of four Botanic Gardens: Bogor and Cibodas in West Java, Purwodadi in East Java, and Eka Karya in Bali; it is also a world famous institution for research and conservation)</subfield>
+    <subfield code="u">http://www.bogor.indo.net.id/kri/</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An alphabetical list of plant species cultivated in the Hortus Botanicus Bogoriensis, 1957:</subfield>
+    <subfield code="b">t.p. (Republic of Indonesia, Foundation for Nature Research (Botanic Gardens of Indonesia) (Lembaga Pusat Penjelidikan Alam, Kebun Raya Indonesia))</subfield>
+  </datafield>
+</record>
