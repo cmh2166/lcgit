@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00900nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2002043765</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021106155723.0</controlfield>
+  <controlfield tag="008">021106n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002043765</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Polish Association of Former Political Prisoners of Nazi and Soviet Concentration Camps</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Polish Association of Former Political Prisoners</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Polish American Congress.</subfield>
+    <subfield code="b">Polish Association of Former Political Prisoners of Nazi and Soviet Concentration Camps</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Proch, Franciszek J. Poland's way of the cross, 1939-1945, 1985?:</subfield>
+    <subfield code="b">front cover (Polish Association of Former Political Prisoners of Nazi and Soviet Concentration Camps) p. 7 (Polish Association of Former Political Prisoners)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Web site for Polish American Congress</subfield>
+    <subfield code="b">(Polish Association of Former Political Prisoners is listed as one of the member organizations)</subfield>
+  </datafield>
+</record>
