@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 00065672 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218092031.0</controlfield>
+  <controlfield tag="008">000815n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00065672 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05289007</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OBgU-MA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OBgU-MA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PaPiCLS</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">All Stars (Musical group : Art Tatum)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Art Tatum All Stars</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Art Tatum's All Stars</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Tatum All Stars</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Tatum's All Stars</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Member:</subfield>
+    <subfield code="a">Tatum, Art,</subfield>
+    <subfield code="d">1909-1956</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hot jazz on film, vol. 1 [SR] 196-?:</subfield>
+    <subfield code="b">label (Art Tatum's All Stars)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jazz and big band classics [VR] c2005:</subfield>
+    <subfield code="b">credits (Art Tatum All Stars)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Sept. 11, 2009</subfield>
+  </datafield>
+</record>
