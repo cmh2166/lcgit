@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00480nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 92042370 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19921211094619.9</controlfield>
+  <controlfield tag="008">921130n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 92042370 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)tb049552</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Jaffrey, Henry</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Jaffray, Henry</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His In the House of Lords. Henry Jaffrey and the other partners of the Stirling Banking Company and others, 1790.</subfield>
+  </datafield>
+</record>
