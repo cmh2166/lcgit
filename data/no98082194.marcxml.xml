@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00335nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 98082194 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980430052527.0</controlfield>
+  <controlfield tag="008">980429n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98082194 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04717359 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB</subfield>
+    <subfield code="c">RPB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Shaw, Emma</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alaskan gleanings, ca. 1900:</subfield>
+    <subfield code="b">cover p. 3 (Emma Shaw)</subfield>
+  </datafield>
+</record>
