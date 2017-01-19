@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00481nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2001112203</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011128145730.0</controlfield>
+  <controlfield tag="008">011128n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001112203</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Russkai︠a︡ pravoslavnai︠a︡ t︠s︡erkovʹ.</subfield>
+    <subfield code="b">Maĭkopskai︠a︡ i armavirskai︠a︡ eparkhii︠a︡</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Khristianstvo--2000, 2000:</subfield>
+    <subfield code="b">t.p. (Maĭkopskai︠a︡ i armavirskai︠a︡ eparkhii︠a︡ Russkoĭ pravoslavnoĭ t︠s︡erkvi)</subfield>
+  </datafield>
+</record>
