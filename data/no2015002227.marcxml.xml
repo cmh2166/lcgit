@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00812nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2015002227</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150108073607.0</controlfield>
+  <controlfield tag="008">150107n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015002227</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10054699</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">01</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Hyginus,</subfield>
+    <subfield code="c">Mensor</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Rome</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Surveying</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">lat</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hyginus,</subfield>
+    <subfield code="c">Maior, Gromaticus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Hygin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Les arpenteurs romains, 2005-&lt;2014&gt;:</subfield>
+    <subfield code="b">tome II (2010) title page (Hygin) page vii (Hyginus mensor, so called to ddistinguish him from Hyginus Gromaticus; also called Hyginus maior because he came before Hyginus Gromaticus)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Library of Latin texts online, 7 January 2014</subfield>
+    <subfield code="b">(Hyginus maior gromaticus; second century AD)</subfield>
+  </datafield>
+</record>
