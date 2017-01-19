@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00741cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 96005394 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080905080024.0</controlfield>
+  <controlfield tag="008">960202n| acannaabn          |b aac     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96005394 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04000796</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCl</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCl</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Al-Aghlab al-ʻIjlī</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Al-ʻIjlī, Al-Aghlab</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ʻIjlī, al-Aghlab al-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Al-Aghlab al ʻIǧlī</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Al-Aghlab</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">الأغلب العجلي</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Five raǧaz collections, 1995:</subfield>
+    <subfield code="b">t.p. (al-Aghlab al-ʻIǧlī) p. 12 (al-Aghlab) p. 6 (raǧaz poet of the Umayyad period)</subfield>
+  </datafield>
+</record>
