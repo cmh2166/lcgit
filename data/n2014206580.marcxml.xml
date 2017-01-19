@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00506nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014206580</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140919112641.0</controlfield>
+  <controlfield tag="008">140919n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014206580</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Santos, Juliana Oliveira</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">UESC (University)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Oliveira Santos, Juliana</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A questaĚo ambiental em pauta, 2014:</subfield>
+    <subfield code="b">t.p. (Juliana Oliveira Santos) p. 9 (master's and doctoral degrees, regional planning and environment, Prodema/UESC)</subfield>
+  </datafield>
+</record>
