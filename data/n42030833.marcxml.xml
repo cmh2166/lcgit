@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00589cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  42030833 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081212075309.0</controlfield>
+  <controlfield tag="008">830429n| acaabaaan          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  42030833 </subfield>
+    <subfield code="z">n  42033118 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00028831</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Class and culture</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">New Brunswick, NJ</subfield>
+    <subfield code="b">Rutgers University Press</subfield>
+    <subfield code="d">1986-&lt;1994   &gt;</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Philadelphia</subfield>
+    <subfield code="b">Temple University Press</subfield>
+    <subfield code="d">&lt;1982   &gt;-1985</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Davies, M.W. Woman's place is at the typewriter. 1982.</subfield>
+  </datafield>
+</record>
