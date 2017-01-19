@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00598cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88184932 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891017112230.4</controlfield>
+  <controlfield tag="008">890822n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88184932 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Rizvi, B. R.</subfield>
+    <subfield code="q">(Baqr Raza),</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Rizvi, Baqr Raza,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Baqr Raza Rizvi,</subfield>
+    <subfield code="d">1942-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Hill Korwas of Chhatisgarh, c1989:</subfield>
+    <subfield code="b">t.p. (B.R. Rizvi) jkt. (Dr. ; M.A. (Socio-cultural Anthrop.) ; supdtg. Anthropologist, Anthrop. Svy. of India)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dir. of anthrop. in India, 1981:</subfield>
+    <subfield code="b">p. 245 (Rizvi, Baqr Raza ; b. 12/20/1942)</subfield>
+  </datafield>
+</record>
