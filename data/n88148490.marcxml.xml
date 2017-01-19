@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00983cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  88148490 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140209233554.0</controlfield>
+  <controlfield tag="008">881026n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88148490 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02389257</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">SG-SiILA</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL4758.9.A315</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Akaḷaṅkan̲</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Sri Lanka</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Tamil literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Authors, Tamil</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">tam</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tarmarājā, Nā.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Agalangan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tharmarajah, N.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Tamil̲maṇi Akalaṅkan̲</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Vāli, 1987:</subfield>
+    <subfield code="b">title page (Akaḷaṅkan̲) title page verso (Nā. Tarmarājā)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kūvāta kuyilkaḷ : vān̲oli nāṭakaṅkaḷ, 2001</subfield>
+    <subfield code="b">title page verso (Agalangan [in roman]; original name, N. Tharmarajah [in roman])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Amutakaṅkai, 2004:</subfield>
+    <subfield code="b">title page (Tamil̲maṇi Akalaṅkan̲) page 6 (Akalaṅkan̲)</subfield>
+  </datafield>
+</record>
