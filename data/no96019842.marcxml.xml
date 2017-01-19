@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 96019842 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960420052442.1</controlfield>
+  <controlfield tag="008">960417n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96019842 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04059136 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViU</subfield>
+    <subfield code="c">ViU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Randall, J. L.,</subfield>
+    <subfield code="q">(James Lowndes),</subfield>
+    <subfield code="d">1855-1932</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">J. L. R.,</subfield>
+    <subfield code="c">of Marchington</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">R., J. L.,</subfield>
+    <subfield code="c">of Marchington</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Randall, James Lowndes,</subfield>
+    <subfield code="d">1855-1932</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A history of the Meynell hounds and country, 1901:</subfield>
+    <subfield code="b">t.p. (J.L. Randall) p. viii (J.L.R., Marchington)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">British and American sporting authors, 1949:</subfield>
+    <subfield code="b">p. 197 (James Lowndes Randall, 1855-1932)</subfield>
+  </datafield>
+</record>
