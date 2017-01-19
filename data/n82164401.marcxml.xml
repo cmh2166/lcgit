@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01051cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  82164401 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081213075610.0</controlfield>
+  <controlfield tag="008">830411n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82164401 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00860290</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">ʻAṭṭār, Aḥmad ʻAbd al-Ghafūr</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Aḥmad ʻAbd al-Ghafūr ʻAṭṭār</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ahmad Abdul Ghafour Attar</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Attar, Ahmad Abdul Ghafour</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عطار، أحمد عبد الغفور</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عطار، أحمد عبدالغفور</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">عطار، عبد الغفور</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ismāʻīl ibn Ḥammād, al-J. Tahdhīb al-Ṣiḥāḥ, 1952.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Qaḍāyā wa-mushkilāt lughawīyah, 1982:</subfield>
+    <subfield code="b">t.p. (Aḥmad ʻAbd al-Ghafūr ʻAṭṭār) p. 4 of cover (b. 1335 H, 1916 or 17)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Humanism of Islam, 1980:</subfield>
+    <subfield code="b">t.p. (Ahmad Abdul Ghafour Attar)</subfield>
+  </datafield>
+</record>
