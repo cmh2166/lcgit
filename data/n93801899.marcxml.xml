@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00445nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  93801899 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930506144236.1</controlfield>
+  <controlfield tag="008">930506n| acannaab|          |a aaa ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93801899 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lang, Johannes,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="t">Klinische Anatomie der HalswirbelsaĚule.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lang, Johannes,</subfield>
+    <subfield code="d">1923-</subfield>
+    <subfield code="t">Clinical anatomy of the cervical spine</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lang, J. Clinical anatomy of the cervical spine, 1993.</subfield>
+  </datafield>
+</record>
