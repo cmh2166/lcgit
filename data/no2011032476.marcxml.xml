@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00585nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2011032476</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110303075443.0</controlfield>
+  <controlfield tag="008">110301n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011032476</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08783195</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Graefe zu Baringdorf, Friedrich Wilhelm</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zu Baringdorf, Friedrich Wilhelm Graefe</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Baringdorf, Friedrich Wilhelm Graefe zu</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klassenkampf gegen die Bauern, 2010, ÂŠ2010:</subfield>
+    <subfield code="b">t.p. (Friedrich Wilhelm Graefe zu Baringdorf) p. 11 (Arbeitsgemeinschaft BaĚuerliche Landwirtschaft e.V.)</subfield>
+  </datafield>
+</record>
