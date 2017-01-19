@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85055988 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060313051819.0</controlfield>
+  <controlfield tag="008">850403n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85055988 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01309056</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Beetham, Bruce Craig,</subfield>
+    <subfield code="d">1936-1997</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Beetham, B. C.</subfield>
+    <subfield code="q">(Bruce Craig),</subfield>
+    <subfield code="d">1936-1997</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bryant, George. Beetham, 1981:</subfield>
+    <subfield code="b">t.p. (Beetham) p. 7 (Bruce Beetham M. P.) p. 11 (Bruce Craig Beetham) p. 13 (b. 1936)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WYSIWYG New Zealand news, via WWW, Feb. 7, 2006</subfield>
+    <subfield code="b">Archives prior to 2004, May 5, 1997 (Bruce Beetham has died; former leader of the Social Credit party and MP for Rangitikei)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NZ database, Feb. 6, 2005</subfield>
+    <subfield code="b">(usage: Bruce Beetham, B.C. Beetham)</subfield>
+  </datafield>
+</record>
