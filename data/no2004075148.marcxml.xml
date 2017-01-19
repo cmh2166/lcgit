@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00422nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004075148</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040807071034.0</controlfield>
+  <controlfield tag="008">040806n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004075148</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06411670</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Petri, Hans</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Choral ikons [VR] c2002:</subfield>
+    <subfield code="b">credits (Hans Petri, executive producer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb WWW site, Aug. 6, 2004</subfield>
+    <subfield code="b">(Hans Petri, producer)</subfield>
+  </datafield>
+</record>
