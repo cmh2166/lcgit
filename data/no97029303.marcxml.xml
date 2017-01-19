@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00715cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 97029303 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316095437.0</controlfield>
+  <controlfield tag="008">970512n| azannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97029303 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04338822</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NmU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NmU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">New Mexico.</subfield>
+    <subfield code="b">Surface Water Quality Bureau.</subfield>
+    <subfield code="b">Evaluation and Planning Section</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New Mexico.</subfield>
+    <subfield code="b">Environment Department.</subfield>
+    <subfield code="b">Surface Water Quality Bureau.</subfield>
+    <subfield code="b">Evaluation and Planning Section</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Riparian/wetland vegetation communities of New Mexico, Gila, San Francisco, and Mimbres Watersheds, 1996 (abstract vers.):</subfield>
+    <subfield code="b">t.p. (Evaluation and Planning Section, Surface Water Quality Bureau, New Mexico Environment Dept.; Santa Fe, NM)</subfield>
+  </datafield>
+</record>
