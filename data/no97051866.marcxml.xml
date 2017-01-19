@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00501nz  a2200169n  4500</leader>
+  <controlfield tag="001">no 97051866 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970906052005.5</controlfield>
+  <controlfield tag="008">970905n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97051866 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04422618 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Ozeki, Tamihiro.</subfield>
+    <subfield code="t">Kokyo,</subfield>
+    <subfield code="n">no. 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ozeki, Tamihiro.</subfield>
+    <subfield code="t">Kokyo II</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ozeki, Tamihiro.</subfield>
+    <subfield code="t">Kokyo 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ozeki, Tamihiro.</subfield>
+    <subfield code="t">Kokyo zwei</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kokyo II, c1982:</subfield>
+    <subfield code="b">t.p. (Kokoyo II : fuĚr Trompete und Orgel)</subfield>
+  </datafield>
+</record>
