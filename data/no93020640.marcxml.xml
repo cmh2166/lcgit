@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00637cz  a2200145n  4500</leader>
+  <controlfield tag="001">no 93020640 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810085133.0</controlfield>
+  <controlfield tag="008">930713n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93020640 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ATLA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ATLA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bell, John,</subfield>
+    <subfield code="c">Baptist missionary</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A miracle of modern missions, or, The story of Matula, a Congo convert, 1903:</subfield>
+    <subfield code="b">t.p. (John Bell; Baptist missionary, Wathen Congo)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Enc. of missions;</subfield>
+    <subfield code="a">Enc. Britannica, 15th ed.;</subfield>
+    <subfield code="a">Oxford dict. of the Christian Church;</subfield>
+    <subfield code="a">New Cath. enc.</subfield>
+  </datafield>
+</record>
