@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01343cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2001032087</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141202073826.0</controlfield>
+  <controlfield tag="008">010420n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001032087</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05469050</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxDaTS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxDaTS</subfield>
+    <subfield code="d">ICU</subfield>
+    <subfield code="d">MoSU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1967</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bracht, Katharina,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Würzburg (Germany)</subfield>
+    <subfield code="f">Jena (Germany)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Friedrich-Schiller-Universität Jena. Theologische Fakultät</subfield>
+    <subfield code="s">2011</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Church historians</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vollkommenheit und Vollendung : zur Anthropologie des Methodius von Olympus, 1999:</subfield>
+    <subfield code="b">title page (Katharina Bracht) title page verso (born 1967)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bracht, Katharina. Hippolyts Schrift In Danielem, 2014:</subfield>
+    <subfield code="b">title page (Katharina Bracht) title page verso (Katharina Bracht; born 1967; received her doctorate in 1998; since 2011, she has been professor of church history at the Universität Jena)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Friedrich-Schiller-Universität Jena, Theologische Fakultät, Kirchengeschichte website, viewed November 26, 2014</subfield>
+    <subfield code="b">(Prof. Dr. Katharina Bracht; born 1967 in Würzburg; author of Vollkommenheit und Vollendung; author of Hippolyts Schrift In Danielem)</subfield>
+    <subfield code="u">http://www.theologie.uni-jena.de/Fakult%C3%A4t/Fachgebiete/Kirchengeschichte/Professur-p-187.html</subfield>
+  </datafield>
+</record>
