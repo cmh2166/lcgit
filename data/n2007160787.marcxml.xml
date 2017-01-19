@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00521nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2007160787</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070213075031.0</controlfield>
+  <controlfield tag="008">070212n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007160787</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pickett, Leonora Kelley</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kelley, Leonora</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Fairfield Hist. Soc. for Pickett-Overbaugh family papers, 1867-1983</subfield>
+    <subfield code="b">(Leonora (Kelley) Pickett; E.W.S. Pickett m. Leonora Kelley from Hyde Park, New York; collection contains papers of Leonora Kelley Pickett)</subfield>
+  </datafield>
+</record>
