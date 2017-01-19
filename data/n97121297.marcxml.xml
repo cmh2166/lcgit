@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00449nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  97121297 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19971212101812.4</controlfield>
+  <controlfield tag="008">971209n| acannaab|          |a aac |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97121297 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Arti musices (Musical group)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Komorni studio ZagrebacĚke filharmonije</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bjelinski, B. Koncert za klarinet i gudacĚki orkestar, 197-?:</subfield>
+    <subfield code="b">label (Komorni studio ZagrebacĚke filharmonije "Arti musices")</subfield>
+  </datafield>
+</record>
