@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00701cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2003126104</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090220081547.0</controlfield>
+  <controlfield tag="008">031216n| acacbaaan          sa ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003126104</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06229534</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CoU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CoU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UkOxU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Area de cultura (Gran Canaria (Canary Islands). Cabildo Insular)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Gran Canaria (Canary Islands).</subfield>
+    <subfield code="b">Cabildo Insular.</subfield>
+    <subfield code="t">Area de cultura</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Las Palmas</subfield>
+    <subfield code="b">Cabildo de Gran Canaria</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Not a title of a bibliographic resource; "area de cultura" is a descriptive term for a group of government bodies.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El regeneracionismo galdosiano en la prensa, 2002:</subfield>
+    <subfield code="b">p. 4 of cover (Area de cultura)</subfield>
+  </datafield>
+</record>
