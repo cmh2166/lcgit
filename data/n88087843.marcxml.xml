@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88087843 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890817150954.1</controlfield>
+  <controlfield tag="008">890630n| acannaab|          |a ana ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88087843 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Scientific American Medicine (Firm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Scientific American, inc.</subfield>
+    <subfield code="b">Scientific American Medicine (Firm)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Discotest [CF] 79, 80 (1988)</subfield>
+    <subfield code="b">accom. text. mat. (Scientific American Medicine; Scientific American, inc.; New York, N.Y.)</subfield>
+  </datafield>
+</record>
