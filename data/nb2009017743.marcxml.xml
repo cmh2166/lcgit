@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00531cz  a2200157n  4500</leader>
+  <controlfield tag="001">nb2009017743</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090729075426.0</controlfield>
+  <controlfield tag="008">090715n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009017743</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007506557</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hodgson, Liz,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hodgson, Elizabeth,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Bowder Stone, 2007:</subfield>
+    <subfield code="b">t.p. (Liz Hodgson) t.p. verso (Elizabeth Hodgson) BL e-mail sent 15 July 2009</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from author, 15 July 2009</subfield>
+    <subfield code="b">(Elizabeth Ann Hodgson, born 3 Oct. 1961)</subfield>
+  </datafield>
+</record>
