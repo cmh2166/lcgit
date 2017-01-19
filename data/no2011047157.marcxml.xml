@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00886nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2011047157</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110326075307.0</controlfield>
+  <controlfield tag="008">110324n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011047157</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08808111</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaBeW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WaBeW</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ban, Gu,</subfield>
+    <subfield code="d">32-92.</subfield>
+    <subfield code="t">Xiongnu zhuan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ban, Gu,</subfield>
+    <subfield code="d">32-92.</subfield>
+    <subfield code="t">Han shu.</subfield>
+    <subfield code="n">94.</subfield>
+    <subfield code="p">Xiongnu zhuan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ban, Gu,</subfield>
+    <subfield code="d">32-92.</subfield>
+    <subfield code="t">匈奴傳</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ban, Gu,</subfield>
+    <subfield code="d">32-92.</subfield>
+    <subfield code="t">Hyungno chŏn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ban, Gu,</subfield>
+    <subfield code="d">32-92.</subfield>
+    <subfield code="t">흉노전</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Siun︠g︡nu, 1998:</subfield>
+    <subfield code="b">p. 164 (卷94 ... 匈奴傳 ... = juan 94 ... Xiongnu zhuan ... )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hansŏ oegukchŏn yŏkchu, 2009:</subfield>
+    <subfield code="b">p. 25 (흉노전 = Hyungno chŏn; 匈奴傳 = Xiongnu zhuan [Chin. reading].</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ban, G. Han shu, 1962:</subfield>
+    <subfield code="b">p. 3743 (漢書 = Han shu 94, 匈奴傳 = Xiongnu zhuan)</subfield>
+  </datafield>
+</record>
