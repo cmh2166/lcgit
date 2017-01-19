@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00768cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80122608 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141208092141.0</controlfield>
+  <controlfield tag="008">800923n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80122608 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00503166</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Spijker, W. van 't</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Spijker, Willem van 't</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van 't Spijker, W.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">De ambten bij Martin Bucer, 1970.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Calvin, Erbe und Auftrag, c1991:</subfield>
+    <subfield code="b">t.p. (Willem van 't Spijker) p. 430 (Theologische Univ. van de Christelijke Gereformeerde Kerken, Apeldoorn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">KB Netherlands online April 25, 2005</subfield>
+    <subfield code="b">(Spijker, W. van 't; full name: Willem van 't Spijker, b. 1926)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 8, 2014</subfield>
+    <subfield code="b">(Dr.)</subfield>
+  </datafield>
+</record>
