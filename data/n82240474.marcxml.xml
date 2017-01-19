@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00706cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  82240474 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110624074707.0</controlfield>
+  <controlfield tag="008">840119n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82240474 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK2659.A675</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Arashī, Guracarana Siṅgha,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Guracarana Siṅgha Arashī,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arshi, Gurcharan Singh,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Gurcharan Singh Arshi,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Arashī, Guracaran Siṅgh,</subfield>
+    <subfield code="d">1944-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pañjābī bhāshā te sāhita nūṃ Īsāī Mishanarīāṃ dī deṇa, 1975:</subfield>
+    <subfield code="b">t.p. (Guracarana Siṅgha Arashī) verso of t.p. (Gurcharan Singh Arshi) data from India (b. 1944)</subfield>
+  </datafield>
+</record>
