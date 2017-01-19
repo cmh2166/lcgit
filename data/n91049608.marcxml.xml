@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  91049608 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990430053216.5</controlfield>
+  <controlfield tag="008">910518n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91049608 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02950526 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InIU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">American Society for Quality Control.</subfield>
+    <subfield code="b">Standards Committee</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">American Society for Quality.</subfield>
+    <subfield code="b">Standards Committee</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Univ. of Ill. at Urbana-Champaign Archives for Berg, R.M. Papers, 1956-1968</subfield>
+    <subfield code="b">(Standards Committee, American Society for Quality Control)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">American national standard, quality management and quality assurance, vocabulary, 1994, i.e. 1995?: t.p. (American Society for Quality, Standards Committee)</subfield>
+  </datafield>
+</record>
