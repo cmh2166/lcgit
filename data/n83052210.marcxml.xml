@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00672cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  83052210 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100516075544.0</controlfield>
+  <controlfield tag="008">821215n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83052210 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0814543</subfield>
+    <subfield code="e">W0814543</subfield>
+    <subfield code="f">N0365253</subfield>
+    <subfield code="g">N0365253</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00938502</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-va</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Saltville (Va.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Town of Marion, VA, 198- (subj.)</subfield>
+    <subfield code="b">map verso (Saltville)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rand McNally comm. atlas, 1981</subfield>
+    <subfield code="b">(Saltville, in Smyth and Washington Counties; inc.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 36°52ʹ53ʺN 081°45ʹ43ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Virginia</subfield>
+    <subfield code="z">Saltville</subfield>
+  </datafield>
+</record>
