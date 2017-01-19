@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00527nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 98040770 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980127060026.4</controlfield>
+  <controlfield tag="008">980126n| acannaab|          |a aad     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98040770 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04624595 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="c">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Callahan, Charles.</subfield>
+    <subfield code="t">Meditations on English hymn tunes</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Callahan, Charles.</subfield>
+    <subfield code="t">Six meditations on English hymn tunes</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived authority record.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 94-773159: Callahan, C. Six meditations on English hymn tunes, c1993</subfield>
+  </datafield>
+</record>
