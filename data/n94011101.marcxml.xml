@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00532cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  94011101 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020620160000.0</controlfield>
+  <controlfield tag="008">940204n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94011101 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Oliver, John W.</subfield>
+    <subfield code="q">(John William)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Malone, J.W. J. Walter Malone, c1993:</subfield>
+    <subfield code="b">t.p. (John W. Oliver)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Info from author, Malone College, Canton, Ohio, 12/13/93</subfield>
+    <subfield code="b">(John William Oliver)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cradles of conscience, c2003:</subfield>
+    <subfield code="b">CIP t.p. (John W. Oliver) data sheet (b. Aug. 17, 1929)</subfield>
+  </datafield>
+</record>
