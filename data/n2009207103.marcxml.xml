@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00649cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2009207103</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326105543.0</controlfield>
+  <controlfield tag="008">090424n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009207103</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">[1970,1971]</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pūrjavādī, Amīr Ḥoseyn,</subfield>
+    <subfield code="d">1970 or 1971-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Amīr Ḥoseyn Pūrjavādī,</subfield>
+    <subfield code="d">1970 or 1971-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pourjavady, Amir Hosein,</subfield>
+    <subfield code="d">1970 or 1971-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Pūrjavādī, Amīr Ḥoseyn,</subfield>
+    <subfield code="d">1970 or 71-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shash taṣnīf-i qadīmī, 2005:</subfield>
+    <subfield code="b">insert (Amīr Ḥoseyn Pūrjavādī ; Amir Hosein Pourjavady b. 1349 [1970 or 1971])</subfield>
+  </datafield>
+</record>
