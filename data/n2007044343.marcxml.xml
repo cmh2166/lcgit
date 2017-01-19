@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00402nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2007044343</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070623074936.0</controlfield>
+  <controlfield tag="008">070622n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007044343</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Miller, James,</subfield>
+    <subfield code="d">1962 July 23-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Miller, James. Under the gun, 2006:</subfield>
+    <subfield code="b">t.p. (James Miller)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call from author, June 22, 2007:</subfield>
+    <subfield code="b">(b. July 23, 1962)</subfield>
+  </datafield>
+</record>
