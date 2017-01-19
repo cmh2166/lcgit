@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00672nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015023900</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150220073647.0</controlfield>
+  <controlfield tag="008">150219n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015023900</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10093406</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Van Antwerp &amp; Van Dyke</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Firm</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">New York (N.Y.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">18 Broad Street</subfield>
+    <subfield code="b">New York</subfield>
+    <subfield code="c">N.Y.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Real property auctions</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Van Antwerp and Van Dyke</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Map of valuable property in the town of Lockport, Niagara County, [between 1830 and 1840?]</subfield>
+    <subfield code="b">map recto (for sale by ... Van Antwerp &amp; Van Dyke, No. 18 Broad St., City of New York)</subfield>
+  </datafield>
+</record>
