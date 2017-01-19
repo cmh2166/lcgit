@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00771nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2011084493</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110602075241.0</controlfield>
+  <controlfield tag="008">110531n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011084493</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08872843</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IlMchBWI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IlMchBWI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cepinska, Ana,</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cepinska, Anna,</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cepinska Miszczak, Ana,</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Miszczak, Ana Cepinska,</subfield>
+    <subfield code="d">1978-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La brecha [VR] c2008:</subfield>
+    <subfield code="b">container (Ana Cepinska, cast)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb, May 19, 2011</subfield>
+    <subfield code="b">(Anna Cepinska ; actress ; alt. name: Ana Cepinska)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, May 31, 2011</subfield>
+    <subfield code="b">(Ana Cepinska Miszczak ; born April 11, 1978 in Leicester, England to polish parents ; is a Venezuelan-born model ; has lived in Mexico since 2004)</subfield>
+  </datafield>
+</record>
