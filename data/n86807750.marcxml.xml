@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00502cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  86807750 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880107112751.7</controlfield>
+  <controlfield tag="008">860214n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86807750 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gore, Sheila M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc85-77944: Statistics in practice, c1982</subfield>
+    <subfield code="b">(hdg. on MoU rept.: Gore, Sheila; usage: Sheila M. Gore)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Renal transplantation, 1988:</subfield>
+    <subfield code="b">CIP t.p. (Sheila M. Gore, MRC Biostats. Unit, Cambridge, U.K.) galleys, etc. (Dr.; b. 5/18/52)</subfield>
+  </datafield>
+</record>
