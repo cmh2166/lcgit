@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00974nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2009062605</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090424075535.0</controlfield>
+  <controlfield tag="008">090422n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009062605</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08085465</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fortuño, Luis G.</subfield>
+    <subfield code="q">(Luis Guillermo),</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fortuño Burset, Luis Guillermo,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fortuño, Luis Guillermo,</subfield>
+    <subfield code="d">1960-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nuevo modelo económico y proyección de Puerto Rico en Estados Unidos y el Exterior, 1996:</subfield>
+    <subfield code="b">insert (Luis G. Fortuño)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, March 27, 2009</subfield>
+    <subfield code="b">(Luis Fortuño; b. Oct. 31, 1960, San Juan, Puerto Rico; 9th governor of Puerto Rico; He was a Delegate to Congress (Resident Commissioner), representing Puerto Rico from 2005 to 2008; birth name Luis Guillermo Fortuño Burset)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Biographical Directory of the United States Congress website, March 27, 2009</subfield>
+    <subfield code="b">(Luis G. Fortuño; Resident Commissioner from Puerto Rico)</subfield>
+  </datafield>
+</record>
