@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00755nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2005021326</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050306080541.0</controlfield>
+  <controlfield tag="008">050304n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005021326</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06575489</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Erdmann, Carl,</subfield>
+    <subfield code="d">1841-1898</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Erdmann, Karl Eduard,</subfield>
+    <subfield code="d">1841-1898</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Das GuĚterrecht der Ehegatten nach dem Provinzialrecht Liv-, Ehst- und Curlands, 1872:</subfield>
+    <subfield code="b">t.p. (Dr. Carl Erdmann, ausserord. Professor des Provincialrechts an der UniversitaĚt Dorpat)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dtschbaltisches biog. Lex., 1710-1960, 1970:</subfield>
+    <subfield code="b">(Erdmann, Carl [Eduard], Jurist; b. May 25, 1841; d. Oct. 27, 1898)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1956</subfield>
+    <subfield code="b">(hdg.: Erdmann, Karl Eduard, 1841-1898; usage: Carl Erdmann)</subfield>
+  </datafield>
+</record>
