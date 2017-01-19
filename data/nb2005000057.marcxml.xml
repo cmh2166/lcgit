@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01108cz  a2200217n  4500</leader>
+  <controlfield tag="001">nb2005000057</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322091302.0</controlfield>
+  <controlfield tag="008">050302n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005000057</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006125804</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Derbyshire (England).</subfield>
+    <subfield code="b">Libraries and Heritage Department</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Derbyshire (England).</subfield>
+    <subfield code="b">County Council.</subfield>
+    <subfield code="b">Libraries and Heritage Department</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Derbyshire (England).</subfield>
+    <subfield code="b">Libraries &amp; Heritage Department</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Derbyshire (England).</subfield>
+    <subfield code="b">Libraries and Heritage Dept.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Derbyshire (England).</subfield>
+    <subfield code="b">Libraries, Archives &amp; Arts Department</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Derbyshire (England).</subfield>
+    <subfield code="b">County Council</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Microfilms in Derby Local Studies Library, 1997?:</subfield>
+    <subfield code="b">p. 4 of cover (Derbyshire County Council, Libraries and Heritage Department)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A sense of place, 2000:</subfield>
+    <subfield code="b">t.p. (Derbyshire County Council, Libraries &amp; Heritage Department)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Microfilms in Derbyshire libraries, 1996: p.4 of cover (Derbyshire County Council, Libraries, Archives &amp; Arts Department)</subfield>
+  </datafield>
+</record>
