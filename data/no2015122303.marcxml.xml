@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00941nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2015122303</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150915073606.0</controlfield>
+  <controlfield tag="008">150914n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015122303</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10269160</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICrlF</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2015</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Horikoshi, Kōhei,</subfield>
+    <subfield code="d">1986-</subfield>
+    <subfield code="t">Boku no hiro akademia.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">VIZ Media</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Horikoshi, Kōhei,</subfield>
+    <subfield code="d">1986-</subfield>
+    <subfield code="t">Boku no hero akademia.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Horikoshi, Kōhei,</subfield>
+    <subfield code="d">1986-</subfield>
+    <subfield code="t">僕のヒーローアカデミア.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Horikoshi, Kōhei,</subfield>
+    <subfield code="d">1986-</subfield>
+    <subfield code="t">My hero academia</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's My hero academia. Vol. 1, 2015:</subfield>
+    <subfield code="b">page facing title page (English version of Boku no hero akademia; Viz Media, LLC)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Sept. 14, 2015</subfield>
+    <subfield code="b">(Boku no hiro akademia = 僕のヒーローアカデミア = My hero academia)</subfield>
+  </datafield>
+</record>
