@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2015046986</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150729174801.0</controlfield>
+  <controlfield tag="008">150729n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015046986</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Haisa'er, Xiabanbai</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">海萨尔・夏班拜</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Xiabanbai, Haisa'er</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Xinjiang ji chu jiao yu xian zhuang fen xi bao gao, 2014:</subfield>
+    <subfield code="b">t.p. (海萨尔・夏班拜 = Haisa'er Xiabanbai)</subfield>
+  </datafield>
+</record>
