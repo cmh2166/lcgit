@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00451nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014052526</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140827130707.0</controlfield>
+  <controlfield tag="008">140827n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014052526</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hong, Man-ch'un</subfield>
+    <subfield code="c">(Pastor)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">홍 만춘</subfield>
+    <subfield code="c">(Pastor)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kodang Cho Man-sik charyojip, 2008:</subfield>
+    <subfield code="b">t.p. (홍 만춘 = Hong Man-ch'un) pref. (moksa)</subfield>
+  </datafield>
+</record>
