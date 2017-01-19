@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00619cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2008034506</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080516102400.0</controlfield>
+  <controlfield tag="008">080509n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008034506</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dovz︠h︡uk, B. S.</subfield>
+    <subfield code="q">(Borys Semenovych)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Dovz︠h︡uk, Borys Semenovych</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Trudova mihrat︠s︡ii︠a︡ naselenni︠a︡ Ternopilʹsʹkoï oblasti, 2006:</subfield>
+    <subfield code="b">t.p. verso (Dovz︠h︡uk B.S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tenopilʹsʹkyĭ oblasnyĭ t︠s︡entr zaĭni︠a︡tosti, website viewed May 9, 2008:</subfield>
+    <subfield code="b">(Dovz︠h︡uk, Borys Semenovych, dyrektor)</subfield>
+    <subfield code="u">http://www.dcz.gov.ua</subfield>
+  </datafield>
+</record>
