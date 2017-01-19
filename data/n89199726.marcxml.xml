@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89199726 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970315054008.2</controlfield>
+  <controlfield tag="008">970211n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89199726 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Karki, S.</subfield>
+    <subfield code="q">(Sameer)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Karki, Sameer</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Sameer Karki</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Landslide hazard management and control in the Hindu Kush-Himalayas, c1995:</subfield>
+    <subfield code="b">t.p. (S. Karki) p. 39 (Mr. Sameer Karki, Field Res. Off. (Nepal Site I), ICIMOD)</subfield>
+  </datafield>
+</record>
