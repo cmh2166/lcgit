@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01090cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  86085555 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150523073828.0</controlfield>
+  <controlfield tag="008">870806n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86085555 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01912368</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NcU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19240926</subfield>
+    <subfield code="g">19940919</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Cooper, Charles F.,</subfield>
+    <subfield code="d">1924-1994</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">San Diego State University. Center for Regional Environmental Studies</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Ecologists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A plan of investigation for assessing the environmental impact ... 1974:</subfield>
+    <subfield code="b">t.p. (Charles F. Cooper; Center for Regional Environmental Studies, San Diego State University)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 7/27/87</subfield>
+    <subfield code="b">(hdg.: Cooper, Charles F., 1924- ; usage: Charles F. Cooper)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Marquis who's who WWW site, May 21, 2015</subfield>
+    <subfield code="b">(Charles F. Cooper; b. September 26, 1924, Kenosha, Wis., d. September 19, 1994; ecologist; professor of biology and director, Center Regional Environmental Studies, San Diego State University, 1971-88)</subfield>
+  </datafield>
+</record>
