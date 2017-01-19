@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00982cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 98024976 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315112706.0</controlfield>
+  <controlfield tag="008">980706n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98024976 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1935</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Malmesbury, Susan,</subfield>
+    <subfield code="c">Countess of,</subfield>
+    <subfield code="d">-1935</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ardagh,</subfield>
+    <subfield code="c">Lady,</subfield>
+    <subfield code="d">-1935</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hamilton, Susan,</subfield>
+    <subfield code="d">-1935</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Malmesbury, Susan,</subfield>
+    <subfield code="c">Countess of,</subfield>
+    <subfield code="d">d. 1935</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The life of Major-General Sir John Ardagh, 1909:</subfield>
+    <subfield code="b">t.p. (Susan, Countess of Malmesbury; Lady Ardagh) p. viii (Susan Hamilton Malmesbury)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB, 1901-1911</subfield>
+    <subfield code="b">(under Ardagh, Sir John Charles: Susan, widow of the 3rd earl of Malmesbury and daughter of John Hamilton of Fyne Court House, Somerset; married Feb. 18, 1896)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Debrett's peerage &amp; baronetage, c1985</subfield>
+    <subfield code="b">(under Malmesbury, Earl of: Susan, d. 1935)</subfield>
+  </datafield>
+</record>
