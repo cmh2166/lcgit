@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00929cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2006038137</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140110104541.0</controlfield>
+  <controlfield tag="008">060515n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006038137</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PK8548.S4875</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Shahnazarean, Arsh.</subfield>
+    <subfield code="q">(Arshak),</subfield>
+    <subfield code="d">1872-1942</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shahnazarean, Arshak,</subfield>
+    <subfield code="d">1872-1942</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Šahnazaryan, Aršak,</subfield>
+    <subfield code="d">1872-1942</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shahnazaryan, Arshak Gabrieli,</subfield>
+    <subfield code="d">1872-1942</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Shahnazarian, Arsh.</subfield>
+    <subfield code="q">(Arshak),</subfield>
+    <subfield code="d">1872-1942</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shahnazarean, Arsh. Khawar ashkharhum, 1910:</subfield>
+    <subfield code="b">t.p. (Arsh. Shahnazarean)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bardakjian, Kevork B. Reference guide to modern Armenian literature, 2000:</subfield>
+    <subfield code="b">p. 479 (Aršak Šahnazaryan: b. 1872, Aštarak, Armenia; d. 1942)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Haykakan sovetakan hanragitaran, 1974:</subfield>
+    <subfield code="b">vol. 8, p. 426-427 (Arshak Gabrieli Shahnazaryan: b. Feb. 1, 1872, Ashtarak; d. Dec. 29, 1942, Erevan)</subfield>
+  </datafield>
+</record>
