@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00858nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2015035670</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150318073641.0</controlfield>
+  <controlfield tag="008">150317n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015035670</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10114701</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1941</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ovid,</subfield>
+    <subfield code="d">43 B.C.-17 A.D. or 18 A.D.</subfield>
+    <subfield code="t">Ars amatoria.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Ripert)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Ripert</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Ovid,</subfield>
+    <subfield code="d">43 B.C.-17 A.D. or 18 A.D.</subfield>
+    <subfield code="t">Art d'aimer</subfield>
+    <subfield code="s">(Ripert)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translator:</subfield>
+    <subfield code="a">Ripert, Emile,</subfield>
+    <subfield code="d">1882-1948</subfield>
+  </datafield>
+  <datafield tag="500" ind1="0" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translation of:</subfield>
+    <subfield code="a">Ovid,</subfield>
+    <subfield code="d">43 B.C.-17 A.D. or 18 A.D.</subfield>
+    <subfield code="t">Ars amatoria.</subfield>
+    <subfield code="l">Latin</subfield>
+    <subfield code="s">(Ripert)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ovid. Les amours suivis de L'art d'aimer ; Les remèdes d'amour ; De la manière de soigner le visage féminin, 1941:</subfield>
+    <subfield code="b">title page (traduction nouvelle, introduction, notes et texte établis par Émile Ripert)</subfield>
+  </datafield>
+</record>
