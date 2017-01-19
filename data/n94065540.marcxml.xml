@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00678cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  94065540 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940713181009.3</controlfield>
+  <controlfield tag="008">940708n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94065540 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Ensemble élégie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Ensemble vocal élégie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Ensemble vocal féminin élégie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Feminine Ensemble Elégie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Elégie (Musical group)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alain, J. l'œuvre vocale, p1990:</subfield>
+    <subfield code="b">label (Ensemble élégie) container (Ensemble vocal élegie) program notes (Ensemble vocal féminin élégie; Feminine Ensemble Elégie; Elégie; formed 1981, 23 choristers from the Alsace region)</subfield>
+  </datafield>
+</record>
