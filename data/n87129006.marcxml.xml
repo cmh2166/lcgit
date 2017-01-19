@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  87129006 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315100207.0</controlfield>
+  <controlfield tag="008">870918n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87129006 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">-0047</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Milo, Titus Annius,</subfield>
+    <subfield code="d">-48 B.C.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Milo, Titus Annius,</subfield>
+    <subfield code="d">d. 48 B.C.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Milon, Titus Annius,</subfield>
+    <subfield code="d">-48 B.C.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dupont, F. L'affaire Milon, c1987:</subfield>
+    <subfield code="b">p. 22 (Titus Annius Milon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Encyc. Brit., 15th ed.</subfield>
+    <subfield code="b">(Milo, Titus Annius, d. 48 B.C., Roman politician)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford class. dict., 1970</subfield>
+    <subfield code="b">(Milo, Titus Annius, d. 48 B.C.; Cicero's Pro Milone written but never delivered to defend him against charge of murdering Clodius)</subfield>
+  </datafield>
+</record>
