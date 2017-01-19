@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00384nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 97043012 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970719053052.6</controlfield>
+  <controlfield tag="008">970718n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97043012 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04389011 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Boske, Jim ten</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Ten Boske, Jim</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Six preludes, guitar solo, c1980:</subfield>
+    <subfield code="b">cover (Jim ten Boske)</subfield>
+  </datafield>
+</record>
