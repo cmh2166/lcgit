@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00584cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  80123508 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100513075747.0</controlfield>
+  <controlfield tag="008">800930n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80123508 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0794047</subfield>
+    <subfield code="e">W0794047</subfield>
+    <subfield code="f">N0373138</subfield>
+    <subfield code="g">N0373138</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00504060</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-va</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Buchanan (Va.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Buchanan, Va.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Martin, J. T. Records, 1857-1905.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 37°31ʹ38ʺN 079°40ʹ47ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Virginia</subfield>
+    <subfield code="z">Buchanan</subfield>
+  </datafield>
+</record>
