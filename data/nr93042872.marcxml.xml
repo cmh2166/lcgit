@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00615cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 93042872 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001020070336.0</controlfield>
+  <controlfield tag="008">931019n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93042872 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03479470</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Giral, María Dolors</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Giral Quintana, María Dolors</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Quintana, María Dolors Giral</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Miro ceramista, 1993:</subfield>
+    <subfield code="b">p. 5 (María Dolors Giral)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in RLIN 14/10/93</subfield>
+    <subfield code="b">(hdg.: Giral, María Dolors)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ramon Carreté, ceramista, 1993:</subfield>
+    <subfield code="b">t.p. verso (María Dolors Giral Quintana)</subfield>
+  </datafield>
+</record>
