@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00489nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  94036826 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19940415092940.8</controlfield>
+  <controlfield tag="008">940415n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94036826 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Humboldt-Studienzentrum (Universität Ulm)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Universität Ulm.</subfield>
+    <subfield code="b">Humboldt-Studienzentrum</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bausteine zur Philosophie, Bd. 3. Pietsch, R. Beiträge zur Entwicklung der Philosophie ... 1992:</subfield>
+    <subfield code="b">t.p. (Humboldt-Studienzentrum, Universität Ulm)</subfield>
+  </datafield>
+</record>
