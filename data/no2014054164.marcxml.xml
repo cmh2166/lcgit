@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01260nz  a2200289n  4500</leader>
+  <controlfield tag="001">no2014054164</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140426073533.0</controlfield>
+  <controlfield tag="008">140425n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014054164</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09742757</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18380317</subfield>
+    <subfield code="g">19121106</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gaultier de la Ferrière,</subfield>
+    <subfield code="c">M.,</subfield>
+    <subfield code="d">1838-1912</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Loches (France)</subfield>
+    <subfield code="f">Rouen (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="b">Martizay (France)</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">France. Cour d'appel (Rouen)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Judges</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Lucien</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De la Ferrière,</subfield>
+    <subfield code="c">M., Gaultier,</subfield>
+    <subfield code="d">1838-1912</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">La Ferrière,</subfield>
+    <subfield code="c">M., Gaultier de,</subfield>
+    <subfield code="d">1838-1912</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ferrière,</subfield>
+    <subfield code="c">M., Gaultier de la,</subfield>
+    <subfield code="d">1838-1912</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gaultier de la Ferrière, Lucien,</subfield>
+    <subfield code="d">1838-1912</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gaultier de la Ferrière, M. Cour d'appel de Rouen, Audience solennelle de rentrée du 4 novembre 1878, 1878:</subfield>
+    <subfield code="b">title page (M. [Monsieur] Gaultier de la Ferrière)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">French Wikipedia, April 24, 2014</subfield>
+    <subfield code="b">(Lucien Gaultier de la Ferrière; born March 17, 1838 in Loches; died November 6, 1912 at the Château de Séringny (Martizay); French magistrate and political figure; affiliated with the Cour d'appel in Rouen)</subfield>
+  </datafield>
+</record>
