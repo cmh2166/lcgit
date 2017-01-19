@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01663cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2013114106</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151211085424.0</controlfield>
+  <controlfield tag="008">131016n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013114106</subfield>
+    <subfield code="z">no2010106548</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09591340</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TnLvILS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TnLvILS</subfield>
+    <subfield code="d">IEN</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19640424</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Phaal, Robert</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">17 Charles Babbage Road</subfield>
+    <subfield code="b">Cambridge</subfield>
+    <subfield code="d">United Kingdom</subfield>
+    <subfield code="e">CB3 0FS</subfield>
+    <subfield code="m">rp108@cam.ac.uk</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Technology--Management</subfield>
+    <subfield code="a">Mechanical engineering</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Technology evaluation</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Cambridge. Engineering Department</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Phaal, Rob</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Technology roadmapping for strategy and innovation, c2013 :</subfield>
+    <subfield code="b">title page (Robert Phaal, ed.) Verso (Dr. Robert Phaal, Centre for Technology Management. Institute for Manufacturing, Dept. of Engineering, University of Cambridge, Cambridge, United Kingdom.) Basics of technoloy roadmapping (U. of Cambridge, 17 Charles Babbage Road, Cambridge, CB3 0FS, United Kingdom. E-mail: rp108@cam.ac.uk) page 10 (Principal Research Associate at U. of Cambridge. He researches in strategic technology management, with particular interests in technology roadmapping and evaluation, emergence of technology-based industry and the development of practical management tools. Rob has a mechanical engineering background, with a PhD in computational mechanics, with industrial experience in technical consulting, contract research and software development.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Technology management, 2016:</subfield>
+    <subfield code="b">eCIP t.p. (Rob Phaal) data view screen (b. Friday, April 24, 1964)</subfield>
+  </datafield>
+</record>
