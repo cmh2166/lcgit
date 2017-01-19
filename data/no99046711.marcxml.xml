@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00533cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99046711 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990813144422.0</controlfield>
+  <controlfield tag="008">990630n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99046711 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05017520 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU-AV</subfield>
+    <subfield code="c">GU-AV</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bass, Michael</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NBC News Today. [1996-07-18--excerpt], TWA flight 800, 1996</subfield>
+    <subfield code="b">(name not given)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GU files (Peabody Archives), Jun. 30, 1999:</subfield>
+    <subfield code="b">1996 Peabody Awards entry form (producers, Michael Bass ... )</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">LEXIS/NEXIS, June 30, 1999</subfield>
+  </datafield>
+</record>
