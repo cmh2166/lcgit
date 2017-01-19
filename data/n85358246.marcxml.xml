@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00643cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85358246 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161222102339.0</controlfield>
+  <controlfield tag="008">860225n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85358246 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PH667.21.A33</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kadastik, M.</subfield>
+    <subfield code="q">(Mart)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kadastik, Mart</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Toome, I. Tartu--denʹ segodni︠a︡shniĭ, 1984:</subfield>
+    <subfield code="b">t.p. (M. Kadastik) colophon (Mart Kadastik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hion, E. Kes on kes Eesti politikas, 1990:</subfield>
+    <subfield code="b">p. 62 (Mart Kadastik, b. 1955)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Eesti nouk. ents.;</subfield>
+    <subfield code="a">Raamatukr., 1982. Registrid.;</subfield>
+    <subfield code="a">Tartu Riikl. Ülik. strukt. ja isikko., 1978.</subfield>
+  </datafield>
+</record>
