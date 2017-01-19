@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00736cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr2001015050</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010719033159.0</controlfield>
+  <controlfield tag="008">010425n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001015050</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+    <subfield code="d">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Watson, Catherine Wales Pond,</subfield>
+    <subfield code="d">1816-1837</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Pond, Catherine Wales,</subfield>
+    <subfield code="d">1816-1837</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Palmer, R. How to live: or The Christian daughter's model, 1839:</subfield>
+    <subfield code="b">p. 7, etc. (Catherine Wales Pond; b. Milford, Conn., January 1st, 1816; 2nd dau. of Charles H. and Catherine Pond; m. Rev. Cyrus L. Watson, a Presbyterian clergyman with the American Home Missionary Society June 13th, 1836; d. of pleurisy Apr. 1837)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Watson, Catherine Wales Pond, 1816-1837)</subfield>
+  </datafield>
+</record>
