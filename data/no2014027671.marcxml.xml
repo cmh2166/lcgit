@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01076cz  a2200217n  4500</leader>
+  <controlfield tag="001">no2014027671</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140324144348.0</controlfield>
+  <controlfield tag="008">140228n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014027671</subfield>
+    <subfield code="z">nr 90002713 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09694056</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OkU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OkU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19591211</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">André, Yves,</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Institut de Mathématiques de Jussieu</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly under undifferentiated name heading: nr 90002713</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Period mappings and differential equations, c2003:</subfield>
+    <subfield code="b">t.p. (Yves André) p. iv (research director (CNRS), Department de mathématiques et applications (groupes et géométrie), École Normale Supérieure, Paris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bib. Nat. Fr. authority file, Feb. 27, 2014:</subfield>
+    <subfield code="b">(authorized access point: André, Yves, 1959- ; born Dec. 11, 1959)</subfield>
+    <subfield code="u">http://catalogue.bnf.fr/ark:/12148/cb14450655c/PUBLIC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Institut de Mathématiques de Jussieu, Feb. 27, 2014</subfield>
+    <subfield code="b">chercheurs (Yves André)</subfield>
+    <subfield code="u">http://www.institut.math.jussieu.fr/membres/liste1.php</subfield>
+  </datafield>
+</record>
