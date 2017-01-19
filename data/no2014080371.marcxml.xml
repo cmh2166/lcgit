@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00597nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2014080371</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140612073615.0</controlfield>
+  <controlfield tag="008">140611nn azannaabn           a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014080371</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09880616</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">National Transcontinental Railway Investigating Commission</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Canada.</subfield>
+    <subfield code="b">Investigating Commission, National Transcontinental Railway</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">National Transcontinental Railway Investigating Commission (Canada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Report of the National Transcontinental Railway Investigating Commission, 1914.</subfield>
+  </datafield>
+</record>
