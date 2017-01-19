@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2001024586</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070922074933.0</controlfield>
+  <controlfield tag="008">010503n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001024586</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Abensur-Hazan, Laurence</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hazan, Laurence Abensur-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Abensur-Hazan, L.</subfield>
+    <subfield code="q">(Laurence)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Les Pontremoli, c1997:</subfield>
+    <subfield code="b">t.p. (Laurence Abensur-Hazan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeĚneĚalogistes, c2007:</subfield>
+    <subfield code="b">t.p. (L. Abensur-Hazan) p. 121 (Laurence Abensur-Hazan)</subfield>
+  </datafield>
+</record>
