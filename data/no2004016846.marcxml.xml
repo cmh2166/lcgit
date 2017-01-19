@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00634nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2004016846</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040225052244.0</controlfield>
+  <controlfield tag="008">040224n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004016846</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06279270</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ālama, Mohāmmada Śāha</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Mohāmmada Śāha Ālama</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alam, Mohammad Shah</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Mohammad Shah Alam</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Besarakāri kaleja byabasthāpanā, 2003:</subfield>
+    <subfield code="b">t.p. (Mohāmmada Śāha Ālama; B.C.S. (general ed.); P.G.D. in Computer Sc.; Inspector of Ed., Ministry of Ed., Bangladesh) t.p. verso (Mohammad Shah Alam)</subfield>
+  </datafield>
+</record>
