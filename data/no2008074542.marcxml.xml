@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01001cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2008074542</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141001073833.0</controlfield>
+  <controlfield tag="008">080517n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008074542</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07771423</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UkCU</subfield>
+    <subfield code="d">CSt</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19020224</subfield>
+    <subfield code="t">19130424</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Association des licenciés sortis de l'Université de Liège</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Liège (Belgium)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Université de Liège.</subfield>
+    <subfield code="b">Association des licenciés</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Société belge d'études et d'expansion</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le Katanga, 1911:</subfield>
+    <subfield code="b">cover (Association des licenciés sortis de l'Université de Liège)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bulletin trimestriel, oct. 1909:</subfield>
+    <subfield code="b">title page (Association des licenciés sortis de l'Université de Liége; constituée le 24 février 1902) label affixed to p. 2 of cover (depuis le 25 avril 1913 l'Association des licenciés sortis de l'Université de Liége a pris le titre de Société belge d'études &amp; d'expansion)</subfield>
+  </datafield>
+</record>
