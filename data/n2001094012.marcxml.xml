@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00487cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2001094012</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020425142127.0</controlfield>
+  <controlfield tag="008">011210n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2001094012</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PB1648.W3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Watt, Eilidh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Watt, Eilidh. Gun fhois, 1987:</subfield>
+    <subfield code="b">t.p. (Eilidh Watt) cover p. 4 (born in 1908, on the Isle of Skye, Scotland; her maiden name was NicAsgaill; was a school teacher in Tarbert (Harris), Portree (Skye), and Fife)</subfield>
+  </datafield>
+</record>
