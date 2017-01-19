@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00821cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr2002002502</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081107081629.0</controlfield>
+  <controlfield tag="008">020116n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002002502</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05670017</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PL992.415.C4824</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kim, Chin-sŏng,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김 진성,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">김진성,</subfield>
+    <subfield code="d">1940-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chʻŏt kisŭk esŏ, 1987- :</subfield>
+    <subfield code="b">v. 2, cover (Kim Chin-sŏng) colophon (Kŭmsŏng Chʻŏngnyŏn Chʻulpʻansa Munhak Chʻangjaksil chakka; resident of North Korea)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yŏksa e mutta, &lt;2000-   &gt;:</subfield>
+    <subfield code="b">v. 2, t.p. (Kim Chin-sŏng) p. 1(b. 1940 in Onsŏng-gun Namyang)</subfield>
+  </datafield>
+</record>
