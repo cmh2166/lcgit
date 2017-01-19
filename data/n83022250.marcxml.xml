@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00591cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  83022250 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041130135734.0</controlfield>
+  <controlfield tag="008">830317n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83022250 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Iran.</subfield>
+    <subfield code="t">Qānūn-i Asāsī (1979).</subfield>
+    <subfield code="l">Arabic</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Iran.</subfield>
+    <subfield code="t">Dustūr al-Islāmī (1979)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Iran.</subfield>
+    <subfield code="t">Dustūr al-Jumhūrīyah al-Islāmīyah al-Īrānīyah (1979)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its al-Dustūr al-Islāmī li-Jumhūrīyat Īrān al-Islām., 1980?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dustūr al-Jumhūrīyah al-Islāmīyah al-Īrānīyah, 1985.</subfield>
+  </datafield>
+</record>
