@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00552nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2009079226</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091214073144.0</controlfield>
+  <controlfield tag="008">091211n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009079226</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hyōgo-ken Bengoshikai.</subfield>
+    <subfield code="b">Shōhisha Hogo Iinkai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">兵庫県弁護士会.</subfield>
+    <subfield code="b">消費者保護委員会</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Q &amp; A ryokō toraburu 110-ban, 2009:</subfield>
+    <subfield code="b">t.p. (兵庫県弁護士会消費者保護委員会 = Hyōgo-ken Bengoshikai Shōhisha Hogo Iinkai)</subfield>
+  </datafield>
+</record>
