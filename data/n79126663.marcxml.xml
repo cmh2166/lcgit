@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00934cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  79126663 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316080142.0</controlfield>
+  <controlfield tag="008">791106n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79126663 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00358202</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Maryland, College Park.</subfield>
+    <subfield code="b">Center of Rehabilitation and Manpower Services</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">Maryland.</subfield>
+    <subfield code="b">University.</subfield>
+    <subfield code="b">Center of Rehabilitation and Manpower Services.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Maryland, College Park.</subfield>
+    <subfield code="b">Industrial Education Department.</subfield>
+    <subfield code="b">Center of Rehabilitation and Manpower Services</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">University of Maryland, College Park.</subfield>
+    <subfield code="b">Industrial Education Department</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Strategies for increasing career education and opportunities, c1979 (a.e.)</subfield>
+    <subfield code="b">t.p. (Center of Rehabilitation and Manpower Services, Department of Industrial Education, College of Education, University of Maryland)</subfield>
+  </datafield>
+</record>
