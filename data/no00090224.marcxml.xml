@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00655cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 00090224 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080105075010.0</controlfield>
+  <controlfield tag="008">001103n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00090224 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05348495</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MNS-J</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MNS-J</subfield>
+    <subfield code="d">OOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Stanford, Charles Villiers,</subfield>
+    <subfield code="d">1852-1924.</subfield>
+    <subfield code="t">Child's garland of songs.</subfield>
+    <subfield code="p">Windy nights</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Stanford, Charles Villiers,</subfield>
+    <subfield code="d">1852-1924.</subfield>
+    <subfield code="t">Windy nights</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stanford, C.V. Songs. 2 [SR] p2000:</subfield>
+    <subfield code="b">container (Windy nights : op. 30, no. 4)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Music review, May 1936:</subfield>
+    <subfield code="b">p. 122 (Songs with pianoforte: op. 30. A child's garland of songs (R.L. Stevenson). 4. Windy nights)</subfield>
+  </datafield>
+</record>
