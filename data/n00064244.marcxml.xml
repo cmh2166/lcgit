@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00764cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  00064244 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319155006.0</controlfield>
+  <controlfield tag="008">000606n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  00064244 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1696</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tollius, Jacobus,</subfield>
+    <subfield code="d">-1696</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tol, Jacques,</subfield>
+    <subfield code="d">-1696</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Tollius, Jacobus,</subfield>
+    <subfield code="d">d. 1696</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tollius, Jakob,</subfield>
+    <subfield code="d">-1696</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tollius, Jacobus. Jacobi Tollii Epistolae itinerariae, 1700:</subfield>
+    <subfield code="b">t.p. (Jacobi Tollii)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">JoĚcher</subfield>
+    <subfield code="b">(Tollius, Jac. ; starbe zu Utrecht 1696)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-1962</subfield>
+    <subfield code="b">12 entries--11 in Latin, 1 in French! (Tollius, Jakob; dates 1630?-1696 or d. 1696)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le chemin du ciel chymique, 1688:</subfield>
+    <subfield code="b">t.p. (Jacques Tol)</subfield>
+  </datafield>
+</record>
