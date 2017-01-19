@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00593cz  a2200169n  4500</leader>
+  <controlfield tag="001">nb2001003951</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010202053141.0</controlfield>
+  <controlfield tag="008">010125n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2001003951</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Caffrey, H. C.</subfield>
+    <subfield code="q">(Helen Claire)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Caffrey, Helen Claire</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hatting in Denton, 1976:</subfield>
+    <subfield code="b">t.p. (H.C. Caffrey)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL H&amp;SS, 25 Jan. 2001</subfield>
+    <subfield code="b">(hdg.: Caffrey, Helen Claire)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rochdale voices, 2000</subfield>
+    <subfield code="b">t.p. (Helen Caffrey) BL AL sent 23 Jan. 2001</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL AL recd. 1 Feb. 2001</subfield>
+    <subfield code="b">(Helen Claire Caffrey, born 25 Dec. 1948)</subfield>
+  </datafield>
+</record>
