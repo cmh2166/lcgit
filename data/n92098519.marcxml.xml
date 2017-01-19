@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  92098519 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19921002123200.8</controlfield>
+  <controlfield tag="008">921002n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92098519 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">New Roles in Society Program (American Association of Retired Persons)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">American Association of Retired Persons.</subfield>
+    <subfield code="b">New Roles in Society Program</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Resourceful aging, c1991- :</subfield>
+    <subfield code="b">v. 1, t.p. (New Roles in Society Program, American Association of Retired Persons)</subfield>
+  </datafield>
+</record>
