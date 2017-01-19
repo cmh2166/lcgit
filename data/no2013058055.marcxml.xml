@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00899nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2013058055</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130531075501.0</controlfield>
+  <controlfield tag="008">130529n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013058055</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09483423</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">16</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">ʻAbd al-Bāqī ibn Ḥusayn,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ara</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ibn Ḥusayn, ʻAbd al-Bāqī,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">عبد الباقي بن حسين،</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ابن حسين، عبد الباقي،</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Majmūʻ fīhi rasāʼil al-imtiḥān min al-Muṭawwal, 1686:</subfield>
+    <subfield code="b">fol. 22b (ʻAbd al-Bāqī ibn Ḥusayn; was writing in 1097 H = عبد الباقي بن حسين)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Ziriklī;</subfield>
+    <subfield code="a">Brockelmann;</subfield>
+    <subfield code="a">Kaḥḥālah</subfield>
+  </datafield>
+</record>
