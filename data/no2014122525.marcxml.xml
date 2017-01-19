@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00982nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2014122525</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140918073502.0</controlfield>
+  <controlfield tag="008">140917n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014122525</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09963030</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jennings, Dave</subfield>
+    <subfield code="q">(David Kenneth)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Taxation</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Grant Thornton LLP</subfield>
+    <subfield code="a">Mazars (Firm)</subfield>
+    <subfield code="a">Great Britain. HM Revenue &amp; Customs</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Auditors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">David Kenneth</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jennings, David Kenneth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chidell, Ray. Employee benefits &amp; expenses. Volume 2, Major benefits, 2014:</subfield>
+    <subfield code="b">title page (Dave Jennings) page vii (Dave Jennings CTA; worked at HMRC for over 20 years; qualified tax inspector, latterly a PAYE and NIC specialist; joined Grant Thornton in 2006 and later joined Mazars LLP)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from author, Sept. 9, 2014</subfield>
+    <subfield code="b">(David Kenneth Jennings; declined to give DOB; this his first book)</subfield>
+  </datafield>
+</record>
