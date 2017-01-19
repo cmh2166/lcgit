@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00524cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009017203</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090210075104.0</controlfield>
+  <controlfield tag="008">090204n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009017203</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08005441</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-I</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU-I</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ueno, Akio,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">上野明雄,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Watashi no sengo shuppanshi, 2008:</subfield>
+    <subfield code="b">t.p. (上野明雄=Ueno Akio) p. [354] (r; b. 1943; ret. from Shōgakkan; literary critic)</subfield>
+  </datafield>
+</record>
