@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00518nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015072845</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150603073610.0</controlfield>
+  <controlfield tag="008">150602n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015072845</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10181629</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zuleta, José</subfield>
+    <subfield code="q">(Zuleta Ortiz),</subfield>
+    <subfield code="d">1960-</subfield>
+    <subfield code="t">Short stories.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Zuleta, José</subfield>
+    <subfield code="q">(Zuleta Ortiz),</subfield>
+    <subfield code="d">1960-</subfield>
+    <subfield code="t">Ladrón de olvidos y otros relatos</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zuleta, José. Ladrón de olvidos y otros relatos, 2014.</subfield>
+  </datafield>
+</record>
