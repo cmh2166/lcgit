@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00797cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2011035486</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110527074919.0</controlfield>
+  <controlfield tag="008">110526n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2011035486</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pinianski, Patricia</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Rosemoor, Patricia</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Griffith, Roslyn</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Lindsey, Patrice</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Patrick, Lynn</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Rose, Jeanne</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">For works of this author written in collaboration with Linda Sweeney, search also under:</subfield>
+    <subfield code="b">Griffith, Roslyn,</subfield>
+    <subfield code="b">Lindsey, Patrice,</subfield>
+    <subfield code="b">Patrick, Lynn,</subfield>
+    <subfield code="b">Rose, Jeanne</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pretty birds of passage, 1993:</subfield>
+    <subfield code="b">t.p. (Roslyn Griffith) t.p. verso (Patricia Pinianski)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Patricia Rosemoor Web site, 2011-05-26</subfield>
+    <subfield code="b">copyright (Patricia Pinianski)</subfield>
+  </datafield>
+</record>
