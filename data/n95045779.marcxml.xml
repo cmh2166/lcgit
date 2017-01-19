@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00781cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  95045779 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010120070236.0</controlfield>
+  <controlfield tag="008">950509n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  95045779 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03833150</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Juventudes Socialistas Unificadas</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">JSU</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Federación de Juventudes Socialistas Unificadas de España</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">JSU de España</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fernández Soria, J.M. Juventud, ideología y educación, c1992:</subfield>
+    <subfield code="b">t.p. (Juventudes Socialistas Unificadas) p. 5 (Juventudes Socialistas Unificadas (de Cataluña); JSU)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, 1/19/2001: Nuestro periódico mural, 193-?:</subfield>
+    <subfield code="b">(hdg.: Federación de Juventudes Socialistas Unificadas de España) cover (JSU de España)</subfield>
+  </datafield>
+</record>
