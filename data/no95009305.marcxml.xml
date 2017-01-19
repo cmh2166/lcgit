@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01036cz  a2200229n  4500</leader>
+  <controlfield tag="001">no 95009305 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160826075439.0</controlfield>
+  <controlfield tag="008">950228n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 95009305 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03781069</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">Trio sonatas,</subfield>
+    <subfield code="m">oboe, viol, continuo,</subfield>
+    <subfield code="n">TWV 42:g6,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Chamber music</subfield>
+    <subfield code="2">lcgft</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">oboe</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">viol</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">continuo</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="c">TWV 42:g6</subfield>
+    <subfield code="d">Ruhnke</subfield>
+    <subfield code="2">mlati</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">G minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">Trio sonatas,</subfield>
+    <subfield code="n">no. 22,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">Trio sonatas,</subfield>
+    <subfield code="m">oboe, violin, continuo,</subfield>
+    <subfield code="n">TWV 42:g6,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Telemann, Georg Philipp,</subfield>
+    <subfield code="d">1681-1767.</subfield>
+    <subfield code="t">Trio sonatas,</subfield>
+    <subfield code="m">violins, continuo,</subfield>
+    <subfield code="n">TWV 42:g6,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Telemann, G.P. 22. Triosonate in g-Moll fuĚr Violine, Oboe (Violine) und Basso continuo, 1994.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">TWV:</subfield>
+    <subfield code="b">Bd. 2 (42:g6, Sonate g-Moll fuĚr Oboe, Diskantgambe und Gb.)</subfield>
+  </datafield>
+</record>
