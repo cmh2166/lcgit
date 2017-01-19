@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00712cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2004098441</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080811163611.0</controlfield>
+  <controlfield tag="008">041012n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004098441</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06466244</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PJ5055.22.E415</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gelbetz, Tamar,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Gelbets, Tamar,</subfield>
+    <subfield code="d">1957-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">גלבץ, תמר,</subfield>
+    <subfield code="d">1957־</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">תמר גלבץ,</subfield>
+    <subfield code="d">1957־</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">At bi-teḳufah ṭovah, 2004:</subfield>
+    <subfield code="b">t.p. (Tamar Gelbets) t.p. verso (Tamar Gelbetz [in rom.]) p. 4 of cover ( b. 1957; journalist)</subfield>
+  </datafield>
+</record>
