@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00478cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  85239030 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050203094632.0</controlfield>
+  <controlfield tag="008">851016n| acannaab           |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85239030 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wendell, John L.</subfield>
+    <subfield code="q">(John Lansing),</subfield>
+    <subfield code="d">1785-1861</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Blackstone, W. Commentaries on the laws of England, 1857:</subfield>
+    <subfield code="b">t.p. (John L. Wendell, late State Reporter of New York)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L/NLT files</subfield>
+    <subfield code="b">(hdg.: Wendell, John Lansing, 1785-1861)</subfield>
+  </datafield>
+</record>
