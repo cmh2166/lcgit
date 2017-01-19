@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00522nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85076455 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19850918155713.6</controlfield>
+  <controlfield tag="008">850724n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85076455 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Saunders, John R.</subfield>
+    <subfield code="q">(John Richard)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Saunders, John Richard</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 67-20112: Animal babies. From all over the world they come, 1967, c1960</subfield>
+    <subfield code="b">(hdg.: Saunders, John Richard; usage: John R. Saunders)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 7-23-85</subfield>
+    <subfield code="b">(hdg.: Saunders, John Richard)</subfield>
+  </datafield>
+</record>
