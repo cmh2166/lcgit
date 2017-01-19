@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00788cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2010000767</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141219115130.0</controlfield>
+  <controlfield tag="008">100106n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010000767</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hill, Alfred,</subfield>
+    <subfield code="d">1869-1960.</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">violins (2), viola, cello,</subfield>
+    <subfield code="n">no. 9,</subfield>
+    <subfield code="r">A minor;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Hill, Alfred,</subfield>
+    <subfield code="d">1869-1960.</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">strings,</subfield>
+    <subfield code="n">no. 9,</subfield>
+    <subfield code="r">A minor;</subfield>
+    <subfield code="o">arr.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Hill, Alfred,</subfield>
+    <subfield code="d">1869-1960.</subfield>
+    <subfield code="t">Quartets,</subfield>
+    <subfield code="m">strings,</subfield>
+    <subfield code="n">no. 9,</subfield>
+    <subfield code="r">A minor;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hill, Alfred,</subfield>
+    <subfield code="d">1869-1960.</subfield>
+    <subfield code="t">Symphonies,</subfield>
+    <subfield code="m">string orchestra,</subfield>
+    <subfield code="n">no. 13,</subfield>
+    <subfield code="r">A minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hill, Alfred. Symphony no. 13 in A minor for strings [SR] 1975:</subfield>
+    <subfield code="b">container (transcription of String quartet no. 9 in A minor; after 1950)</subfield>
+  </datafield>
+</record>
