@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00464nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2013057198</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130912214930.0</controlfield>
+  <controlfield tag="008">130912n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013057198</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Convegno di studi "Spoleto e l'unità: uomini, idee e immagini"</subfield>
+    <subfield code="d">(2010 :</subfield>
+    <subfield code="c">Spoleto, Italy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spoleto e l'unità, 2012:</subfield>
+    <subfield code="b">p. v (Convegno di studi "Spoleto e l'unità: uomini, idee e immagini;" il 18 settembre, a Spoleto)</subfield>
+  </datafield>
+</record>
