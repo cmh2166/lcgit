@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00622cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85303031 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030326081128.0</controlfield>
+  <controlfield tag="008">860626n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85303031 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PG3476.P557</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Podobedov, Maksim,</subfield>
+    <subfield code="d">1897-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Podobedov, Maksim Mikhailovich,</subfield>
+    <subfield code="d">1897-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Podobedov, M.</subfield>
+    <subfield code="q">(Maksim),</subfield>
+    <subfield code="d">1897-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Torzhestvo, 1935:</subfield>
+    <subfield code="b">t.p. (M. Podobedov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN data base, 5/27/86</subfield>
+    <subfield code="b">(hdg.: Podobedov, Maksim Mikhailovich, 1897- )</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 6-25-86</subfield>
+    <subfield code="b">(MLC hdg.: Podobedov, Maksim; usage: Maksim Podobedov)</subfield>
+  </datafield>
+</record>
