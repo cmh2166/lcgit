@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00726nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2014103968</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140807073550.0</controlfield>
+  <controlfield tag="008">140806n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014103968</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09927903</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-A</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CU-A</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schiaffino, Pedro Miguel</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Peru</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Cooking, Peruvian</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Gastronomy--Peru</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Cooks</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Schiaffino, Pedro Miguel. Paiche, 2011:</subfield>
+    <subfield code="b">title page (Pedro Miguel Schiaffino) page 67 ("... two of Peru's top chefs: Pedro Miguel Schiaffino and Marilu MaduenĚo ...")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, August 6, 2014</subfield>
+    <subfield code="b">(hdg.: Schiaffino, Pedro Miguel; usage: Pedro Miguel Schiaffino)</subfield>
+  </datafield>
+</record>
