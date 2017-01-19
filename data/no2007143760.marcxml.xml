@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00771cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2007182954</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080130075529.0</controlfield>
+  <controlfield tag="008">070702n| acaabaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007182954</subfield>
+    <subfield code="z">no2007143760</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07453209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNLM</subfield>
+    <subfield code="d">NjBlaOCU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Direct diagnosis in radiology</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Dx-direct</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Stuttgart</subfield>
+    <subfield code="a">New York</subfield>
+    <subfield code="b">Thieme</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DNLM</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DNLM</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Head and neck imaging, c2007:</subfield>
+    <subfield code="b">E-CIP t.p. (Direct diagnosis in radiology) ser. t.p. (Dx-direct! [informal]) book t.p. (Direct diagnosis in radiology)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from publisher, Nov. 28, 2007</subfield>
+    <subfield code="b">(official series title: Direct diagnosis in radiology; shorthand title: Dx-direct)</subfield>
+  </datafield>
+</record>
