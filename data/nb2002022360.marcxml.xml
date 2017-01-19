@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00339nz  a2200133n  4500</leader>
+  <controlfield tag="001">nb2002022360</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020301064024.0</controlfield>
+  <controlfield tag="008">020221n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2002022360</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Thorn, Kathleen</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rattlebones, 1938</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL database, 21 Feb. 2002</subfield>
+    <subfield code="b">(hdg.: Thorn, Kathleen)</subfield>
+  </datafield>
+</record>
