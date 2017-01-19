@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00934cz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2002027292</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519074909.0</controlfield>
+  <controlfield tag="008">020305n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002027292</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0090700</subfield>
+    <subfield code="e">E0090700</subfield>
+    <subfield code="f">N0510500</subfield>
+    <subfield code="g">N0510500</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05705559</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Braunau (Bad Wildungen, Germany)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bad Wildungen (Germany).</subfield>
+    <subfield code="b">Braunau</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Braunau, 1996:</subfield>
+    <subfield code="b">t.p. (Braunau)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet names server, 03-05-02</subfield>
+    <subfield code="b">(Braunau; coordinates: 51°05ʹN 09°07ʹE; located in the state of Hesse)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Deut. Bund.-Adressb., 1995/96</subfield>
+    <subfield code="b">(Braunau listed as a section of Bad Wildungen, Reg.-Bz. Kassel, Landkr. Waldeck-Frankenberg)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 51°05ʹ00ʺN 009°07ʹ00ʺE)</subfield>
+  </datafield>
+</record>
