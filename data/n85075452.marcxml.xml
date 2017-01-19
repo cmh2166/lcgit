@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01155cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85075452 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120811081857.0</controlfield>
+  <controlfield tag="008">850905n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85075452 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Conference on Outdoor Recreation</subfield>
+    <subfield code="d">(1984 :</subfield>
+    <subfield code="c">Bozeman, Mont.)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">National Conference on Outdoor Recreation (Conference)</subfield>
+    <subfield code="n">(1st :</subfield>
+    <subfield code="d">1984 :</subfield>
+    <subfield code="c">Bozeman, Mont.)</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">National Conference on Outdoor Recreation (Conference)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Proceedings of the 1984 Conference on Outdoor Recreation, 1985:</subfield>
+    <subfield code="b">p. i (National Conference on Outdoor Recreation) p. iii (held 11/1-4/84 in Bozeman [Mont.])</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">National Conference on Outdoor Recreation (4th : 1990 : Appalachian State University). Proceedings ... 1991: t.p. (1990 National Conference on Outdoor Recreation, Appalachian State University) p. iii (The fourth gathering of those interested ... originated in 1984 at Montana State Univ. ... progressed in 1986 at the Univ. of Calif. at Davis ... and then to Colorado State Univ. in 1988)</subfield>
+  </datafield>
+</record>
