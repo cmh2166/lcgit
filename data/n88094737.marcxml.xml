@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00368nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  88094737 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19881102152538.8</controlfield>
+  <controlfield tag="008">881017n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88094737 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">ReĚbora, Betini,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Por favor no asusten, 1983:</subfield>
+    <subfield code="b">p. 4, etc. (Betini ReĚbora, b. Guadalajara, 1963, painter, engraver)</subfield>
+  </datafield>
+</record>
