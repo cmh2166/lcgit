@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00667cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98062975 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100408134801.0</controlfield>
+  <controlfield tag="008">980714n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98062975 </subfield>
+    <subfield code="z">n  98084517 </subfield>
+    <subfield code="z">nb2003087456</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harper, Judith E.,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harper, Judith R.,</subfield>
+    <subfield code="d">1953-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Inuit, 1999: CIP</subfield>
+    <subfield code="b">t.p. (Judith E. Harper) data sheet (b. 1953); book t.p. (as reported by correspondent to CPSO): (Judith R. [sic] Harper)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Smart Apple Media, 12-02-99: (Judith R. [sic] Harper on t.p. of Inuit is a typo.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Women during the Civil War, 2004:</subfield>
+    <subfield code="b">t.p. (Judith E. Harper)</subfield>
+  </datafield>
+</record>
