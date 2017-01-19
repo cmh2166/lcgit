@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01186cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  84000348 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141209064428.0</controlfield>
+  <controlfield tag="008">840914nc acannaabn          |b aba     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84000348 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01180822</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NcD</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Song, Jiayu</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Song, Jia-yu</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Sung, Chia-yü</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">宋家鈺</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">宋家钰</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS UNDIFFERENTIATED RECORD HAS BEEN HANDLED FOLLOWING THE GUIDELINES IN DCM Z1 008/32</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Author of Tʻang tai fo chiao yü Tʻang tai she hui]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Tʻang tai fo chiao yü Tʻang tai she hui, 1978:</subfield>
+    <subfield code="b">cover (Sung Chia-yü; Song Jia-yu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">[Author of Non-uniform Fast Fourier transform (NUFFT) and its applications in medical image reconstructions]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Non-uniform Fast Fourier transform (NUFFT) and its applications in medical image reconstructions, 2005:</subfield>
+    <subfield code="b">t.p. (Jaiyu Song, M.S. in Biomedical Engineering, Duke Univ.)</subfield>
+  </datafield>
+</record>
