@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00655nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2007028992</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070317075134.0</controlfield>
+  <controlfield tag="008">070315n| acaaaaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007028992</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07355769</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC-EA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NNC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">MAU raiburarī</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Musashino Bijutsu Daigaku.</subfield>
+    <subfield code="t">MAU raiburarī</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Musashino Bijutsu Daigaku.</subfield>
+    <subfield code="t">Raiburarī</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">003</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Tōkyō-to Musashino-shi</subfield>
+    <subfield code="b">Musashino Bijutsu Daigaku Shuppankyoku</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">NNC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gendai geijutsu no higan, 2005:</subfield>
+    <subfield code="b">t.p. (MAU raiburarī)</subfield>
+  </datafield>
+</record>
