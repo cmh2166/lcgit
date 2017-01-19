@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01111cz  a2200229n  4500</leader>
+  <controlfield tag="001">n  90669125 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060721052102.0</controlfield>
+  <controlfield tag="008">900713n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90669125 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02779562</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">SG-SiILA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Choudhury, B.</subfield>
+    <subfield code="q">(Bishwajit),</subfield>
+    <subfield code="d">1926-2000</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Choudhury, Bishwajit,</subfield>
+    <subfield code="d">1926-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cauturi, Pi.</subfield>
+    <subfield code="q">(Pis味vajit),</subfield>
+    <subfield code="d">1926-2000</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Cauturi, Pis味vajit,</subfield>
+    <subfield code="d">1926-2000</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Pis味vajit Cauturi,</subfield>
+    <subfield code="d">1926-2000</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Bishwajit Choudhury,</subfield>
+    <subfield code="d">1926-2000</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc90-33163: Ornamental horticulture in India, 1986</subfield>
+    <subfield code="b">(hdg. on DNAL rept.: Choudhury, Bishwajit, 1926- ; usage: B. Choudhury)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 07-13-90</subfield>
+    <subfield code="b">(hdg.: Choudhury, Bishwajit, 1926- ; usage: B. Choudhury)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SILAS, May 5, 2006</subfield>
+    <subfield code="b">(hdg.: Choudhury, B. (Bishwajit), 1926-2000; usages: Pi. Cauturi; Pis味vajit Cauturi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Indian National Academy of Agri. Sc. (NAAS) WWW home page, May 5, 2006</subfield>
+    <subfield code="b">(Bishwajit Choudhury; b. 1926; d. Dec. 2000; Fellowship, NAAS; specialised in vegetable crop improvement)</subfield>
+  </datafield>
+</record>
