@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00540cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  86108135 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080613075739.0</controlfield>
+  <controlfield tag="008">860807n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86108135 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01674953</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Anglican Church of Canada.</subfield>
+    <subfield code="b">Committee of Ten</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chalmers, R.C. The study guide, 1966:</subfield>
+    <subfield code="b">p. 60 (the Committees of Ten; the Anglican Church of Canada; the United Church of Canada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLC, 7-17-86</subfield>
+    <subfield code="b">(AACR 2: Anglican Church of Canada. Committee of Ten)</subfield>
+  </datafield>
+</record>
