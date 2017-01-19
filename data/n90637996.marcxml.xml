@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00472cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90637996 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990422052825.4</controlfield>
+  <controlfield tag="008">900430n| acannaab|          |n aad |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90637996 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02732077 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Devos, Lydia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc90-27624: Her Les deux maisons de Désiré Raton, c1982</subfield>
+    <subfield code="b">(hdg. on NNFI rept.: Devos, Lydia; usage: Lydia Devos)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La femme dérangée, c1996:</subfield>
+    <subfield code="b">t.p. (Lydia Devos)</subfield>
+  </datafield>
+</record>
