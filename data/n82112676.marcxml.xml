@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00416cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  82112676 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040710033155.0</controlfield>
+  <controlfield tag="008">820819n| acannaab|          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82112676 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">PU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schlundt, Rainer</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His "Und hat sich das ertz wol erzaiget", c1982:</subfield>
+    <subfield code="b">t.p. (Rainer Schlundt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lebendige MaĚrchen- und Sagenwelt, c2003</subfield>
+    <subfield code="b">p. 4 of cover (b. 1947)</subfield>
+  </datafield>
+</record>
