@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00661nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004098277</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041013052556.0</controlfield>
+  <controlfield tag="008">041012n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004098277</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06466080</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">VtMiM-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">VtMiM-Mu</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Oriki TabalaĚ (Musical group)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Sexteto Monasito di Benkos</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Palenque de San Basilio [SR] p2004:</subfield>
+    <subfield code="b">container (Oriki TabalaĚ) booklet (founded by Sebastian Salgado at a dance and music school in Palenque, Colombia, in the late 1980s; performs bullerengue, cumbia and chalupa music; same group also performs sexteto music under the name Sexteto Monasito di Benkos)</subfield>
+  </datafield>
+</record>
