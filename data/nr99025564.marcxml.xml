@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00477nz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 99025564 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990820130259.0</controlfield>
+  <controlfield tag="008">990811n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 99025564 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Earle, E. Haworth</subfield>
+    <subfield code="q">(Ernest Haworth)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Earle, Ernest Haworth</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Griselda: a poetic drama, 1916:</subfield>
+    <subfield code="b">t.p. (E. Haworth Earle)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 8/11/99</subfield>
+    <subfield code="b">(hdgs.: Earle, Ernest Haworth; Earle, E. Haworth; usage: E. Haworth Earle)</subfield>
+  </datafield>
+</record>
