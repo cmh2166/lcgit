@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00456nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 92005590 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920228173721.8</controlfield>
+  <controlfield tag="008">920227n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92005590 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lim, B. S.</subfield>
+    <subfield code="q">(Beng Siong)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lim, Beng Siong</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Int. Conf. on Computer Integrated Manufacturing (1991 : Singapore). Proceedings of the International Conference ... c1991:</subfield>
+    <subfield code="b">t.p. (B.S. Lim) p. vii (Lim Beng Siong)</subfield>
+  </datafield>
+</record>
