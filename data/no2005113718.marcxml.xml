@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01697cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2005113718</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130323091525.0</controlfield>
+  <controlfield tag="008">051201n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005113718</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06795366</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Wa</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Wa</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Department of Financial Institutions.</subfield>
+    <subfield code="b">Division of Securities</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Department of Financial Institutions.</subfield>
+    <subfield code="b">Securities Division</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Dept. of Financial Institutions.</subfield>
+    <subfield code="b">Division of Securities</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Department of Financial Institutions</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Investing for the golden years, [2002?]:</subfield>
+    <subfield code="b">cover (Washington State, Department of Financial Institutions, Securities Division) p. [4] of cover (Washington State, Department of Financial Institutions, Securities Division; Olympia, WA)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Division's Internet website, Dec. 1, 2005</subfield>
+    <subfield code="b">about (Washington State, Department of Financial Institutions, Division of Securities; Washington State Department of Financial Institutions, Securities Division; est. early 1930s; administers Securities Act (RCW 21.20), Franchise Investment Protection Act (RCW 19.100), Business Opportunity Fraud Act (RCW 19.110), Commodities Act (RCW 21.30), &amp; Escrow Agent Registration Act (RCW 18.44); primary mission to protect Washington State residents from dishonest or fraudulent practices by people selling investments and by people delivering escrow services); contact (Olympia, WA [mailing address], Tumwater, WA [physical location])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to Division</subfield>
+    <subfield code="b">("official" name Division of Securities; both used interchangeably)</subfield>
+  </datafield>
+</record>
