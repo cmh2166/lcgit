@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00655cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  85388564 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080423075358.0</controlfield>
+  <controlfield tag="008">860225n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85388564 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01563050</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NmU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">IFIP WG 2.6</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">International Federation for Information Processing.</subfield>
+    <subfield code="b">WG 2.6</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">IFIP 2.6</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IFIP WG 2.6 Working Conference on Data Semantics (1985 : Hasselt, Belgium). Data semantics, 1986:</subfield>
+    <subfield code="b">CIP t.p. (IFIP WG 2.6) pref. (International Federation for Information Processing (IFIP))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Visual database systems 3, 1995:</subfield>
+    <subfield code="b">t.p (IFIP 2.6)</subfield>
+  </datafield>
+</record>
