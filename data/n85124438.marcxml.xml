@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00874cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  85124438 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100516080747.0</controlfield>
+  <controlfield tag="008">851004n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85124438 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0085900</subfield>
+    <subfield code="e">E0085900</subfield>
+    <subfield code="f">N0510600</subfield>
+    <subfield code="g">N0510600</subfield>
+    <subfield code="2">other</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01416072</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-gx---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Frebershausen (Bad Wildungen, Germany)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Bad Wildungen (Germany).</subfield>
+    <subfield code="b">Frebershausen</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hochgrebe, H. Frebershausen, 1979.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN 9-12-85</subfield>
+    <subfield code="b">(Frebershausen, W. Ger., ppl. 51°6ʹN, 8°59ʹE; located in Hessen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Müllers gross. dt. Ortsb., 1982/83</subfield>
+    <subfield code="b">(Frebershausen; Stadtt. of Bad Wildungen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Dt. Bundes-Adressb., 1983/84</subfield>
+    <subfield code="b">(under Bad Wildungen: Frebershausen)</subfield>
+  </datafield>
+</record>
