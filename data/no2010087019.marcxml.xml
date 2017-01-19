@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2010087019</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100528075432.0</controlfield>
+  <controlfield tag="008">100526n| acaabaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010087019</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08507996</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">America's natural places</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Santa Barbara, Calif.</subfield>
+    <subfield code="b">Greenwood Press/ABC-CLIO</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">OC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">OC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">OC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Midwest, c2010:</subfield>
+    <subfield code="b">ser. t.p. (America's natural places; other titles: East and Northeast, Pacific and West, Rocky Mountains and Great Plains, South and Southeast)</subfield>
+  </datafield>
+</record>
