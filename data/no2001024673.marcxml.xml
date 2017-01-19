@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00733cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2001024673</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060110033126.0</controlfield>
+  <controlfield tag="008">010328n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001024673</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05449996</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FU</subfield>
+    <subfield code="d">CtY</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tarrés, Josep</subfield>
+    <subfield code="q">(Tarrés Fontàn)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tarrés Fontàn, Josep</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fontàn, Josep Tarrés</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tarrés i Fontàn, Josep</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fontàn, Josep Tarrés i</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ezra ben Solomon, of Gerona. Comentario sobre el Cantar de los Cantares, 1998:</subfield>
+    <subfield code="b">t.p. (Josep Tarrés) p. 9 (Josep Tarrés Fontàn)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El llibre del corpus, 1990:</subfield>
+    <subfield code="b">t.p. (Josep Tarrés) jkt. (Josep Tarrés i Fontan; b. 1929 in Girona)</subfield>
+  </datafield>
+</record>
