@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00508nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014167942</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141220073641.0</controlfield>
+  <controlfield tag="008">141219n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014167942</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10046073</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiFliG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MiFliG</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rudy, D. D.</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">E. I. du Pont de Nemours and Company, Incorporated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Permeation of refrigerants through elastomeric and plastic hoses, 1971:</subfield>
+    <subfield code="b">cover (D.D. Rudy, E. I. du Pont de Nemours and Company, Incorporated)</subfield>
+  </datafield>
+</record>
