@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00418nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003067666</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030710052245.0</controlfield>
+  <controlfield tag="008">030709n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003067666</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06095192</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">RPB-NP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">RPB-NP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Naciri, Jalil</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hexagone, c1994:</subfield>
+    <subfield code="b">cast credits (Jalil Naciri)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, July 9, 2003</subfield>
+    <subfield code="b">(Jalil Naciri; actor)</subfield>
+  </datafield>
+</record>
