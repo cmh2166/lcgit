@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01013cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  93003058 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19931210104949.0</controlfield>
+  <controlfield tag="008">930113n| acannaab|          |a anc      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93003058 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Basílica (Escorial)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Escorial Basilica</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Real Basílica del Monasterio de El Escorial</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mulcahy, R. The decoration of the Escorial Basilica, 1994.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spain, 1985:</subfield>
+    <subfield code="b">p. 550-554 (under San Lorenzo del Escorial: the Escorial complex serves as church, monastery, palace, mausoleum, library and museum; the basilica, full of ornate artwork as well as the tombs of Charles V and Philip II, is just inside the Escorial main entrance)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Madrid, 1982:</subfield>
+    <subfield code="b">v. 2, p. 190 (under San Lorenzo de El Escorial: la basílica)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chueca Goitia, F. El Escorial, piedra profética, 1986:</subfield>
+    <subfield code="b">p. 52, etc. (la basílica)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mulcahy, R. La decoración de la Real Basílica del Monasterio de El Escorial, 1992.</subfield>
+  </datafield>
+</record>
