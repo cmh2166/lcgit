@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00677cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  90674912 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218134808.0</controlfield>
+  <controlfield tag="008">900726n| azannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90674912 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1922</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Sunnycrest Farm for Negro Boys (Cheyney, Pa.)</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Home for Destitute Colored Children (Philadelphia, Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Swarthmore College Friends His. Lib. for Home for Destitute Colored Children. Records, 1855-1944</subfield>
+    <subfield code="b">(founded in 1855 as the Home for Destitute Colored Children and located in Philadelphia, Pa.; moved in 1922 to Cheyney, Pa. and changed name to Sunnycrest Farm for Negro Boys)</subfield>
+  </datafield>
+</record>
