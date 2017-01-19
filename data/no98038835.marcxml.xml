@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01124cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  83174965 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140509102346.0</controlfield>
+  <controlfield tag="008">831206n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83174965 </subfield>
+    <subfield code="z">no 98038835 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00994519</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NN-RH</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">NN-MUS</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19150131</subfield>
+    <subfield code="g">19760607</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hackett, Bobby</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Providence (R.I.)</subfield>
+    <subfield code="b">Chatham (Mass.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Cornet players</subfield>
+    <subfield code="a">Band directors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hackett, Robert Leo</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Alternate identity:</subfield>
+    <subfield code="a">Pesci, Pete</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The Hackett horn [SR] p1974:</subfield>
+    <subfield code="b">container (Bobby Hackett, cornet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hackett, B. That da da strain [SR] c1988:</subfield>
+    <subfield code="b">notes (b. 1915, Providence, R.I.; d. 1976, Cape Cod)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bixieland [SR] 1955:</subfield>
+    <subfield code="b">container (Pete Pesci, trumpet)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Discogs WWW site, April 25, 2014:</subfield>
+    <subfield code="b">Bobby Hackett (Alias: Pete Pesci)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online, Jan. 26, 2007:</subfield>
+    <subfield code="b">Jazz (Hackett, Bobby (Robert Leo); b. January 31, 1915, Providence, RI, d. June 7, 1976, Chatham, MA; American cornetist and bandleader)</subfield>
+  </datafield>
+</record>
