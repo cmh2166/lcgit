@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00807cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  86848416 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121013001623.0</controlfield>
+  <controlfield tag="008">860827n| azannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86848416 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1949</subfield>
+    <subfield code="g">2010</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Nüchtern, Michael</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Theologian</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc86-78291: Koch, G. Lernen in Bildungshäusern und ... c1983</subfield>
+    <subfield code="b">(hdg. on NjPT rept.: Nüchtern, Michael; usage: Michael Nüchtern)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Kirche bei Gelegenheit, c1991:</subfield>
+    <subfield code="b">t.p. (Michael Nüchtern) cover (Pfarrer Dr.; Evangelische Akademie Baden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nüchtern, M. Schöne Verweltlichungen, 2010:</subfield>
+    <subfield code="b">p. 4 of cover (Dr. theol. Michael Nüchtern, 1949-2010)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB in VIAF, Oct. 11, 2012:</subfield>
+    <subfield code="b">(hdg.: Nüchtern, Michael, 1949-2010)</subfield>
+  </datafield>
+</record>
