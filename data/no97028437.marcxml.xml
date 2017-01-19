@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00717cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 97015019 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970530133223.4</controlfield>
+  <controlfield tag="008">970310n| acaaaaaa|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97015019 </subfield>
+    <subfield code="z">no 97028437 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04289501 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Arbeitspapiere zur Schriftenreihe Schwerpunkt Marketing</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Schwerpunkt Marketing.</subfield>
+    <subfield code="p">Arbeitspapiere zur Schriftenreihe Schwerpunkt Marketing</subfield>
+  </datafield>
+  <datafield tag="642" ind1=" " ind2=" ">
+    <subfield code="a">Bd. 54</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">München</subfield>
+    <subfield code="b">FGM-Verlag an der Universität München</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">ICU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hauser, T. Krisen-PR von Unternehmen, 1994:</subfield>
+    <subfield code="b">cover (Arbeitspapiere zur Schriftenreihe Schwerpunkt Marketing)</subfield>
+  </datafield>
+</record>
