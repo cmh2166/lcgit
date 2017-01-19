@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2013128584</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131119073515.0</controlfield>
+  <controlfield tag="008">131118n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013128584</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09617545</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ItFiC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ItFiC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Valentino, Carmen</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+    <subfield code="s">1992</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ita</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Le metafore in Heidegger, 2013:</subfield>
+    <subfield code="b">t.p. (Carmen Valentino) p. 4 of cover (degree in pedagogy; teaches in high school since 1992)</subfield>
+  </datafield>
+</record>
