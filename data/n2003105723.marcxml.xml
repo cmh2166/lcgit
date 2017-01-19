@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00714cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2003105723</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100519075346.0</controlfield>
+  <controlfield tag="008">030530n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003105723</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0081900</subfield>
+    <subfield code="e">W0081900</subfield>
+    <subfield code="f">N0431300</subfield>
+    <subfield code="g">N0431300</subfield>
+    <subfield code="2">geonet</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06063674</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-sp---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Cabanas (Spain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fernández Rifón, Andrés. Cabanas, Erines, Laraxe, San Martín do Porto, Regüela, Sta. Cruz do Salto, Soaserra, 1999:</subfield>
+    <subfield code="b">p. 7 (municipio de Cabanas) p. 113 (Cabañas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GEOnet, Mar. 21, 2003</subfield>
+    <subfield code="b">(Cabanas, PPL, 43°13ʹN, 8°19ʹW; lists 3 other Cabanas (or Cabañas) in Galicia)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Spain</subfield>
+    <subfield code="z">Cabanas</subfield>
+  </datafield>
+</record>
