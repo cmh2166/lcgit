@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00728cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 98100922 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319174829.0</controlfield>
+  <controlfield tag="008">980805n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98100922 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04787242</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OOC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vesi, Simone,</subfield>
+    <subfield code="d">approximately 1610-1667.</subfield>
+    <subfield code="t">Motetti e salmi.</subfield>
+    <subfield code="p">Omnes gentes</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vesi, Simone,</subfield>
+    <subfield code="d">approximately 1610-1667.</subfield>
+    <subfield code="t">Omnes gentes</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Vesi, Simone,</subfield>
+    <subfield code="d">ca. 1610-1667.</subfield>
+    <subfield code="t">Motetti e salmi.</subfield>
+    <subfield code="p">Omnes gentes</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kiehr, M.C. Ave Maris Stella [SR] p1993:</subfield>
+    <subfield code="b">container (Omnes gentes / Simone Vesi) insert (from Motetti e salmi, op. 2, Venice 1648)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove</subfield>
+    <subfield code="b">(Motetti e salmi, 1v, insts ... a 4, op. 2 (Venice, 1648))</subfield>
+  </datafield>
+</record>
