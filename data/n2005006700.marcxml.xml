@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00812cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2005006700</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322085337.0</controlfield>
+  <controlfield tag="008">050131n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005006700</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Montgomery County (Md.).</subfield>
+    <subfield code="b">Division of Transit Services</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Montgomery County (Md.).</subfield>
+    <subfield code="b">Department of Public Works and Transportation.</subfield>
+    <subfield code="b">Division of Transit Services</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Montgomery County (Md.).</subfield>
+    <subfield code="b">Department of Public Works and Transportation</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Montgomery County transit map, 2004:</subfield>
+    <subfield code="b">map recto (Montgomery County, Department of Public Works and Transportation, Division of Transit Services, Rockville, MD)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC database, 31 Jan. 2005</subfield>
+    <subfield code="b">(MLC hdg.: Montgomery County (Md.). Division of Transit Services)</subfield>
+  </datafield>
+</record>
