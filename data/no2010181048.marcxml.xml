@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01000cz  a2200253n  4500</leader>
+  <controlfield tag="001">no2010181048</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130211114107.0</controlfield>
+  <controlfield tag="008">101108n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010181048</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08680819</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007976874</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCo</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OCo</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hyatt, Elise</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Portugal</subfield>
+    <subfield code="c">U.S.</subfield>
+    <subfield code="e">Colo.</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Fiction</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Novelists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">nnnc</subfield>
+    <subfield code="a">Hoyt, Sarah A.</subfield>
+  </datafield>
+  <datafield tag="663" ind1=" " ind2=" ">
+    <subfield code="a">Works by this author are entered under the name used in the item. For a listing of other names used by this author, search also under:</subfield>
+    <subfield code="b">Hoyt, Sarah A.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">French polished murder, c2010:</subfield>
+    <subfield code="b">t.p. (Elise Hyatt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her website, 8 Feb. 2012</subfield>
+    <subfield code="b">(Sarah A. Hoyt; pen names Elise Hyatt, Sarah D'Almeida, Sarah Marques; also wrote "Plain Jane" under house name Laurien Gardner; grew up in a small village in Portugal; moved to the US where she lives in Colorado)</subfield>
+  </datafield>
+</record>
