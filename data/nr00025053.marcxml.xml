@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00626cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 00025053 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081107080541.0</controlfield>
+  <controlfield tag="008">000802n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00025053 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05286826</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Takahashi, Satoshi,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">高橋聡,</subfield>
+    <subfield code="d">1965-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kyōiku taisei bunseki no kiso riron, 2000:</subfield>
+    <subfield code="b">t.p. (Takahashi Satoshi) colophon (r; b. 1965; Ed.D; instr., Iwate Kenritsu Daigaku Shakai Fukushi Gakubu)</subfield>
+  </datafield>
+</record>
