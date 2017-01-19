@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00797cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  50077477 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920917164309.4</controlfield>
+  <controlfield tag="008">810107n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50077477 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Nebraska.</subfield>
+    <subfield code="b">Legislature.</subfield>
+    <subfield code="b">Legislative Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Nebraska Legislative Council</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Nebraska.</subfield>
+    <subfield code="b">Legislative Council</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A Summary of constitutional amendments ... 1976 (a.e.)</subfield>
+    <subfield code="b">t.p. (Nebraska Legislative Council)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neb. blue book, 1988-89</subfield>
+    <subfield code="b">(Legislative Council, estab. by the Legis. in 1937; has 5 support offices: Clerk of the Legislature, Revisor of Statutes, Legislative Fiscal Office, Research Division, and Ombudsman (Office of the Public Counsel))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Neb. state govt. dir., 1991:</subfield>
+    <subfield code="b">(Legislative Council)</subfield>
+  </datafield>
+</record>
