@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00431nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 98125798 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981124053253.7</controlfield>
+  <controlfield tag="008">981123n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98125798 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04867142 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WaU</subfield>
+    <subfield code="c">WaU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Obecný úrad (Prašice, Slovakia)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Prašice (Slovakia).</subfield>
+    <subfield code="b">Obecný úrad</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Obec Prašice, 1245-1995, 1995:</subfield>
+    <subfield code="b">t.p. (Obecný úrad Prašice)</subfield>
+  </datafield>
+</record>
