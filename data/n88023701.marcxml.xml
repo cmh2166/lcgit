@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00500cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88023701 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890629062422.2</controlfield>
+  <controlfield tag="008">890522n| acannaab|          |a aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88023701 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Dealtry, R. B.</subfield>
+    <subfield code="q">(Robert Baylis),</subfield>
+    <subfield code="d">1755-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dealtry, Robert Baylis,</subfield>
+    <subfield code="d">1755-1830</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Dealtry, Skinner Robert Baylis,</subfield>
+    <subfield code="d">1755-1830</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A sermon preached at York, 1782:</subfield>
+    <subfield code="b">t.p. (R. B. Dealtry)</subfield>
+  </datafield>
+</record>
