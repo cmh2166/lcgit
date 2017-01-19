@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00768cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 98022859 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020524052433.0</controlfield>
+  <controlfield tag="008">980115n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98022859 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04600667</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCoLC</subfield>
+    <subfield code="c">OCoLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">DLC-OB</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reis, Mário</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meirelles Reis, Mário da Silveira</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meireles Reis, Mário da Silveira</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Silveira Meirelles Reis, Mário da</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 93-707171: Nosso Sinhô do samba, 1988?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Noel Rosa, 1992?:</subfield>
+    <subfield code="b">label (Mário Reis) insert (1907-1981; Brazilian popular singer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mario Reis, 2001:</subfield>
+    <subfield code="b">p. 11 (Mario da Silveira Meirelles Reis) p. 279 (b. Dec. 31, 1907, in Rio de Janeiro) p. 280 (d. Oct. 5, 1981, in Rio de Janeiro)</subfield>
+  </datafield>
+</record>
