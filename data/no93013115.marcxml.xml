@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00767cz  a2200181n  4500</leader>
+  <controlfield tag="001">no 93013115 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101202075308.0</controlfield>
+  <controlfield tag="008">930507n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 93013115 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03377157</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OO</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yamaguchi, Takeo,</subfield>
+    <subfield code="d">1902-1983</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">山口長男,</subfield>
+    <subfield code="d">1902-1983</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Yamaguchi Takeo, Horiuchi Masakazu, 1980 :</subfield>
+    <subfield code="b">p. 18 (b. 11-23-1902, Seoul; father was a Japanese businessman; graduated Tokyo Fine Arts Academy, 1927)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tokyo Metropolitan Library name authority file, Nov. 30, 2010</subfield>
+    <subfield code="b">(hdg.: 山口/ 長男 = Yamaguchi/ Takeo; r; d. 1983)</subfield>
+  </datafield>
+</record>
