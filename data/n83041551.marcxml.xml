@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00601cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  83041551 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081221205136.0</controlfield>
+  <controlfield tag="008">831108n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83041551 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00930009</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Foundation for Research into the Origin of Man</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">FROM</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">F.R.O.M.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Interim evidence, Sept. 1982:</subfield>
+    <subfield code="b">t.p. (Foundation for Research into the Origin of Man, FROM) p. 10 (officers from several countries)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Fndn. dir., 8th ed. (1981);</subfield>
+    <subfield code="a">Encyc. of assns., '83;</subfield>
+    <subfield code="a">Yrbk. of int. orgs., 1981.</subfield>
+  </datafield>
+</record>
