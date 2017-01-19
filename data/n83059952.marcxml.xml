@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00609cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  83022026 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001116080909.0</controlfield>
+  <controlfield tag="008">830406n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83022026 </subfield>
+    <subfield code="z">n  83059952 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Puotinen, C. J.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her The last word on WordStar, 1983:</subfield>
+    <subfield code="b">CIP t.p. (C.J. Puotinen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her Using the IBM Personal Computer, c1983:</subfield>
+    <subfield code="b">t.p. (CJ Puotinen) p. v (husband: Dr. Joel Hollenberg, Cooper Union Sch. of Engr., New York, N.Y.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Natural remedies for dogs and cats, 1999:</subfield>
+    <subfield code="b">CIP t.p. (C.J. Puotinen) galley (husband, J. Hollenberg)</subfield>
+  </datafield>
+</record>
