@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00482cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  87916697 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950923055110.5</controlfield>
+  <controlfield tag="008">881121n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87916697 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02407810 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CLU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Norin, Gustaf M.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Norin, Gus</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Body and soul [MP] 1947:</subfield>
+    <subfield code="b">credits (make-up supervision, Gustaf M. Norin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">No minor vices [MP] 1948:</subfield>
+    <subfield code="b">credits (make-up supervision, Gus Norin)</subfield>
+  </datafield>
+</record>
