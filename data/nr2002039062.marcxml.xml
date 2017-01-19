@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00323nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2002039062</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021023033133.0</controlfield>
+  <controlfield tag="008">021022n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002039062</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IOrQBI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IOrQBI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hansen, Bo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BullyBusters [VR], 2001:</subfield>
+    <subfield code="b">end credits (produced by ... Bo Hansen)</subfield>
+  </datafield>
+</record>
