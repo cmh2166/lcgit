@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00725nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2012160896</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121223143904.0</controlfield>
+  <controlfield tag="008">121221n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012160896</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09372090</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICrlF</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICrlF</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2012</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">New girl in town (Motion picture)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Animated films</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Lego friends.</subfield>
+    <subfield code="p">New girl in town (Motion picture)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Friends.</subfield>
+    <subfield code="p">New girl in town (Motion picture)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Easton, Marilyn. New girl in town, c2013:</subfield>
+    <subfield code="b">t.p. (Lego friends: New girl in town, movie novelization)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">IMDb, Dec. 18, 2012</subfield>
+    <subfield code="b">(Friends: New girl in town, (2012), TV movie; director, Peder Pederson)</subfield>
+  </datafield>
+</record>
