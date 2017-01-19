@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00742nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010206885</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101223075252.0</controlfield>
+  <controlfield tag="008">101221n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010206885</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08722718</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ViBlbV</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ViBlbV</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bardon, M. F.</subfield>
+    <subfield code="q">(Michael F.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Bardon, Michael F.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An experimental and modeling study of the flammability of fuel tank headspace vapors from ethanol/gasoline fuels. phase 2, evaluations of field samples and laboratory blends, 2010:</subfield>
+    <subfield code="b">t.p. (M.F. Bardon; Nexum Research Corporation, Kingston, Ontario, Canada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 21, 2010</subfield>
+    <subfield code="b">(hdgs: Bardon, Michael F.; Bardon, M. F.; Bardon, M. ; usage: Michael F. Bardon; M.F. Bardon; M. Bardon)</subfield>
+  </datafield>
+</record>
