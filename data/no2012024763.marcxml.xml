@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00580nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012024763</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120223075217.0</controlfield>
+  <controlfield tag="008">120221n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012024763</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09121339</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IeDuTC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IeDuTC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McMullan, John</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">McMullan, John B.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Having healthy honeybees, 2012 :</subfield>
+    <subfield code="b">t.p. (John McMullan)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Susceptibility and mortality in honeybees (Apis mellifera) infested with the tracheal mite (Acarapis woodi) : Ph.D. thesis Trinity College Dublin, 2007 :</subfield>
+    <subfield code="b">t.p. (John B. McMullan)</subfield>
+  </datafield>
+</record>
