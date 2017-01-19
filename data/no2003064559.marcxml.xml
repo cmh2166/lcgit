@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00590cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2003064559</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060411104839.0</controlfield>
+  <controlfield tag="008">030630n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003064559</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06088972</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">KyFSC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">KyFSC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McGee, Sherri A.</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">McCovey, Sherri  McGee</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Skinny women are evil, 2003:</subfield>
+    <subfield code="b">t.p. (Sherri A. McGee) book jacket (Sherri A. McGee, freelance journalist; Los Angeles native and graduate of Spellman College)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mo'Nique. Skinny cooks can't be trusted, c2006:</subfield>
+    <subfield code="b">CIP t.p. (Sherri McGee McCovey)</subfield>
+  </datafield>
+</record>
