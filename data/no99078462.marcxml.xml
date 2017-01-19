@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00596cz  a2200157n  4500</leader>
+  <controlfield tag="001">no 99078462 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011210141210.0</controlfield>
+  <controlfield tag="008">991028n| acannaabn           a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99078462 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05091787</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">B'nai Zion Congregation (Shreveport, La.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Congregation B'nai Zion (Shreveport, La.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Schedule of services, Mar. 1999:</subfield>
+    <subfield code="b">t.p. (B'nai Zion Congregation; Shreveport, Louisiana)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from American Jewish Archives for Its Records, 1940-1981</subfield>
+    <subfield code="b">(Congregation B'nai Zion (Shreveport, La.))</subfield>
+  </datafield>
+</record>
