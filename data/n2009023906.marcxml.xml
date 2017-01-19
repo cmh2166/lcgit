@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00886nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2009023906</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090418075215.0</controlfield>
+  <controlfield tag="008">090417n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009023906</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Temple, P. J.</subfield>
+    <subfield code="q">(Patrick Joseph),</subfield>
+    <subfield code="d">1889-1972</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Temple, Patrick Joseph,</subfield>
+    <subfield code="d">1889-1972</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 50004782: His Pattern divine, 1950</subfield>
+    <subfield code="b">(hdg.: Temple, Patrick Joseph, 1889-)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 22013143: His The boyhood consciousness of Christ, 1922</subfield>
+    <subfield code="b">(usage: Rev. P.J. Temple, S.T.L.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGMI, Apr. 17, 2009</subfield>
+    <subfield code="b">(Temple, Patrick Joseph (1889-))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Temple genealogy Web sitem Apr. 17, 2009</subfield>
+    <subfield code="b">(Father Patrick Joseph (Patrick) Temple; b. June 1, 1889, Shannon Harbor, Ireland; immigrated in 1910; ordained in 1913; deceased)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SSDI, Apt. 17, 2009</subfield>
+    <subfield code="b">(Temple, Patrick; b. June 1, 1889; d. May 1972, New York, N.Y.)</subfield>
+  </datafield>
+</record>
