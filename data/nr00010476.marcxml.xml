@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639cz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 00010476 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081109081135.0</controlfield>
+  <controlfield tag="008">000327nc acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 00010476 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05187706</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-R</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Xia, Lifang,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Hsia, Li-fang,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">夏麗芳,</subfield>
+    <subfield code="d">1958-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yüan ku Tʻai-wan ti ku shih, l997:</subfield>
+    <subfield code="b">t.p. (Hsia Li-fang) biog. (b. 1958; with Kuo li Tʻai-wan shih chʻien wen hua po wu kuan)</subfield>
+  </datafield>
+</record>
