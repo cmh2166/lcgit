@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00592cz  a2200181n  4500</leader>
+  <controlfield tag="001">nb2002037445</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110429075025.0</controlfield>
+  <controlfield tag="008">020419n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2002037445</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05743778</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">NcU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hampf, Michaela</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hampf, M. Michaela</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hampf, Maria-Michaela</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Freies Radio in den USA, 2000:</subfield>
+    <subfield code="b">t.p. (Michaela Hampf)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Release a man for combat, 2010:</subfield>
+    <subfield code="b">t.p. (M. Michaela Hampf)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, April 27, 2011</subfield>
+    <subfield code="b">(hdg.: Hampf, Maria-Michaela; usage: Maria-Michaela Hampf)</subfield>
+  </datafield>
+</record>
