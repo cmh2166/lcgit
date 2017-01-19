@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00855cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2004118641</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322084343.0</controlfield>
+  <controlfield tag="008">040803n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004118641</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1902</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McAllister, Henriette Phllips,</subfield>
+    <subfield code="d">-1902</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">McAllister, Henriette Phllips,</subfield>
+    <subfield code="d">d. 1902</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">McAllister, Wardale Gaskill,</subfield>
+    <subfield code="c">Mrs.,</subfield>
+    <subfield code="d">-1902</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Henrietta, wife of Wardale G. McAllister, three-quarters length, seated in ornate chair, with arm resting on table with tablecloth [graphic] 1855 May 18:</subfield>
+    <subfield code="b">dag (Mrs. Wardale G. McAllister)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">William Young papers. Genealogies, viewed online Aug. 3, 2004</subfield>
+    <subfield code="b">(Wardale Gaskill McAllister (1829-1874) married Henrietta Phillips)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">P&amp;P curatorial file, viewed Aug. 3, 2004</subfield>
+    <subfield code="b">(Henrietta McAllister, d. 1902)</subfield>
+  </datafield>
+</record>
