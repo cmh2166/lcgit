@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00904nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2015073537</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151222074343.0</controlfield>
+  <controlfield tag="008">151222n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015073537</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Semenov, V. F.</subfield>
+    <subfield code="q">(Vissarion Fedorovich),</subfield>
+    <subfield code="d">1896-1971</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Semenov, Vissarion Fedorovich,</subfield>
+    <subfield code="d">1896-1971</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Семенов, В. Ф.</subfield>
+    <subfield code="q">(Виссарион Федорович),</subfield>
+    <subfield code="d">1896-1971</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Семенов, В. Ф.</subfield>
+    <subfield code="q">(Виссарион Федорович),</subfield>
+    <subfield code="d">1896-1971</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Семенов, Виссарион Федорович,</subfield>
+    <subfield code="d">1896-1971</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chtenii︠a︡ pami︠a︡ti professora V.F. Semenova, 2012:</subfield>
+    <subfield code="b">t.p. (В. Ф. Семенова = V.F. Semenova) p. 3, etc. (Виссарион Федорович Семенов =  Vissarion Fedorovich Semenov; b. 1896; d.1971)</subfield>
+  </datafield>
+</record>
