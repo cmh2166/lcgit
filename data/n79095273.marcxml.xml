@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00950cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  79095273 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810081113.0</controlfield>
+  <controlfield tag="008">800528n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79095273 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00327511</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">New York University International Institute on Tax and Business Planning</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">International Institute on Tax and Business Planning</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">NYU International Institute on Tax and Business Planning</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Tax and Business Planning, NYU International Institute on</subfield>
+  </datafield>
+  <datafield tag="511" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Conference on International Tax and Business Planning</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Doing business in Puerto Rico ... 1974.</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Conf. on Int. Tax. and Bus. Plng. Proceedings of the ... annual Conference on International Tax and Business Planning, 1984</subfield>
+  </datafield>
+</record>
