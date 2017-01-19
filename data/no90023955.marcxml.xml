@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01064cz  a2200217n  4500</leader>
+  <controlfield tag="001">no 90023955 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801083159.0</controlfield>
+  <controlfield tag="008">901106n| acannaab           |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 90023955 </subfield>
+    <subfield code="z">n  95084523 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU-L</subfield>
+    <subfield code="d">MoSU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="t">Treaties, etc.</subfield>
+    <subfield code="g">France,</subfield>
+    <subfield code="d">1801 July 15</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Concordat between France and the Pope</subfield>
+    <subfield code="d">(1801)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Concordat de 1801</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Concordat of 1801</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">France.</subfield>
+    <subfield code="t">Treaties, etc.</subfield>
+    <subfield code="g">Catholic Church,</subfield>
+    <subfield code="d">1801 July 15</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Previous to AACR2 represented also by subject heading: Concordat of 1801 (France)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Portalis, J. Discours, rapports et travaux ineĚdits sur le Concordat de 1801 (26 messidor an IX), 1845.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Consolidated treaty series, gen. chronological list:</subfield>
+    <subfield code="b">v. 1, p. 515 (1801, 15 July, Concordat between France and the Pope, signed at Paris)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L/IL files</subfield>
+    <subfield code="b">(hdg.: Concordat of 1801 (France))</subfield>
+  </datafield>
+</record>
