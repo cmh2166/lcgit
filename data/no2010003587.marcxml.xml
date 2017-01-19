@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2010003587</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100110075507.0</controlfield>
+  <controlfield tag="008">100108n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010003587</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08354722</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-A</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU-A</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">StaVin Incorporated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Innovation using oak and oxygenation for winemaking, 2005:</subfield>
+    <subfield code="b">cover (StaVin Incorporated)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">StaVin Incorporated website, viewed Jan. 6, 2009</subfield>
+    <subfield code="b">(StaVin Incorporated, Sausalito, Calif., is the world's leading supplier in premium oak products)</subfield>
+  </datafield>
+</record>
