@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01069cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2014058441</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141001170315.0</controlfield>
+  <controlfield tag="008">140922n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014058441</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Meridian Brothers</subfield>
+    <subfield code="c">(Musician)</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Singers</subfield>
+    <subfield code="a">Musicians</subfield>
+    <subfield code="a">Composers</subfield>
+    <subfield code="a">Sound recording executives and producers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Real identity:</subfield>
+    <subfield code="a">Álvarez, Eblis,</subfield>
+    <subfield code="d">1977-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Devoción [SR] p2013:</subfield>
+    <subfield code="b">label (Meridian Brothers) container (Alejandro Forero, María Valencia, Damián Ponce, César Quevedo, Mauricio Baez)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Merdian Brothers WWW Site, Sept. 22, 2014:</subfield>
+    <subfield code="b">Prensa/Press [review from The wire, September 2013] (Eblis Álvarez, the Colombian singer-songwriter/producer who records as Meridian Brothers; Álvarez works with a steady crew of musicians - keyboardist Alejandro Forero, reeds, percussion and synths multi-instrumentalist María Valencia, bassist César Quevedo, percussionist Damián Ponce, and sound tech Mauricio Baez - for live appearances)</subfield>
+  </datafield>
+</record>
