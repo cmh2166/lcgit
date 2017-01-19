@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00621nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014068593</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141104083758.0</controlfield>
+  <controlfield tag="008">141104n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014068593</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zubayrāt, ʻAbd al-Ilāh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">‏زبيرات، عبد الإله.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">al-Tanẓīm al-qānūnī li-tashghīl wa-ḥimāyat al-ashkhāṣ dhawy al-iʻāqah, 2012:</subfield>
+    <subfield code="b">t.p. (عبد الإله زبيرات = ʻAbd al-Ilāh Zubayrāt, ustādh bāḥith Kullīyat al-Ḥuqūq, Jāmiʻat al-Qāhirah)</subfield>
+  </datafield>
+</record>
