@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00600nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 92007218 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920401053421.5</controlfield>
+  <controlfield tag="008">920317n| acannaab|          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92007218 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Villamosenergiaipari Kutató Intézet (Hungary)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">VEIKI</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Villamos Energetikai Kutató Intézet (Hungary)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Fétis II, 1965:</subfield>
+    <subfield code="b">t.p. (Villamosenergiaipari Kutató Intézet) cover (VEIKI)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Vamos, T. Energetikai optimálizás néhány fő kérdésről, 1963: t.p. (Villamos Energetikai Kutató Intézet)</subfield>
+  </datafield>
+</record>
