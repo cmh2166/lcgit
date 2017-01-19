@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00598nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2015150167</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151110073611.0</controlfield>
+  <controlfield tag="008">151109n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015150167</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10317123</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CSt</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1974-04-12</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Munama, Daniel K.,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Malawi</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Munama, Daniel K. Target in junior secondary history, 2013- :</subfield>
+    <subfield code="b">v. 1, title page (Daniel K. Munama) v. 1, page 4 of cover (b. 12th April, 1974; from Chipwere Village, Balaka [Malawi]; teaching history and social studies since 2001)</subfield>
+  </datafield>
+</record>
