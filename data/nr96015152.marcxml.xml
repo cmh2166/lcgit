@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00809nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr 96015152 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960501052217.6</controlfield>
+  <controlfield tag="008">960419n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96015152 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="c">MWA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Kook, Sebastian Emile,</subfield>
+    <subfield code="d">1840-1863</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kook, Se. Emile</subfield>
+    <subfield code="q">(Sebastian Emile),</subfield>
+    <subfield code="d">1840-1863</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Kook, Seb. Emile</subfield>
+    <subfield code="q">(Sebastian Emile),</subfield>
+    <subfield code="d">1840-1863</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Horticultural Hall. The Black swan, under the direction of Col. J.H. Wood ... the great musical prodigy, Mast. Se. Emile Kook, 10 years old, well known in New York City as a juvenile pianist ... will give one grand vocal and instrumental concert in Horticultural Hall, on Wednesday evening, February 18, 1852, 1852:</subfield>
+    <subfield code="b">p. 3 (Seb. Emile Kook)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">MWA/NAIP files</subfield>
+    <subfield code="b">(hdg.: Kook, Sebastian Emile, 1840-1863)</subfield>
+  </datafield>
+</record>
