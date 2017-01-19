@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00611nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2009215710</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091006075229.0</controlfield>
+  <controlfield tag="008">091005n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009215710</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wankhede, Deepak M.</subfield>
+    <subfield code="q">(Deepak Mahadeo Rao)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wankhede, Deepak Mahadeo Rao</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Deepak Mahadeo Rao Wankhede</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wankhede, Deepak M. Geographical thought of Dr. B.R. Ambedkar, 2009:</subfield>
+    <subfield code="b">t.p. (Dr. Deepak M. Wankhede; currently hd., Postgrad. Dept. of Geog., V.N. Govt. Inst. of Arts and Soc. Sc., Nagpur, India) p. 4 of cover ( Deepak Mahadeo Rao Wankhede)</subfield>
+  </datafield>
+</record>
