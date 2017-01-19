@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01175cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  88647580 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150218073811.0</controlfield>
+  <controlfield tag="008">880705n| azannaabn          |n aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88647580 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02313881</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">MH-A</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1908</subfield>
+    <subfield code="g">2001</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rogers, Donald P.</subfield>
+    <subfield code="q">(Donald Philip),</subfield>
+    <subfield code="d">1908-2001</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Mycology</subfield>
+    <subfield code="a">Education</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">New York Botanical Garden. Herbarium</subfield>
+    <subfield code="s">1947</subfield>
+    <subfield code="t">1957</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Illinois at Urbana-Champaign. School of Life Sciences</subfield>
+    <subfield code="s">1957</subfield>
+    <subfield code="t">1976</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Mycologists</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Donald Philip</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-80922: His A brief history of ... 1981</subfield>
+    <subfield code="b">(hdg. on LU rept.: Rogers, Donald Philip, 1908- ; usage: Donald P. Rogers)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">School of Integrative Biology, University of Illinois at Urbana-Champaign website, viewed February 17, 2015</subfield>
+    <subfield code="b">History page (Donald Philip Rogers; 1908-2001; mycologist; curator of cryptogamic herbarium at New York Botanical Garden, 1947-1957; professor and curator of mycological specimens at University of Illinois at Urbana-Champaign, 1957-1976)</subfield>
+  </datafield>
+</record>
