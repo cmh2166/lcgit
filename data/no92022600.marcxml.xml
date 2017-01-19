@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00544nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 92022600 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19920930054549.1</controlfield>
+  <controlfield tag="008">920915n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 92022600 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPPrHi</subfield>
+    <subfield code="c">PPPrHi</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Moorhead, James H.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smylie, J.H. Presbyterians and the bicentennial [SR] 1988:</subfield>
+    <subfield code="b">label (James H. Moorhead)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC data base, 9/8/92</subfield>
+    <subfield code="b">(hdg.: Moorhead, James Howell, 1947- ; usage: James Howell Moorhead)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC, 9-8-92</subfield>
+    <subfield code="b">(hdg.: Moorhead, James H.; usage: James H. Moorhead)</subfield>
+  </datafield>
+</record>
