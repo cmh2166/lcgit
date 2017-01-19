@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01038cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  85312716 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20161115073910.0</controlfield>
+  <controlfield tag="008">871014n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85312716 </subfield>
+    <subfield code="z">n  85828496 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01960982</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPiU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TxU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1937</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rojas Piña, Benjamín</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Santiago (Chile)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Piña, Benjamín Rojas</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rojas, Benjamín</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His La sociedad y la educación de Chile según los viajeros ... 1963:</subfield>
+    <subfield code="b">cover (Benjamín Rojas Piña)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc85-77536: His La prosa narrativa de Vicente Huidobro, 1979, c1980</subfield>
+    <subfield code="b">(hdg. on MnU rept.: Rojas, Benjamin; usage: Benjamin Rojas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 9-21-94</subfield>
+    <subfield code="b">(hdg.: Rojas, Benjamin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Escritoras chilenas, 1994- :</subfield>
+    <subfield code="b">v. 1, t.p. (Benjamín Rojas Piña) cover, etc. (Benjamín Rojas; b. 1937, Santiago de Chile; doct. diss.: La prosa narr. de Vic. Huidobro (1979))</subfield>
+  </datafield>
+</record>
