@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00442nz  a2200121n  4500</leader>
+  <controlfield tag="001">no 91014147 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910608070043.7</controlfield>
+  <controlfield tag="008">910603n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91014147 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="c">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Dewers, Thomas A.</subfield>
+    <subfield code="q">(Thomas Andrew),</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Non-linear dynamics of coupled water-rock reaction, transport, and rock deformation, 1990:</subfield>
+    <subfield code="b">t.p. (Thomas A. Dewers) leaf 328 (Thomas Andrew Dewers; b. 5/21/61)</subfield>
+  </datafield>
+</record>
