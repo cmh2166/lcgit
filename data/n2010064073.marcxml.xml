@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2010064073</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100928074944.0</controlfield>
+  <controlfield tag="008">100511n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010064073</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaOOAMICUS)000000795143</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaOONL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaOONL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">nlc</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Caswell, Ed,</subfield>
+    <subfield code="d">1872-1950</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Caswell, Edgar,</subfield>
+    <subfield code="d">1872-1950</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Stubborn, c2010:</subfield>
+    <subfield code="b">t.p. (Ed Caswell) p. xiii, etc. (Edgar Caswell; b. June 2, 1872)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CIP info.  (General Store Pub. House) :</subfield>
+    <subfield code="b">(Canadian; d. 1950; first fire chief and pioneer of Cochrane, Ont.)</subfield>
+  </datafield>
+</record>
