@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00573nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2005050112</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050528071029.0</controlfield>
+  <controlfield tag="008">050527n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005050112</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06644565</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NIC-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NIC-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clark, Thomas,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Lightforms,</subfield>
+    <subfield code="n">no. 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clark, Thomas,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Lightforms 2</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clark, Thomas,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Lightforms two</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clark, Thomas,</subfield>
+    <subfield code="d">1949-</subfield>
+    <subfield code="t">Star spectra</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">CEMIsonics, p1998:</subfield>
+    <subfield code="b">container (Lightforms 2 : Star spectra (1993) , computer music on tape)</subfield>
+  </datafield>
+</record>
