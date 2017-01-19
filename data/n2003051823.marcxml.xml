@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00395nz  a2200121n  4500</leader>
+  <controlfield tag="001">n 2003051823</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030911130452.0</controlfield>
+  <controlfield tag="008">030911n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2003051823</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Unión Nacional de Poetas y Escritores (Bolivia).</subfield>
+    <subfield code="b">Cochabamba</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poesía, narrativa, ensayo, 1999:</subfield>
+    <subfield code="b">t.p. (Unión Nacional de Poetas y Escritores de Cochabamba)</subfield>
+  </datafield>
+</record>
