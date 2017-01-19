@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00718cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2008204919</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326104003.0</controlfield>
+  <controlfield tag="008">080507n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008204919</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Akhila Bhāratīya Sāhitya Parishad, Rājasthāna.</subfield>
+    <subfield code="b">Pradeśa Starīya Vārshika Adhiveśana</subfield>
+    <subfield code="d">(2008 :</subfield>
+    <subfield code="c">Jaipur, India)</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Conference</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Jaipur, India</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hamārā dr̥shṭikoṇa, 2008:</subfield>
+    <subfield code="b">cover (Akhila Bhāratīya Sāhitya Parishad, Rājasthāna, Pradeśa Starīya Vārshika Adhiveśana, 2007-08, 18, 19, 20 Janavarī 2008)</subfield>
+  </datafield>
+</record>
