@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01315cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2008033270</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130502074940.0</controlfield>
+  <controlfield tag="008">080505n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008033270</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07761763</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">Mi</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-mi</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Cleveland Township (Mich.)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Cleveland (Mich. : Township)</subfield>
+  </datafield>
+  <datafield tag="451" ind1=" " ind2=" ">
+    <subfield code="a">Township of Cleveland (Mich.)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Township treated as local place after consultation with Library of Michigan and LC's Policy &amp; Standards Division</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Although the GNIS form is Township of Cleveland, consistent usage of this populated place within Michigan is in the form Cleveland Township</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cemetery records of Cleveland Township, Leelanau County, Michigan, 1993.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, Feb. 13, 2013</subfield>
+    <subfield code="b">(Township of Cleveland, Leelanau County, Michigan, 44°56ʹ54ʺN 085°54ʹ28ʺW )</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">On March 15, 1871 the Michigan Legislature approved Public Act 339 which changed the formerly named Glen Arbor Township in Leelanau County to the currently named Cleveland Township. On the same day, the Legislature approved Public Act 340 which changed the formerly named Sleeping Bear Township to the currently named Glen Arbor Township.</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Michigan</subfield>
+    <subfield code="z">Cleveland Township</subfield>
+  </datafield>
+</record>
