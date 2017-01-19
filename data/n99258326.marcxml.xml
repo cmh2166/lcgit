@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00618nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  99258326 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991009135341.0</controlfield>
+  <controlfield tag="008">991009n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99258326 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Jihočeská univerzita (České Budějovice, Czech Republic).</subfield>
+    <subfield code="b">Katedra bohemistiky</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Jihočeská univerzita (České Budějovice, Czech Republic).</subfield>
+    <subfield code="b">Pedagogická fakulta.</subfield>
+    <subfield code="b">Katedra bohemistiky</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">K jazyku a stylu českých barokních textů, 1998:</subfield>
+    <subfield code="b">t.p. (Katedra bohemistiky Pedagogické fakulty Jihočeské univerzity v Českých Budějovicích)</subfield>
+  </datafield>
+</record>
