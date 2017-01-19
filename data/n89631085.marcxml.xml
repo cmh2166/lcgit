@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00860cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89631085 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040429092512.0</controlfield>
+  <controlfield tag="008">890524n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89631085 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Klingemann, Harald,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Klingemann, H.</subfield>
+    <subfield code="q">(Harald),</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-55219: Selbsthilfe und Laienhilfe, c1986</subfield>
+    <subfield code="b">(hdg. on NN rept.: Klingemann, Harald, 1948- ; usage: Harald Klingemann)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cure, care, or control, c1992:</subfield>
+    <subfield code="b">CIP t.p. (Harald Klingemann) data sheet (b. 1948)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mapping the social consequences of alcohol consumption. c2001:</subfield>
+    <subfield code="b">t.p. (Harald Klingemann; Inst. for Social Planning and Social Management, U. of Applied Sciences, Bern, Switzerland)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Promoting self-change from problem substance use, c2001:</subfield>
+    <subfield code="b">CIP t.p. (Harald Klingemann) bk. t.p. (H. Klingemann)</subfield>
+  </datafield>
+</record>
