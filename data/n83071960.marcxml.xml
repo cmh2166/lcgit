@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01101cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  83071960 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120809081937.0</controlfield>
+  <controlfield tag="008">830511n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83071960 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00953882</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1736</subfield>
+    <subfield code="g">1765</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Morell, Charles,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1736-1765</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Morell, Carl,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1736-1765</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Neighbour,</subfield>
+    <subfield code="d">1736-1765</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Ridley, James,</subfield>
+    <subfield code="d">1736-1765</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Scelter, Helter van,</subfield>
+    <subfield code="d">1736-1765</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van Scelter, Helter,</subfield>
+    <subfield code="d">1736-1765</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The history of James Lovegrove ... 1761.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His tales of the genii, 1895:</subfield>
+    <subfield code="b">t.p. (Sir Charles Morell) [Info. from InU]</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The schemer, 1763:</subfield>
+    <subfield code="b">t.p. (the great philosopher, Helter van Scelter)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The contrast, 1764:</subfield>
+    <subfield code="b">(a neighbour)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB</subfield>
+    <subfield code="b">(Ridley, James, 1736-1765)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Horams, des Sohnes Asmars, anmuthige Unterweisungen ... 1765: t.p. (Sir Carl Morell)</subfield>
+  </datafield>
+</record>
