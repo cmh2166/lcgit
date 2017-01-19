@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00468cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  80057925 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090207080258.0</controlfield>
+  <controlfield tag="008">800624n| acannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80057925 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00439652</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Wyoming.</subfield>
+    <subfield code="b">Judicial Planning Committee</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">AACR 1 form: Wyoming. Judicial Planning Committee</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Wyoming courts, May/June 1979:</subfield>
+    <subfield code="b">p. 4 (Judicial Planning Committee of Wyoming)</subfield>
+  </datafield>
+</record>
