@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01167cz  a2200241n  4500</leader>
+  <controlfield tag="001">n  86040219 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313090842.0</controlfield>
+  <controlfield tag="008">861217n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86040219 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1745~</subfield>
+    <subfield code="g">1811</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boutillier,</subfield>
+    <subfield code="c">M.</subfield>
+    <subfield code="q">(Maximilien Jean),</subfield>
+    <subfield code="d">approximately 1745-1811</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Maximilien Jean</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Boutellier,</subfield>
+    <subfield code="c">M.</subfield>
+    <subfield code="q">(Maximilien Jean),</subfield>
+    <subfield code="d">approximately 1745-1811</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Boutellier, Maximilien Jean,</subfield>
+    <subfield code="d">approximately 1745-1811</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Boutillier,</subfield>
+    <subfield code="c">C.</subfield>
+    <subfield code="q">(Maximilien Jean),</subfield>
+    <subfield code="d">approximately 1745-1811</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Boutillier,</subfield>
+    <subfield code="c">M.</subfield>
+    <subfield code="q">(Maximilien Jean),</subfield>
+    <subfield code="d">ca. 1745-1811</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Boutillier, Maximilien Jean,</subfield>
+    <subfield code="d">approximately 1745-1811</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Pauline et Henri [MI] 19--:</subfield>
+    <subfield code="b">t.p. (C. Boutillier)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(hdg.: Boutillier, Maximilien Jean, ca. 1745-1811; usage: M. Boutillier; variants: Boutillier, Maximilien Jean; Boutillier, Maximilien Jean, 1745-1811)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Le laboureur devenu gentilhomme, 1771:</subfield>
+    <subfield code="b">t.p. (M. Boutellier)</subfield>
+  </datafield>
+</record>
