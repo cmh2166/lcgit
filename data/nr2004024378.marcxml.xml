@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00913nz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2004024378</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040817033109.0</controlfield>
+  <controlfield tag="008">040813n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004024378</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)sc08321</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-RivES</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU-RivES</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Church of England.</subfield>
+    <subfield code="b">Archdeaconry of Durham.</subfield>
+    <subfield code="b">Archdeacon (1619-1660 : Clarke)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Articles, to be enquired of by the minister, church-wardens and side-men, of every parish and precinct within the archdeaconry of Durham. Which were given in charge, in the annuall visitation of the right Worshipfull Master Gabriel Clarke, Doctor in Divinitie and of our Lord God, one thousand six hundred thirty and six, 1636.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Alumni Cantab.:</subfield>
+    <subfield code="b">pt. 1 (Clarke, Gabriel; matric. Christ Church 1606 aged 17; Archdeacon of Durham 1619; deprived of his preferments, but reinstated 1660; died 1662)</subfield>
+  </datafield>
+</record>
