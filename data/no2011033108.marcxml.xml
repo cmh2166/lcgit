@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00460nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2011033108</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110304075416.0</controlfield>
+  <controlfield tag="008">110302n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2011033108</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08784362</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Szczepanowski, StanisĹaw,</subfield>
+    <subfield code="d">1811-1877.</subfield>
+    <subfield code="t">Mazurka,</subfield>
+    <subfield code="m">guitar,</subfield>
+    <subfield code="r">D major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Szczepanowski, S. Introduction et variations brillantes sur un air national, c2010:</subfield>
+    <subfield code="b">t.p. (Mazur na gitareĚ¨)</subfield>
+  </datafield>
+</record>
