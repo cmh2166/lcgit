@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00951nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013059259</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130602070942.0</controlfield>
+  <controlfield tag="008">130531n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013059259</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09485638</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CtY</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">2011</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Yale University.</subfield>
+    <subfield code="b">Nanobiology Institute</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Cytology</subfield>
+    <subfield code="a">Biomedical engineering</subfield>
+    <subfield code="a">Ultrastructure (Biology)</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">West Campus (Research Park : Yale University)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Yale Nanobiology Institute</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Nanobiology Institute at Yale's West Campus, between 2012 and 2013?</subfield>
+    <subfield code="b">(founded 2011; one of the science institutes at the Yale West Campus science park)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Yale West Campus website, May 30, 2013:</subfield>
+    <subfield code="b">Nanobiology page (Nanobiology Institute; Yale Nanobiology Institute; result of the reorganization and consolidation of the West Campus Biodesign Institute)</subfield>
+    <subfield code="u">http://www.yale.edu/westcampus/science_inst_cell.html</subfield>
+  </datafield>
+</record>
