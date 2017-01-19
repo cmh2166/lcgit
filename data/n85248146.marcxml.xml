@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00824cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  85248146 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130109075741.0</controlfield>
+  <controlfield tag="008">870710n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85248146 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01893188</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NhD</subfield>
+    <subfield code="d">UPB</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19050202</subfield>
+    <subfield code="g">19900110</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wheeler, Lyle,</subfield>
+    <subfield code="d">1905-1990</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Woburn, Mass.</subfield>
+    <subfield code="b">Los Angeles, Calif.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">art director</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">production designer</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tom Sawyer [MP] 1938:</subfield>
+    <subfield code="b">credits (art direction, Lyle Wheeler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Performing arts biog. master index, 1981</subfield>
+    <subfield code="b">(Lyle Wheeler; b. 1905)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, July 8, 2006</subfield>
+    <subfield code="b">(Lyle R. Wheeler, b. Feb. 2, 1905 in Woburn, Mass.; d. Jan. 10, 1990 in Los Angeles, Calif.; art director, production designer)</subfield>
+  </datafield>
+</record>
