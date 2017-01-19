@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00672cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  78077011 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804080205.0</controlfield>
+  <controlfield tag="008">781019n| aaannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78077011 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00212383</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Jūyō Bunkazai Komatsu Temmangū Shūri Iinkai</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Ishikawa, Japan (Prefecture).</subfield>
+    <subfield code="b">Jūyō Bunkazai Komatsu Temmangū Shūri Iinkai</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Jūyō bunkazai Komatsu ... 1964:</subfield>
+    <subfield code="b">t.p. (Jūyō Bunkazai Komatsu Temmangū Shūri Iinkai) spine (imp.: Ishikawa-ken)</subfield>
+  </datafield>
+</record>
