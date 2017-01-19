@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00469nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2008053125</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080806075126.0</controlfield>
+  <controlfield tag="008">080805n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008053125</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kinkel, Johanna,</subfield>
+    <subfield code="d">1810-1858.</subfield>
+    <subfield code="t">Lieder,</subfield>
+    <subfield code="n">op. 18</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kinkel, Johanna. 32 songs, p2006:</subfield>
+    <subfield code="b">insert (StuĚrmisch Wandern op. 18/6)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New Grove online, Aug. 5,2008</subfield>
+    <subfield code="b">(6 Lieder (G. Kinkel, Mathieux, Geibel), op.18 (Berlin, 1843))</subfield>
+  </datafield>
+</record>
