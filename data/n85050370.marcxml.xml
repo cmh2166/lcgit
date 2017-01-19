@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00697cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85050370 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130315092745.0</controlfield>
+  <controlfield tag="008">860905n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85050370 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">16</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Aquila, Pietro,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Aquila, Petrus,</subfield>
+    <subfield code="d">active 17th century</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Aquila, Pietro,</subfield>
+    <subfield code="d">17th cent.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Imagines Veteris ac Novi Testamenti, 1983:</subfield>
+    <subfield code="b">engr. t.p. (Petrus Aquila)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 9-3-86</subfield>
+    <subfield code="b">(hdg.: Aquila, Pietro, 17th cent.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mussini, M. La Bibbia di Raffaello, c1979:</subfield>
+    <subfield code="b">p. 73 (Pietro Aquila; b. according to L. Lanzi in Marsala probably around 1640)</subfield>
+  </datafield>
+</record>
