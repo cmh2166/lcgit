@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00882nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2015025726</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150226073512.0</controlfield>
+  <controlfield tag="008">150224n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015025726</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10096739</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Nz</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Nz</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Fearon, S. E.</subfield>
+    <subfield code="q">(Sara E.)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Sara E.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Fearon, Sara E.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sky lily, via National Library of New Zealand's Digital Archive, viewed on January 22, 2015:</subfield>
+    <subfield code="b">January 22, PDF title page (S.E. Fearon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">S.E. Fearon WWW site, viewed on January 22, 2015:</subfield>
+    <subfield code="b">about page (born in the United Kingdom; family immigrated to New Zealand shortly after first birthday and have been here ever since; a writer, hobbyist and gamer)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Google+ WWW site, viewed on January 22, 2015:</subfield>
+    <subfield code="b">Sara Fearon profile page (Sara Fearon; attended UNITEC; lives in Auckland)</subfield>
+  </datafield>
+</record>
