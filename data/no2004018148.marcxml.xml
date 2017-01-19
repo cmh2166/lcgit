@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00739cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2004018148</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081023082505.0</controlfield>
+  <controlfield tag="008">040226n| acannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004018148</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06281777</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU-J</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU-J</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PJ5053.B76</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Broides, Yitsḥaḳ,</subfield>
+    <subfield code="d">1880-1946</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brojdes, Isaac,</subfield>
+    <subfield code="d">1880-1946</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">ברוידס, יצחק,</subfield>
+    <subfield code="d">1880־1946</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Agadot Yerushalayim de-Liṭa, 1946 or 1947:</subfield>
+    <subfield code="b">t.p. (Yitsḥaḳ Broides)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 25, 2004</subfield>
+    <subfield code="b">(hdg.: Brojdes, Isaac, 1880-1946; usage: Yitsḥaḳ Broides)</subfield>
+  </datafield>
+</record>
