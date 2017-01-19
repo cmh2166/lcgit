@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00552nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2013184298</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130626044102.0</controlfield>
+  <controlfield tag="008">130626n| azannaabn          |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013184298</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DNLM)1571725</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">20121028</subfield>
+    <subfield code="t">20121101</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">NestleĚ Nutrition Workshop</subfield>
+    <subfield code="n">(77th :</subfield>
+    <subfield code="d">2012 :</subfield>
+    <subfield code="c">Panama, Panama)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="f">Panama, Panama</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The importance of immunonutrition, 2013:</subfield>
+    <subfield code="b">ECIP galley (77th NestleĚ Nutrition Institute Workshop, October 28th to November 1st 2012, Panama City)</subfield>
+  </datafield>
+</record>
