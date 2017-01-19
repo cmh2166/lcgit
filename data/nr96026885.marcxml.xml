@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01080cz  a2200205n  4500</leader>
+  <controlfield tag="001">nr 96026885 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312103311.0</controlfield>
+  <controlfield tag="008">960724n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 96026885 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)wb012579</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1647</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leith, Patrick,</subfield>
+    <subfield code="d">-1647</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Leith, Patrick,</subfield>
+    <subfield code="d">d. 1647</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Leithe, Patt.</subfield>
+    <subfield code="q">(Patrick),</subfield>
+    <subfield code="d">-1647</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His The noble resolution, delivered in a paper thrown over the scaffold at Edenborough, by Patt. Leithe of Hearthill; one of the commanders of His Majesties forces in the kingdom of Scotland, at his death, not being permitted to deliver himselfe in vvords. The. 26. of October, 1647. Sent in a letter from Scotland, 1647.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Anderson, W. The Scottish nation, 1863</subfield>
+    <subfield code="b">(Leith, the surname of a family of great antiquity in Scotland ... which settled in Aberdeenshire, where there are several branches of it)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Paul, J. The Scots peerage:</subfield>
+    <subfield code="b">vol. 1, p. 290 (Patrick Leith of Harthill)</subfield>
+  </datafield>
+</record>
