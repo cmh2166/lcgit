@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00563cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003083599</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120314075121.0</controlfield>
+  <controlfield tag="008">030820n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003083599</subfield>
+    <subfield code="z">no2012028677</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06131892</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kohler, Volker</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Africa, 2001:</subfield>
+    <subfield code="b">t.p. (Volker Kohler) foreword (Professor Volker Kohler) t.p. verso (Dr. Volker Kohler)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gemeinschaftsrechtliche Infrastrukturverantwortung der Mitgliedstaaten im Rahmen des Wettbewerbs, 2011:</subfield>
+    <subfield code="b">t.p. (von Volker KoĚhler)</subfield>
+  </datafield>
+</record>
