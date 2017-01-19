@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00756cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  97871805 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150428162852.0</controlfield>
+  <controlfield tag="008">971107n| azannaabn           n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97871805 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(NN-PD)NN 301088779</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04522144</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NN-PD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NN-PD</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3607.R42934</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Greco, Stephen</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Writer.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data contributed by the Dance Heritage Coalition for the New York Public Library Dance Collection.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">*MGZA  Dance magazine. Nov 1980, p 10.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Now and yesterday, [2014]</subfield>
+    <subfield code="b">t.p. (Stephen Greco); about the author (arts and entertainment journalist by trade; has written for Dancemagazine and several other arts publications; novel)</subfield>
+  </datafield>
+</record>
