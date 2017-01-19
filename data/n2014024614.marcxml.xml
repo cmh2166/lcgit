@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00639nz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2014024614</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140502112106.0</controlfield>
+  <controlfield tag="008">140502n| azannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014024614</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Ch'ungnyŏlgong Kim Pang-gyŏng Charyo Chipsŏng Kanhaeng Wiwŏnhoe</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">충렬공 김 방경 자료 집성 간행 위원회</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ch'ungnyŏlgong Kim Pang-gyŏng charyo chipsŏng, 2012:</subfield>
+    <subfield code="b">colophon (충렬공 김 방경 자료 집성 간행 위원회 = Ch'ungnyŏlgong Kim Pang-gyŏng Charyo Chipsŏng Kanhaeng Wiwŏnhoe)</subfield>
+  </datafield>
+</record>
