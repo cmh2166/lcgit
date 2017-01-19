@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01115cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2006033351</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060428131329.0</controlfield>
+  <controlfield tag="008">060428n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006033351</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">País Vasco (Spain).</subfield>
+    <subfield code="b">Irargi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Irargi (Agency : País Vasco (Spain))</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Centro de Patrimonio Documental de Euskadi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">País Vasco (Spain).</subfield>
+    <subfield code="b">Departamento de Cultura.</subfield>
+    <subfield code="b">Irargi</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Euskadiko Dokumentu Ondarearen Zentroa</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Euskadiko Ondare Dokumentalaren Zentroa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Actas de las II Jornadas de Archivística de Euskadi, 1992:</subfield>
+    <subfield code="b">t.p. verso (Administración de la Comunidad Autónoma de Euskadi; Dpto. de Cultura; IRARGI. Centro de Patrimonio Documental de Euskadi; Bergara) front flap (Irargi [in bold] // Centro de Patrimonio Documental de Euskadi [in smaller type, not bold])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Web site, Apr. 28, 2006:</subfield>
+    <subfield code="b">section in Spanish (Irargi. Centro de Patrimonio Documental de Euskadi) section in Basque (Irargi. Euskadiko Dokumentu Ondarearen Zentroa; IRARGI. Euskadiko Ondare Dokumentalaren Zentroak)</subfield>
+  </datafield>
+</record>
