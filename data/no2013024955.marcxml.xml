@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00796nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2013024955</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130308103318.0</controlfield>
+  <controlfield tag="008">130306n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013024955</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09421020</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burov, V. I︠U︡.</subfield>
+    <subfield code="q">(Vitaliĭ I︠U︡rʹevich)</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">rus</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Буров, В. Ю.</subfield>
+    <subfield code="q">(Виталий Юрьевич)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Burov, Vitaliĭ I︠U︡rʹevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Буров, Виталий Юрьевич</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Maloe predprinimatelʹstvo v Zabaĭkalʹskom krae, 2011:</subfield>
+    <subfield code="b">t.p. (В.Ю. Буров = V.I︠U︡. Burov) colophon (Буров Виталий Юрьевич = Burov Vitaliĭ I︠U︡rʹevich)</subfield>
+  </datafield>
+</record>
