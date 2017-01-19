@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00555cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014012446</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140226142729.0</controlfield>
+  <controlfield tag="008">140129n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014012446</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09669384</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">OU</subfield>
+    <subfield code="d">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wendt, Kyle Andrew,</subfield>
+    <subfield code="d">1984-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Advances in the application of the similarity renormalization group to strongly interacting systems, ÂŠ2013:</subfield>
+    <subfield code="b">title page (Kyle Andrew Wendt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC database, January 29, 2014</subfield>
+    <subfield code="b">(access point: Wendt, Kyle, 1984- ; usage: Kyle Wendt)</subfield>
+  </datafield>
+</record>
