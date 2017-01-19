@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00747nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010145040</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100909075249.0</controlfield>
+  <controlfield tag="008">100907n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010145040</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08616323</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkOxU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Broadcast Committee of Advertising Practice (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">BCAP</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Committee of Advertising Practice (Great Britain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The BCAP code, c2010:</subfield>
+    <subfield code="b">t.p. verso (Broadcast Committee of Advertising Practice) t.p. (BCAP)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Committee of Advertising Practice WWW site, Sept. 06, 2010</subfield>
+    <subfield code="b">FAQs page (BCAP  was est. in Nov. 2004; inherited from Ofcom the existing TV and Radio Advertising Codes previously subject to statutory regulation)</subfield>
+  </datafield>
+</record>
