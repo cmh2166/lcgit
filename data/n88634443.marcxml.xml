@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00672cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88634443 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316085118.0</controlfield>
+  <controlfield tag="008">880509n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88634443 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1796</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leeds, Joseph,</subfield>
+    <subfield code="d">1796-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Leeds, Joseph,</subfield>
+    <subfield code="d">b. 1796</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc88-55527: His An address delivered before the ... [MI] 1831</subfield>
+    <subfield code="b">(hdg. on GEU-T rept.: Leeds, Joseph)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Nantucket Hist. Assoc., Research Center for Leeds family papers/Leeds Mitchell collection, 1825-1888</subfield>
+    <subfield code="b">(Joseph Leeds; b. 1796; of Dorchester, Mass.; wife: Arethusa; children moved to Nantucket, Mass.)</subfield>
+  </datafield>
+</record>
