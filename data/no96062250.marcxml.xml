@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00641cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  98051282 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060324105131.0</controlfield>
+  <controlfield tag="008">980604n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  98051282 </subfield>
+    <subfield code="z">no 96062250 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04744314</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">TxU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Carter, Mia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Imperialism and Orientalism, 1999:</subfield>
+    <subfield code="b">CIP t.p. (Mia Carter) galley (assoc. prof. of English, Univ. of Texas at Austin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Archives of Empire, c2003- :</subfield>
+    <subfield code="b">ECIP t.p. (Mia Carter) data view (b. 02/11/1960)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shades of jazz, 1992:</subfield>
+    <subfield code="b">t.p. (Mia Elizabeth Carter) p. 190 (b. Feb. 11, 1960 in Worcester, Mass.)</subfield>
+  </datafield>
+</record>
