@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  94033107 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19991015140310.0</controlfield>
+  <controlfield tag="008">940405n| acannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  94033107 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Brewer, William D.</subfield>
+    <subfield code="q">(William Dean)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Shelley-Byron conversation, c1994:</subfield>
+    <subfield code="b">CIP t.p. (William D. Brewer) galley (Appalachian State Univ., Boone)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">WW in the S&amp;SW, 1993</subfield>
+    <subfield code="b">(William Dean Brewer, Appalachian State Univ., Boone)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mapping male sexuality, c2000:</subfield>
+    <subfield code="b">CIP t.p. (William D. Brewer) CIP data sheet, etc. (b. July 13, 1955; prof. of English, Appalachian State Univ.)</subfield>
+  </datafield>
+</record>
