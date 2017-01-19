@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00631cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  97099768 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160406075404.0</controlfield>
+  <controlfield tag="008">971001n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97099768 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04463956</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Breide Obeid, Marcelo Luis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Obeid, Marcelo Luis Breide</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Vocación del militar cristiano, c1994:</subfield>
+    <subfield code="b">t.p. (Marcelo Luis Breide Obeid)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">El trabajo del médico y la mala praxis, 2013:</subfield>
+    <subfield code="b">t.p. (Marcelo Luis Breide Obeid) cover (Marcelo Breide Obeid) p. facing t.p. (Doctor en Ciencias Jurídicas y Sociales (UMSA))</subfield>
+  </datafield>
+</record>
