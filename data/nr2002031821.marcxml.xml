@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00399nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2002031821</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20020828033132.0</controlfield>
+  <controlfield tag="008">020827n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2002031821</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">StEdNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">StEdNL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hesketh, E. Anne</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hesketh, E. A.</subfield>
+    <subfield code="q">(E. Anne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Study guides : their use and preparation, c1999:</subfield>
+    <subfield code="b">t.p. (E. Anne Hesketh) cover (E.A. Hesketh)</subfield>
+  </datafield>
+</record>
