@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00443nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2005005897</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050521063106.0</controlfield>
+  <controlfield tag="008">050520n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2005005897</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)006189278</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Robbins, Peter</subfield>
+    <subfield code="q">(Peter W.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Driving test questions and answers, 2004:</subfield>
+    <subfield code="b">t.p. (Peter Robbins, D.O.T.A.D.I.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BL auth. file, 20 May 2005</subfield>
+    <subfield code="b">(hdg.: Robbins, Peter W.)</subfield>
+  </datafield>
+</record>
