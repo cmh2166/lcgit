@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00856cz  a2200169n  4500</leader>
+  <controlfield tag="001">no 97055151 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120804084246.0</controlfield>
+  <controlfield tag="008">970922n| acannaab           |a ana     a</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97055151 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04442286</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNAL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DNAL</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">APO Multi-Country Study Mission on Information Technology and Rural Development</subfield>
+    <subfield code="d">(1995 :</subfield>
+    <subfield code="c">Tokyo, Japan)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Multi-Country Study Mission on Information Technology and Rural Development, APO</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Study Mission on Information Technology and Rural Development, APO Multi-Country</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information technology and rural development in Asia-Pacific region, 1997:</subfield>
+    <subfield code="b">t.p. verso (APO Multi-Country Study Mission on Information Technology and Rural Development)</subfield>
+  </datafield>
+</record>
