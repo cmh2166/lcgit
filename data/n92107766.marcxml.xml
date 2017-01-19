@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00314nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  92107766 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19921103171144.0</controlfield>
+  <controlfield tag="008">921103n| acannaab|          |n ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  92107766 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="c">CU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">West-Ost-Kulturwerk</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aussiedlerforschung, 1992:</subfield>
+    <subfield code="b">cover (West-Ost-Kulturwerk e.V.)</subfield>
+  </datafield>
+</record>
