@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01011cz  a2200229n  4500</leader>
+  <controlfield tag="001">n 2005076557</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20051014144126.0</controlfield>
+  <controlfield tag="008">051013n| acabbaaan          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005076557</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Marc Tolon.</subfield>
+    <subfield code="t">Libro de capítulos de Arturo de Marc Brown</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Krensky, Stephen.</subfield>
+    <subfield code="t">Libro de capítulos de Arturo de Marc Brown</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Libro de capítulos de Arturo de Marc Brown</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Marc Tolon.</subfield>
+    <subfield code="t">Marc Brown Arthur chapter book</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">New York</subfield>
+    <subfield code="b">Lectorum</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Krensky, Stephen. Francisca, increíble, pero cierto!, 2006:</subfield>
+    <subfield code="b">ECIP t.p. (Un libro de capítulos de Arturo de Marc Brown)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail from pub., Oct. 13, 2005:</subfield>
+    <subfield code="b">(not all books in the entire Marc Brown Arthur chapter book series will be translated into Spanish)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Krensky, Stephen. Francine, believe it or not, c1999: t.p. (A Marc Brown Arthur chapter book)</subfield>
+  </datafield>
+</record>
