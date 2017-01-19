@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00564nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2003013121</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030212052958.0</controlfield>
+  <controlfield tag="008">030211n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003013121</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05971399</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WlAbNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">WlAbNL</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Welsh Electronics Forum</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Fforwm Electroneg Cymraeg</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">WEF</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">W.E.F.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Welsh Electronics Forum WWW homepage, 31 Jan. 2003 :</subfield>
+    <subfield code="b">(Welsh Electronics Forum; WEF)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wales on the Web WWW Website 31 Jan. 2003 :</subfield>
+    <subfield code="b">(Fforwm Electroneg Cymraeg)</subfield>
+  </datafield>
+</record>
