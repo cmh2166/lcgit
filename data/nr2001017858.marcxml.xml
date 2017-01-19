@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00410nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2001017858</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010816033110.0</controlfield>
+  <controlfield tag="008">010510n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001017858</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MWA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtWfDGI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Knox, Calvin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mar Quack, M. A brief review of the First annual report of the American Anti-Slavery Society, 1834:</subfield>
+    <subfield code="b">t.p. (Calvin Knox; printer and publisher at Boston)</subfield>
+  </datafield>
+</record>
