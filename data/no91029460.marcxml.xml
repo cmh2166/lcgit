@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00817cz  a2200205n  4500</leader>
+  <controlfield tag="001">no 91029460 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316093959.0</controlfield>
+  <controlfield tag="008">911209n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 91029460 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1736</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mallet, Jean-Roland,</subfield>
+    <subfield code="d">-1736</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Malet, Jean-Roland,</subfield>
+    <subfield code="d">-1736</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Malet,</subfield>
+    <subfield code="c">M.</subfield>
+    <subfield code="q">(Jean-Roland),</subfield>
+    <subfield code="d">-1736</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Mallet, Jean-Roland,</subfield>
+    <subfield code="d">d. 1736</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mallet,</subfield>
+    <subfield code="c">M.</subfield>
+    <subfield code="q">(Jean-Roland),</subfield>
+    <subfield code="d">-1736</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Comptes rendus de l'administration des finances du royaume de France ... 1789:</subfield>
+    <subfield code="b">t.p. (M. Mallet, premier commis des finances sous M. Desmaretz)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grande encyc.</subfield>
+    <subfield code="b">(Mallet, Jean-Roland; d. 4-12-1736)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bib. nat.</subfield>
+    <subfield code="b">(hdg.: Malet, Jean-Roland; see ref. from: Mallet, Jean-Roland; usage: M. Malet)</subfield>
+  </datafield>
+</record>
