@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00482cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008140625</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081106083030.0</controlfield>
+  <controlfield tag="008">080909n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008140625</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07889754</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGU-L</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Valverde, Gustavo Sampaio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sampaio Valverde, Gustavo</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coisa julgada em matéria tributária, 2004:</subfield>
+    <subfield code="b">t.p. (Gustavo Sampaio Valverde; especialista em direito tributário pela PUC-SP)</subfield>
+  </datafield>
+</record>
