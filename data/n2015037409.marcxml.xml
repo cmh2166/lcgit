@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00647cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2015037409</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150728090414.0</controlfield>
+  <controlfield tag="008">150612n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2015037409</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19560303</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Alessi, Glen Michael,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="378" ind1=" " ind2=" ">
+    <subfield code="q">Glen Michael</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Alessi, Glen,</subfield>
+    <subfield code="d">1956-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The ins and outs of business and professional discourse research, 2015:</subfield>
+    <subfield code="b">ECIP t.p. (Glen Alessi, University of Modena and Reggio Emilia, Italy) data view screen (b. Mar. 3, 1956)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chang request per publisher, July 28, 2015:</subfield>
+    <subfield code="b">(author prefers Glen Michael Alessi)</subfield>
+  </datafield>
+</record>
