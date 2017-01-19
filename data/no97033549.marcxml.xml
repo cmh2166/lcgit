@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01179cz  a2200229n  4500</leader>
+  <controlfield tag="001">no 97033549 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131127073750.0</controlfield>
+  <controlfield tag="008">970602n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97033549 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04353430</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">ICU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OOC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1987</subfield>
+    <subfield code="t">2008</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Dresdner Tage der zeitgenössischen Musik</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Music festivals</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Dresden (Germany)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Dresdner Zentrum für zeitgenössische Musik.</subfield>
+    <subfield code="b">Dresdner Tage der zeitgenössischen Musik</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Founder:</subfield>
+    <subfield code="a">Zimmermann, Udo,</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klang, Raum, Bewegung, c1996:</subfield>
+    <subfield code="b">p. 126 (Dresdner Tage der Zeitgenössischen Musik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Das Deutsche in der Musik, c1997:</subfield>
+    <subfield code="b">t.p. (5. Dresdner Tage der Zeitgenössischen Musik) p. 3 (sponsored by Dresdner Zentrum für Zeitgenössische Musik)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, November 26, 2013</subfield>
+    <subfield code="b">(Dresdner Tage der zeitgenössischen Musik; known since 2009 as TonLagen - Dresdner Festival der zeitgenössischen Musik; held annually in Dresden; begun in 1987 by Udo Zimmermann, founder of the Dresdner Zentrum für zeitgenössische Musik (DZzM))</subfield>
+  </datafield>
+</record>
