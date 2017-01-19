@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00869cz  a2200193n  4500</leader>
+  <controlfield tag="001">no2014119642</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140918073758.0</controlfield>
+  <controlfield tag="008">140910n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014119642</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09957246</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">GU-Mu</subfield>
+    <subfield code="d">GU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Locatelli, Pietro Antonio,</subfield>
+    <subfield code="d">1695-1764.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">flute, continuo,</subfield>
+    <subfield code="n">op. 2.</subfield>
+    <subfield code="n">No. 5;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">saxophone</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">guitar</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">2</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 2, no. 5</subfield>
+  </datafield>
+  <datafield tag="384" ind1="0" ind2=" ">
+    <subfield code="a">D major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Locatelli, Pietro Antonio,</subfield>
+    <subfield code="d">1695-1764.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">saxophone, guitar,</subfield>
+    <subfield code="r">D major</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Convergence, 2013:</subfield>
+    <subfield code="b">container (Sonata in D-dur; movements: 1, Vivace ; 2, Largo ; 3, Allegro)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Locatelli, Pietro Antonio. Dodici sonate a flauto traversiere solo e basso, op. II, 1975:</subfield>
+    <subfield code="b">v. 1, pages 39-43 (Sonata V; in D major; movements: 1, Vivace ; 2, Largo ; 3, Allegro)</subfield>
+  </datafield>
+</record>
