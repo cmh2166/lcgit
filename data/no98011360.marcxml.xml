@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749nz  a2200181n  4500</leader>
+  <controlfield tag="001">no 98011360 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19980113051401.6</controlfield>
+  <controlfield tag="008">980112n| acannaab|          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98011360 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04587315 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DHMM</subfield>
+    <subfield code="c">DHMM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Kamp Erika bij Ommen (Concentration camp)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Concentratiekamp "Erika" te Ommen</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Erika (Concentration camp)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Knackers achter prikkeldraad, 1994:</subfield>
+    <subfield code="b">t.p. (Kamp Erika bij Ommen, 1941-1945)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 6 Jan. 1998</subfield>
+    <subfield code="b">(hdg.: Erika (Concentration camp); usage: nederlandsche concentratiekamp "Erika" te Ommen)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Das nationalsozialistische Lagersystem, 1990;</subfield>
+    <subfield code="a">Verzeichnis der HaftstaĚtten unter dem ReichsfuĚhrer-SS (1933-1945), 1979</subfield>
+  </datafield>
+</record>
