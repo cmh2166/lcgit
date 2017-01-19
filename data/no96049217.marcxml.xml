@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00461nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 96049217 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19960927051513.2</controlfield>
+  <controlfield tag="008">960926n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 96049217 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04169781 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PPi-MA</subfield>
+    <subfield code="c">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gastor, Paco del</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Del Gastor, Paco</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gastor, P. del. Flamenco de la Frontera [SR] p1992:</subfield>
+    <subfield code="b">label (Paco del Gastor) insert (b. MoroĚn de la Frontera, Andalusia; guitarist)</subfield>
+  </datafield>
+</record>
