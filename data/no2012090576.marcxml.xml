@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00748cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012090576</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120821075755.0</controlfield>
+  <controlfield tag="008">120705n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012090576</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09241764</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MdU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Workshop on Parallel Programming and Run-Time Management Techniques for Many-Core Architectures</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">PARMA</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ARCS 2012 workshops 28. Februar - 2. MaĚrz 2012, MuĚnchen, Germany, 2012, via WWW, June 28, 2012:</subfield>
+    <subfield code="b">PDF message from the chairs page (PARMA, 3rd Workshop on Parallel Programming and Run-Time Management Techniques for Many-Core Architectures)</subfield>
+  </datafield>
+</record>
