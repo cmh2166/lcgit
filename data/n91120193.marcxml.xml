@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00496cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  91120193 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19911126092802.2</controlfield>
+  <controlfield tag="008">911126n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91120193 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Fox Valley Technical College</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">FVTC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Spanbauer, S.J. Quality system for education, c1992:</subfield>
+    <subfield code="b">CIP t.p. (Fox Valley Technical College) galley (FVTC)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">HEP, 1991:</subfield>
+    <subfield code="b">p. 378 (Fox Valley Technical College, Appleton, WI; two-year college)</subfield>
+  </datafield>
+</record>
