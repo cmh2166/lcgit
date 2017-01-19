@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00618cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89613515 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19891026100947.0</controlfield>
+  <controlfield tag="008">890308n| acannaab|          |a and |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89613515 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Tanzania.</subfield>
+    <subfield code="b">Drafting Office for New Building Regulations</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Tanzania.</subfield>
+    <subfield code="b">Office for New Building Regulations, Drafting</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="a">Tanzania.</subfield>
+    <subfield code="b">New Building Regulations, Drafting Office for</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-23202: Seismicity in Tanzania [MI] 1975</subfield>
+    <subfield code="b">(hdg. on NN rept.: Tanzania. Drafting Office for New Building Regulations; usage:  Drafting Office for New Building Regulations)</subfield>
+  </datafield>
+</record>
