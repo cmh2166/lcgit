@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00883cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  78012545 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050128052256.0</controlfield>
+  <controlfield tag="008">780315n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78012545 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00149027</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OOxM-Mu</subfield>
+    <subfield code="d">VtMiM-Mu</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Michigan.</subfield>
+    <subfield code="b">Symphony Orchestra</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">University of Michigan Symphony Orchestra</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Michigan.</subfield>
+    <subfield code="b">School of Music.</subfield>
+    <subfield code="b">Symphony Orchestra</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Michigan.</subfield>
+    <subfield code="b">University Symphony Orchestra</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">USO</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thompson, R. Americana [SR] p1977 (a.e.)</subfield>
+    <subfield code="b">label (Members of the University of Michigan Symphony Orchestra)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bolcom, W. Songs of innocence and of experience [SR] p2004:</subfield>
+    <subfield code="b">label (University of Michigan School of Music Symphony Orchestra) booklet (University of Michigan University Symphony Orchestra; USO)</subfield>
+  </datafield>
+</record>
