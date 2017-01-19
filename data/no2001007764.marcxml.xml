@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00475nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001007764</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010131070034.0</controlfield>
+  <controlfield tag="008">010130n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001007764</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05404544</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSU-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wells, Elizabeth M.,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tax aspects of divorce in Illinois, c2000:</subfield>
+    <subfield code="b">t.p. (Elizabeth M. Wells)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Martindale-Hubbell lawyer locator, Jan. 29, 2001</subfield>
+    <subfield code="b">(Elizabeth M. Wells; b. 1954)</subfield>
+  </datafield>
+</record>
