@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00513nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2013062234</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131021144034.0</controlfield>
+  <controlfield tag="008">131021n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013062234</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Evans, Brian R.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The development of mathematics throughout the centuries, 2014:</subfield>
+    <subfield code="b">t.p. (Brian R. Evans; School of Education, Pace University, New York, NY)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pace University, School of Education, viewed Oct. 21, 2013</subfield>
+    <subfield code="b">(Brian Evans; EdD, Temple University)</subfield>
+  </datafield>
+</record>
