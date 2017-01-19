@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00529cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008122704</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326115314.0</controlfield>
+  <controlfield tag="008">080822n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008122704</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07858163</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxU-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Daedelus</subfield>
+    <subfield code="c">(Musician)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Weisberg-Roberts, Alfred</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Love to make music to [SR] p2008:</subfield>
+    <subfield code="b">label (Daedelus)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">All music guide WWW site, Aug. 22, 2008</subfield>
+    <subfield code="b">(Daedelus; b. Alfred Weisberg-Roberts in Santa Monica, Calif.)</subfield>
+  </datafield>
+</record>
