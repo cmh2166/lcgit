@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00668nz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2008008625</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080206075051.0</controlfield>
+  <controlfield tag="008">080205n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2008008625</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dinkgräfe, Ursula,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Meyer-Dinkgräfe, Ursula,</subfield>
+    <subfield code="d">1927-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Meyer-Dinkgräfe, Daniel. Ein Kabinettstück der Schauspielkunst, 2007:</subfield>
+    <subfield code="b">t.p. (Ursula Dinkgräfe) p. 26 (Ursula Meyer-Dinkgräfe; b. 27 April 1927 in Visselhoevede)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet movie database, Feb. 5, 2008:</subfield>
+    <subfield code="b">(Ursula Dinkgräfe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Google, Feb. 5, 2008:</subfield>
+    <subfield code="b">(Ursula Meyer-Dinkgräfe: 2 hits; Ursula Dinkgräfe: 190 hits)</subfield>
+  </datafield>
+</record>
