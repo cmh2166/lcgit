@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00617nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2001041575</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010524071101.0</controlfield>
+  <controlfield tag="008">010523n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2001041575</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05494379</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CLU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Diakonie Stetten</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">Anstalt Stetten, Heime und AusbildungsstaĚtten fuĚr Behinderte, Kernen im Remstal</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ihr seid Christen, und ich - nur ein Mensch, 2000:</subfield>
+    <subfield code="b">t.p. verso (Diakonie Stetten e.V., Schlossberg 2, 71394 Kernen i.R.) p. 4 (Diakonie Stetten, 71394 Kernen im Remstal) p. 5 (Diakonie Stetten, die ehemalige Anstalt Stetten)</subfield>
+  </datafield>
+</record>
