@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00619nz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2013051099</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130814132023.0</controlfield>
+  <controlfield tag="008">130814n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013051099</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Dorothy Purdy,</subfield>
+    <subfield code="d">1908-2010</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Library of Congress Manuscript Division for the James McCauley Landis papers, 1916-2004</subfield>
+    <subfield code="b">(Dorothy Purdy Brown; Landis's second wife)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Syracuse Post Standard, Sept. 3, 2010</subfield>
+    <subfield code="b">(Dorothy Purdy Brown; born in Quincy, Mass., on April 12, 1908; died Sept. 3, 2010; graduate of Columbia University; taught English in Bronxville, N.Y.)</subfield>
+  </datafield>
+</record>
