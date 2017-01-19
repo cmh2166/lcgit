@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00838nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2004020613</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040304052221.0</controlfield>
+  <controlfield tag="008">040303n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004020613</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06286860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">ICU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Polski Czerwony Krzyż.</subfield>
+    <subfield code="b">Predstavitelʹstvo v Moskve</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Polski Czerwony Krzyż.</subfield>
+    <subfield code="b">Delegatura w Moskwie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Bi︠u︡ro Polʹskogo Krasnogo Kresta v Moskve</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Delegatura PCK w Moskwie</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Polish Red Cross in Moscow</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Predstavitelʹstvo Polʹskogo Krasnogo Kresta v Moskve</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">"Bez sądu, świadków i prawa--", c2002:</subfield>
+    <subfield code="b">t.p. (...Delegatury PCK w Moskwie) p. 363 etc. (Bi︠u︡ro Polʹskogo Krasnogo Kresta v Moskve; Predstavitelʹstvo Polʹskogo Krasnogo Kresta v Moskve; Polish Red Cross in Moscow)</subfield>
+  </datafield>
+</record>
