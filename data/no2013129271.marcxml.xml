@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00688nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2013129271</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131120073515.0</controlfield>
+  <controlfield tag="008">131119n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013129271</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09618673</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP-G</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP-G</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1948</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Marui, Keiji,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Aichi-ken, Japan</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Chiba Daigaku</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">jpn</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">丸井敬司,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chiba-shi to myōken shinkō, 2013:</subfield>
+    <subfield code="b">t.p. (丸井敬司 = Marui Keiji) colophon (r; born 1948 in Aichi-ken; Ph. D., Chiba Daigaku; lecturer, Chiba Daigaku)</subfield>
+  </datafield>
+</record>
