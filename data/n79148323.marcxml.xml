@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00516cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  79148323 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900517083154.1</controlfield>
+  <controlfield tag="008">800112n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79148323 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lazarov, Ivan,</subfield>
+    <subfield code="d">1929-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Old catalog hdg.: Lazarov, Ivan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Drawings by children of the Balkan countries, 1977 (a.e.)</subfield>
+    <subfield code="b">t.p. (Ivan Lazarov)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ent︠s︡. na izobrazitelnite izkustva v Bŭlgarii︠a︡, 1980:</subfield>
+    <subfield code="b">p. 512 (Lazarov, Ivan Asenov; b. 01-15-29)</subfield>
+  </datafield>
+</record>
