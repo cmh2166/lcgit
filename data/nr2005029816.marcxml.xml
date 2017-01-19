@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00909cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr2005029816</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150304073834.0</controlfield>
+  <controlfield tag="008">051214n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2005029816</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06808636</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UkOxU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sareen, Sushant</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">India</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">IDSA Pakistan Project</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Observer Research Foundation</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Consultants</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Sushant Sareen</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The jihad factory, 2005:</subfield>
+    <subfield code="b">t.p. (Sushant Sareen) jkt. (currently Associate Fellow with the Observer Research Foundation, Executive Editor for Public Opinion Trends, and Associate Editor (India) of the website southasianmedia.net)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Unending violence in Pakistan, August 2014, via WWW, viewed March 2, 2015:</subfield>
+    <subfield code="b">PDF page 129 (Sushant Sareen is a Consultant with the Pakistan Project)</subfield>
+  </datafield>
+</record>
