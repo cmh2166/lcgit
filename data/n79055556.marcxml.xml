@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01123cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  79055556 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150429073731.0</controlfield>
+  <controlfield tag="008">790628n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  79055556 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00288666</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">CMalG</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1874</subfield>
+    <subfield code="g">1947</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Uhde, Wilhelm,</subfield>
+    <subfield code="d">1874-1947</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Strzelce Krajeńskie (Poland)</subfield>
+    <subfield code="b">Paris (France)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Art</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Art--Collectors and collecting</subfield>
+    <subfield code="a">Art dealers</subfield>
+    <subfield code="a">Art critics</subfield>
+    <subfield code="a">Authors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Uhde, W.</subfield>
+    <subfield code="q">(Wilhelm),</subfield>
+    <subfield code="d">1874-1947</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">אוד, וילהלם,</subfield>
+    <subfield code="d">1874־1947</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Picasso and the French tradition ... c1929.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 5/9/90</subfield>
+    <subfield code="b">(hdg.: Uhde, Wilhelm, 1874-1947; usage: Wilhelm Uhde; W. Uhde)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wikipedia, viewed April 28, 2015</subfield>
+    <subfield code="b">(born 1874 in Friedeberg, Brandenburg, now Poland; died 1947 in Paris; German art collector, dealer, author and critic)</subfield>
+  </datafield>
+</record>
