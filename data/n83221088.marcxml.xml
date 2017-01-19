@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01185cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  83221088 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081024080123.0</controlfield>
+  <controlfield tag="008">830901n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83221088 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01027835</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">CSt</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kishkin, L. S.</subfield>
+    <subfield code="q">(Lev Sergeevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kishkin, Lev Sergeevich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kiškin, Lev</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Кишкин, Л. С.</subfield>
+    <subfield code="q">(Лев Сергеевич)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Also wrote poetry.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Includes the old catalog headings: Kishkin, Lev Sergeevich; Kishkin, L.S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Cheshsko-russkie literaturnye i kulʹturno-istoricheskie kontakty, 1983:</subfield>
+    <subfield code="b">t.p. (L.S. Kishkin) colophon (Lev Sergeevich Kishkin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8-29-83</subfield>
+    <subfield code="b">(hdg.: Kishkin, Lev Sergeevich; variant: Lev Kiškin; usage: L.S. Kishkin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10-20-93</subfield>
+    <subfield code="b">(hdg.: Kishkin, L.S.; usage: Lev Kiškin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nado veritʹ i li︠u︡bitʹ, 2000:</subfield>
+    <subfield code="b">t.p. (Lev Kishkin) t.p. verso (Kishkin L.S.) p. 3 (Lev Sergeevich Kishkin (1918-2000))</subfield>
+  </datafield>
+</record>
