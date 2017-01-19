@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00891nz  a2200169n  4500</leader>
+  <controlfield tag="001">n  89648857 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890831154909.0</controlfield>
+  <controlfield tag="008">890831n| acannaab|          |a ana ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89648857 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU</subfield>
+    <subfield code="c">CU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">La Trobe University.</subfield>
+    <subfield code="b">Seminar on the Sociology of Culture</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Seminar on the Sociology of Culture (La Trobe University)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Apparently not an academic seminar, but a standing body, legally empowered to copyright in its own name, that sponsors a lecture series with its own name, Conversazione.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Conversazione (Bundoora, Vic.). Rothblatt, S. The idea of the idea of a university ... 1989:</subfield>
+    <subfield code="b">p. 2 of cover (Seminar on the Sociology of Culture; La Trobe University, Bundoora, Australia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Aus. nat. bibl., 1987</subfield>
+    <subfield code="b">(Seminar on the Sociology of Culture (1986 : La Trobe University)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Commonwealth univ. yrbk., 1988</subfield>
+  </datafield>
+</record>
