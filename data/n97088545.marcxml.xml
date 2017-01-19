@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00551nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  97088545 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970904142217.4</controlfield>
+  <controlfield tag="008">970904n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97088545 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">American Society for Quality.</subfield>
+    <subfield code="b">Food, Drug, and Cosmetic Division</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">ASQ Food, Drug, and Cosmetic Division</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">American Society for Quality Control.</subfield>
+    <subfield code="b">Food, Drug &amp; Cosmetic Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Food processing industry quality system guidelines, 1998:</subfield>
+    <subfield code="b">CIP t.p. (ASQ Food, Drug, and Cosmetic Division)</subfield>
+  </datafield>
+</record>
