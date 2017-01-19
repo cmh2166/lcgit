@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00689cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85309210 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080614075615.0</controlfield>
+  <controlfield tag="008">860409n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85309210 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01579718</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ruíz Urrestarazu, Eugenio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ruíz de Urrestarazu, Eugenio</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">De Urrestarazu, Eugenio Ruíz</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Urrestarazu, Eugenio Ruíz</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His La transición climática del Cantábrico Oriental al Valle Medio del Ebro, 1982?:</subfield>
+    <subfield code="b">t.p. (Eugenio Ruíz Urrestarazu)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Espacio y sociedad rural en Alava (1950-1986), 1990:</subfield>
+    <subfield code="b">t.p. (Eugenio Ruíz de Urrestarazu)</subfield>
+  </datafield>
+</record>
