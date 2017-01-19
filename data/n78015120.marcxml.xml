@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00620cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  78015120 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910716114300.7</controlfield>
+  <controlfield tag="008">780327n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78015120 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Mills, Carol M.</subfield>
+    <subfield code="q">(Carol Moya)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mills, Carol</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Mills, Carol Moya</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her A bibliography ... 1977:</subfield>
+    <subfield code="b">t.p. (Carol M. Mills) verso of t.p. (Mills, Carol Moya)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Her A bibliog. of the Northern Territory, 1977-1983:</subfield>
+    <subfield code="b">v. 4, t.p. (Carol Mills)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 7/16/91</subfield>
+    <subfield code="b">(hdg.: Mills, Carol Moya; usage: Carol Mills; Carol M. Mills)</subfield>
+  </datafield>
+</record>
