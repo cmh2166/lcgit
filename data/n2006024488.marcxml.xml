@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00978cz  a2200193n  4500</leader>
+  <controlfield tag="001">n 2006024488</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141002073828.0</controlfield>
+  <controlfield tag="008">060330n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2006024488</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06898416</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">PPi-MA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rossi, Luigi,</subfield>
+    <subfield code="d">approximately 1598-1653.</subfield>
+    <subfield code="t">Pietà, spietati lumi</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Cantatas, Secular</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="b">soprano voice</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="b">baritone voice</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">continuo</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rossi, Luigi,</subfield>
+    <subfield code="d">approximately 1598-1653.</subfield>
+    <subfield code="t">Pietà, spietati lumi, non ti chieggio più</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Risonanza (Musical group). La bella più bella, p2004:</subfield>
+    <subfield code="b">container (Pietà spietati lumi : per soprano, contralto e basso)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, Mar. 30, 2006</subfield>
+    <subfield code="b">(Pietà, spietati lumi, 2vv, bc)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Caluori, Eleanor. The cantatas of Luigi Rossi, c1981:</subfield>
+    <subfield code="b">vol. 2, page 122 (249. Pietà, spietati lumi, non ti chieggio più; Wo. 185, Gh. 328; for soprano, baritone, and continuo)</subfield>
+  </datafield>
+</record>
