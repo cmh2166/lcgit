@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00849cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  83129550 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081213080520.0</controlfield>
+  <controlfield tag="008">830726n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83129550 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00963068</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Sri Lanka.</subfield>
+    <subfield code="b">Jātika Krama Sampādana Aṃśaya</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Sri Lanka.</subfield>
+    <subfield code="b">Mudal hā Krama Sampādana Amātyāṃśaya.</subfield>
+    <subfield code="b">Jātika Krama Sampādana Aṃśaya</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Sri Lanka.</subfield>
+    <subfield code="b">National Planning Division</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Transport statistics in Sri Lanka ... 1981 (a.e.)</subfield>
+    <subfield code="b">t.p. (National Planning Division, Ministry of Finance and Planning, Sri Lanka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Public investment, 1983-1987, 1983:</subfield>
+    <subfield code="b">t.p. (National Planning Division, Ministry of Finance and Planning) data from India (Jātika Krama Sampādana Aṃśaya)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">Lanka janapota, 1970.</subfield>
+  </datafield>
+</record>
