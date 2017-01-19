@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01069cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  83182537 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081212081043.0</controlfield>
+  <controlfield tag="008">831021n| acannaabn          |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83182537 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01000072</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">Nōrin Suisanshō.</subfield>
+    <subfield code="b">Nōgyō Kyōdō Kumiaika</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">Nōrin Suisanshō.</subfield>
+    <subfield code="b">Keizaikyoku.</subfield>
+    <subfield code="b">Nōgyō Kyōdō Kumiaika</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">農林水產省.</subfield>
+    <subfield code="b">農業協同組合課</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">農林水産省.</subfield>
+    <subfield code="b">農業協同組合課</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Japan.</subfield>
+    <subfield code="b">Nōrinshō.</subfield>
+    <subfield code="b">Nōrin Keizaikyoku.</subfield>
+    <subfield code="b">Nōgyō Kyōdō Kumiaika</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nōkyō tōkeihyō, Shōwa 51 jigyō nendo:</subfield>
+    <subfield code="b">t.p. (Nōrin Suisanshō Keizaikyoku Nōgyō Kyōdō Kumiaika)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Shokuinroku, 1979</subfield>
+    <subfield code="b">(Nōrin Suisanshō, Keizaikyoku, Nōgyō Kyōdō Kumiaika); 1978 (Nōrinshō, Nōrin Keizaikyoku, Nōgyō Kyōdō Kumiaika)</subfield>
+  </datafield>
+</record>
