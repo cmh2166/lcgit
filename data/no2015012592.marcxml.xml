@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00860nz  a2200217n  4500</leader>
+  <controlfield tag="001">no2015012592</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150129073602.0</controlfield>
+  <controlfield tag="008">150128n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015012592</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10073073</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNFr</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNFr</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1974</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gleitsmann, Maik,</subfield>
+    <subfield code="d">1974-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Germany</subfield>
+    <subfield code="e">Schwerin (Mecklenburg-Vorpommern, Germany)</subfield>
+    <subfield code="s">1999</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="b">Schwerin</subfield>
+    <subfield code="c">Mecklenburg-Vorpommern</subfield>
+    <subfield code="d">Germany</subfield>
+    <subfield code="u">www.maikgleitsmann.de</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Design</subfield>
+    <subfield code="a">Art</subfield>
+    <subfield code="a">Lecturing</subfield>
+    <subfield code="a">Authorship</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Desginers</subfield>
+    <subfield code="a">Artists</subfield>
+    <subfield code="a">Lecturers</subfield>
+    <subfield code="a">Authors, German</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lehmann, JoĚrn. Schloss Schwerin, 2004:</subfield>
+    <subfield code="b">title page (Maik Gleitsmann) cover (born in 1974; has lived in the city of Schwerin since 1999; working there as a free-lance designer, artist and lecturer; www.maikgleitsmann.de)</subfield>
+  </datafield>
+</record>
