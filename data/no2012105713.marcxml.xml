@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00973nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012105713</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120808084832.0</controlfield>
+  <controlfield tag="008">120806n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012105713</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09269468</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Froberger, Johann Jacob,</subfield>
+    <subfield code="d">1616-1667.</subfield>
+    <subfield code="t">Libro di toccate, fantasie, canzone, allemande, courante, sarabande, gigue et altre partite.</subfield>
+    <subfield code="p">Toccata da sonarsi alla Levatione,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Froberger, Johann Jacob,</subfield>
+    <subfield code="d">1616-1667.</subfield>
+    <subfield code="t">Toccata da sonarsi alla Levatione,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Froberger, Johann Jacob,</subfield>
+    <subfield code="d">1616-1667.</subfield>
+    <subfield code="t">Toccatas,</subfield>
+    <subfield code="m">keyboard instrument,</subfield>
+    <subfield code="n">no. 6,</subfield>
+    <subfield code="r">G minor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Concerto Castello (Musical group). Kammermusik am Hofe Kaiser Leopolds I [SR] p1983:</subfield>
+    <subfield code="b">label (Toccata VI)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Froberger, J.J. ZwoĚlf Toccaten, sechs Fantasien, sechs Canzonen, acht Capriccio's, [und] sechs Ricercare fuĚr Orgel und Clavier, 1897:</subfield>
+    <subfield code="b">p. 16 (Toccata VI da sonarsi alla Levatione [G minor])</subfield>
+  </datafield>
+</record>
