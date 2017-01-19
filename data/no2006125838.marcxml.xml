@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01275nz  a2200205n  4500</leader>
+  <controlfield tag="001">no2006125838</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20061126074935.0</controlfield>
+  <controlfield tag="008">061108n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006125838</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07261957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IdU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IdU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">University of Idaho/Washington State University NROTC Unit</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Idaho/Washington State University Naval Reserve Officer Training Corps Unit</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Idaho.</subfield>
+    <subfield code="b">NROTC Unit</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">University of Idaho and Washington State University Naval ROTC</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Washington State University.</subfield>
+    <subfield code="b">NROTC Unit</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mainstay (Moscow, Idaho), fall semester 1997:</subfield>
+    <subfield code="b">cover (University of Idaho/Washington State University NROTC Unit) masthead (NROTC Unit, University of Idaho; Naval ROTC, University of Idaho)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Unit's WWW site, Nov. 14, 2006:</subfield>
+    <subfield code="b">HTML header (University of Idaho and Washington State University Naval ROTC) homepage (University of Idaho, Washington State University Naval ROTC; Naval Reserve Officer Training Corps; University of Idaho NROTC)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Communication with UI Naval Science Dept., Nov. 9, 2006</subfield>
+    <subfield code="b">(students from both universities are members of the NROTC unit; administratively the unit is part of the Univ. of Idaho)</subfield>
+  </datafield>
+</record>
