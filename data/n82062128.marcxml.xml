@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00497cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82062128 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090115080239.0</controlfield>
+  <controlfield tag="008">820504n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82062128 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00758987</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vārada, Mallapā,</subfield>
+    <subfield code="d">1851-1911</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Mallapā Vārada,</subfield>
+    <subfield code="d">1851-1911</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bāmaṇagã̄vakara, Nā. Rā. Puṇyasloka Vārada, 1949 (subj.)</subfield>
+    <subfield code="b">p. 27 (Mallapā Vārada; b. 6/17/1851) p. 153 (d. 1/19/1911)</subfield>
+  </datafield>
+</record>
