@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00530nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2014078272</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141218092348.0</controlfield>
+  <controlfield tag="008">141218n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2014078272</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1979</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leifur ThoĚrarinsson,</subfield>
+    <subfield code="d">1934-1998.</subfield>
+    <subfield code="t">DA</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Fantasia</subfield>
+  </datafield>
+  <datafield tag="382" ind1="0" ind2=" ">
+    <subfield code="a">harpsichord</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">SumarmaĚl, p1999:</subfield>
+    <subfield code="b">container ("Da" fantasia; for harpsichord, 1979)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grove music online WWW site, viewed Dec. 18, 2014:</subfield>
+    <subfield code="b">(Chamber: DA, hpd, 1979)</subfield>
+  </datafield>
+</record>
