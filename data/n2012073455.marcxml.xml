@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00658cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2012073455</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130328075920.0</controlfield>
+  <controlfield tag="008">121126n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2012073455</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1860</subfield>
+    <subfield code="t">1874</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pomeroy, A.,</subfield>
+    <subfield code="d">active 1860-1874</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Pomeroy, A.,</subfield>
+    <subfield code="d">fl. 1860-1874</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hopkins, Griffith Morgan, Jr. Map of Mercer Co., Pennsylvania, 1860:</subfield>
+    <subfield code="b">map recto (Entered according to Act of Congress by A. Pomeroy)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Tooley's dict. of mapmakers, rev. ed., 2003</subfield>
+    <subfield code="b">(Pomeroy, A., publisher, Philadelphia, fl. 1860-1874)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">WwasW Amer., index, 1607-1998;</subfield>
+    <subfield code="a">DAB</subfield>
+  </datafield>
+</record>
