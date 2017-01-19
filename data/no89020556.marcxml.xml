@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00540nz  a2200157n  4500</leader>
+  <controlfield tag="001">no 89020556 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900106070928.4</controlfield>
+  <controlfield tag="008">891214n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89020556 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">MdU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Caussidière,</subfield>
+    <subfield code="d">1808-1861</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Caussidière, Marc,</subfield>
+    <subfield code="d">1808-1861</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His La Révolution de février, mémoires de Caussidière, ex-préfet de police et représentant du peuple, 1849.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bib. nat.</subfield>
+    <subfield code="b">(usage: Caussidière)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUC pre-56</subfield>
+    <subfield code="b">(Caussidière, Marc, 1808-1861)</subfield>
+  </datafield>
+</record>
