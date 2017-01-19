@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00437cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2004111337</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20110618074824.0</controlfield>
+  <controlfield tag="008">040716n| acannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004111337</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lord, Jill Roman</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Lord, Jill Roman. If Jesus came to visit me, 2004:</subfield>
+    <subfield code="b">ECIP t.p. (Jill Roman Lord)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">One night in Bethlehem, 2011:</subfield>
+    <subfield code="b">ecip t.p. (Jill Roman Lord) data view (b. 1964)</subfield>
+  </datafield>
+</record>
