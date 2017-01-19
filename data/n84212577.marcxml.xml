@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00749cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  84212577 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131113073711.0</controlfield>
+  <controlfield tag="008">850319n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84212577 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01289814</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1620</subfield>
+    <subfield code="g">1674</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Graunt, John,</subfield>
+    <subfield code="d">1620-1674</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">J. G.</subfield>
+    <subfield code="q">(John Graunt),</subfield>
+    <subfield code="d">1620-1704</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">G., J.</subfield>
+    <subfield code="q">(John Graunt),</subfield>
+    <subfield code="d">1620-1704</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Natural and political observations mentioned in a following index, 1676:</subfield>
+    <subfield code="b">t.p. (Capt. John Graunt, fellow of the Royal Society)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB</subfield>
+    <subfield code="b">(Graunt, John, 1620-1674)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">InU/Wing STC files</subfield>
+    <subfield code="b">(usage: J.G.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 3/11/85</subfield>
+    <subfield code="b">(hdg.: Graunt, John, 1620-1674)</subfield>
+  </datafield>
+</record>
