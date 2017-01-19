@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00364nz  a2200133n  4500</leader>
+  <controlfield tag="001">n  87912810 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19880210110921.3</controlfield>
+  <controlfield tag="008">871201n| acannaab|          |n aaa ||| c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  87912810 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MdU</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Allen, T.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's Hell upon earth, or, Devils let loose, 1822:</subfield>
+    <subfield code="b">t.p. (T. Allen)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">DNB;</subfield>
+    <subfield code="a">Boase;</subfield>
+    <subfield code="a">BLC to 1975.</subfield>
+  </datafield>
+</record>
