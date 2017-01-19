@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01151cz  a2200253n  4500</leader>
+  <controlfield tag="001">n  82076278 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160930083127.0</controlfield>
+  <controlfield tag="008">820702n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82076278 </subfield>
+    <subfield code="z">n  85193450 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00773018</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">MnU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1882-04-30</subfield>
+    <subfield code="g">1973-05-29</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wenz-Viëtor, Else</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Illustration of books</subfield>
+    <subfield code="a">Children's literature</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Illustrators</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Viëtor, Else Wenz-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rehm-Vietor, Else</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Vent︠s︡-Vʹi︠e︡tor, Elʹzy</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vʹi︠e︡tor, Elʹzy Vent︠s︡-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sausewind, c1957:</subfield>
+    <subfield code="b">t.p. (Else Wenz-Vietor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sum, Sum, Sum, 1912:</subfield>
+    <subfield code="b">t.p. (Else Rehm-Vietor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I︠U︡rchyk Mandrivnyk, 1947:</subfield>
+    <subfield code="b">t.p. (Elʹzy Vent︠s︡-Vʹi︠e︡tor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">German National Library in VIAF, September 26, 2016</subfield>
+    <subfield code="b">(authorized access point: Wens-Viëtor, Else, 1882-1973; exakte Lebensdaten: 30.04.1882-29.05.1973; Illustratorin; Der Name Rehm-Viëtor, Else wurde von ca. 1901-1913 verwendet‏ )</subfield>
+    <subfield code="u">http://viaf.org/viaf/901532</subfield>
+  </datafield>
+</record>
