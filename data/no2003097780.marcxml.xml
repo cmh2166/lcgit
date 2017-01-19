@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00559nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2003097780</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031001052622.0</controlfield>
+  <controlfield tag="008">030930n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003097780</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06165005</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NcD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NcD</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hernández Torres, Arnoldo</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Torres, Arnoldo Hernández</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Asociación de Historia Económica del Norte de México. Encuentro (10th : 2001 : Saltillo, Coahuila, Mexico). Memoria, 2002:</subfield>
+    <subfield code="b">t.p. (Arnoldo Hernández Torres) p. 1 (of Fac. de Econ., Univ. Aut. de Coahuila)</subfield>
+  </datafield>
+</record>
