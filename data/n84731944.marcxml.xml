@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00645cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  83718352 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070818074833.0</controlfield>
+  <controlfield tag="008">840316n| acaabaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83718352 </subfield>
+    <subfield code="z">n  84731944 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Suhŏm sarye nonmun sŏnjip</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Suhŏm sarye yŏnʼgu</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Sŏul Tʻŭkpyŏlsi</subfield>
+    <subfield code="b">Tonga Hagyŏnsa [i.e. Haksŭpsa]</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Minpŏp nonsŏn, 1982:</subfield>
+    <subfield code="b">v. 1, t.p. (Suhŏm sarye nonmun sŏnjip)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chŏng, T.H. Kungmin yullinon sŏn, 1982 (1983 printing):</subfield>
+    <subfield code="b">t.p. (Suhŏm sarye yŏnʼgu)</subfield>
+  </datafield>
+</record>
