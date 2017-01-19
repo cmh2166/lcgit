@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00504nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2012155836</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121212075336.0</controlfield>
+  <controlfield tag="008">121210n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012155836</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09363357</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OrU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OrU</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1961</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Storm, Theodor,</subfield>
+    <subfield code="d">1817-1888.</subfield>
+    <subfield code="t">Works.</subfield>
+    <subfield code="f">1961</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Tempel-Verlag</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Storm, Theodor,</subfield>
+    <subfield code="d">1817-1888.</subfield>
+    <subfield code="t">SaĚmtliche Werke.</subfield>
+    <subfield code="f">1961</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His SaĚmtliche Werke, 1961:</subfield>
+    <subfield code="b">title page (Der Tempel-Verlag)</subfield>
+  </datafield>
+</record>
