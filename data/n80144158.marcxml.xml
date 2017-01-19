@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00660cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  80144158 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060304033204.0</controlfield>
+  <controlfield tag="008">801118n| acannaab|          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80144158 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CtY-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schroeder, Hermann,</subfield>
+    <subfield code="d">1904-1984.</subfield>
+    <subfield code="t">Skizzen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schroeder, Hermann,</subfield>
+    <subfield code="d">1904-1984.</subfield>
+    <subfield code="t">Sketches</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schroeder, Hermann,</subfield>
+    <subfield code="d">1904-1984.</subfield>
+    <subfield code="t">Fünf Skizzen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schroeder, Hermann,</subfield>
+    <subfield code="d">1904-1984.</subfield>
+    <subfield code="t">5 Skizzen</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schroeder, Hermann,</subfield>
+    <subfield code="d">1904-1984.</subfield>
+    <subfield code="t">Five sketches</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Schroeder, Hermann,</subfield>
+    <subfield code="d">1904-1984.</subfield>
+    <subfield code="t">5 sketches</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Fünf Skizzen, c1980:</subfield>
+    <subfield code="b">t.p. (Fünf Skizzen = Five sketches)</subfield>
+  </datafield>
+</record>
