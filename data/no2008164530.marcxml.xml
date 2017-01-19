@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00755nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2008164530</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081108082903.0</controlfield>
+  <controlfield tag="008">081106n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008164530</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07929964</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCU-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Poggiali Berlinghieri, Franco,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Berlinghieri, Franco Poggiali,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Poggiali, Franco,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mati, A. Frammenti e quartetti [SR] p2007:</subfield>
+    <subfield code="b">container (Franco Poggiali Berlinghieri)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arte Studio 53 WWW site, Nov. 6, 2008</subfield>
+    <subfield code="b">(Franco Poggiali Berlinghieri; Franco Poggiali; b. Aug. 14, 1968, Florence; composer, arranger, keyboard artist)</subfield>
+    <subfield code="u">http://www.artestudio53.it/franco_poggiali_berlinghieri_arrangiatore_arrangiamenti.htm</subfield>
+  </datafield>
+</record>
