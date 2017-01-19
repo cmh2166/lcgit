@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00505nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2012092721</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120712075302.0</controlfield>
+  <controlfield tag="008">120710n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012092721</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09245254</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NRU-Mus</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NRU-Mus</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Romano, Mario,</subfield>
+    <subfield code="d">1951-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mario Romano Quartet. Valentina [SR], p2010:</subfield>
+    <subfield code="b">container (Mario Romano)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">M. Romano WWW site, July 10, 2012</subfield>
+    <subfield code="b">(Mario Romano; b. Buenos Aires, Oct. 5, 1951; jazz pianist living in Toronto)</subfield>
+  </datafield>
+</record>
