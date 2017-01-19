@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00732cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  85304218 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080418075235.0</controlfield>
+  <controlfield tag="008">860501n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85304218 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01566935</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Freeman, Heather</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Freeman, H. G. M.</subfield>
+    <subfield code="q">(Heather G. M.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Minchin Clarke, Heather Gillian</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Reynolds, D.J. Aids to clinical chemistry, 1986:</subfield>
+    <subfield code="b">CIP t.p. (H.G.M. Freeman, MD, MRCPath; consul. chem. pathol., St. Peter's Hosp., Chertsey, Surrey, UK)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NLM files, 4/24/86</subfield>
+    <subfield code="b">(hdg.: Freeman, Heather; usage: Heather Freeman)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Med. dir., 1985</subfield>
+    <subfield code="b">(Freeman, Heather Gillian Minchin, neeĚ Minchin Clarke)</subfield>
+  </datafield>
+</record>
