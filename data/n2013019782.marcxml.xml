@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00615cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2013019782</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130411075048.0</controlfield>
+  <controlfield tag="008">130410n| azannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013019782</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lewy, Josef.</subfield>
+    <subfield code="t">Minhag Yiśraʼel Torah (Halakhah)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lewy, Josef.</subfield>
+    <subfield code="t">Sefer Minhag Yiśraʼel Torah</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Lewy, Josef.</subfield>
+    <subfield code="t">ספר מנהג ישראל תורה</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">ספר מנהג ישראל תורה = Sefer Minhag Yiśraʼel Torah, 1999-&lt;2008 or 2009&gt;:</subfield>
+    <subfield code="b">t.p. (ba-ʻinyanim ha-nogʻim la-halakhah)</subfield>
+  </datafield>
+</record>
