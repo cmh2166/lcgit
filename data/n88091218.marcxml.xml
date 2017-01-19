@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00692cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  88091218 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140116073754.0</controlfield>
+  <controlfield tag="008">890522n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88091218 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02534684</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">FU</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Hospital San Ignacio (Bogotá, Colombia)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Pontificia Universidad Javeriana.</subfield>
+    <subfield code="b">Hospital San Ignacio</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Los Reemplazos totales de cadera y la vía posterolateral [VR] 1984:</subfield>
+    <subfield code="b">credit frame (Pontificia Universidad Javeriana, Hospital San Ignacio, Bogotá, Columbia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">World of learn., 38th ed., 1988,</subfield>
+    <subfield code="b">p. 328 (Hospital San Ignacio is an affiliate of Pontificia Universidad Javeriana)</subfield>
+  </datafield>
+</record>
