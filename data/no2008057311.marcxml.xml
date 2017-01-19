@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00457nz  a2200133n  4500</leader>
+  <controlfield tag="001">no2008057311</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080417080945.0</controlfield>
+  <controlfield tag="008">080415n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008057311</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07735442</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DCS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DCS</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tieken, Robert</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">U.S. Cong. House. Comm. on the Judiciary. Conflict of interest, hearings ... 1958:</subfield>
+    <subfield code="b">t.p. (Robert Tieken, United States attorney for the Northern District of Illinois)</subfield>
+  </datafield>
+</record>
