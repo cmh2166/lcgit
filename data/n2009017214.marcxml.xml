@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01376cz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2009017214</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140423131330.0</controlfield>
+  <controlfield tag="008">090319n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2009017214</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Krumpholtz, Jean-Baptiste,</subfield>
+    <subfield code="d">1747-1790.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">harp,</subfield>
+    <subfield code="n">op. 17</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Krumpholtz, Jean-Baptiste,</subfield>
+    <subfield code="d">1747-1790.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">violin, harp,</subfield>
+    <subfield code="n">op. 17</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Krumpholtz, Jean-Baptiste,</subfield>
+    <subfield code="d">1747-1790.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">harp,</subfield>
+    <subfield code="n">op. 16 bis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Krumpholtz, Jean-Baptiste,</subfield>
+    <subfield code="d">1747-1790.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">violin, harp,</subfield>
+    <subfield code="n">op. 16 bis</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Krumpholz, Jan Křtitel. 3 sonate, op. 16 bis, c2007:</subfield>
+    <subfield code="b">p. vii (based on ed. printed by publisher Dale around 1795; title page reads as follows: Trois sonates/Pour la harpe/Dont la premiere en forme de scene/Avec accompagnement de violon/Ad libitum; "Since Krumpholtz had already published another book of four sonatas as opus 16 (Paris, 1789), it seemed appropriate to renumber these sonatas as opus 16 bis. The violin "ad libitum" part is unfortunately lost.")</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RISM, Mar. 19, 2009</subfield>
+    <subfield code="b">(Krumpholtz, Johann Baptist; op. 17. Trois sonates pour la harpe, dont la première en forme de scène avec accompagnement de violon ad libitum)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford music online, Mar. 19, 2009</subfield>
+    <subfield code="b">(Krumpholtz, Jean-Baptiste; 3 sonates ... dont la 1er en forme de scène, acc. vn, op.17 (c1789))</subfield>
+  </datafield>
+</record>
