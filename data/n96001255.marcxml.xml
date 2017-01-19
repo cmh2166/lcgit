@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00710cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  96001255 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20001107070921.0</controlfield>
+  <controlfield tag="008">960104n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  96001255 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04010409</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hernández Mármol, Sofía,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mármol, Sofía Hernández,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hernández, Sofía,</subfield>
+    <subfield code="d">1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">De Gorbachov a Yeltsin, 1994:</subfield>
+    <subfield code="b">t.p. (Sofía Hernández Mármol) cover (Sofía Hernández) p. 91 (b. 1961 in La Habana, Cuba; researcher specializing in Russian/Soviet issues at Centro de Estudios Europeos, Habana; graduated from Instituto de Relaciones Internacionales, Moscow in 1985)</subfield>
+  </datafield>
+</record>
