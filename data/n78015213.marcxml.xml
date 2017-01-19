@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01133cz  a2200277n  4500</leader>
+  <controlfield tag="001">n  78015213 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140226142247.0</controlfield>
+  <controlfield tag="008">780404n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78015213 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00151662</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+    <subfield code="d">DLC-ON</subfield>
+    <subfield code="d">NNC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">19610101</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Srī Laṅkā Maha Băṅkuva</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Financial institutions</subfield>
+    <subfield code="a">Banks and banking</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Sri Lanka</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Banks and banking</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Sri Lanka.</subfield>
+    <subfield code="b">Maha Băṅkuva</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Central Bank of Sri Lanka</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ilaṅkai Mattiya Vaṅki</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">Central Bank of Ceylon</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">AACR 1 form: Srī Laṅkā Maha Băṅkuva</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Heading valid after Jan. 1, 1961-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Epā tavat kavi liyanna, 1977 (a.e.)</subfield>
+    <subfield code="b">t.p. (Srī Laṅkā Maha Băṅkuva)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bulletin (Srī Laṅkā Maha Băṅkuva). Bulletin, Jan. 1986:</subfield>
+    <subfield code="b">t.p. (Central Bank of Sri Lanka)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Heritage of Sabaragamuwa, 2001:</subfield>
+    <subfield code="b">t.p. (Srī Laṅkā Maha Băṅkuva; Ilaṅkai Mattiya Vaṅki; Central Bank of Sri Lanka)</subfield>
+  </datafield>
+</record>
