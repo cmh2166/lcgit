@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00564cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  88507811 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890619153136.6</controlfield>
+  <controlfield tag="008">890412n| acabbaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88507811 </subfield>
+    <subfield code="z">n  88507140 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Gutman, Bill.</subfield>
+    <subfield code="t">Go for it!</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Go for it!</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Gutman, Bill.</subfield>
+    <subfield code="t">Go for it sports series</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Lakeville, Ct.</subfield>
+    <subfield code="b">Grey Castle Press</subfield>
+    <subfield code="a">Freeport, N.Y.</subfield>
+    <subfield code="b">M. Cavendish, distributor</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gutman, B. Volleyball, c1989:</subfield>
+    <subfield code="b">CIP t.p.</subfield>
+  </datafield>
+</record>
