@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00805cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2005055777</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151029073915.0</controlfield>
+  <controlfield tag="008">050607n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2005055777</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0771824</subfield>
+    <subfield code="e">W0771824</subfield>
+    <subfield code="f">N0410203</subfield>
+    <subfield code="g">N0410203</subfield>
+    <subfield code="2">geonames</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">W0771853</subfield>
+    <subfield code="e">W0771724</subfield>
+    <subfield code="f">N0410244</subfield>
+    <subfield code="g">N0410125</subfield>
+    <subfield code="2">bound</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06657773</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PSt</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">PSt</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">n-us-pa</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Loganton (Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Zoning ordinance, Borough of Loganton, Pennsylvania, 1980:</subfield>
+    <subfield code="b">t.p. (Borough of Loganton, Pa.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GNIS, June 7, 2005</subfield>
+    <subfield code="b">(Loganton, Borough of; Clinton County, Pa.; civil, 41°02ʹ15ʺN, 077°18ʹ31ʺW)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNames, algorithmically matched, 2009</subfield>
+    <subfield code="b">(ppl; 41°02ʹ03ʺN 077°18ʹ24ʺW)</subfield>
+  </datafield>
+  <datafield tag="781" ind1=" " ind2="0">
+    <subfield code="z">Pennsylvania</subfield>
+    <subfield code="z">Loganton</subfield>
+  </datafield>
+</record>
