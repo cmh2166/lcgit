@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00554nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2008106027</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080725075615.0</controlfield>
+  <controlfield tag="008">080723n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008106027</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07828204</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OOC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Harrison, Sadie,</subfield>
+    <subfield code="d">1965-</subfield>
+    <subfield code="t">--issu stellaire--</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Harrison, Sadie,</subfield>
+    <subfield code="d">1965-</subfield>
+    <subfield code="t">--born of the stars--</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Smart, A. New French song [SR] p2005:</subfield>
+    <subfield code="b">container (--issue stellaire-- / Sadie Harrison) insert (--issu stellaire-- = --born of the stars--; words by SteĚphane MallarmeĚ)</subfield>
+  </datafield>
+</record>
