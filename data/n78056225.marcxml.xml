@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00863cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  78056225 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801075855.0</controlfield>
+  <controlfield tag="008">780811n| aaannaab           |b ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78056225 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="k">Liturgy and ritual.</subfield>
+    <subfield code="t">Liturgy of the hours (U.S., et al., Franciscan)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="k">Liturgy and ritual.</subfield>
+    <subfield code="t">Liturgy of the hours (Franciscan, U.S.)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Catholic Church.</subfield>
+    <subfield code="k">Liturgy and ritual.</subfield>
+    <subfield code="t">Roman Franicscan liturgy of the hours</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Produced by combining the "U.S., et al." version of the Liturgy of the hours with proper offices of the Franciscan family.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Roman Franciscan liturgy ... 1975-1976:</subfield>
+    <subfield code="b">spine title (Roman Franciscan liturgy of the hours)</subfield>
+  </datafield>
+</record>
