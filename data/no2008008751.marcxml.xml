@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00587cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2008008751</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20160517075305.0</controlfield>
+  <controlfield tag="008">080118n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2008008751</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07632501</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Universitatea din Craiova.</subfield>
+    <subfield code="b">Facultatea de Litere</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Universitatea din Craiova.</subfield>
+    <subfield code="b">Faculty of Letters</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Balcania, ser. nouaĚ, nr. 1 (2004):</subfield>
+    <subfield code="b">cover (University of Craiova, Facultatea de Litere)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Carmna Balcanica, May 2013:</subfield>
+    <subfield code="b">t.p. (University of Craiova, Faculty of Letters)</subfield>
+  </datafield>
+</record>
