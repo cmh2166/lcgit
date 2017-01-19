@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00598cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  84030863 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130221074814.0</controlfield>
+  <controlfield tag="008">840718n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84030863 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01169452</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19260126</subfield>
+    <subfield code="g">19930207</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mensáros, László</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kosztolányi, D. Könyörgés az ittmaradókhoz [SR] p1982:</subfield>
+    <subfield code="b">label (Mensáros László) container (actor)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Mensáros László, 2001:</subfield>
+    <subfield code="b">t.p. (Mensáros László) p. 339, etc. (b. Jan. 26, 1926, d. Feb. 7, 1993; Hungarian actor)</subfield>
+  </datafield>
+</record>
