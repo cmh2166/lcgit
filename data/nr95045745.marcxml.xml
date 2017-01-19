@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00571cz  a2200145n  4500</leader>
+  <controlfield tag="001">nr 95045745 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20010627095711.0</controlfield>
+  <controlfield tag="008">951212n| acannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95045745 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Lut︠s︡ʹkyĭ, Oleksandr</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Lut︠s︡ʹkyĭ, O.</subfield>
+    <subfield code="q">(Oleksandr)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kulʹturne z︠h︡ytti︠a︡ v Ukraïni, 1995- :</subfield>
+    <subfield code="b">v. 1, verso t.p. (Oleksandr Lut︠s︡ʹkyĭ; copyright statement O. Lut︠s︡ʹkyĭ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">1939, 1999:</subfield>
+    <subfield code="b">t.p. (O. I. Lut︠s︡ʹkyĭ) colophon (Lut︠s︡ʹkyĭ Oleksandr Ivanovych)</subfield>
+  </datafield>
+</record>
