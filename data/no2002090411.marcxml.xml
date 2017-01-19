@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00656cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2002090411</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815082008.0</controlfield>
+  <controlfield tag="008">021002n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002090411</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05878063</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">International Global Wordnet Conference</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Global Wordnet Conference</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">1st International Global Wordnet Conference, January 21-25, 2002, 2002:</subfield>
+    <subfield code="b">t.p. (held at Central Institute of Indian Languages, Mysore, India) cover (First Global Wordnet Conference)</subfield>
+  </datafield>
+</record>
