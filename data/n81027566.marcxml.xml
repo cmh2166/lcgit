@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00967cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  81027566 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20060523052158.0</controlfield>
+  <controlfield tag="008">810406n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81027566 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00573309</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Acciavatti, R. E.</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Acciavatti, Robert Edwin</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Donley, D. E. Red oak borer, 1980 (a.e.)</subfield>
+    <subfield code="b">t.p. (R. E. Acciavatti, Forest Insect and Disease Management, State and Private Forestry, Northeastern Area, U.S. Department of Agriculture, Forest Service, Delaware, Ohio)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc91-10375: His The ecology of Anobiidae (Coleoptera) ... 1972</subfield>
+    <subfield code="b">(hdg. on DNAL rept.: Acciavatti, Robert Edwin, 1943- ; usage: Robert Edwin Acciavatti)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Field guide to native oak species of eastern North America, 2003:</subfield>
+    <subfield code="b">t.p. (Robert Acciavatti; Forest Health Protection, Northeastern Area State and Private Forestry, USDA Forest Service, Morgantown, WV) cover (R. Acciavatti)</subfield>
+  </datafield>
+</record>
