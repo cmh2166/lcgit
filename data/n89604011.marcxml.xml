@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00584cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  89604011 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970116052228.2</controlfield>
+  <controlfield tag="008">890126n| acannaab|          |a aad      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89604011 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca02446220 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">WU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Chornobryvet︠s︡ʹ, Stepan</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Chernobrivet︠s︡, Stepan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">nuc89-6297: His Kam'i︠a︡nsʹka lehenda, 1986</subfield>
+    <subfield code="b">(hdg. on NN rept.: Chornobryvet︠s︡ʹ, Stepan; usage: Stepan Chornobryvet︠s︡ʹ)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Osvobozhdennai︠a︡ zemli︠a︡, 1950:</subfield>
+    <subfield code="b">t.p. (Stepan Chernobrivet︠s︡)</subfield>
+  </datafield>
+</record>
