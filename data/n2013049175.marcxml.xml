@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01306nz  a2200217n  4500</leader>
+  <controlfield tag="001">n 2013049175</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130806090946.0</controlfield>
+  <controlfield tag="008">130806n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013049175</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19481122</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ter Horst, Enrique,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Caracas, Venezuela</subfield>
+    <subfield code="c">Haiti</subfield>
+    <subfield code="f">Rome, Italy</subfield>
+    <subfield code="f">New York, N.Y.</subfield>
+    <subfield code="f">Geneva, Switzerland</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">enriqueterhorst@hotmail.com</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">United Nations</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Horst, Enrique ter,</subfield>
+    <subfield code="d">1948-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">En caso de incendio..., 2012:</subfield>
+    <subfield code="b">t.p. (Enrique ter Horst) cover front flap (born in Caracas; lawyer with a degree from the Universidad Central de Venezuela in 1971; has held various positions in the United Nations in El Salvador, Haiti, Switerzerland and New York; former Venezuelan ambassador to the UN European Office (1983-1987); formerly affiliated with the Fondo Internacional de Desarrollo AgriĚcola in Rome (1987-1989)) t.p. verso (enriqueterhorst@hotmail.com)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">United Nations website, August 6, 2013:</subfield>
+    <subfield code="b">(Enrique ter Horst; born November 22, 1948 in Caracas; earned a law degree from the Universidad Central de Venezuela in 1971; appointed as special representative for Haiti)</subfield>
+    <subfield code="u">http://www.un.org/News/Press/docs/1996/19960305.sga621.html</subfield>
+  </datafield>
+</record>
