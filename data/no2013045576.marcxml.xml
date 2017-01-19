@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00612nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2013045576</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130427075435.0</controlfield>
+  <controlfield tag="008">130425n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013045576</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09459476</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pli︠u︡to, Ė.</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Actress</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Plyuto, Ye.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Devushka s kharakterom, c2008:</subfield>
+    <subfield code="b">credits (Ė. Pli︠u︡to)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kino-teatr.ru, April 17, 2013</subfield>
+    <subfield code="b">(Ė. Pli︠u︡to; Pli︠u︡to Ė. S. [in indirect order]; actress)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Imdb, April 17, 2013</subfield>
+    <subfield code="b">(Ye. Plyuto; actress)</subfield>
+  </datafield>
+</record>
