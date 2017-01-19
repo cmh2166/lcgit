@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00419cz  a2200121n  4500</leader>
+  <controlfield tag="001">n  88179597 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970825164554.5</controlfield>
+  <controlfield tag="008">890818n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88179597 </subfield>
+    <subfield code="z">n  88295064 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2="0">
+    <subfield code="a">Spokane (Wash.).</subfield>
+    <subfield code="b">Mayor</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from Eastern Wash. State Hist. Soc. Libr. for Meehan, A. Papers, 1901-1955</subfield>
+    <subfield code="b">(Meehan served as mayor of Spokane from 1945 to 1955)</subfield>
+  </datafield>
+</record>
