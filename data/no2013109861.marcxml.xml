@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01053cz  a2200181n  4500</leader>
+  <controlfield tag="001">no2013109861</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131022073817.0</controlfield>
+  <controlfield tag="008">131007n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2013109861</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09585928</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH-L</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">MH-L</subfield>
+    <subfield code="d">MH-L</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Équipe de recherche en matière pénale Fernand Boulan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Aix-Marseille université.</subfield>
+    <subfield code="b">Équipe de recherche en matière pénale Fernand Boulan</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">ERMP</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">a</subfield>
+    <subfield code="a">Centre de recherches en matière pénale Fernand Boulan</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Les nouveaux problèmes actuels de sciences criminelles, 23 (2012):</subfield>
+    <subfield code="b">t.p. (Équipe de recherche en matière pénale Fernand Boulan; Aix-Marseille Université) p. 9 (Centre de recherches en matière pénale (CRMP)) p. 4 of cover (logo: ERMP, Laboratoire de droit privé et de sciences criminelles)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">L'actualité de la justice pénale internationale, 2008:</subfield>
+    <subfield code="b">t.p. (Centre de recherche en matière pénale Fernand Boulan; Centre de recherche en matière pénale F. Boulan; CRMP)</subfield>
+  </datafield>
+</record>
