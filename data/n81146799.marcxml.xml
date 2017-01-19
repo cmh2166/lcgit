@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00629cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  81146799 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041124052018.0</controlfield>
+  <controlfield tag="008">820218n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81146799 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00691565</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wolton, Dominique</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Wolton, D.</subfield>
+    <subfield code="q">(Dominique)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wieviorka, M. Terrorisme à la une, c1987:</subfield>
+    <subfield code="b">t.p. (Dominique Wolton) spine (D. Wolton) cover p. 4 (directeur de recherche au Centre national de la recherche scientifique (CNRS))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nár. knihovna ČR auth. file, Nov. 23, 2004</subfield>
+    <subfield code="b">(Wolton, Dominique; b. 1947; French sociologist)</subfield>
+  </datafield>
+</record>
