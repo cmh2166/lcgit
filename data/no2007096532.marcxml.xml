@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00537nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2007096532</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20070824075150.0</controlfield>
+  <controlfield tag="008">070808n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2007096532</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07501054</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rasmussen, Jørgen Skafte,</subfield>
+    <subfield code="d">1878-1964</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Skafte Rasmussen, Jørgen,</subfield>
+    <subfield code="d">1878-1964</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jørgen Skafte Rasmussen, 2006:</subfield>
+    <subfield code="b">t.p. (Jørgen Skafte Rasmussen) p. 192, etc. (b. Jul. 30, 1878 in Nakshov auf Lolland, Denmark; d. Aug. 12, 1964 in Copenhagen, Denmark)</subfield>
+  </datafield>
+</record>
