@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00735cz  a2200205n  4500</leader>
+  <controlfield tag="001">nb2010020120</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140103121802.0</controlfield>
+  <controlfield tag="008">100802n| azannaabn           a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010020120</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007875258</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">19820730</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3608.A8614</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hastain, J/J</subfield>
+    <subfield code="q">(Julia J.)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Hastain, Julia</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">How nerve-yen became the new yew tree, 2009:</subfield>
+    <subfield code="b">t.p. (Julia Hastain aka J/J Hastain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Author's web site, 2 Aug. 2010</subfield>
+    <subfield code="b">(j/j hastain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Prurient anarchic omnibus, 2011:</subfield>
+    <subfield code="b">ECIP t.p. (J/J Hastain)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Approximating diapason, c2012:</subfield>
+    <subfield code="b">CIP t.p. (j/j hastain) data view (b. July 30, 1982; lives in Colorado)</subfield>
+  </datafield>
+</record>
