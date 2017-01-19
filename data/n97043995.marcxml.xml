@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00843nz  a2200193n  4500</leader>
+  <controlfield tag="001">n  97043995 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970425170108.7</controlfield>
+  <controlfield tag="008">970425n| acaabaaa|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97043995 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Nuestra América (Buenos Aires, Argentina)</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Colección Nuestra América (Universidad de Buenos Aires. Facultad de Filosofía y Letras)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Universidad de Buenos Aires.</subfield>
+    <subfield code="b">Facultad de Filosofía y Letras.</subfield>
+    <subfield code="t">Nuestra América</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Buenos Aires</subfield>
+    <subfield code="b">Facultad de Filosofía y Letras, UBA</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Gerzenstein, A. Lengua maká. Estudio descriptivo, 1994:</subfield>
+    <subfield code="b">ser. t.p. (Colección // NUESTRA AMERICA; [does not seem to be related to series Archivo de lenguas indoamericanas at top of page]) cover (Nuestra América)</subfield>
+  </datafield>
+</record>
