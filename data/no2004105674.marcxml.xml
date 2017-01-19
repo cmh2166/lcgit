@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00501nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004105674</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041102052132.0</controlfield>
+  <controlfield tag="008">041101n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004105674</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06482762</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUSA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Loebe, Julius,</subfield>
+    <subfield code="d">1805-1900</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Veteris et Novi Testamenti versionis Gothicae fragmenta quae supersunt, 1980:</subfield>
+    <subfield code="b">t.p. (J. Loebe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC online cat., Oct. 12, 2004</subfield>
+    <subfield code="b">(hdg.: Loebe, Julius, 1805-1900; usage: J. Loebe)</subfield>
+  </datafield>
+</record>
