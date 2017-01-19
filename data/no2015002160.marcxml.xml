@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01132nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2015002160</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150109073517.0</controlfield>
+  <controlfield tag="008">150108n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015002160</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10054907</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">StEdNL</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">StEdNL</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18721122</subfield>
+    <subfield code="g">19300101</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Salmon, Charles Edgar,</subfield>
+    <subfield code="d">1872-1930</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="e">Reigate (England)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Limonium</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Linnean Society of London</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Architects</subfield>
+    <subfield code="a">Botanists</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Flora of Surrey, 1931:</subfield>
+    <subfield code="b">t.p. (Charles Edgar Salmon, F.L.S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nature, 26 Apr., 1930:</subfield>
+    <subfield code="b">p, 643 (obituary: Mr. Charles Edgar Salmon, the well-known systematic botanist; d. 1 Jan., 1930; b. 22 Nov., 1872; an architect by profession and had an extensive practice in the Reigate district; a field botanist with a wide knowledge of the British spermatophytic flora, to the study of which he had devoted most of his leisure time for many years; was an authority on the sea-lavenders; an active member of the Linnean Society and served on its Council from 1920 to 1923)</subfield>
+  </datafield>
+</record>
