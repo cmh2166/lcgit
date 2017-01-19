@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00846cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  82054300 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100515075229.0</controlfield>
+  <controlfield tag="008">820420n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82054300 </subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="d">E0264800</subfield>
+    <subfield code="e">E0264800</subfield>
+    <subfield code="f">S0011600</subfield>
+    <subfield code="g">S0011600</subfield>
+    <subfield code="2">other</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00751206</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">WaU</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">f-ke---</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2=" ">
+    <subfield code="a">Westlands (Nairobi, Kenya)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Nairobi (Kenya).</subfield>
+    <subfield code="b">Westlands</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">SUBJECT USAGE: This heading is not valid for use as a geographic subdivision.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Workshop on the Integrated Group Extension Approach (1977 : Westlands, Nairobi, Kenya).</subfield>
+    <subfield code="b">Report of the concluding Workshop on the Integrated Group Extension Approach, 1977 (used in hdg.) t.p. (Westlands, Nairobi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BGN, rec'd 1/29/82</subfield>
+    <subfield code="b">(Westlands, section of Nairobi, pplx, 1°16ʹS; 26°48ʹE)</subfield>
+  </datafield>
+</record>
