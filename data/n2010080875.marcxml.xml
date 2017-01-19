@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00566cz  a2200133n  4500</leader>
+  <controlfield tag="001">n 2010080875</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20101215112209.0</controlfield>
+  <controlfield tag="008">101214n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2010080875</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ferko, Frank.</subfield>
+    <subfield code="t">Farewells from paradise</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ferko, Frank.</subfield>
+    <subfield code="t">Hark! the flow of the four rivers</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ferko, Frank. Farewells from paradise, c2010:</subfield>
+    <subfield code="b">t.p. (Farewells from paradise :  a "ten-minute opera" for lyric soprano, baritone, violoncello and piano) p. 25 (2001) p. 4 (opening words: Hark! the flow of the four rivers)</subfield>
+  </datafield>
+</record>
