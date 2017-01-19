@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00676nz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89268285 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19950726155539.9</controlfield>
+  <controlfield tag="008">950726n| acannaab|          |a aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89268285 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Das, Hem Chandra Lal,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Das, H. C. L.</subfield>
+    <subfield code="q">(Hem Chandra Lal),</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Hem Chandra Lal Das,</subfield>
+    <subfield code="d">1950-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Agricultural efficiency in India, 1993:</subfield>
+    <subfield code="b">t.p. (Hem Chandra Lal Das) spine (H.C.L. Das) jkt. (Dr. Hem Chandra Lal Das; b. 1950; educated in Bihar U., Muzaffarpur; served as Statistician in 1972 in the Dept. of Econ., Bihar U.; currently, Reader in the Postgrad. Dept. of Econ., M.S. Coll., Motihari, (Bihar U.))</subfield>
+  </datafield>
+</record>
