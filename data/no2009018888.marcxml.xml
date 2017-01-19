@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00416nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2009018888</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090209085224.0</controlfield>
+  <controlfield tag="008">090206n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009018888</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08008235</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IEN</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wirsén, Stina,</subfield>
+    <subfield code="d">1968-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hedvig och Max-Olov, 2006:</subfield>
+    <subfield code="b">t.p. (Stina Wirsén)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Feb. 6, 2009</subfield>
+    <subfield code="b">(hdg.: Wirsén, Stina, 1968-)</subfield>
+  </datafield>
+</record>
