@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00913cz  a2200217n  4500</leader>
+  <controlfield tag="001">nr 94040602 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150804152223.0</controlfield>
+  <controlfield tag="008">941201n| azannaabn          |a aac     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 94040602 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca03732690</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NjP</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1949-01-15</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Radnaeva, Galina</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Раднаева, Галина</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Radnaeva, Sanzhi-Surun Zhigmitovna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Раднаева, Санжи-Сурун Жигмитовна</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Probuzhdenie, 1990:</subfield>
+    <subfield code="b">t.p. (Galina Radnaeva) colophon (Sanzhi-Surun Zhigmitovna Radnaeva)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Poėtika liriki Galiny Radnaevoĭ, 2007:</subfield>
+    <subfield code="b">p. 3 (b. 1949 in Buriat region)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">soyol.ru, July 31, 2015</subfield>
+    <subfield code="b">(Radnaeva, Galina (Sanzhi-Surun) Zhigmitovna; b. Jan. 15, 1949)</subfield>
+    <subfield code="u">http://soyol.ru/personas/poets-and-writers/425/</subfield>
+  </datafield>
+</record>
