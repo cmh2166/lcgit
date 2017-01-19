@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00592cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  78004833 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120810075614.0</controlfield>
+  <controlfield tag="008">780206n| abannaab           |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  78004833 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1930</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Godwin, Joseph Randall,</subfield>
+    <subfield code="d">1930-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His A 5 year plan ... 1976:</subfield>
+    <subfield code="b">t.p. (Joseph R. Godwin)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His letter, rec'd 1/23/78</subfield>
+    <subfield code="b">(Godwin, Joseph Randall, b. 3/11/30)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nat. fac. dir., 1977</subfield>
+    <subfield code="b">(Godwin, Joseph)</subfield>
+  </datafield>
+</record>
