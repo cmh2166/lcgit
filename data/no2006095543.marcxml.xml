@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00525cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2006095543</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100320075129.0</controlfield>
+  <controlfield tag="008">060908n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2006095543</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07045617</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TnLvILS</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TnLvILS</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kosner, Edward</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Kosner, Ed</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">It's news to me, c2006:</subfield>
+    <subfield code="b">t.p. (Edward Kosner) intro. (Ed Kosner) p. 4 of cover (editor of Newsweek, New York magazine, Esquire and New York Daily News; lives in New York and Amelia Island, Fla.)</subfield>
+  </datafield>
+</record>
