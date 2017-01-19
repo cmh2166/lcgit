@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00835cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  88008254 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19900321053253.3</controlfield>
+  <controlfield tag="008">900214n| acannaab|          |a ana ||| b</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88008254 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DNLM</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">Institute of Medicine (U.S.).</subfield>
+    <subfield code="b">Committee for the Study of Treatment and Rehabilitation Services for Alcoholism and Alcohol Abuse</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2="0">
+    <subfield code="a">Institute of Medicine (U.S.).</subfield>
+    <subfield code="b">Division of Mental Health and Behavioral Medicine.</subfield>
+    <subfield code="b">Committee for the Study of Treatment and Rehabilitation Services for Alcoholism and Alcohol Abuse</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Institute of Medicine (U.S.). Broadening the base of treatment for alcohol problems, 1990:</subfield>
+    <subfield code="b">CIP t.p. (committee of the Institute of Medicine, Division of Mental Health and Behavioral Medicine) galleys (Committee for the Study of Treatment and Alcoholism and Alcohol Abuse)</subfield>
+  </datafield>
+</record>
