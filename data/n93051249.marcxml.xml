@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00824cz  a2200217n  4500</leader>
+  <controlfield tag="001">n  93051249 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20021108033200.0</controlfield>
+  <controlfield tag="008">930601n| acaabaaa           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  93051249 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Corpus precolombino.</subfield>
+    <subfield code="p">Sección Las Civilizaciones mesoamericanas</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Civilizaciones mesoamericanas</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="a">Corpus precolombino.</subfield>
+    <subfield code="p">Civilizaciones mesoamericanas</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">México</subfield>
+    <subfield code="b">Conaculta</subfield>
+    <subfield code="a">Milano</subfield>
+    <subfield code="b">Jaca Book</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Barcelona</subfield>
+    <subfield code="b">Lunwerg</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">González Licón, E. Zapotecas y mixtecas, c1992:</subfield>
+    <subfield code="b">ser. t.p. (Corpus precolombino, Sección Las Civilizaciones mesoamericanas)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Los aztecas, 2000?:</subfield>
+    <subfield code="b">ser. t.p. (Corpus Precolombino / Sección Las Civilizaciones Mesoamericanas)</subfield>
+  </datafield>
+</record>
