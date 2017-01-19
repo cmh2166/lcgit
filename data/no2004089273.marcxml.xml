@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00520nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2004089273</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20040917052208.0</controlfield>
+  <controlfield tag="008">040916n| acannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004089273</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06444626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">OCU-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">OCU-Mu</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Armonico Consort</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Scarlatti, F. Dixit Dominus [SR] p2004:</subfield>
+    <subfield code="b">label (Armonico Consort) insert (formed 2001)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Armonico Consort WWW site, Sept. 14, 2004</subfield>
+    <subfield code="b">(Vocal ensemble of 6-25 singers specializing Renaissance and Baroque music)</subfield>
+  </datafield>
+</record>
