@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00652cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  83725976 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081220080809.0</controlfield>
+  <controlfield tag="008">830808nc acaabaaan          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83725976 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01048174</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Zhongguo min jian gu shi chuan shuo cong shu</subfield>
+  </datafield>
+  <datafield tag="430" ind1=" " ind2="0">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Chung-kuo min chien ku shih chʻuan shuo tsʻung shu</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Beijing</subfield>
+    <subfield code="b">Zhongguo min jian wen yi chu ban she</subfield>
+    <subfield code="b">Xin hua shu dian Beijing fa xing suo fa xing</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Chung-kuo shao shu min tsu min chien ku shih hsüan, 1982- :</subfield>
+    <subfield code="b">v. 2, t.p.</subfield>
+  </datafield>
+</record>
