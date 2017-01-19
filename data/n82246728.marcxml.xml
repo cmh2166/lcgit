@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00612cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  82246728 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120731081342.0</controlfield>
+  <controlfield tag="008">840209n| acannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  82246728 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Seminario-Taller "La Imagen de la Mujer"</subfield>
+    <subfield code="d">(1981 :</subfield>
+    <subfield code="c">Cajamarca, Peru)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Imagen de la Mujer, Seminario-Taller la</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La Imagen de la mujer, 1982:</subfield>
+    <subfield code="b">t.p. (Seminario-Taller, noviembre, 1981, Cajamarca, Peru) p. 4 (Seminario-Taller "La Imagen de la Mujer")</subfield>
+  </datafield>
+</record>
