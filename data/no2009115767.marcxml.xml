@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00757nz  a2200193n  4500</leader>
+  <controlfield tag="001">no2009115767</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090730075436.0</controlfield>
+  <controlfield tag="008">090728n| acaabaaan          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009115767</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08185124</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Conférences, débats, dossiers (Université de Liège. Faculté de philosophie et lettres)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Université de Liège.</subfield>
+    <subfield code="b">Faculté de philosophie et lettres.</subfield>
+    <subfield code="t">Conférences, débats, dossiers</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Liège</subfield>
+    <subfield code="b">Université de Liège, Faculté de philosophie et lettres</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">DPCC</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">CtY</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pessimisme du XVIe siècle, protestantisme &amp; eschatologie, 1984?:</subfield>
+    <subfield code="b">cover (Conférences, débats, dossiers)</subfield>
+  </datafield>
+</record>
