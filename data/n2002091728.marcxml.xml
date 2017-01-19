@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00508cz  a2200145n  4500</leader>
+  <controlfield tag="001">n 2002091728</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080131075011.0</controlfield>
+  <controlfield tag="008">020131n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2002091728</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Leontʹeva, Elena Lʹvovna</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Leontʹeva, E. L.</subfield>
+    <subfield code="q">(Elena Lʹvovna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">I︠A︡ponii︠a︡ i globalizat︠s︡ii︠a︡, 2001:</subfield>
+    <subfield code="b">t.p. (Leontʹeva Elena Lʹvovna)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Defli︠a︡t︠s︡ionnyĭ krizis v I︠A︡poni, 2007:</subfield>
+    <subfield code="b">t.p. (E.L. Leontʹeva)</subfield>
+  </datafield>
+</record>
