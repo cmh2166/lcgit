@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00595cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  85163054 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120802081656.0</controlfield>
+  <controlfield tag="008">851107n| acannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85163054 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Montesquieu, Charles de Secondat,</subfield>
+    <subfield code="c">baron de,</subfield>
+    <subfield code="d">1689-1755.</subfield>
+    <subfield code="t">Temple de Gnide.</subfield>
+    <subfield code="l">Italian</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Montesquieu, Charles de Secondat,</subfield>
+    <subfield code="c">baron de,</subfield>
+    <subfield code="d">1689-1755.</subfield>
+    <subfield code="t">Tempio di Gnido</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Algarotti, F. Il congresso di Citera, c1985:</subfield>
+    <subfield code="b">t.p. (Tempio di Gnido)</subfield>
+  </datafield>
+</record>
