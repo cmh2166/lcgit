@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00320nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  91086257 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19910826164757.9</controlfield>
+  <controlfield tag="008">910826n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  91086257 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Campagne, Francis.</subfield>
+    <subfield code="t">PoupeĚe de Cosette</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Le jouet l'enfant, l'eĚducateur, c1989.</subfield>
+  </datafield>
+</record>
