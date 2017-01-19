@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00662cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  86061273 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19931213152525.2</controlfield>
+  <controlfield tag="008">870922n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  86061273 </subfield>
+    <subfield code="z">n  93061659 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Noodt, Gerard,</subfield>
+    <subfield code="d">1647-1725</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Noodt, Gerardus,</subfield>
+    <subfield code="d">1647-1725</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Noodt, Gerhard,</subfield>
+    <subfield code="d">1647-1725</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bergh, G.C.J.J. v. d. The life and work of ... c1988:</subfield>
+    <subfield code="b">CIP t.p. (Gerard Noodt, 1647-1725)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Gerardi Noodt, jurisconsulti, Julius Paulus, sive De partus expositione et nece apud veteres liber singularis, 1700:</subfield>
+    <subfield code="b">prelim. p. 3 (Gerardus Noodt)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BN</subfield>
+    <subfield code="b">(Noodt, Gerhard)</subfield>
+  </datafield>
+</record>
