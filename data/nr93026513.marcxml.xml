@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00718nz  a2200181n  4500</leader>
+  <controlfield tag="001">nr 93026513 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930723060604.7</controlfield>
+  <controlfield tag="008">930721n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 93026513 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)sb054643</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk/ESTC-NA</subfield>
+    <subfield code="c">ESTC-NA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2="0">
+    <subfield code="a">Frederick Henry,</subfield>
+    <subfield code="c">Prince of Bohemia,</subfield>
+    <subfield code="d">1614-1629</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2="0">
+    <subfield code="a">Fridericus Henricus,</subfield>
+    <subfield code="c">Prince of Bohemia,</subfield>
+    <subfield code="d">1614-1629</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Data provided by the ESTC/BL</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sictor, J. Carmina lugubria de infelici casu et prĂŚmaturo obitu, 1629:</subfield>
+    <subfield code="b">t.p. (Principis Friderici Henrici)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BM</subfield>
+    <subfield code="b">(Frederick Henry, eldest son of Frederick I, King of Bohemia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB:</subfield>
+    <subfield code="b">vol. 6, p. 653 (Frederick Henry, b. 1614; drowned 15 years afterward)</subfield>
+  </datafield>
+</record>
