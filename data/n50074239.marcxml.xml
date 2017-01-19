@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01096cz  a2200193n  4500</leader>
+  <controlfield tag="001">n  50074239 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141216105834.0</controlfield>
+  <controlfield tag="008">810415n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50074239 </subfield>
+    <subfield code="z">n  83200041 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Association pour l'étude taxonomique de la flore d'Afrique tropicale</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">A.E.T.F.A.T.</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">AETFAT</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Association for the Taxonomic Study of the Flora of Tropical Africa</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Vegetation map of Africa ... 1959.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Plenary Meeting (9th : 1978 : Las Palmas, Canary Islands). Taxonomic aspects of African ... 1979:</subfield>
+    <subfield code="b">t.p. verso (A.E.T.F.A.T.: Association pour l'étude taxonomique de la flore d'Afrique tropicale)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Réunion plenière (11th : 1985 : Missouri Botanical Garden). Modern systematic studies in African botany, c1988:</subfield>
+    <subfield code="b">t.p. (Association for the Taxonomic Study of the Flora of Tropical Africa; Association pour l'Etude Taxonomique de la Flore d'Afrique Tropicale)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 16, 2014</subfield>
+    <subfield code="b">(Founded Sept. 15, 1950)</subfield>
+  </datafield>
+</record>
