@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00530nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2010020498</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100206075654.0</controlfield>
+  <controlfield tag="008">100204n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010020498</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08385543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MoSW-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MoSW-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gombos, László,</subfield>
+    <subfield code="d">1967-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Formerly on undifferentiated record: n  88660509</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hubay Jenő, 1998:</subfield>
+    <subfield code="b">t.p. (Gombos László)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Kulturelle Identität durch Musik?, 2009:</subfield>
+    <subfield code="b">p. 176 (László Gombos; b. 1967, Szombathely)</subfield>
+  </datafield>
+</record>
