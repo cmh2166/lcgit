@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01034cz  a2200205n  4500</leader>
+  <controlfield tag="001">no2002090728</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20050830052138.0</controlfield>
+  <controlfield tag="008">021003n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002090728</subfield>
+    <subfield code="z">no2002090708</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05879209</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">FMU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">FMU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Janssen, Albert E.</subfield>
+    <subfield code="q">(Albert Edouard),</subfield>
+    <subfield code="d">1883-1966</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Janssen, A. E.</subfield>
+    <subfield code="q">(Albert Edouard),</subfield>
+    <subfield code="d">1883-1966</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">La monnaie internationale, 1928:</subfield>
+    <subfield code="b">t.p. (M. Albert Janssen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Commission économique et financière provisoire, 1922:</subfield>
+    <subfield code="b">t.p. (M. A.E. Janssen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The restoration of Belgian public finance, 1925:</subfield>
+    <subfield code="b">t.p. (Albert E. Janssen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Albert-Édouard Janssen, 1976.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Oct. 3, 2002</subfield>
+    <subfield code="b">(hdg.: Janssen, Albert É., 1883-1966; Janssen, Albert E.; Janssen, A. E.; Janssen, Albert; usage: Albert E. Janssen; A.E. Janssen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Note on the plan for an international clearing house, 1922:</subfield>
+    <subfield code="b">t.p. (M. [i.e. Monsieur] A.E. Janssen, director of the National Bank of Belgium)</subfield>
+  </datafield>
+</record>
