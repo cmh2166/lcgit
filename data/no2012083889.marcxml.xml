@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00742cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012083889</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20151003073847.0</controlfield>
+  <controlfield tag="008">120619n| azannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012083889</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09229469</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DGPO</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DGPO</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">P</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Act to Designate the Facility of the United States Postal Service Located at 67 Castle Street in Geneva, New York, as the "Corporal Steven Blaine Riccione Post Office"</subfield>
+  </datafield>
+  <datafield tag="368" ind1=" " ind2=" ">
+    <subfield code="a">Post office buildings</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">United States.</subfield>
+    <subfield code="t">Public Law 112-111</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">An Act to Designate the Facility of the United States Postal Service Located at 67 Castle Street in Geneva, New York, as the "Corporal Steven Blaine Riccione Post Office," 2012.</subfield>
+  </datafield>
+</record>
