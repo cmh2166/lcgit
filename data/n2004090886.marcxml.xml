@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00602cz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2004090886</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130322084041.0</controlfield>
+  <controlfield tag="008">040405n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004090886</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1715</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sessa, Giuseppe,</subfield>
+    <subfield code="d">active 1715</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Sessa, Giuseppe,</subfield>
+    <subfield code="d">fl. 1715</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sessa, Joseph,</subfield>
+    <subfield code="d">active 1715</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sessa, Giuseppe. Tractatus de JudaĚeis, eorum privilegiis, observantiaĚ ...1717:</subfield>
+    <subfield code="b">t.p. (auctore Joseph Sessa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, Apr. 04, 2004</subfield>
+    <subfield code="b">(hdg.: Sessa, Giuseppe, fl. 1715; Sessa, Giuseppe)</subfield>
+  </datafield>
+</record>
