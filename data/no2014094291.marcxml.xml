@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00727nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014094291</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140717073539.0</controlfield>
+  <controlfield tag="008">140716n| azannaabn          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014094291</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09909091</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PE-LiPUB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">PE-LiPUB</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Centro de Información de las Naciones Unidas (Peru)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Publicaciones y documentos de las Naciones Unidas  que pueden consultarse en el Centro de Información con relación a la observancia del "Año Internacional de la Paz", 1986 :</subfield>
+    <subfield code="b">p.[1] (Naciones Unidas, Centro de Información; San Isidro - Perú)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">http://uniclima.org.pe/, Jul 16, 2014</subfield>
+    <subfield code="b">(Centro de Información de las Naciones Unidas, Lima; Servicio para Perú)</subfield>
+  </datafield>
+</record>
