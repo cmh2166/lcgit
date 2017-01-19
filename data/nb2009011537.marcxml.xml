@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00696cz  a2200193n  4500</leader>
+  <controlfield tag="001">nb2009011537</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130326111102.0</controlfield>
+  <controlfield tag="008">090512n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2009011537</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007446679</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">Uk</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="g">1837</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Azulai, Nissim Zerahiah,</subfield>
+    <subfield code="d">-1837</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Azulai, Nisim Zeraḥyah,</subfield>
+    <subfield code="d">-1837</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Azulai, Nissim Zerahiah,</subfield>
+    <subfield code="d">d. 1837</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Sefer shulḥan ha-ṭahor, 1836</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jewish Encyclopedia online, 29 Apr. 2009</subfield>
+    <subfield code="b">(Nissim Zerahiah Azulai, editor and annotator of Shabbethai Cohen's "Shulḥan ha-Ṭahor", d. 1837)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, 12 May 2009</subfield>
+    <subfield code="b">(hdg.: Azulai, Nisim Zeraḥyah)</subfield>
+  </datafield>
+</record>
