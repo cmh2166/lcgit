@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01112nz  a2200229n  4500</leader>
+  <controlfield tag="001">no2015023528</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150220073608.0</controlfield>
+  <controlfield tag="008">150219n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015023528</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10093074</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">2001</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Plautus, Titus Maccius.</subfield>
+    <subfield code="t">Trinummus.</subfield>
+    <subfield code="l">Latin</subfield>
+    <subfield code="s">(Ernout and Dumont)</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">lat</subfield>
+  </datafield>
+  <datafield tag="381" ind1=" " ind2=" ">
+    <subfield code="a">Ernout</subfield>
+    <subfield code="a">Dumont</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Plautus, Titus Maccius.</subfield>
+    <subfield code="t">Trinummus.</subfield>
+    <subfield code="l">Latin</subfield>
+    <subfield code="s">(Collection des universités de France)</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Editor:</subfield>
+    <subfield code="a">Ernout, A.</subfield>
+    <subfield code="q">(Alfred),</subfield>
+    <subfield code="d">1879-1973</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Editor:</subfield>
+    <subfield code="a">Dumont, Jean-Christian,</subfield>
+    <subfield code="d">1934-</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2="0">
+    <subfield code="w">r</subfield>
+    <subfield code="i">In series:</subfield>
+    <subfield code="a">Collection des universités de France</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Translated as:</subfield>
+    <subfield code="a">Plautus, Titus Maccius.</subfield>
+    <subfield code="t">Trinummus.</subfield>
+    <subfield code="l">French</subfield>
+    <subfield code="s">(Ernout and Dumont)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Plautus, Titus Maccius. Plaute. Tome VII, Trinummus ; Truculentus ; Vidularia ; Fragmenta, 2003</subfield>
+    <subfield code="b">title page (texte établi et traduit par Alfred Ernout; Collection des universités de France) title page verso ("Le précédent tirage a été revu et corrigé en 2001 par M. Jean-Christian Dumont.")</subfield>
+  </datafield>
+</record>
