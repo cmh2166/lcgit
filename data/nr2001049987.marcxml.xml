@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00638nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr2001049987</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20011212033125.0</controlfield>
+  <controlfield tag="008">011203n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2001049987</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CtY-BR</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CtY-BR</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Church of England.</subfield>
+    <subfield code="b">Diocese of Norwich.</subfield>
+    <subfield code="b">Bishop (1857-1893 : Pelham)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">A charge delivered to the clergy and churchwardens of the diocese of Norwich by John Thomas, Lord Bishop of Norwich, 1865</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB</subfield>
+    <subfield code="b">(Pelham, John Thomas; b. Jun. 21, 1811; made honorary canon of Norwich Cathedral in 1847; consecrated on Apr. 30, 1857 to the see of Norwich; resigned see in 1893; d. May 1, 1894)</subfield>
+  </datafield>
+</record>
