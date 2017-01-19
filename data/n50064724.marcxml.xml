@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00684cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  50064724 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20141215074542.0</controlfield>
+  <controlfield tag="008">801029n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50064724 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00098978</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">NjP</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Railway &amp; Canal Historical Society</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Railway and Canal Historical Society</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">RCHS</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Faulkner, A.H. The Warwick canals, 1985:</subfield>
+    <subfield code="b">t.p. (Railway and Canal Historical Society; RCHS) t.p. verso (Railway &amp; Canal Historical Society; office in Oakham, Leicestershire) p. 80 (f. 1954, inc. 1967)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Information from 678 converted Dec. 15, 2014</subfield>
+    <subfield code="b">(founded 1954)</subfield>
+  </datafield>
+</record>
