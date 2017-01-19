@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00342nz  a2200121n  4500</leader>
+  <controlfield tag="001">nr2003039238</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20031209033130.0</controlfield>
+  <controlfield tag="008">031205n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003039238</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkOxU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkOxU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Bernauer, Reinhard,</subfield>
+    <subfield code="d">1959-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">VortraĚge, 1870-1892, c2003:</subfield>
+    <subfield code="b">t.p. (Reinhard Bernauer) jkt. (b. 1959)</subfield>
+  </datafield>
+</record>
