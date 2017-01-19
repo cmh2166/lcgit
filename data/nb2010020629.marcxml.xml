@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00457nz  a2200145n  4500</leader>
+  <controlfield tag="001">nb2010020629</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100811075213.0</controlfield>
+  <controlfield tag="008">100809n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nb2010020629</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)007882111</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Uk</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">Uk</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Elston Heritage Project</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Pentagon Local History Society.</subfield>
+    <subfield code="b">Elston Heritage Project</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Elston then &amp; now, [2009?]:</subfield>
+    <subfield code="b">t.p. (Elston Heritage Project, Pentagon Local History Society)</subfield>
+  </datafield>
+</record>
