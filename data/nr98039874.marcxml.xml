@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00870nz  a2200193n  4500</leader>
+  <controlfield tag="001">nr 98039874 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19981031052329.1</controlfield>
+  <controlfield tag="008">981030n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 98039874 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="c">UkCU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Musat Hervás, Ma. Teresa</subfield>
+    <subfield code="q">(María Teresa)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Musat, Ma. Teresa</subfield>
+    <subfield code="q">(María Teresa)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Hervás, Ma. Teresa Musat</subfield>
+    <subfield code="q">(María Teresa Musat)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Musat Hervás, María Teresa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Mussat, M. Teresa</subfield>
+    <subfield code="q">(María Teresa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Jornadas de arqueología albacetense en la Universidad Autónoma de Madrid, [1993]:</subfield>
+    <subfield code="b">t.p. (Ma. Teresa Musat Hervás) p. 16 (María Teresa Musat, de la Consejería de Educación y Cultura)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arqueología en Guadalajara, [1995]:</subfield>
+    <subfield code="b">t.p. (M. Teresa Mussat)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN database, Oct. 30, 1998</subfield>
+    <subfield code="b">(hdg.: Musat Hervás, Ma. Teresa (María Teresa)</subfield>
+  </datafield>
+</record>
