@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00725cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 98070989 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140822073831.0</controlfield>
+  <controlfield tag="008">980311n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 98070989 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04678996</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TxDa</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">TxDa</subfield>
+    <subfield code="d">Vi</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Coleman, Moses M.</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">United States</subfield>
+    <subfield code="e">Vidalia (Ga.)</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Coleman, Moses M.,</subfield>
+    <subfield code="c">Jr.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Cemeteries of Toombs County Georgia, 1994:</subfield>
+    <subfield code="b">t.p. (Moses M. Coleman, Jr.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Coleman, Moses M. Granny Bess, 2012:</subfield>
+    <subfield code="b">title page (Moses M. Coleman, Jr.) title page verso (Vidalia, Georgia) book jacket (graduate of Georgia Institute of Technology; retired engineer and businessman)</subfield>
+  </datafield>
+</record>
