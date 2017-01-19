@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00650cz  a2200169n  4500</leader>
+  <controlfield tag="001">no2010181055</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327091342.0</controlfield>
+  <controlfield tag="008">101108n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010181055</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08680826</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NNC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">NNC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vasari, Giorgio,</subfield>
+    <subfield code="d">1511-1574.</subfield>
+    <subfield code="t">Vite de' più eccellenti pittori, scultori et architettori.</subfield>
+    <subfield code="k">Selections.</subfield>
+    <subfield code="l">Czech</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">cze</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Vasari, Giorgio,</subfield>
+    <subfield code="d">1511-1574.</subfield>
+    <subfield code="t">Vite de' più eccellenti pittori, scultori et architettori.</subfield>
+    <subfield code="l">Czech.</subfield>
+    <subfield code="k">Selections</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Vasari, Giorgio,</subfield>
+    <subfield code="d">1511-1574.</subfield>
+    <subfield code="t">Životopisy umělců</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Životopisy umělců, 1927?</subfield>
+  </datafield>
+</record>
