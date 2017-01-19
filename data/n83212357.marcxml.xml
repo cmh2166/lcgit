@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01086cz  a2200289n  4500</leader>
+  <controlfield tag="001">n  83212357 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121019074749.0</controlfield>
+  <controlfield tag="008">831230n| azannaabn           a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  83212357 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01021540</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">CSmH</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">16180918</subfield>
+    <subfield code="g">17021104</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PR3679.S4</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Sherburne, Edward,</subfield>
+    <subfield code="d">1618-1702</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Poet</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nne</subfield>
+    <subfield code="a">Sherburne, Edward,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1618-1702</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">E. S.</subfield>
+    <subfield code="q">(Edward Sherburne),</subfield>
+    <subfield code="d">1618-1702</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">S., E.</subfield>
+    <subfield code="q">(Edward Sherburne),</subfield>
+    <subfield code="d">1618-1702</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Sherburne, Edw.</subfield>
+    <subfield code="q">(Edward),</subfield>
+    <subfield code="d">1618-1702</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Select poems of Sir Edward Sherburne, 1819:</subfield>
+    <subfield code="b">t.p. (Sir Edward Sherburne)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">InU/3 cent. drama files</subfield>
+    <subfield code="b">(usage: E.S.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">DNB</subfield>
+    <subfield code="b">(Sherburne, Sir Edward, poet; b. 9/18/1618; d. 11/4/1702)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 10/7/83</subfield>
+    <subfield code="b">(hdg.: Sherburne, Edward, Sir, 1618-1702)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Seneca, L.A. Seneca's answer to Lucilius his quaere, 1648:</subfield>
+    <subfield code="b">t.p. (E.S. Esq.) epistle (Edw. Sherburne)</subfield>
+  </datafield>
+</record>
