@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00993cz  a2200229n  4500</leader>
+  <controlfield tag="001">no2003082358</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081013204110.0</controlfield>
+  <controlfield tag="008">030818n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2003082358</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06130012</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-OP</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-OP</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yūsufī, ʻAlī Aḥmad</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yūsufī, Aḥmad ʻAlī</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yuosefi, Ahmad Ali</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yosufi, Ahmad Ali</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">يوسفى، على احمد</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Niẓām-i mālī-i Islām, 2000:</subfield>
+    <subfield code="b">t.p. (ʻAlī Aḥmad Yūsufī) p. 4 of cover (Ahmad Ali Yuosefi [in rom.])</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Māhīyat va sākhtār-i iqtiṣād-i Islāmī, 2000:</subfield>
+    <subfield code="b">t.p. (Aḥmad ʻAlī Yūsufī)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ribā va tavarrum, 2002:</subfield>
+    <subfield code="b">t.p. (Aḥmad ʻAlī Yūsufī) Iran CIP data (b. 1339 [i.e. 1960 or 61]) p. 4 of cover (Ahmad Ali Yosufi [Rom.])</subfield>
+  </datafield>
+</record>
