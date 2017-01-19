@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00408nz  a2200121n  4500</leader>
+  <controlfield tag="001">n  88013063 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19881014162022.0</controlfield>
+  <controlfield tag="008">880912n| acannaab|          |n aaa |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  88013063 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">KroĚtsch, Martin,</subfield>
+    <subfield code="d">1793-1849</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Klasen, J.K. Martin and Kunigunda KroĚtsch, 1988:</subfield>
+    <subfield code="b">p. 37, etc. (b. 4/15/1793, Weismain, Bavaria; d. 4/14/1849, Bamberg, Ontario, Canada)</subfield>
+  </datafield>
+</record>
