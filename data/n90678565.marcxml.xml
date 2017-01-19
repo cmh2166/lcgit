@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00652cz  a2200133n  4500</leader>
+  <controlfield tag="001">n  90678565 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120801082245.0</controlfield>
+  <controlfield tag="008">900806n| acannaab           |n ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  90678565 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Simpozijum "Milentije Popović i savremena jugoslovenska društvena stvarnost"</subfield>
+    <subfield code="d">(1985 :</subfield>
+    <subfield code="c">Niš, Serbia)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ličnost i misao Milentija Popovića, 1988:</subfield>
+    <subfield code="b">p. 5 (... Simpozijumu koji je pod nazivom "Milentije Popović i savremena jugoslovenska društvena stvarnost" održan u Nišu 10/31-11/1/1985)</subfield>
+  </datafield>
+</record>
