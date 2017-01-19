@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00804cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr2003013562</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815083630.0</controlfield>
+  <controlfield tag="008">030417n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2003013562</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UkCU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">UkCU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1853</subfield>
+    <subfield code="g">1908</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clarke, Henry,</subfield>
+    <subfield code="c">Mrs.,</subfield>
+    <subfield code="d">1853-1908</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Key, Amy,</subfield>
+    <subfield code="d">1853-1908</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The story of Truro High School, the Benson Foundation, 1979:</subfield>
+    <subfield code="b">t.p. (Amy Key; first headmistress of Truro High School) p. 12 (b. Aug. 17, 1853, Plymouth; d. Mar. 8, 1908) p. 131 (Amy Key (Mrs Henry Clarke); wrote more than 30 books between 1891 and 1908)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">BLC to 1975</subfield>
+    <subfield code="b">(hdg.: Key, afterwards Clarke, Amy; usage: Amy Key; Mrs Henry Clarke)</subfield>
+  </datafield>
+</record>
