@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00643cz  a2200193n  4500</leader>
+  <controlfield tag="001">no 97031314 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100609075119.0</controlfield>
+  <controlfield tag="008">970521n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97031314 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04345700</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiD</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">MiD</subfield>
+    <subfield code="d">CoU</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">NmU</subfield>
+  </datafield>
+  <datafield tag="053" ind1=" " ind2="0">
+    <subfield code="a">PS3563.O88386</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Moscoe, Mike</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Moscoe, Michael</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2=" ">
+    <subfield code="a">Shepherd, Mike,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">First dawn, c1996:</subfield>
+    <subfield code="b">t.p. (Mike Moscoe) p. vii (first novel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Arterburn, S. The forsaken, 2006:</subfield>
+    <subfield code="b">ECIP t.p. (Michael Moscoe)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">E-mail response from author, May 16, 2010</subfield>
+    <subfield code="b">(full name Michael Loren Moscoe; b. 1947)</subfield>
+  </datafield>
+</record>
