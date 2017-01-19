@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00743cz  a2200205n  4500</leader>
+  <controlfield tag="001">n 2013016418</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130327082143.0</controlfield>
+  <controlfield tag="008">130326n| azannaabn          |n aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013016418</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Günzel, Marcus</subfield>
+    <subfield code="c">(Baritone)</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Dresden, Germany</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Music</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Baritones (Singers)</subfield>
+    <subfield code="a">Actors</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nick, E. Leben in dieser Zeit [SR] p2010:</subfield>
+    <subfield code="b">container (Marcus Günzel, speaker) insert (b. in Dresden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Staatsoperette Dresden WWW site, viewed Mar. 26, 2013:</subfield>
+    <subfield code="b">(Marcus Günzel, baritone)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">AllMusic WWW site, viewed Mar. 26, 2013:</subfield>
+    <subfield code="b">(Marcus Günzel, actor, baritone)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">AllMusic;</subfield>
+    <subfield code="a">Google search</subfield>
+  </datafield>
+</record>
