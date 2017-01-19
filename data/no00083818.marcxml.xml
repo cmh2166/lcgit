@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01395cz  a2200265n  4500</leader>
+  <controlfield tag="001">no 00083818 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140714091155.0</controlfield>
+  <controlfield tag="008">001013n| azannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 00083818 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05332614</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">TNJ</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">TNJ</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">18770425</subfield>
+    <subfield code="g">19090820</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rangel, Rafael,</subfield>
+    <subfield code="d">1877-1909</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="a">Betijoque, Venezuela</subfield>
+    <subfield code="f">Maracaibo, Venezuela</subfield>
+    <subfield code="f">Caracas, Venezuela</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Philosophy</subfield>
+    <subfield code="a">Bacteriology</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad del Zulia</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Universidad Central de Venezuela</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Instituto Pasteur de Caracas</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">Hospital Vargas</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">male</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">spa</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Rangel, José Rafael,</subfield>
+    <subfield code="d">1877-1909</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rafael Rangel, 1973:</subfield>
+    <subfield code="b">t.p. (Rafael Rangel) p. 32 (nació José Rafael Rangel el 25 de abril de 1877) p. 25 (murió el 20 de augusto de 1909)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Rafael Rangel en la memoria colectiva trujillana, 2009:</subfield>
+    <subfield code="b">title page (Rafael Rangel) page 55, etc. (born April 25, 1877 in Betijoque, Venezuela; known as the father of national parasitology; apellido materno: Estrada; bachelor's in philosophy, Universidad del Zulia (1896); studied medicine at the Universidad Central de Venezuela but did not finish his degree; studied bacteriology at the Instituto Pasteur de Caracas; became the first director of the laboratory at Hospital Vargas in 1902; died August 20, 1909)</subfield>
+  </datafield>
+</record>
