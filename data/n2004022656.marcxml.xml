@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00783nz  a2200169n  4500</leader>
+  <controlfield tag="001">n 2004022656</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20041013160228.0</controlfield>
+  <controlfield tag="008">041013n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2004022656</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Terri,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Putterman-Jones, Terri Ann,</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Jones, Terri A.</subfield>
+    <subfield code="q">(Terri Ann),</subfield>
+    <subfield code="d">1954-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LCCN 2003001378: Her Culinary calculations, c2004</subfield>
+    <subfield code="b">(usage: Terri Jones) cover (Director of Hotel Management, Dept. of Resorts and Gaming, Community College of Southern Nevada)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Email from CaAE, Oct. 13, 2004</subfield>
+    <subfield code="b">(email from author, Oct. 13, 2004: Terri Ann Putterman-Jones, b. Nov. 22, 1954)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Community College of Southern Nevada Web site, Oct. 13, 2004</subfield>
+    <subfield code="b">(Jones, Terri A.; Resorts &amp; Gaming)</subfield>
+  </datafield>
+</record>
