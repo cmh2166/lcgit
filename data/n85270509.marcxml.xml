@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01089cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  85270509 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150425073839.0</controlfield>
+  <controlfield tag="008">861231n| azannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85270509 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01755613</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DNLM</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">New South Wales.</subfield>
+    <subfield code="b">Bureau of Statistics</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New South Wales.</subfield>
+    <subfield code="b">Statistics, Bureau of</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">New South Wales.</subfield>
+    <subfield code="b">Government Statistician</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Predecessor:</subfield>
+    <subfield code="a">New South Wales.</subfield>
+    <subfield code="b">Government Statistician's Office</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Successor:</subfield>
+    <subfield code="a">New South Wales.</subfield>
+    <subfield code="b">Bureau of Statistics and Economics</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">The Statesman's year book of New South Wales ... 1914:</subfield>
+    <subfield code="b">t.p. (Government Statistician); 1933: verso of t.p. (New South Wales, Bureau of Statistics and Economics)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">New South Wales. Bureau of Statistics and Economics. The official year book ... 1909-10:</subfield>
+    <subfield code="b">p. vi. (Government Statistician, Bureau of Statistics)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Government Statistician's report on the vital statistics of New South Wales ... 1904:</subfield>
+    <subfield code="b">p. 20 (Government Statistician's Office, Sydney)</subfield>
+  </datafield>
+</record>
