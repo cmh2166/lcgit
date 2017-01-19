@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00543nz  a2200181n  4500</leader>
+  <controlfield tag="001">no2010154035</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20100924075244.0</controlfield>
+  <controlfield tag="008">100922n| acaabaaan          |n ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2010154035</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08633014</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">GU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">GU</subfield>
+  </datafield>
+  <datafield tag="130" ind1=" " ind2="0">
+    <subfield code="a">Fontana library of English history (Atlantic Highlands, N.J.)</subfield>
+  </datafield>
+  <datafield tag="643" ind1=" " ind2=" ">
+    <subfield code="a">Atlantic Highlands, NJ</subfield>
+    <subfield code="b">Humanities Press</subfield>
+  </datafield>
+  <datafield tag="644" ind1=" " ind2=" ">
+    <subfield code="a">f</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="645" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="646" ind1=" " ind2=" ">
+    <subfield code="a">s</subfield>
+    <subfield code="5">GU</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Church and people, 1450-1660, c1976:</subfield>
+    <subfield code="b">ser. t.p. (Fontana library of English history)</subfield>
+  </datafield>
+</record>
