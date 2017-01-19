@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00568cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  99040028 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990528101855.5</controlfield>
+  <controlfield tag="008">990528n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  99040028 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Russia.</subfield>
+    <subfield code="b">Depo kart</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Russia.</subfield>
+    <subfield code="b">Kart, Depo</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Depo kart (Russia)</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Ego Imperatorskago Velichestva depo kart (Russia)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its Karta morskikh otkrytīĭ rossīĭskimi moreplavateli︠a︡mi ... 1898:</subfield>
+    <subfield code="b">map recto (Pri sobstvennom Ego Imperatorskago Velichestva depo kart ... 1802go goda)</subfield>
+  </datafield>
+</record>
