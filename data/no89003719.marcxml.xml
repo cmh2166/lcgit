@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01042cz  a2200241n  4500</leader>
+  <controlfield tag="001">no 89003719 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130313100007.0</controlfield>
+  <controlfield tag="008">890320n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 89003719 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CLU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">CLU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1733</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tirsch, Ignacio,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Thiersch, Ignacio,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Thürsch, Ignatz,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tiers, Ignác,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tirs, Ignác,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tirsch, Ignác,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Tirsch, Ignacio,</subfield>
+    <subfield code="d">b. 1733</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Tirsch, Ignatius,</subfield>
+    <subfield code="d">1733-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Editio cimelia Bohemica, 1970:</subfield>
+    <subfield code="b">recto of leaf 13 (Ignác Tirsch (also spelled Thiersch or Thürsch), b. in Chomutov in 1733)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC in OCLC 11-4-88</subfield>
+    <subfield code="b">(hdg.: Tirsch, Ignacio, b. 1733; usage: Ignacio Tirsch)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Drawings of Ignacio Tirsch, 1972:</subfield>
+    <subfield code="b">p. 16-17 (variously called Tirs, Tiers, Tirsch, Thiersch or Thürsch; 1st name variously spelled Ignác (Bohemian), Ignatz, Ignatius, or Ignacio; signed himself Ignacio Tirsch)</subfield>
+  </datafield>
+</record>
