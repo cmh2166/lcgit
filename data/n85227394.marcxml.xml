@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01175cz  a2200289n  4500</leader>
+  <controlfield tag="001">n  85227394 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20081005080346.0</controlfield>
+  <controlfield tag="008">850826n| acannaabn          |b aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85227394 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01425306</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">DLC-R</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Ennin,</subfield>
+    <subfield code="d">794-864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Jikaku Daishi,</subfield>
+    <subfield code="d">794-864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Yüan-jen,</subfield>
+    <subfield code="d">794-864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Wŏnin,</subfield>
+    <subfield code="d">794-864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">円仁,</subfield>
+    <subfield code="d">794-864</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">圓仁,</subfield>
+    <subfield code="d">794-864</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Machine-derived non-Latin script reference project.</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script references not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nittō guhō junrei kōki, 1970-1985:</subfield>
+    <subfield code="b">v. 2, t.p. (Ennin) p. 3 (r; Jikaku Daishi)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC data base, 8-12-85</subfield>
+    <subfield code="b">(hdg.: Ennin, 793 or 4-864) LC manual auth. cd. (hdg.: Ennin, 793 or 4-864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Nihon rekishi d.j.</subfield>
+    <subfield code="b">(Ennin; 794-864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Bussho kaisetsu d.j.</subfield>
+    <subfield code="b">(under Nittō guhō junrei gyōki: Ennin; 794-864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Konsaisu jinmei j.</subfield>
+    <subfield code="b">(Ennin; 794-864)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Ju Tʻang chʻiu fa hsün li hsing chi, 1986:</subfield>
+    <subfield code="b">t.p. (Yüan-jen)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Iptang kupŏp sullye haenggi, 1991:</subfield>
+    <subfield code="b">t.p. (Wŏnin)</subfield>
+  </datafield>
+</record>
