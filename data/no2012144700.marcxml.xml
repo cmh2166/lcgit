@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00920cz  a2200241n  4500</leader>
+  <controlfield tag="001">no2012144700</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20121116075544.0</controlfield>
+  <controlfield tag="008">121107n| azannaabn          |b aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012144700</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09342020</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(Uk)008623134</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CU-HE</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CU-HE</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">Uk</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="f">1947</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Tessler, Nira,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="370" ind1=" " ind2=" ">
+    <subfield code="c">Israel</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Art</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Art Historians</subfield>
+    <subfield code="a">College teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Ṭesler, Nirah,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">טסלר, נירה,</subfield>
+    <subfield code="d">1947-</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">Non-Latin script reference not evaluated.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Peraḥim telushim mi-śiaḥ, c2012:</subfield>
+    <subfield code="b">t.p. (נירה טסלר = Nirah Ṭesler) t.p. verso, etc. (Nira Tessler [in rom.]; ד"ר נירה טסלר = Dr. Nirah Ṭesler; professor of art history in Israel)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Israel Union List, Nov. 7, 2012</subfield>
+    <subfield code="b">(hdg.: טסלר, נירה, 1947- = Ṭesler, Nirah, 1947-)</subfield>
+  </datafield>
+</record>
