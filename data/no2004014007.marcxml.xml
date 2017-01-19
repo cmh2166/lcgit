@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00678cz  a2200157n  4500</leader>
+  <controlfield tag="001">no2004014007</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815082827.0</controlfield>
+  <controlfield tag="008">040213n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2004014007</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06271720</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">InU</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">InU</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Governor's Conference on the Symphony Orchestra in Indiana</subfield>
+    <subfield code="d">(1969 :</subfield>
+    <subfield code="c">Ball State University)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Conference on the Symphony Orchestra in Indiana, Governor's</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Notes from Governor's Conference on the Symphony Orchestra in Indiana, July 12, 1969, 1969?:</subfield>
+    <subfield code="b">t.p. (Ball State University)</subfield>
+  </datafield>
+</record>
