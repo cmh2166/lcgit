@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00573cz  a2200145n  4500</leader>
+  <controlfield tag="001">n  89660424 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312085837.0</controlfield>
+  <controlfield tag="008">891026n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  89660424 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Clementi, Muzio,</subfield>
+    <subfield code="d">1752-1832.</subfield>
+    <subfield code="t">Sonates et fugues,</subfield>
+    <subfield code="n">op. 5.</subfield>
+    <subfield code="p">Sonate,</subfield>
+    <subfield code="n">no. 3;</subfield>
+    <subfield code="o">arranged</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Clementi, Muzio,</subfield>
+    <subfield code="d">1752-1832.</subfield>
+    <subfield code="t">Sonatas,</subfield>
+    <subfield code="m">piano,</subfield>
+    <subfield code="n">op. 5, no. 3,</subfield>
+    <subfield code="r">Eâ­ major</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Clementi, Muzio,</subfield>
+    <subfield code="d">1752-1832.</subfield>
+    <subfield code="t">Sonates et fugues,</subfield>
+    <subfield code="n">op. 5.</subfield>
+    <subfield code="p">Sonate,</subfield>
+    <subfield code="n">no. 3;</subfield>
+    <subfield code="o">arr.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Sonata in mi bem. magg. op. 5 n. 3, c1987.</subfield>
+  </datafield>
+</record>
