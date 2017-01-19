@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00499nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99048159 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990708053737.9</controlfield>
+  <controlfield tag="008">990707n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99048159 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05021689 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ICRL</subfield>
+    <subfield code="c">ICRL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Volkovyskiĭ, R. I︠U︡.</subfield>
+    <subfield code="q">(Romualʹd I︠U︡rʹevich)</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Volkovyskiĭ, Romualʹd I︠U︡rʹevich</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Muzyka i nauka, 1993:</subfield>
+    <subfield code="b">t.p. (R. I︠U︡. Volkovyskiĭ) colophon (Volkovyskiĭ, Romualʹd I︠U︡rʹevich)</subfield>
+  </datafield>
+</record>
