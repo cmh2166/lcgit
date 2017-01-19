@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00509nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2009194614</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20091206075314.0</controlfield>
+  <controlfield tag="008">091204n| acannaabn          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2009194614</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca08326303</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">SaPrUSA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">SaPrUSA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Weerden, Louise van,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Van Weerden, Louise,</subfield>
+    <subfield code="d">1963-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Grenzeloos ondernemen, 2007:</subfield>
+    <subfield code="b">t.p. (Louise van Weerden)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Dec. 4, 2009</subfield>
+    <subfield code="b">(hdg.: Weerden, Louise van, 1963-; usage: Louise van Weerden)</subfield>
+  </datafield>
+</record>
