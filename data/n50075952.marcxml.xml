@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00758cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  50075952 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19930121100438.8</controlfield>
+  <controlfield tag="008">810220n| acannaab|          |a ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  50075952 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2="0">
+    <subfield code="a">University of South Carolina.</subfield>
+    <subfield code="b">Bureau of Governmental Research and Service</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2="0">
+    <subfield code="w">nnaa</subfield>
+    <subfield code="a">South Carolina.</subfield>
+    <subfield code="b">University.</subfield>
+    <subfield code="b">Bureau of Governmental Research and Service</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2="0">
+    <subfield code="w">a</subfield>
+    <subfield code="a">University of South Carolina.</subfield>
+    <subfield code="b">Bureau of Public Administration</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Larsen, C. L.</subfield>
+    <subfield code="b">A comparative analysis ... 1947.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Governmental review (Columbia, S.C.).  Governmental review, Nov. 1968:</subfield>
+    <subfield code="b">t.p. (University of South Carolina, Bureau of Governmental Research and Service); 1959: t.p. (Bureau of Public Administration)</subfield>
+  </datafield>
+</record>
