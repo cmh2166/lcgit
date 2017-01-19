@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00579nz  a2200157n  4500</leader>
+  <controlfield tag="001">no2012053768</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120418075234.0</controlfield>
+  <controlfield tag="008">120416n| acannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2012053768</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09172626</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IlMchBWI</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">IlMchBWI</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schwartzstein, Jake</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Its The year of the St. Louis Cardinals, 2011:</subfield>
+    <subfield code="b">colophon (project editor, Jake Schwartzstein)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LinkedIn website, Apr. 16, 2012</subfield>
+    <subfield code="b">(Jake Schwartzstein; editor at Major League Baseball; New York City area; writing and editing)</subfield>
+  </datafield>
+  <datafield tag="675" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Apr. 16, 2012</subfield>
+  </datafield>
+</record>
