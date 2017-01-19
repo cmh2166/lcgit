@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00795cz  a2200157n  4500</leader>
+  <controlfield tag="001">n 2005080894</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20080612080241.0</controlfield>
+  <controlfield tag="008">051114n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2005080894</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca06780705</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">HkUST</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Yee, George</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Yee, G. O. M.</subfield>
+    <subfield code="q">(George O. M.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Privacy protection for e-services, c2006:</subfield>
+    <subfield code="b">ECIP t.p. (George Yee) galley (National Research Council Canada, Inst. for Information Tech., Ottawa)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Special issue on the Third IEEE International Symposium on Security in Networks and Distributed Systems (SSNDS-07), c2008:</subfield>
+    <subfield code="b">intord., etc. (George O.M. Yee; G.O.M. Yee; sr. research scientist, Information Security Group, Inst. for Information Technology, National Research Council Canada (NRC))</subfield>
+  </datafield>
+</record>
