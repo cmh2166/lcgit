@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00576nz  a2200145n  4500</leader>
+  <controlfield tag="001">no 99060027 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19990823171420.0</controlfield>
+  <controlfield tag="008">990820n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 99060027 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05049306</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-S</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-S</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Thanākhān Nakhō̜n Thon.</subfield>
+    <subfield code="b">Sūan Wikhro̜ Khrōngkān</subfield>
+  </datafield>
+  <datafield tag="410" ind1="2" ind2=" ">
+    <subfield code="a">Thanākhān Nakhō̜n Thon.</subfield>
+    <subfield code="b">Fāi Wichākān.</subfield>
+    <subfield code="b">Sūan Wikhro̜ Khrōngkān</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Thō̜ng lōk kānngœ̄n, July-Sept. 1996:</subfield>
+    <subfield code="b">t.p. (Sūan Wikhro̜ Khrōngkān, Fāi Wichākān, Thanākhān Nakhō̜n Thon)</subfield>
+  </datafield>
+</record>
