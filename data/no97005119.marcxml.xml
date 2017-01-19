@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00351nz  a2200133n  4500</leader>
+  <controlfield tag="001">no 97005119 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970127051200.2</controlfield>
+  <controlfield tag="008">970126n| acannaab|          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no 97005119 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca04255845 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MH</subfield>
+    <subfield code="c">MH</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Rørhus, Kåre,</subfield>
+    <subfield code="d">1946-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Ungdom og idolpåvirkning, c1993:</subfield>
+    <subfield code="b">t.p. (Kåre Rørhus)</subfield>
+  </datafield>
+</record>
