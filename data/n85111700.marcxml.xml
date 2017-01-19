@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00977cz  a2200205n  4500</leader>
+  <controlfield tag="001">n  85111700 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131122133805.0</controlfield>
+  <controlfield tag="008">850703n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  85111700 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca01393370</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">WMUW</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">VtMiM-Mu</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Entführung aus dem Serail.</subfield>
+    <subfield code="p">Ach ich liebte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Ach ich liebte</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Ach ich liebte, war so glücklich</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Ah, che amando</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">Ah, I loved him</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus,</subfield>
+    <subfield code="d">1756-1791.</subfield>
+    <subfield code="t">I was heedless in my rapture</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Pons, L. Lily Pons, soprano [SR] p1972:</subfield>
+    <subfield code="b">label (Ach ich liebte from "Die Entführung aus dem Serail," K. 384)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Köchel, 6th ed.:</subfield>
+    <subfield code="b">Nr. 384 (Die Entführung aus dem Serail: 6. Ach ich liebte ...)</subfield>
+  </datafield>
+</record>
