@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00571cz  a2200157n  4500</leader>
+  <controlfield tag="001">n  97064469 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19970624132335.1</controlfield>
+  <controlfield tag="008">970624n| acannaab|          |n ana |||  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  97064469 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="151" ind1=" " ind2="0">
+    <subfield code="a">Nueva Caceres (Philippines)</subfield>
+  </datafield>
+  <datafield tag="551" ind1=" " ind2="0">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Naga City (Philippines)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">NUCMC data from the Library of Congress Mss. Div. for Its Petition, 1898</subfield>
+    <subfield code="b">(Nueva CaĚceres (Philippines))</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">GeoNet, 6-24-97</subfield>
+    <subfield code="b">(Nueva Caceres: see Naga City)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Col. Lipp. gaz., 1962</subfield>
+    <subfield code="b">(Naga (City); formerly Nueva Caceres; Philippines)</subfield>
+  </datafield>
+</record>
