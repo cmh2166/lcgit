@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01327cz  a2200241n  4500</leader>
+  <controlfield tag="001">n 2007052531</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150611073854.0</controlfield>
+  <controlfield tag="008">070726n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2007052531</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca07476418</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">ViRU-L</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Carol Necole</subfield>
+  </datafield>
+  <datafield tag="372" ind1=" " ind2=" ">
+    <subfield code="a">Law</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Richmond. School of Law</subfield>
+    <subfield code="s">2012</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of North Carolina at Chapel Hill. School of Law</subfield>
+    <subfield code="s">2007</subfield>
+    <subfield code="t">2012</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="373" ind1=" " ind2=" ">
+    <subfield code="a">University of Alabama. School of Law</subfield>
+    <subfield code="s">2001</subfield>
+    <subfield code="t">2007</subfield>
+    <subfield code="2">naf</subfield>
+  </datafield>
+  <datafield tag="374" ind1=" " ind2=" ">
+    <subfield code="a">Lawyers</subfield>
+    <subfield code="a">Law teachers</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="375" ind1=" " ind2=" ">
+    <subfield code="a">female</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Brown, Carol N.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Hill, David S. Basic mortgage law, c2007:</subfield>
+    <subfield code="b">title page (Carol Necole Brown; assoc. prof. of law, North Carolina Univ.)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">University of Richmond Law School WWW site, June 5, 2015</subfield>
+    <subfield code="b">(Carol N. Brown, Professor of Law; areas of expertise: property, land use planning, real estate transactions, housing law) (Professor of Law (2008-2012) and Associate Professor of Law (2007-2008), The University of North Carolina School of Law, Chapel Hill, N.C.; Associate Professor of Law (2004-2007) and Assistant Professor of Law (2001-2004), The University of Alabama School of Law, Tuscaloosa, Ala.)</subfield>
+    <subfield code="u">http://law.richmond.edu/people/faculty/cbrown5/</subfield>
+  </datafield>
+</record>
