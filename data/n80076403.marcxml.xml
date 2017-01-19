@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01554cz  a2200169n  4500</leader>
+  <controlfield tag="001">n  80076403 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20090207080447.0</controlfield>
+  <controlfield tag="008">800710n| acannaabn          |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  80076403 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca00457774</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Alabama Program Development Office</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="w">nna</subfield>
+    <subfield code="a">Alabama.</subfield>
+    <subfield code="b">Program Development Office</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Alabama Development Office</subfield>
+  </datafield>
+  <datafield tag="665" ind1=" " ind2=" ">
+    <subfield code="a">The Alabama State Planning Commission (created in 1935) was replaced in 1943 by the State Planning Board. In 1969 the State Planning and Industrial Development Board (which had replaced the State Planning Board in 1955) and the Alabama Program Development Office merged to form the Alabama Development Office.</subfield>
+    <subfield code="a">Works by these agencies are found under the following headings according to the name used at the time of publication:</subfield>
+    <subfield code="a">Alabama. State Planning Commission.</subfield>
+    <subfield code="a">Alabama. State Planning Board.</subfield>
+    <subfield code="a">Alabama. State Planning and Industrial Development Board.</subfield>
+    <subfield code="a">Alabama. Program Development Office.</subfield>
+    <subfield code="a">Alabama. Development Office.</subfield>
+    <subfield code="a">SUBJECT ENTRY: Works about these bodies are entered under the name resulting from the merger. Works limited in subject coverage to the pre-merger period are entered under the name of one or more of the original bodies. In the case of change of name entry is made under the name used during the latest period covered.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">LC man. auth. cd.</subfield>
+    <subfield code="b">(Alabama Program Development Office; in 1969, merged with Alabama State Planning and Industrial Development Board to form Alabama Development Office)</subfield>
+  </datafield>
+</record>
