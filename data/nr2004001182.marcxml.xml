@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00775cz  a2200157n  4500</leader>
+  <controlfield tag="001">nr2004001182</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20120815083731.0</controlfield>
+  <controlfield tag="008">040115n| acannaabn          |a ana     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr2004001182</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CSt</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CSt</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Convegno su Letteratura e Sport</subfield>
+    <subfield code="d">(2001 :</subfield>
+    <subfield code="c">Rome, Italy)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Convegno Internazionale su Letteratura e Sport</subfield>
+    <subfield code="d">(2001 :</subfield>
+    <subfield code="c">Rome, Italy)</subfield>
+  </datafield>
+  <datafield tag="411" ind1="2" ind2=" ">
+    <subfield code="a">Convegno Letteratura e Sport</subfield>
+    <subfield code="d">(2001 :</subfield>
+    <subfield code="c">Rome, Italy)</subfield>
+  </datafield>
+  <datafield tag="667" ind1=" " ind2=" ">
+    <subfield code="a">THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Letteratura e sport, 2003:</subfield>
+    <subfield code="b">cover (Convegno su Letteratura e Sport; IUSM, Foro italico, Roma, Apr. 5-7, 2001) half t.p. (Convegno Internazionale su Letteratura e Sport) p. 4 of cover (Convegno Letteratura e Sport)</subfield>
+  </datafield>
+</record>
