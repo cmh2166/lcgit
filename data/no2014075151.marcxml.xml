@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00486nz  a2200145n  4500</leader>
+  <controlfield tag="001">no2014075151</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20140603073544.0</controlfield>
+  <controlfield tag="008">140602n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2014075151</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca09868285</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">IEN-Mu</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">IEN-Mu</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Borris, Siegfried,</subfield>
+    <subfield code="d">1906-1987.</subfield>
+    <subfield code="t">Kleine Suite,</subfield>
+    <subfield code="m">viola, piano</subfield>
+  </datafield>
+  <datafield tag="382" ind1=" " ind2=" ">
+    <subfield code="a">viola</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="a">piano</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="s">2</subfield>
+    <subfield code="2">lcmpt</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Borris, Siegfried. Kleine Suite, 1972:</subfield>
+    <subfield code="b">title page (Kleine Suite : fuĚr Bratsche und Klavier)</subfield>
+  </datafield>
+</record>
