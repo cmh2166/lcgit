@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00681cz  a2200169n  4500</leader>
+  <controlfield tag="001">nr 95044564 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130312103056.0</controlfield>
+  <controlfield tag="008">951204n| azannaab           |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 95044564 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">PU-Sp</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">PU-Sp</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="s">1844</subfield>
+    <subfield code="t">1847?</subfield>
+    <subfield code="2">edtf</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Germon, Francis,</subfield>
+    <subfield code="d">active 1844-1847?</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="w">nnea</subfield>
+    <subfield code="a">Germon, Francis,</subfield>
+    <subfield code="d">fl. 1844-1847?</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Russell, H. A life by de galley fire, 1848:</subfield>
+    <subfield code="b">t.p. illustration (Germon)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Wearing, J. P. Amer. and Brit. theatrical bio., 1979</subfield>
+    <subfield code="b">(Germon, Francis; fl. 1844; minstrel; member of the Ethiopian Serenaders)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">RLIN, 12/4/95</subfield>
+    <subfield code="b">(hdg.: Germon, Francis, fl. 1844-1847?; usage: Germon)</subfield>
+  </datafield>
+</record>
