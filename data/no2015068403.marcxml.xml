@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00599nz  a2200169n  4500</leader>
+  <controlfield tag="001">no2015068403</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20150523073540.0</controlfield>
+  <controlfield tag="008">150522n| azannaabn          |n aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2015068403</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca10173889</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UPB</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">UPB</subfield>
+  </datafield>
+  <datafield tag="046" ind1=" " ind2=" ">
+    <subfield code="k">1962</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Brand, Kurt.</subfield>
+    <subfield code="t">Jagd nach dem Leben</subfield>
+  </datafield>
+  <datafield tag="380" ind1=" " ind2=" ">
+    <subfield code="a">Fiction</subfield>
+    <subfield code="a">Science fiction</subfield>
+    <subfield code="2">lcsh</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Life hunt, 1974:</subfield>
+    <subfield code="b">title page (by Kurt Brand)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Internet speculative fiction database, 29 April 2015</subfield>
+    <subfield code="b">(Jagd nach dem Leben, by Kurt Brand; first published 1962; book 51 of the German Perry Rhodan series)</subfield>
+  </datafield>
+</record>
