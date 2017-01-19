@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>01021cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  84046842 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130319162549.0</controlfield>
+  <controlfield tag="008">840802n| azannaab           |a ana      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  84046842 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">Wa</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">Wa</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Marine Fish Program</subfield>
+  </datafield>
+  <datafield tag="410" ind1="1" ind2=" ">
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Department of Fisheries.</subfield>
+    <subfield code="b">Marine Fish Program</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">b</subfield>
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Marine Fish/Shellfish Program</subfield>
+  </datafield>
+  <datafield tag="510" ind1="1" ind2=" ">
+    <subfield code="w">r</subfield>
+    <subfield code="i">Hierarchical superior:</subfield>
+    <subfield code="a">Washington (State).</subfield>
+    <subfield code="b">Department of Fisheries</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Boettner, J.F. Cent. Pug. Sd. hake hyd. sur. res., 1981-83, 1984:</subfield>
+    <subfield code="b">p. 2 of cover (State of Washington, Department of Fisheries, Marine Fish Program)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to assistant director, Marine Fish/Shellfish Program, 7-26-91</subfield>
+    <subfield code="b">(Marine Fish Program and Shellfish Program merged into one program in 1991)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phone call to assistant director, Marine Fish/Shellfish Program 7-26-91</subfield>
+    <subfield code="b">(Marine Fish Program and Shellfish Program were merged into one division in 1991)</subfield>
+  </datafield>
+</record>
