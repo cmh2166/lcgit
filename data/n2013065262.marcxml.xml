@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00943nz  a2200181n  4500</leader>
+  <controlfield tag="001">n 2013065262</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20131104105133.0</controlfield>
+  <controlfield tag="008">131104n| azannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n 2013065262</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Piranesi, Giovanni Battista,</subfield>
+    <subfield code="d">1720-1778.</subfield>
+    <subfield code="t">Campo Martius antiquae urbis</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Piranesi, Giovanni Battista,</subfield>
+    <subfield code="d">1720-1778.</subfield>
+    <subfield code="t">Campo Marzio dell'antiqua Roma</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Piranesi, Giovanni Battista,</subfield>
+    <subfield code="d">1720-1778.</subfield>
+    <subfield code="t">Campus Martius</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Piranesi, Giovanni Battista,</subfield>
+    <subfield code="d">1720-1778.</subfield>
+    <subfield code="t">Campo Marzio</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Piranesi and the Campus Martius, 2011:</subfield>
+    <subfield code="b">t.p. (Campus Martius, Campo Marzio) p. 31 (Campus Martius, the fifth volume of AntichitaĚ romane, was published in 1762) figure 1 (Campo Martius Antiquae Urbis)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Oxford art online, Nov. 4, 2013:</subfield>
+    <subfield code="b">(under Piranesi, Giovanni Battista: Campo Marzio dell'antiqua Roma, 1762)</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">OCLC, Nov. 4, 2013:</subfield>
+    <subfield code="b">(Campo Martius Antiquae Urbis)</subfield>
+  </datafield>
+</record>
