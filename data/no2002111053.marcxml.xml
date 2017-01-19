@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00550cz  a2200145n  4500</leader>
+  <controlfield tag="001">no2002111053</controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20030204033216.0</controlfield>
+  <controlfield tag="008">021209n| acannaabn          |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">no2002111053</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)oca05928681</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC-ON</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DLC-ON</subfield>
+    <subfield code="d">NIC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Kō̜ngthēp Khlư̄apphanitchakun</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2=" ">
+    <subfield code="a">Khlư̄apphanitchakun, Kō̜ngthēp</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">Phrarātchabanyat Saphā Thīprưksā Sētthakit læ Sangkhom hǣng Chāt, Phutthasakkarāt 2543, 2001:</subfield>
+    <subfield code="b">t.p. (Phō̜sō̜. Kō̜ngthēp Khlư̄apphanitchakun)</subfield>
+  </datafield>
+</record>
