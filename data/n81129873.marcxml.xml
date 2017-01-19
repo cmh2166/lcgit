@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00698cz  a2200181n  4500</leader>
+  <controlfield tag="001">n  81129873 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">20130316081139.0</controlfield>
+  <controlfield tag="008">811112n| azannaab           |a aaa      </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">n  81129873 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Nicholas,</subfield>
+    <subfield code="c">of Cusa, Cardinal,</subfield>
+    <subfield code="d">1401-1464.</subfield>
+    <subfield code="t">De docta ignorantia.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="377" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Nicholas,</subfield>
+    <subfield code="c">of Cusa, Cardinal,</subfield>
+    <subfield code="d">1401-1464.</subfield>
+    <subfield code="t">Nicholas of Cusa On learned ignorance</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Nicholas,</subfield>
+    <subfield code="c">of Cusa, Cardinal,</subfield>
+    <subfield code="d">1401-1464.</subfield>
+    <subfield code="t">Of learned ignorance</subfield>
+  </datafield>
+  <datafield tag="400" ind1="0" ind2=" ">
+    <subfield code="a">Nicholas,</subfield>
+    <subfield code="c">of Cusa, Cardinal,</subfield>
+    <subfield code="d">1401-1464.</subfield>
+    <subfield code="t">On learned ignorance</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Nicholas of Cusa On learned ignorance, c1981.</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Of learned ignorance, 1954.</subfield>
+  </datafield>
+</record>
