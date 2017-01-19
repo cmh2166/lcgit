@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>00549nz  a2200133n  4500</leader>
+  <controlfield tag="001">nr 89003796 </controlfield>
+  <controlfield tag="003">DLC</controlfield>
+  <controlfield tag="005">19890405064559.8</controlfield>
+  <controlfield tag="008">890330n| acannaab|          |a aaa     c</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">nr 89003796 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NjP</subfield>
+    <subfield code="c">NjP</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2="0">
+    <subfield code="a">Schaetzel, Stanley S.,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="400" ind1="1" ind2="0">
+    <subfield code="a">Schaetzel, S. S.</subfield>
+    <subfield code="q">(Stanley S.),</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">His Local development of defence hardware in Australia, 1986:</subfield>
+    <subfield code="b">t.p. (Stanley S. Schaetzel; S.S. Schaetzel, DIC, B.SC., DLC, C. Eng., FRACS, FTS; Tech. Dir. Hawker de Havilland Ltd.). Australian CIP (Schaetzel, Stanley S., 1924-)</subfield>
+  </datafield>
+</record>
